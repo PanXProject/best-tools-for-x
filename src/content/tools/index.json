@@ -17,16 +17,16 @@
         "productivity"
       ],
       "pricing": {
-        "model": "freemium"
+        "model": "free"
       },
       "softwareTypes": [
-        "web-app",
-        "mobile-app"
+        "desktop-app",
+        "extension"
       ],
       "publishDate": "2024-12-22",
       "heroImage": "",
       "toolUrl": "https://zoho.com"
     }
   ],
-  "lastUpdated": "2024-12-22T15:56:31.179Z"
+  "lastUpdated": "2024-12-22T17:18:10.747Z"
 }
