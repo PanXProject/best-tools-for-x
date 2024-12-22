@@ -26,7 +26,33 @@
       "publishDate": "2024-12-22",
       "heroImage": "",
       "toolUrl": "https://zoho.com"
+    },
+    {
+      "id": "giphy",
+      "slug": "giphy",
+      "title": "Giphy",
+      "description": "Giphy is Gif website and app",
+      "author": "testing",
+      "username": "newusername",
+      "categories": [
+        "category1",
+        "category7"
+      ],
+      "tags": [
+        "Gif",
+        "images"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app"
+      ],
+      "publishDate": "2024-12-22",
+      "heroImage": "",
+      "toolUrl": "https://giphy.com"
     }
   ],
-  "lastUpdated": "2024-12-22T17:18:10.747Z"
+  "lastUpdated": "2024-12-22T20:42:00.910Z"
 }
