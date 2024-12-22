@@ -1,4 +1,32 @@
 {
-  "tools": [],
-  "lastUpdated": "2024-12-22T00:00:00.000Z"
+  "tools": [
+    {
+      "id": "z-tool",
+      "slug": "z-tool",
+      "title": "z tool",
+      "description": "z tool description",
+      "author": "testing",
+      "username": "newusername",
+      "categories": [
+        "category2",
+        "category3",
+        "category1"
+      ],
+      "tags": [
+        "AI",
+        "productivity"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app"
+      ],
+      "publishDate": "2024-12-22",
+      "heroImage": "",
+      "toolUrl": "https://zoho.com"
+    }
+  ],
+  "lastUpdated": "2024-12-22T15:56:31.179Z"
 }
