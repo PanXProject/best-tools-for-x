@@ -27,7 +27,36 @@
       "publishDate": "2024-12-23",
       "heroImage": "",
       "toolUrl": "https://giphy.com"
+    },
+    {
+      "id": "zoho",
+      "slug": "zoho",
+      "title": "Zoho",
+      "description": "zoho small description",
+      "author": "testing",
+      "username": "newusername",
+      "categories": [
+        "category2",
+        "category3",
+        "category9"
+      ],
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app",
+        "self-hosted"
+      ],
+      "publishDate": "2024-12-23",
+      "heroImage": "",
+      "toolUrl": "https://zoho.com"
     }
   ],
-  "lastUpdated": "2024-12-23T16:53:39.361Z"
+  "lastUpdated": "2024-12-23T17:03:52.653Z"
 }
