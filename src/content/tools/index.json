@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "giphy",
+      "slug": "giphy",
+      "title": "Giphy",
+      "description": "Giphy small description ",
+      "author": "testing",
+      "username": "newusername",
+      "categories": [
+        "category2",
+        "category3",
+        "category1",
+        "category17"
+      ],
+      "tags": [
+        ""
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app",
+        "self-hosted"
+      ],
+      "publishDate": "2024-12-23",
+      "heroImage": "",
+      "toolUrl": "https://giphy.com"
+    },
+    {
       "id": "z-tool",
       "slug": "z-tool",
       "title": "z tool",
@@ -28,5 +56,5 @@
       "toolUrl": "https://zoho.com"
     }
   ],
-  "lastUpdated": "2024-12-23T16:44:44.772Z"
+  "lastUpdated": "2024-12-23T16:50:26.920Z"
 }
