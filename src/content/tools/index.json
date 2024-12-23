@@ -27,34 +27,7 @@
       "publishDate": "2024-12-23",
       "heroImage": "",
       "toolUrl": "https://giphy.com"
-    },
-    {
-      "id": "z-tool",
-      "slug": "z-tool",
-      "title": "z tool",
-      "description": "z tool description",
-      "author": "testing",
-      "username": "newusername",
-      "categories": [
-        "category2",
-        "category3",
-        "category1"
-      ],
-      "tags": [
-        "AI",
-        "productivity"
-      ],
-      "pricing": {
-        "model": "free"
-      },
-      "softwareTypes": [
-        "desktop-app",
-        "extension"
-      ],
-      "publishDate": "2024-12-22",
-      "heroImage": "",
-      "toolUrl": "https://zoho.com"
     }
   ],
-  "lastUpdated": "2024-12-23T16:50:26.920Z"
+  "lastUpdated": "2024-12-23T16:53:39.361Z"
 }
