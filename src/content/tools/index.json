@@ -14,10 +14,11 @@
         "category17"
       ],
       "tags": [
-        ""
+        "AI",
+        "productivity"
       ],
       "pricing": {
-        "model": "freemium"
+        "model": "free"
       },
       "softwareTypes": [
         "web-app",
@@ -29,5 +30,5 @@
       "toolUrl": "https://giphy.com"
     }
   ],
-  "lastUpdated": "2024-12-23T17:04:23.259Z"
+  "lastUpdated": "2024-12-24T14:19:35.990Z"
 }
