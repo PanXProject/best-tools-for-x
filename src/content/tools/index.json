@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "slack",
+      "slug": "slack",
+      "title": "Slack",
+      "description": "Slack small liner",
+      "author": "testing",
+      "username": "newusername",
+      "categories": [
+        "Connect & Collaborate"
+      ],
+      "tags": [
+        "AI",
+        "productivity"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app",
+        "extension",
+        "self-hosted"
+      ],
+      "publishDate": "2024-12-28T00:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://slack.com"
+    },
+    {
       "id": "giphy",
       "slug": "giphy",
       "title": "Giphy",
@@ -28,5 +55,5 @@
       "toolUrl": "https://giphy.com"
     }
   ],
-  "lastUpdated": "2024-12-28T18:09:53.299Z"
+  "lastUpdated": "2024-12-28T23:29:32.672Z"
 }
