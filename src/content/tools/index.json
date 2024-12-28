@@ -28,6 +28,33 @@
       "toolUrl": "https://slack.com"
     },
     {
+      "id": "discord",
+      "slug": "discord",
+      "title": "Discord",
+      "description": "Discord one liner",
+      "author": "testing",
+      "username": "newusername",
+      "categories": [
+        "Manage People",
+        "Connect & Collaborate"
+      ],
+      "tags": [
+        "AI",
+        "productivity"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app",
+        "desktop-app"
+      ],
+      "publishDate": "2024-12-28T00:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://discord.com"
+    },
+    {
       "id": "giphy",
       "slug": "giphy",
       "title": "Giphy",
@@ -55,5 +82,5 @@
       "toolUrl": "https://giphy.com"
     }
   ],
-  "lastUpdated": "2024-12-28T23:34:12.557Z"
+  "lastUpdated": "2024-12-28T23:43:16.804Z"
 }
