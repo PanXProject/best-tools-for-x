@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "glitch",
+      "slug": "glitch",
+      "title": "Glitch",
+      "description": "Glitch sjdnjknfsjdnfksdjfnskdjfnskdjfndskjnfdjfnksdjfdsnkfjdsnfjdnsjfn",
+      "author": "testing",
+      "username": "newusername",
+      "categories": [
+        "Get & Keep Customers",
+        "Create & Build",
+        "Run Business"
+      ],
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app",
+        "desktop-app"
+      ],
+      "publishDate": "2025-01-02T00:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://glitch.io"
+    },
+    {
       "id": "slack",
       "slug": "slack",
       "title": "Slack",
@@ -83,5 +112,5 @@
       "toolUrl": "https://giphy.com"
     }
   ],
-  "lastUpdated": "2024-12-29T00:00:18.793Z"
+  "lastUpdated": "2025-01-02T01:07:53.467Z"
 }
