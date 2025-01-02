@@ -27,7 +27,7 @@
       ],
       "publishDate": "2025-01-02T00:00:00.000Z",
       "heroImage": "",
-      "toolUrl": "https://glitch.io"
+      "toolUrl": "https://glitch.com"
     },
     {
       "id": "slack",
@@ -112,5 +112,5 @@
       "toolUrl": "https://giphy.com"
     }
   ],
-  "lastUpdated": "2025-01-02T01:07:53.467Z"
+  "lastUpdated": "2025-01-02T17:57:34.340Z"
 }
