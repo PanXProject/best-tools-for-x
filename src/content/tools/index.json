@@ -1,6 +1,31 @@
 {
   "tools": [
     {
+      "id": "chatgpt",
+      "slug": "chatgpt",
+      "title": "ChatGPT",
+      "description": "Large language model",
+      "author": "testing",
+      "username": "newusername",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "AI",
+        "productivity"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app"
+      ],
+      "publishDate": "2025-01-10T00:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://chatgpt.com"
+    },
+    {
       "id": "glitch",
       "slug": "glitch",
       "title": "Glitch",
@@ -112,5 +137,5 @@
       "toolUrl": "https://giphy.com"
     }
   ],
-  "lastUpdated": "2025-01-02T19:31:17.052Z"
+  "lastUpdated": "2025-01-10T00:56:26.135Z"
 }
