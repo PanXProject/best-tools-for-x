@@ -65,7 +65,8 @@
       ],
       "tags": [
         "tag1",
-        "tag2"
+        "tag2",
+        "ai"
       ],
       "pricing": {
         "model": "free"
@@ -162,5 +163,5 @@
       "toolUrl": "https://giphy.com"
     }
   ],
-  "lastUpdated": "2025-01-16T16:58:18.312Z"
+  "lastUpdated": "2025-01-16T16:59:12.102Z"
 }
