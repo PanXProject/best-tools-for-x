@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "test",
+      "slug": "test",
+      "title": "Test",
+      "description": "testinifngeinognfgosgo",
+      "author": "testing",
+      "username": "newusername",
+      "categories": [
+        "Manage People",
+        "Connect & Collaborate"
+      ],
+      "tags": [
+        "ai",
+        "ai"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app",
+        "desktop-app"
+      ],
+      "publishDate": "2025-01-16T00:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://panx.io"
+    },
+    {
       "id": "chatgpt",
       "slug": "chatgpt",
       "title": "ChatGPT",
@@ -137,5 +163,5 @@
       "toolUrl": "https://giphy.com"
     }
   ],
-  "lastUpdated": "2025-01-14T07:37:16.713Z"
+  "lastUpdated": "2025-01-16T14:13:06.303Z"
 }
