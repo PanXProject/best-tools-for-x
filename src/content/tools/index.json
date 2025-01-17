@@ -1,6 +1,31 @@
 {
   "tools": [
     {
+      "id": "htddhdhd",
+      "slug": "htddhdhd",
+      "title": "htddhdhd",
+      "description": "dfhdhdhdghdghdghdghddhdhgd",
+      "author": "testing",
+      "username": "newusername",
+      "categories": [
+        "Get & Keep Customers",
+        "Create & Build",
+        "Run Business"
+      ],
+      "tags": [],
+      "pricing": {
+        "model": "free-trial"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app",
+        "desktop-app"
+      ],
+      "publishDate": "2025-01-17T00:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": ""
+    },
+    {
       "id": "test",
       "slug": "test",
       "title": "Test",
@@ -163,5 +188,5 @@
       "toolUrl": "https://giphy.com"
     }
   ],
-  "lastUpdated": "2025-01-16T16:59:12.102Z"
+  "lastUpdated": "2025-01-17T06:17:47.403Z"
 }
