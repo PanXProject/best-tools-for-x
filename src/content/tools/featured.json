@@ -1,0 +1,12 @@
+{
+  "featured": [
+    {
+      "slug": "chatgpt",
+      "position": 1
+    },
+    {
+      "slug": "newest-tool",
+      "position": 2
+    }
+  ]
+}
