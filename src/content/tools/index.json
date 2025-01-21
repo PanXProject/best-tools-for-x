@@ -91,7 +91,8 @@
       "tags": [
         "tag1",
         "tag2",
-        "ai"
+        "ai",
+        "HELL"
       ],
       "pricing": {
         "model": "free"
@@ -188,5 +189,5 @@
       "toolUrl": "https://giphy.com"
     }
   ],
-  "lastUpdated": "2025-01-17T06:17:47.403Z"
+  "lastUpdated": "2025-01-21T14:16:57.754Z"
 }
