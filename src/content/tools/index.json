@@ -31,6 +31,37 @@
       "toolUrl": "https://panx.io"
     },
     {
+      "id": "test-8",
+      "slug": "test-8",
+      "title": "Test 8",
+      "description": "Don't worry about it delete later",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Get & Keep Customers",
+        "Create & Build",
+        "Run Business"
+      ],
+      "tags": [
+        "AI",
+        "AI_help",
+        "AI_test",
+        "AI tools"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app",
+        "desktop-app",
+        "extension"
+      ],
+      "publishDate": "2025-02-05T00:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://panx.io"
+    },
+    {
       "id": "newest-tool",
       "slug": "newest-tool",
       "title": "newest tool",
@@ -247,5 +278,5 @@
       "toolUrl": "https://giphy.com"
     }
   ],
-  "lastUpdated": "2025-02-05T21:28:10.156Z"
+  "lastUpdated": "2025-02-05T23:08:33.116Z"
 }
