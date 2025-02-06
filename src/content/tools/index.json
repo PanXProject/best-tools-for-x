@@ -57,6 +57,36 @@
       "toolUrl": "https://panx.io"
     },
     {
+      "id": "testing-888",
+      "slug": "testing-888",
+      "title": "testing 888",
+      "description": "byeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Get & Keep Customers",
+        "Create & Build",
+        "Run Business"
+      ],
+      "tags": [
+        "ai-tools",
+        "bye-hello",
+        "byehello",
+        "bye-hello"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app",
+        "desktop-app"
+      ],
+      "publishDate": "2025-02-06T00:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://panx.io"
+    },
+    {
       "id": "test-7",
       "slug": "test-7",
       "title": "Test 7",
@@ -334,5 +364,5 @@
       "toolUrl": "https://giphy.com"
     }
   ],
-  "lastUpdated": "2025-02-06T21:58:16.573Z"
+  "lastUpdated": "2025-02-06T21:59:57.664Z"
 }
