@@ -1,0 +1,177 @@
+# .github/workflows/update-awards.yml
+name: Update Tool Awards
+
+on:
+  schedule:
+    # Daily at midnight UTC
+    - cron: '0 0 * * *'
+  # Optional: Allow manual trigger
+  workflow_dispatch:
+
+jobs:
+  update-awards:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+          
+      - name: Install dependencies
+        run: |
+          npm install @supabase/supabase-js dayjs gray-matter
+          
+      - name: Create awards script
+        run: |
+          mkdir -p .github/scripts
+          cat > .github/scripts/updateAwards.mjs << 'EOF'
+          import { createClient } from '@supabase/supabase-js';
+          import dayjs from 'dayjs';
+          import utc from 'dayjs/plugin/utc';
+          import timezone from 'dayjs/plugin/timezone';
+          import { readFile, writeFile } from 'fs/promises';
+          import { join } from 'path';
+          import matter from 'gray-matter';
+
+          dayjs.extend(utc);
+          dayjs.extend(timezone);
+
+          const TIMEZONE = 'UTC';
+          const TOOLS_DIR = 'src/content/tools';
+          const AR_TOOLS_DIR = 'src/content/tools/ar';
+
+          const supabase = createClient(
+            process.env.SUPABASE_URL,
+            process.env.SUPABASE_ANON_KEY
+          );
+
+          async function getToolUpvotes() {
+            const { data: pages, error } = await supabase
+              .from('pages')
+              .select('id, total_upvotes, created_at');
+
+            if (error) throw error;
+
+            return pages.map(page => ({
+              ...page,
+              id: page.id.replace(/^tools?\//, '')
+            }));
+          }
+
+          async function determineWinners(tools, period) {
+            const now = dayjs().tz(TIMEZONE);
+            const startDate = now.startOf(period);
+
+            const eligibleTools = tools
+              .filter(tool => dayjs(tool.created_at).tz(TIMEZONE).isAfter(startDate))
+              .sort((a, b) => b.total_upvotes - a.total_upvotes);
+
+            const winners = [];
+            let currentRank = 1;
+            let previousUpvotes = -1;
+
+            for (const tool of eligibleTools) {
+              if (tool.total_upvotes === 0) continue;
+
+              if (tool.total_upvotes !== previousUpvotes) {
+                currentRank = winners.length + 1;
+              }
+
+              if (currentRank <= 3) {
+                winners.push({
+                  slug: tool.id,
+                  total_upvotes: tool.total_upvotes,
+                  rank: currentRank
+                });
+              }
+
+              previousUpvotes = tool.total_upvotes;
+            }
+
+            return winners;
+          }
+
+          async function updateToolMdx(toolPath, awards) {
+            try {
+              const content = await readFile(toolPath, 'utf-8');
+              const { data, content: body } = matter(content);
+
+              const updatedData = {
+                ...data,
+                awards: awards
+              };
+
+              const updatedContent = matter.stringify(body, updatedData);
+              await writeFile(toolPath, updatedContent);
+              console.log(`Updated awards for ${toolPath}`);
+            } catch (error) {
+              console.log(`Could not update ${toolPath}: ${error.message}`);
+            }
+          }
+
+          async function main() {
+            try {
+              console.log('Fetching tool upvotes...');
+              const tools = await getToolUpvotes();
+              
+              const periods = {
+                daily: 'day',
+                weekly: 'week',
+                monthly: 'month',
+                yearly: 'year'
+              };
+
+              const winners = {};
+              for (const [key, period] of Object.entries(periods)) {
+                winners[key] = await determineWinners(tools, period);
+              }
+
+              const processedTools = new Set();
+
+              for (const [period, periodWinners] of Object.entries(winners)) {
+                for (const winner of periodWinners) {
+                  if (processedTools.has(winner.slug)) continue;
+                  
+                  const awards = [];
+                  for (const [p, w] of Object.entries(winners)) {
+                    const toolAward = w.find(t => t.slug === winner.slug);
+                    if (toolAward) {
+                      awards.push(`${p}-award-${toolAward.rank}`);
+                    }
+                  }
+
+                  // Update both English and Arabic versions
+                  await updateToolMdx(join(TOOLS_DIR, `${winner.slug}.mdx`), awards);
+                  await updateToolMdx(join(AR_TOOLS_DIR, `${winner.slug}.mdx`), awards);
+
+                  processedTools.add(winner.slug);
+                }
+              }
+
+              console.log('Awards updated successfully');
+            } catch (error) {
+              console.error('Error updating awards:', error);
+              process.exit(1);
+            }
+          }
+
+          main();
+          EOF
+
+      - name: Run awards script
+        run: node .github/scripts/updateAwards.mjs
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
+          
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add src/content/tools/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update tool awards [skip ci]" && git push)
