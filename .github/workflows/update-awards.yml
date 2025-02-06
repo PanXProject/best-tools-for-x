@@ -59,7 +59,7 @@ jobs:
 
             return pages.map(page => ({
               ...page,
-              id: page.id.replace(/^tools?\//, '')
+              id: page.id.replace(/^tool?\//, '')
             }));
           }
 
