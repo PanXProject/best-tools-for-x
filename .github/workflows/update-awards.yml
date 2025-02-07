@@ -1,4 +1,3 @@
-# .github/workflows/update-awards.yml
 name: Update Tool Awards
 
 on:
@@ -25,6 +24,7 @@ jobs:
       - name: Install dependencies
         run: |
           npm install @supabase/supabase-js dayjs gray-matter
+          npm install dayjs-plugin-utc dayjs-plugin-timezone
           
       - name: Create awards script
         run: |
@@ -32,8 +32,8 @@ jobs:
           cat > .github/scripts/updateAwards.mjs << 'EOF'
           import { createClient } from '@supabase/supabase-js';
           import dayjs from 'dayjs';
-          import utc from 'dayjs/plugin/utc';
-          import timezone from 'dayjs/plugin/timezone';
+          import utc from 'dayjs/plugin/utc.js';
+          import timezone from 'dayjs/plugin/timezone.js';
           import { readFile, writeFile } from 'fs/promises';
           import { join } from 'path';
           import matter from 'gray-matter';
