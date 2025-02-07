@@ -1,6 +1,36 @@
 {
   "tools": [
     {
+      "id": "testing-8888",
+      "slug": "testing-8888",
+      "title": "Testing 8888",
+      "description": "neweeeeeeeeeeeeeeeeeeeeeeeeeeeer",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Manage People",
+        "Connect & Collaborate",
+        "Secure & Deploy"
+      ],
+      "tags": [
+        "ai-tools",
+        "ai-tool",
+        "hello"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app",
+        "extension",
+        "cli",
+        "self-hosted"
+      ],
+      "publishDate": "2025-02-07T03:48:44.104Z",
+      "heroImage": "",
+      "toolUrl": "https://panx.io"
+    },
+    {
       "id": "testing-9999",
       "slug": "testing-9999",
       "title": "Testing 9999",
@@ -397,5 +427,5 @@
       "toolUrl": "https://giphy.com"
     }
   ],
-  "lastUpdated": "2025-02-07T03:47:15.398Z"
+  "lastUpdated": "2025-02-07T03:48:45.812Z"
 }
