@@ -24,7 +24,6 @@ jobs:
       - name: Install dependencies
         run: |
           npm install @supabase/supabase-js dayjs gray-matter
-          npm install dayjs-plugin-utc dayjs-plugin-timezone
           
       - name: Create awards script
         run: |
