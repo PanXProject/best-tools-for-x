@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "testing-6666",
+      "slug": "testing-6666",
+      "title": "testing 6666",
+      "description": "alooooooooooooooooooooooooooo",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Create & Build",
+        "Run Business",
+        "Manage Money"
+      ],
+      "tags": [
+        "ai-tools",
+        "ai-tool"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app",
+        "desktop-app"
+      ],
+      "publishDate": "2025-02-07T03:50:56.152Z",
+      "heroImage": "",
+      "toolUrl": "https://panx.io"
+    },
+    {
       "id": "testing-7777",
       "slug": "testing-7777",
       "title": "testing 7777",
@@ -456,5 +484,5 @@
       "toolUrl": "https://giphy.com"
     }
   ],
-  "lastUpdated": "2025-02-07T03:50:00.270Z"
+  "lastUpdated": "2025-02-07T03:50:57.707Z"
 }
