@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "testing-testing",
+      "slug": "testing-testing",
+      "title": "testing testing",
+      "description": "sfdgjhskjfgksfnjksfnsjvnjksfnjkngjknsdjk",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Get & Keep Customers",
+        "Run Business"
+      ],
+      "tags": [
+        "ai-tools",
+        "ai-tool"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app",
+        "desktop-app"
+      ],
+      "publishDate": "2025-02-07T04:35:03.888Z",
+      "heroImage": "",
+      "toolUrl": "https://panx.io"
+    },
+    {
       "id": "testing-555",
       "slug": "testing-555",
       "title": "testing 555",
@@ -513,5 +540,5 @@
       "toolUrl": "https://giphy.com"
     }
   ],
-  "lastUpdated": "2025-02-07T03:52:34.571Z"
+  "lastUpdated": "2025-02-07T04:35:05.554Z"
 }
