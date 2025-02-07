@@ -1,6 +1,36 @@
 {
   "tools": [
     {
+      "id": "testing-9999",
+      "slug": "testing-9999",
+      "title": "Testing 9999",
+      "description": "Newwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Get & Keep Customers",
+        "Connect & Collaborate",
+        "Secure & Deploy"
+      ],
+      "tags": [
+        "ai-tools",
+        "ai-tool"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app",
+        "extension",
+        "cli",
+        "self-hosted"
+      ],
+      "publishDate": "2025-02-07T03:47:13.803Z",
+      "heroImage": "",
+      "toolUrl": "https://panx.io"
+    },
+    {
       "id": "testing-666",
       "slug": "testing-666",
       "title": "Testing 666",
@@ -367,5 +397,5 @@
       "toolUrl": "https://giphy.com"
     }
   ],
-  "lastUpdated": "2025-02-06T22:08:31.177Z"
+  "lastUpdated": "2025-02-07T03:47:15.398Z"
 }
