@@ -130,10 +130,10 @@
         "Run Business"
       ],
       "tags": [
-        "AI",
-        "AI_help",
-        "AI_test",
-        "AI tools"
+        "ai",
+        "aihelp",
+        "aitest",
+        "ai-tools"
       ],
       "pricing": {
         "model": "free"
@@ -340,5 +340,5 @@
       "toolUrl": "https://giphy.com"
     }
   ],
-  "lastUpdated": "2025-02-07T11:20:55.944Z"
+  "lastUpdated": "2025-02-07T21:59:12.330Z"
 }
