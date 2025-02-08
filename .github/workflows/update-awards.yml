@@ -165,7 +165,7 @@ jobs:
       - name: Run awards script
         run: node .github/scripts/updateAwards.mjs
         env:
-          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_URL: ${{ var.SUPABASE_URL }}
           SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
           
       - name: Commit and push changes
