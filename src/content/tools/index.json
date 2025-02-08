@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "sdfgsgsfgfgfgsfgfgsgfgsf",
+      "slug": "sdfgsgsfgfgfgsfgfgsgfgsf",
+      "title": "sdfgsgsfgfgfgsfgfgsgfgsf",
+      "description": "sfdgsfggsgssfgsfdgsfggsgssfgsfdgsfggsgssfgsfdgsfggsgssfg",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Get & Keep Customers",
+        "Create & Build",
+        "Secure & Deploy"
+      ],
+      "tags": [
+        "ai",
+        "ai-tools",
+        "ai-tool",
+        "hellobye"
+      ],
+      "pricing": {
+        "model": "one-time-payment"
+      },
+      "softwareTypes": [
+        "web-app",
+        "desktop-app"
+      ],
+      "publishDate": "2025-02-08T05:43:52.495Z",
+      "heroImage": "",
+      "toolUrl": "https://panx.io"
+    },
+    {
       "id": "testing-fogisfgjiosgjos",
       "slug": "testing-fogisfgjiosgjos",
       "title": "testing fogisfgjiosgjos",
@@ -459,5 +488,5 @@
       "toolUrl": "https://giphy.com"
     }
   ],
-  "lastUpdated": "2025-02-08T05:42:22.718Z"
+  "lastUpdated": "2025-02-08T05:43:54.021Z"
 }
