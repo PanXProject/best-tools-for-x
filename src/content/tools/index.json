@@ -1,6 +1,36 @@
 {
   "tools": [
     {
+      "id": "tool-4",
+      "slug": "tool-4",
+      "title": "tool 4",
+      "description": "diuhgiusdhuihsdiuhgifsgsfgsfg",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Get & Keep Customers",
+        "Create & Build",
+        "Secure & Deploy"
+      ],
+      "tags": [
+        "ai",
+        "ai-tools",
+        "ai-tool"
+      ],
+      "pricing": {
+        "model": "free-trial"
+      },
+      "softwareTypes": [
+        "web-app",
+        "desktop-app",
+        "cli",
+        "self-hosted"
+      ],
+      "publishDate": "2025-02-08T05:40:35.178Z",
+      "heroImage": "",
+      "toolUrl": "https://panx.io"
+    },
+    {
       "id": "tool-3",
       "slug": "tool-3",
       "title": "Tool 3",
@@ -399,5 +429,5 @@
       "toolUrl": "https://giphy.com"
     }
   ],
-  "lastUpdated": "2025-02-08T05:39:48.487Z"
+  "lastUpdated": "2025-02-08T05:40:36.971Z"
 }
