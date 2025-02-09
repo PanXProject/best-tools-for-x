@@ -407,7 +407,10 @@
       ],
       "publishDate": "2025-01-02T00:00:00.000Z",
       "heroImage": "",
-      "toolUrl": "https://glitch.com"
+      "toolUrl": "https://glitch.com",
+      "featured": true,
+      "featuredPosition": "4"
+    },
     },
     {
       "id": "slack",
