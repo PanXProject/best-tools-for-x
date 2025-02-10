@@ -29,43 +29,43 @@ jobs:
         run: |
           mkdir -p .github/scripts
           cat > .github/scripts/updateAwards.mjs << 'EOF'
-import { createClient } from '@supabase/supabase-js';
-import dayjs from 'dayjs';
-import utc from 'dayjs/plugin/utc.js';
-import timezone from 'dayjs/plugin/timezone.js';
-import { readFile, writeFile } from 'fs/promises';
-import { join } from 'path';
-import matter from 'gray-matter';
-
-dayjs.extend(utc);
-dayjs.extend(timezone);
-
-const TIMEZONE = 'UTC';
-const TOOLS_DIR = 'src/content/tools';
-const AR_TOOLS_DIR = 'src/content/tools/ar';
-
-// Add debugging for environment variables
-console.log('Environment variables:');
-console.log('SUPABASE_URL:', process.env.SUPABASE_URL ? 'set' : 'not set');
-console.log('SUPABASE_ANON_KEY:', process.env.SUPABASE_ANON_KEY ? 'set' : 'not set');
-
-if (!process.env.SUPABASE_URL) {
-  throw new Error('SUPABASE_URL environment variable is not set');
-}
-
-if (!process.env.SUPABASE_ANON_KEY) {
-  throw new Error('SUPABASE_ANON_KEY environment variable is not set');
-}
-
-const supabase = createClient(
-  process.env.SUPABASE_URL,
-  process.env.SUPABASE_ANON_KEY,
-  {
-    auth: {
-      persistSession: false
-    }
-  }
-);
+          import { createClient } from '@supabase/supabase-js';
+          import dayjs from 'dayjs';
+          import utc from 'dayjs/plugin/utc.js';
+          import timezone from 'dayjs/plugin/timezone.js';
+          import { readFile, writeFile } from 'fs/promises';
+          import { join } from 'path';
+          import matter from 'gray-matter';
+          
+          dayjs.extend(utc);
+          dayjs.extend(timezone);
+          
+          const TIMEZONE = 'UTC';
+          const TOOLS_DIR = 'src/content/tools';
+          const AR_TOOLS_DIR = 'src/content/tools/ar';
+          
+          // Add debugging for environment variables
+          console.log('Environment variables:');
+          console.log('SUPABASE_URL:', process.env.SUPABASE_URL ? 'set' : 'not set');
+          console.log('SUPABASE_ANON_KEY:', process.env.SUPABASE_ANON_KEY ? 'set' : 'not set');
+          
+          if (!process.env.SUPABASE_URL) {
+            throw new Error('SUPABASE_URL environment variable is not set');
+          }
+          
+          if (!process.env.SUPABASE_ANON_KEY) {
+            throw new Error('SUPABASE_ANON_KEY environment variable is not set');
+          }
+          
+          const supabase = createClient(
+            process.env.SUPABASE_URL,
+            process.env.SUPABASE_ANON_KEY,
+            {
+              auth: {
+                persistSession: false
+              }
+            }
+          );
           async function getToolUpvotes() {
             const { data: pages, error } = await supabase
               .from('pages')
