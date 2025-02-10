@@ -6,10 +6,11 @@ on:
     - cron: '0 0 * * *'
   # Optional: Allow manual trigger
   workflow_dispatch:
-
+  
 jobs:
   update-awards:
     runs-on: ubuntu-latest
+    environment: Supabase
     
     steps:
       - uses: actions/checkout@v3
