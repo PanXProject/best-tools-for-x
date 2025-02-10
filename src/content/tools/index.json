@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "testingz-2",
+      "slug": "testingz-2",
+      "title": "Testingz 2",
+      "description": "sgsfgsfgsfgfsgsfgsfggsgsfgf",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Manage People",
+        "Connect & Collaborate",
+        "Secure & Deploy"
+      ],
+      "tags": [
+        "ai-tools",
+        "ai-tool"
+      ],
+      "pricing": {
+        "model": "pay-per-use"
+      },
+      "softwareTypes": [
+        "mobile-app",
+        "desktop-app",
+        "extension"
+      ],
+      "publishDate": "2025-02-10T05:14:25.072Z",
+      "heroImage": "",
+      "toolUrl": "https://panx.io"
+    },
+    {
       "id": "testigzzzzz",
       "slug": "testigzzzzz",
       "title": "Testigzzzzz",
@@ -525,5 +553,5 @@
       "toolUrl": "https://giphy.com"
     }
   ],
-  "lastUpdated": "2025-02-10T05:13:29.671Z"
+  "lastUpdated": "2025-02-10T05:14:26.497Z"
 }
