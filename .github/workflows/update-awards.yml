@@ -181,6 +181,18 @@ jobs:
 
       - name: Run awards script
         run: node .github/scripts/updateAwards.mjs
+      - name: Debug secrets
+        run: |
+          if [ -n "$SUPABASE_URL" ]; then
+            echo "SUPABASE_URL is set"
+          else
+            echo "SUPABASE_URL is not set"
+          fi
+          if [ -n "$SUPABASE_ANON_KEY" ]; then
+            echo "SUPABASE_ANON_KEY is set"
+          else
+            echo "SUPABASE_ANON_KEY is not set"
+          fi
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
