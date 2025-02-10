@@ -6,7 +6,7 @@ on:
     - cron: '0 0 * * *'
   # Optional: Allow manual trigger
   workflow_dispatch:
-  
+
 jobs:
   update-awards:
     runs-on: ubuntu-latest
@@ -37,163 +37,163 @@ jobs:
           import { readFile, writeFile } from 'fs/promises';
           import { join } from 'path';
           import matter from 'gray-matter';
-          
+
           dayjs.extend(utc);
           dayjs.extend(timezone);
-          
+
           const TIMEZONE = 'UTC';
           const TOOLS_DIR = 'src/content/tools';
           const AR_TOOLS_DIR = 'src/content/tools/ar';
-          
-          // Add debugging for environment variables
-          console.log('Environment variables:');
-          console.log('SUPABASE_URL:', process.env.SUPABASE_URL ? 'set' : 'not set');
-          console.log('SUPABASE_ANON_KEY:', process.env.SUPABASE_ANON_KEY ? 'set' : 'not set');
-          
-          if (!process.env.SUPABASE_URL) {
-            throw new Error('SUPABASE_URL environment variable is not set');
-          }
-          
-          if (!process.env.SUPABASE_ANON_KEY) {
-            throw new Error('SUPABASE_ANON_KEY environment variable is not set');
-          }
-          
-          const supabase = createClient(
-            process.env.SUPABASE_URL,
-            process.env.SUPABASE_ANON_KEY,
-            {
-              auth: {
-                persistSession: false
-              }
-            }
-          );
-          async function getToolUpvotes() {
-            const { data: pages, error } = await supabase
-              .from('pages')
-              .select('id, total_upvotes, created_at');
 
-            if (error) throw error;
+          // Debug environment variables
+          console.log('Environment check at start of script:');
+          console.log('SUPABASE_URL:', process.env.SUPABASE_URL ? 'exists' : 'not set');
+          console.log('SUPABASE_ANON_KEY:', process.env.SUPABASE_ANON_KEY ? 'exists' : 'not set');
 
-            return pages.map(page => ({
-              ...page,
-              id: page.id.replace(/^tool?\//, '')
-            }));
-          }
+          try {
+            console.log('Attempting to create Supabase client...');
+            console.log('URL prefix:', process.env.SUPABASE_URL?.substring(0, 8));
+            console.log('Key length:', process.env.SUPABASE_ANON_KEY?.length);
 
-          async function determineWinners(tools, period) {
-            const now = dayjs().tz(TIMEZONE);
-            const startDate = now.startOf(period);
-
-            const eligibleTools = tools
-              .filter(tool => dayjs(tool.created_at).tz(TIMEZONE).isAfter(startDate))
-              .sort((a, b) => b.total_upvotes - a.total_upvotes);
-
-            const winners = [];
-            let currentRank = 1;
-            let previousUpvotes = -1;
-
-            for (const tool of eligibleTools) {
-              if (tool.total_upvotes === 0) continue;
-
-              if (tool.total_upvotes !== previousUpvotes) {
-                currentRank = winners.length + 1;
-              }
-
-              if (currentRank <= 3) {
-                winners.push({
-                  slug: tool.id,
-                  total_upvotes: tool.total_upvotes,
-                  rank: currentRank
-                });
-              }
-
-              previousUpvotes = tool.total_upvotes;
-            }
-
-            return winners;
-          }
-
-          async function updateToolMdx(toolPath, awards) {
-            try {
-              const content = await readFile(toolPath, 'utf-8');
-              const { data, content: body } = matter(content);
-
-              const updatedData = {
-                ...data,
-                awards: awards
-              };
-
-              const updatedContent = matter.stringify(body, updatedData);
-              await writeFile(toolPath, updatedContent);
-              console.log(`Updated awards for ${toolPath}`);
-            } catch (error) {
-              console.log(`Could not update ${toolPath}: ${error.message}`);
-            }
-          }
-
-          async function main() {
-            try {
-              console.log('Fetching tool upvotes...');
-              const tools = await getToolUpvotes();
-              
-              const periods = {
-                daily: 'day',
-                weekly: 'week',
-                monthly: 'month',
-                yearly: 'year'
-              };
-
-              const winners = {};
-              for (const [key, period] of Object.entries(periods)) {
-                winners[key] = await determineWinners(tools, period);
-              }
-
-              const processedTools = new Set();
-
-              for (const [period, periodWinners] of Object.entries(winners)) {
-                for (const winner of periodWinners) {
-                  if (processedTools.has(winner.slug)) continue;
-                  
-                  const awards = [];
-                  for (const [p, w] of Object.entries(winners)) {
-                    const toolAward = w.find(t => t.slug === winner.slug);
-                    if (toolAward) {
-                      awards.push(`${p}-award-${toolAward.rank}`);
-                    }
-                  }
-
-                  // Update both English and Arabic versions
-                  await updateToolMdx(join(TOOLS_DIR, `${winner.slug}.mdx`), awards);
-                  await updateToolMdx(join(AR_TOOLS_DIR, `${winner.slug}.mdx`), awards);
-
-                  processedTools.add(winner.slug);
+            const supabase = createClient(
+              process.env.SUPABASE_URL,
+              process.env.SUPABASE_ANON_KEY,
+              {
+                auth: {
+                  persistSession: false,
+                  autoRefreshToken: false
                 }
               }
+            );
+            console.log('Supabase client created successfully');
 
-              console.log('Awards updated successfully');
-            } catch (error) {
-              console.error('Error updating awards:', error);
-              process.exit(1);
+            async function getToolUpvotes() {
+              const { data: pages, error } = await supabase
+                .from('pages')
+                .select('id, total_upvotes, created_at');
+
+              if (error) throw error;
+
+              return pages.map(page => ({
+                ...page,
+                id: page.id.replace(/^tool?\//, '')
+              }));
             }
-          }
 
-          main();
+            async function determineWinners(tools, period) {
+              const now = dayjs().tz(TIMEZONE);
+              const startDate = now.startOf(period);
+
+              const eligibleTools = tools
+                .filter(tool => dayjs(tool.created_at).tz(TIMEZONE).isAfter(startDate))
+                .sort((a, b) => b.total_upvotes - a.total_upvotes);
+
+              const winners = [];
+              let currentRank = 1;
+              let previousUpvotes = -1;
+
+              for (const tool of eligibleTools) {
+                if (tool.total_upvotes === 0) continue;
+
+                if (tool.total_upvotes !== previousUpvotes) {
+                  currentRank = winners.length + 1;
+                }
+
+                if (currentRank <= 3) {
+                  winners.push({
+                    slug: tool.id,
+                    total_upvotes: tool.total_upvotes,
+                    rank: currentRank
+                  });
+                }
+
+                previousUpvotes = tool.total_upvotes;
+              }
+
+              return winners;
+            }
+
+            async function updateToolMdx(toolPath, awards) {
+              try {
+                const content = await readFile(toolPath, 'utf-8');
+                const { data, content: body } = matter(content);
+
+                const updatedData = {
+                  ...data,
+                  awards: awards
+                };
+
+                const updatedContent = matter.stringify(body, updatedData);
+                await writeFile(toolPath, updatedContent);
+                console.log(`Updated awards for ${toolPath}`);
+              } catch (error) {
+                console.log(`Could not update ${toolPath}: ${error.message}`);
+              }
+            }
+
+            async function main() {
+              try {
+                console.log('Starting main execution...');
+                console.log('Fetching tool upvotes...');
+                const tools = await getToolUpvotes();
+                
+                const periods = {
+                  daily: 'day',
+                  weekly: 'week',
+                  monthly: 'month',
+                  yearly: 'year'
+                };
+
+                const winners = {};
+                for (const [key, period] of Object.entries(periods)) {
+                  winners[key] = await determineWinners(tools, period);
+                }
+
+                const processedTools = new Set();
+
+                for (const [period, periodWinners] of Object.entries(winners)) {
+                  for (const winner of periodWinners) {
+                    if (processedTools.has(winner.slug)) continue;
+                    
+                    const awards = [];
+                    for (const [p, w] of Object.entries(winners)) {
+                      const toolAward = w.find(t => t.slug === winner.slug);
+                      if (toolAward) {
+                        awards.push(`${p}-award-${toolAward.rank}`);
+                      }
+                    }
+
+                    await updateToolMdx(join(TOOLS_DIR, `${winner.slug}.mdx`), awards);
+                    await updateToolMdx(join(AR_TOOLS_DIR, `${winner.slug}.mdx`), awards);
+
+                    processedTools.add(winner.slug);
+                  }
+                }
+
+                console.log('Awards updated successfully');
+              } catch (error) {
+                console.error('Error in main execution:', error);
+                process.exit(1);
+              }
+            }
+
+            main().catch(error => {
+              console.error('Unhandled error in main:', error);
+              process.exit(1);
+            });
+
+          } catch (error) {
+            console.error('Error creating Supabase client:', error);
+            throw error;
+          }
           EOF
 
       - name: Run awards script
-        run: node .github/scripts/updateAwards.mjs
-      - name: Debug secrets
         run: |
-          if [ -n "$SUPABASE_URL" ]; then
-            echo "SUPABASE_URL is set"
-          else
-            echo "SUPABASE_URL is not set"
-          fi
-          if [ -n "$SUPABASE_ANON_KEY" ]; then
-            echo "SUPABASE_ANON_KEY is set"
-          else
-            echo "SUPABASE_ANON_KEY is not set"
-          fi
+          # Export the environment variables explicitly
+          export SUPABASE_URL="${SUPABASE_URL}"
+          export SUPABASE_ANON_KEY="${SUPABASE_ANON_KEY}"
+          node .github/scripts/updateAwards.mjs
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
