@@ -134,10 +134,14 @@ jobs:
             console.log(`\nDetermining winners for ${periodType}`);
             console.log('Period:', { start: start.format(), end: end.format() });
           
+            // Filter tools based on the specific time period
             const eligibleTools = tools
               .filter(tool => {
                 const toolDate = dayjs(tool.created_at).tz(TIMEZONE);
-                return toolDate.isSameOrBefore(end);
+                // Tool must be created before the end of the period
+                // AND must be created within the relevant time frame for the award type
+                return toolDate.isSameOrBefore(end) && 
+                       toolDate.isSameOrBefore(start);  // Only consider tools that existed before the period started
               })
               .sort((a, b) => b.total_upvotes - a.total_upvotes);
           
