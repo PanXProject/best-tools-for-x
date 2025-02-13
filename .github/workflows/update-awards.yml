@@ -49,16 +49,20 @@ jobs:
           import { readFile, writeFile } from 'fs/promises';
           import { join } from 'path';
           import matter from 'gray-matter';
-
+          
           dayjs.extend(utc);
           dayjs.extend(timezone);
           dayjs.extend(isSameOrAfter);
           dayjs.extend(isSameOrBefore);
-
+          
           const TIMEZONE = 'UTC';
           const TOOLS_DIR = 'src/content/tools';
           const AR_TOOLS_DIR = 'src/content/tools/ar';
-
+          
+          console.log('Environment check at start of script:');
+          console.log('SUPABASE_URL:', process.env.SUPABASE_URL ? 'exists' : 'not set');
+          console.log('SUPABASE_ANON_KEY:', process.env.SUPABASE_ANON_KEY ? 'exists' : 'not set');
+          
           const supabase = createClient(
             process.env.SUPABASE_URL,
             process.env.SUPABASE_ANON_KEY,
@@ -69,20 +73,24 @@ jobs:
               }
             }
           );
-
+          
           async function getToolUpvotes() {
+            console.log('Fetching tool upvotes...');
             const { data: pages, error } = await supabase
               .from('pages')
               .select('id, total_upvotes, created_at');
-
+          
             if (error) throw error;
-
-            return pages.map(page => ({
+          
+            const tools = pages.map(page => ({
               ...page,
               id: page.id.replace(/^tool?\//, '')
             }));
+            
+            console.log('Retrieved tools:', tools);
+            return tools;
           }
-
+          
           function getPeriodDates(periodType, now) {
             switch (periodType) {
               case 'daily': {
@@ -119,43 +127,33 @@ jobs:
               }
             }
           }
-
+          
           async function determineWinners(tools, periodType, now) {
             const { start, end, awardDate } = getPeriodDates(periodType, now);
-
-            console.log(`Determining ${periodType} winners for period:`, {
-              start: start.format(),
-              end: end.format(),
-              awardDate
-            });
-
-            console.log('Start date:', start.format('YYYY-MM-DD HH:mm:ss'));
-            console.log('End date:', end.format('YYYY-MM-DD HH:mm:ss'));
-
+            
+            console.log(`\nDetermining winners for ${periodType}`);
+            console.log('Period:', { start: start.format(), end: end.format() });
+          
             const eligibleTools = tools
               .filter(tool => {
                 const toolDate = dayjs(tool.created_at).tz(TIMEZONE);
-                return toolDate.isSameOrAfter(start) && toolDate.isSameOrBefore(end);
+                return toolDate.isSameOrBefore(end);
               })
               .sort((a, b) => b.total_upvotes - a.total_upvotes);
-
-            console.log('Eligible tools:', eligibleTools.map(t => ({
-              id: t.id,
-              created_at: dayjs(t.created_at).tz(TIMEZONE).format('YYYY-MM-DD HH:mm:ss'),
-              upvotes: t.total_upvotes
-            })));
-
+          
+            console.log('Eligible tools:', eligibleTools);
+          
             const winners = [];
             let currentRank = 1;
             let previousUpvotes = -1;
-
+          
             for (const tool of eligibleTools) {
               if (tool.total_upvotes === 0) continue;
-
+          
               if (tool.total_upvotes !== previousUpvotes) {
                 currentRank = winners.length + 1;
               }
-
+          
               if (currentRank <= 3) {
                 winners.push({
                   slug: tool.id,
@@ -164,120 +162,82 @@ jobs:
                   awardDate
                 });
               }
-
+          
               previousUpvotes = tool.total_upvotes;
             }
-
+          
+            console.log('Winners:', winners);
             return winners;
           }
           
-          async function updateToolMdx(toolPath, awardType, rank, awardDate) {
+          async function updateToolMdx(toolPath, awards) {
             try {
-              console.log(`Attempting to update ${toolPath}`);
-              
-              // Check if file exists
-              try {
-                await readFile(toolPath, 'utf-8');
-              } catch (error) {
-                console.error(`File not found: ${toolPath}`);
-                return;
-              }
-          
+              console.log(`Updating ${toolPath} with awards:`, awards);
               const content = await readFile(toolPath, 'utf-8');
-              console.log(`Successfully read file: ${toolPath}`);
-              
               const { data, content: body } = matter(content);
-              console.log('Current frontmatter:', data);
           
-              // Awards accumulate over time, never get removed
-              const existingAwards = Array.isArray(data.awards) ? data.awards : [];
-              const newAward = `${awardType}-award-${rank}-${awardDate}`;
-              
-              console.log('Existing awards:', existingAwards);
-              console.log('New award to add:', newAward);
-              
-              // Only add if this exact award doesn't already exist
-              if (!existingAwards.includes(newAward)) {
-                const updatedAwards = [...existingAwards, newAward];
-                console.log('Updated awards array:', updatedAwards);
+              const updatedData = {
+                ...data,
+                awards: awards
+              };
           
-                const updatedData = {
-                  ...data,
-                  awards: updatedAwards
-                };
-          
-                try {
-                  const updatedContent = matter.stringify(body, updatedData);
-                  await writeFile(toolPath, updatedContent);
-                  console.log(`Successfully updated ${toolPath} with new award`);
-                } catch (writeError) {
-                  console.error(`Error writing to file ${toolPath}:`, writeError);
-                }
-              } else {
-                console.log(`Award ${newAward} already exists in ${toolPath}`);
-              }
+              const updatedContent = matter.stringify(body, updatedData);
+              await writeFile(toolPath, updatedContent);
+              console.log(`Updated awards for ${toolPath}`);
             } catch (error) {
-              console.error(`Error updating ${toolPath}:`, error);
+              console.log(`Could not update ${toolPath}: ${error.message}`);
             }
           }
           
           async function main() {
             try {
+              console.log('Starting main execution...');
               const now = dayjs().tz(TIMEZONE);
               const tools = await getToolUpvotes();
-              
-              console.log('Retrieved tools:', tools.length);
-              
-              const awardType = process.env.AWARD_TYPE || 'daily';
-              const isManualTrigger = process.env.GITHUB_EVENT_NAME === 'workflow_dispatch';
-              
-              console.log('Award type:', awardType);
-              console.log('Is manual trigger:', isManualTrigger);
-              
-              // Skip time checks for manual runs
-              if (isManualTrigger || 
-                  awardType === 'daily' || 
-                  (awardType === 'weekly' && now.day() === 0) ||
-                  (awardType === 'monthly' && now.date() === 1) ||
-                  (awardType === 'yearly' && now.month() === 0 && now.date() === 1)) {
-                
-                const winners = await determineWinners(tools, awardType, now);
-                console.log('Winners determined:', winners);
-                
-                for (const winner of winners) {
-                  const mainPath = join(TOOLS_DIR, `${winner.slug}.mdx`);
-                  const arPath = join(AR_TOOLS_DIR, `${winner.slug}.mdx`);
-                  
-                  console.log('Processing winner:', {
-                    slug: winner.slug,
-                    rank: winner.rank,
-                    mainPath,
-                    arPath
-                  });
           
-                  await updateToolMdx(
-                    mainPath,
-                    awardType,
-                    winner.rank,
-                    winner.awardDate
-                  );
-                  await updateToolMdx(
-                    arPath,
-                    awardType,
-                    winner.rank,
-                    winner.awardDate
-                  );
-                }
-                
-                console.log(`${awardType} awards updated successfully`);
-              } else {
-                console.log(`Skipping ${awardType} awards update - not the right time`);
+              // Process all period types
+              const periodTypes = ['daily', 'weekly', 'monthly', 'yearly'];
+              const allWinners = {};
+          
+              for (const periodType of periodTypes) {
+                allWinners[periodType] = await determineWinners(tools, periodType, now);
               }
+          
+              // Process winners and update files
+              const processedTools = new Set();
+          
+              for (const [period, winners] of Object.entries(allWinners)) {
+                for (const winner of winners) {
+                  if (processedTools.has(winner.slug)) continue;
+          
+                  // Collect all awards for this tool
+                  const toolAwards = [];
+                  for (const [p, w] of Object.entries(allWinners)) {
+                    const award = w.find(t => t.slug === winner.slug);
+                    if (award) {
+                      toolAwards.push(`${p}-award-${award.rank}-${award.awardDate}`);
+                    }
+                  }
+          
+                  // Update both regular and AR versions
+                  await updateToolMdx(join(TOOLS_DIR, `${winner.slug}.mdx`), toolAwards);
+                  await updateToolMdx(join(AR_TOOLS_DIR, `${winner.slug}.mdx`), toolAwards);
+          
+                  processedTools.add(winner.slug);
+                }
+              }
+          
+              console.log('Awards updated successfully');
             } catch (error) {
               console.error('Error in main execution:', error);
               process.exit(1);
             }
           }
+          
+          main().catch(error => {
+            console.error('Unhandled error in main:', error);
+            process.exit(1);
+          });
           EOF
       - name: Debug Info
         run: |
