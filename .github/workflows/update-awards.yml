@@ -79,42 +79,42 @@ jobs:
             }));
           }
 
-function getPeriodDates(periodType, now) {
-  switch (periodType) {
-    case 'daily': {
-      const yesterday = now.subtract(1, 'day');
-      return {
-        start: yesterday.startOf('day'),
-        end: yesterday.endOf('day'),
-        awardDate: yesterday.format('YYYY-MM-DD')
-      };
-    }
-    case 'weekly': {
-      const lastWeek = now.subtract(1, 'week');
-      return {
-        start: lastWeek.startOf('week'),
-        end: lastWeek.endOf('week'),
-        awardDate: lastWeek.endOf('week').format('YYYY-MM-DD')
-      };
-    }
-    case 'monthly': {
-      const lastMonth = now.subtract(1, 'month');
-      return {
-        start: lastMonth.startOf('month'),
-        end: lastMonth.endOf('month'),
-        awardDate: lastMonth.endOf('month').format('YYYY-MM-DD')
-      };
-    }
-    case 'yearly': {
-      const lastYear = now.subtract(1, 'year');
-      return {
-        start: lastYear.startOf('year'),
-        end: lastYear.endOf('year'),
-        awardDate: lastYear.endOf('year').format('YYYY-MM-DD')
-      };
-    }
-  }
-}
+          function getPeriodDates(periodType, now) {
+            switch (periodType) {
+              case 'daily': {
+                const yesterday = now.subtract(1, 'day');
+                return {
+                  start: yesterday.startOf('day'),
+                  end: yesterday.endOf('day'),
+                  awardDate: yesterday.format('YYYY-MM-DD')
+                };
+              }
+              case 'weekly': {
+                const lastWeek = now.subtract(1, 'week');
+                return {
+                  start: lastWeek.startOf('week'),
+                  end: lastWeek.endOf('week'),
+                  awardDate: lastWeek.endOf('week').format('YYYY-MM-DD')
+                };
+              }
+              case 'monthly': {
+                const lastMonth = now.subtract(1, 'month');
+                return {
+                  start: lastMonth.startOf('month'),
+                  end: lastMonth.endOf('month'),
+                  awardDate: lastMonth.endOf('month').format('YYYY-MM-DD')
+                };
+              }
+              case 'yearly': {
+                const lastYear = now.subtract(1, 'year');
+                return {
+                  start: lastYear.startOf('year'),
+                  end: lastYear.endOf('year'),
+                  awardDate: lastYear.endOf('year').format('YYYY-MM-DD')
+                };
+              }
+            }
+          }
           async function determineWinners(tools, periodType, now) {
             const { start, end, awardDate } = getPeriodDates(periodType, now);
 
