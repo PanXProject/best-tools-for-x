@@ -205,9 +205,11 @@ jobs:
               
               // Determine which awards to update
               const awardType = process.env.AWARD_TYPE || 'daily';
+              const isManualTrigger = process.env.GITHUB_EVENT_NAME === 'workflow_dispatch';
               
-              // Only run weekly on Sundays, monthly on 1st, yearly on Jan 1st
-              if (awardType === 'daily' || 
+              // Skip time checks for manual runs
+              if (isManualTrigger || 
+                  awardType === 'daily' || 
                   (awardType === 'weekly' && now.day() === 0) ||
                   (awardType === 'monthly' && now.date() === 1) ||
                   (awardType === 'yearly' && now.month() === 0 && now.date() === 1)) {
@@ -238,11 +240,6 @@ jobs:
               process.exit(1);
             }
           }
-
-          main().catch(error => {
-            console.error('Unhandled error in main:', error);
-            process.exit(1);
-          });
           EOF
 
       - name: Run awards script
