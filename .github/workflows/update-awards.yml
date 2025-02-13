@@ -279,16 +279,36 @@ jobs:
             }
           }
           EOF
-
+      - name: Debug Info
+        run: |
+          echo "Current working directory: $(pwd)"
+          echo "Contents of src/content/tools:"
+          ls -la src/content/tools || echo "Directory not found"
+          echo "GITHUB_EVENT_NAME: $GITHUB_EVENT_NAME"
+          echo "AWARD_TYPE: ${{ github.event.inputs.award_type || 'daily' }}"
+          
       - name: Run awards script
         run: |
           export SUPABASE_URL="${SUPABASE_URL}"
           export SUPABASE_ANON_KEY="${SUPABASE_ANON_KEY}"
           export AWARD_TYPE="${{ github.event.inputs.award_type || 'daily' }}"
-          node .github/scripts/updateAwards.mjs
+          # Run with Node.js in debug mode
+          NODE_DEBUG=* node --trace-warnings .github/scripts/updateAwards.mjs 2>&1 | tee awards.log
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
+          
+      - name: Show script output
+        if: always()
+        run: |
+          echo "=== Script Output ==="
+          cat awards.log || echo "No log file found"
+          
+      - name: Show git status
+        if: always()
+        run: |
+          echo "=== Git Status ==="
+          git status
           
       - name: Commit and push changes
         run: |
@@ -296,3 +316,4 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add src/content/tools/
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update ${{ github.event.inputs.award_type || 'daily' }} awards [skip ci]" && git push)
+
