@@ -170,42 +170,69 @@ jobs:
 
             return winners;
           }
-
+          
           async function updateToolMdx(toolPath, awardType, rank, awardDate) {
             try {
+              console.log(`Attempting to update ${toolPath}`);
+              
+              // Check if file exists
+              try {
+                await readFile(toolPath, 'utf-8');
+              } catch (error) {
+                console.error(`File not found: ${toolPath}`);
+                return;
+              }
+          
               const content = await readFile(toolPath, 'utf-8');
+              console.log(`Successfully read file: ${toolPath}`);
+              
               const { data, content: body } = matter(content);
-
+              console.log('Current frontmatter:', data);
+          
               // Awards accumulate over time, never get removed
-              const existingAwards = data.awards || [];
+              const existingAwards = Array.isArray(data.awards) ? data.awards : [];
               const newAward = `${awardType}-award-${rank}-${awardDate}`;
+              
+              console.log('Existing awards:', existingAwards);
+              console.log('New award to add:', newAward);
               
               // Only add if this exact award doesn't already exist
               if (!existingAwards.includes(newAward)) {
                 const updatedAwards = [...existingAwards, newAward];
-
+                console.log('Updated awards array:', updatedAwards);
+          
                 const updatedData = {
                   ...data,
                   awards: updatedAwards
                 };
-
-                const updatedContent = matter.stringify(body, updatedData);
-                await writeFile(toolPath, updatedContent);
-                console.log(`Added ${newAward} to ${toolPath}`);
+          
+                try {
+                  const updatedContent = matter.stringify(body, updatedData);
+                  await writeFile(toolPath, updatedContent);
+                  console.log(`Successfully updated ${toolPath} with new award`);
+                } catch (writeError) {
+                  console.error(`Error writing to file ${toolPath}:`, writeError);
+                }
+              } else {
+                console.log(`Award ${newAward} already exists in ${toolPath}`);
               }
             } catch (error) {
-              console.log(`Could not update ${toolPath}: ${error.message}`);
+              console.error(`Error updating ${toolPath}:`, error);
             }
           }
-
+          
           async function main() {
             try {
               const now = dayjs().tz(TIMEZONE);
               const tools = await getToolUpvotes();
               
-              // Determine which awards to update
+              console.log('Retrieved tools:', tools.length);
+              
               const awardType = process.env.AWARD_TYPE || 'daily';
               const isManualTrigger = process.env.GITHUB_EVENT_NAME === 'workflow_dispatch';
+              
+              console.log('Award type:', awardType);
+              console.log('Is manual trigger:', isManualTrigger);
               
               // Skip time checks for manual runs
               if (isManualTrigger || 
@@ -215,16 +242,27 @@ jobs:
                   (awardType === 'yearly' && now.month() === 0 && now.date() === 1)) {
                 
                 const winners = await determineWinners(tools, awardType, now);
+                console.log('Winners determined:', winners);
                 
                 for (const winner of winners) {
+                  const mainPath = join(TOOLS_DIR, `${winner.slug}.mdx`);
+                  const arPath = join(AR_TOOLS_DIR, `${winner.slug}.mdx`);
+                  
+                  console.log('Processing winner:', {
+                    slug: winner.slug,
+                    rank: winner.rank,
+                    mainPath,
+                    arPath
+                  });
+          
                   await updateToolMdx(
-                    join(TOOLS_DIR, `${winner.slug}.mdx`),
+                    mainPath,
                     awardType,
                     winner.rank,
                     winner.awardDate
                   );
                   await updateToolMdx(
-                    join(AR_TOOLS_DIR, `${winner.slug}.mdx`),
+                    arPath,
                     awardType,
                     winner.rank,
                     winner.awardDate
