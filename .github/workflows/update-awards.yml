@@ -4,8 +4,18 @@ on:
   schedule:
     # Daily at midnight UTC
     - cron: '0 0 * * *'
-  # Optional: Allow manual trigger
   workflow_dispatch:
+    inputs:
+      award_type:
+        description: 'Type of award to update (daily/weekly/monthly/yearly)'
+        required: true
+        default: 'daily'
+        type: choice
+        options:
+          - daily
+          - weekly
+          - monthly
+          - yearly
 
 jobs:
   update-awards:
@@ -45,154 +55,181 @@ jobs:
           const TOOLS_DIR = 'src/content/tools';
           const AR_TOOLS_DIR = 'src/content/tools/ar';
 
-          // Debug environment variables
-          console.log('Environment check at start of script:');
-          console.log('SUPABASE_URL:', process.env.SUPABASE_URL ? 'exists' : 'not set');
-          console.log('SUPABASE_ANON_KEY:', process.env.SUPABASE_ANON_KEY ? 'exists' : 'not set');
-
-          try {
-            console.log('Attempting to create Supabase client...');
-            console.log('URL prefix:', process.env.SUPABASE_URL?.substring(0, 8));
-            console.log('Key length:', process.env.SUPABASE_ANON_KEY?.length);
-
-            const supabase = createClient(
-              process.env.SUPABASE_URL,
-              process.env.SUPABASE_ANON_KEY,
-              {
-                auth: {
-                  persistSession: false,
-                  autoRefreshToken: false
-                }
+          const supabase = createClient(
+            process.env.SUPABASE_URL,
+            process.env.SUPABASE_ANON_KEY,
+            {
+              auth: {
+                persistSession: false,
+                autoRefreshToken: false
               }
-            );
-            console.log('Supabase client created successfully');
+            }
+          );
 
-            async function getToolUpvotes() {
-              const { data: pages, error } = await supabase
-                .from('pages')
-                .select('id, total_upvotes, created_at');
+          async function getToolUpvotes() {
+            const { data: pages, error } = await supabase
+              .from('pages')
+              .select('id, total_upvotes, created_at');
 
-              if (error) throw error;
+            if (error) throw error;
 
-              return pages.map(page => ({
-                ...page,
-                id: page.id.replace(/^tool?\//, '')
-              }));
+            return pages.map(page => ({
+              ...page,
+              id: page.id.replace(/^tool?\//, '')
+            }));
+          }
+
+          function getPeriodDates(periodType, now) {
+            switch (periodType) {
+              case 'daily':
+                return {
+                  start: now.subtract(1, 'day').startOf('day'),
+                  end: now.subtract(1, 'day').endOf('day'),
+                  awardDate: now.subtract(1, 'day').format('YYYY-MM-DD')
+                };
+              case 'weekly':
+                // For weekly, we look at the previous week (Sunday to Saturday)
+                return {
+                  start: now.subtract(1, 'week').startOf('week'),
+                  end: now.subtract(1, 'week').endOf('week'),
+                  awardDate: now.subtract(1, 'week').endOf('week').format('YYYY-MM-DD')
+                };
+              case 'monthly':
+                return {
+                  start: now.subtract(1, 'month').startOf('month'),
+                  end: now.subtract(1, 'month').endOf('month'),
+                  awardDate: now.subtract(1, 'month').endOf('month').format('YYYY-MM-DD')
+                };
+              case 'yearly':
+                return {
+                  start: now.subtract(1, 'year').startOf('year'),
+                  end: now.subtract(1, 'year').endOf('year'),
+                  awardDate: now.subtract(1, 'year').endOf('year').format('YYYY-MM-DD')
+                };
+            }
+          }
+
+          async function determineWinners(tools, periodType, now) {
+            const { start, end, awardDate } = getPeriodDates(periodType, now);
+
+            console.log(`Determining ${periodType} winners for period:`, {
+              start: start.format(),
+              end: end.format(),
+              awardDate
+            });
+
+            const eligibleTools = tools
+              .filter(tool => {
+                const toolDate = dayjs(tool.created_at).tz(TIMEZONE);
+                return toolDate.isAfter(start) && toolDate.isBefore(end);
+              })
+              .sort((a, b) => b.total_upvotes - a.total_upvotes);
+
+            const winners = [];
+            let currentRank = 1;
+            let previousUpvotes = -1;
+
+            for (const tool of eligibleTools) {
+              if (tool.total_upvotes === 0) continue;
+
+              if (tool.total_upvotes !== previousUpvotes) {
+                currentRank = winners.length + 1;
+              }
+
+              if (currentRank <= 3) {
+                winners.push({
+                  slug: tool.id,
+                  total_upvotes: tool.total_upvotes,
+                  rank: currentRank,
+                  awardDate
+                });
+              }
+
+              previousUpvotes = tool.total_upvotes;
             }
 
-            async function determineWinners(tools, period) {
-              const now = dayjs().tz(TIMEZONE);
-              const startDate = now.startOf(period);
+            return winners;
+          }
 
-              const eligibleTools = tools
-                .filter(tool => dayjs(tool.created_at).tz(TIMEZONE).isAfter(startDate))
-                .sort((a, b) => b.total_upvotes - a.total_upvotes);
+          async function updateToolMdx(toolPath, awardType, rank, awardDate) {
+            try {
+              const content = await readFile(toolPath, 'utf-8');
+              const { data, content: body } = matter(content);
 
-              const winners = [];
-              let currentRank = 1;
-              let previousUpvotes = -1;
-
-              for (const tool of eligibleTools) {
-                if (tool.total_upvotes === 0) continue;
-
-                if (tool.total_upvotes !== previousUpvotes) {
-                  currentRank = winners.length + 1;
-                }
-
-                if (currentRank <= 3) {
-                  winners.push({
-                    slug: tool.id,
-                    total_upvotes: tool.total_upvotes,
-                    rank: currentRank
-                  });
-                }
-
-                previousUpvotes = tool.total_upvotes;
-              }
-
-              return winners;
-            }
-
-            async function updateToolMdx(toolPath, awards) {
-              try {
-                const content = await readFile(toolPath, 'utf-8');
-                const { data, content: body } = matter(content);
+              // Awards accumulate over time, never get removed
+              const existingAwards = data.awards || [];
+              const newAward = `${awardType}-award-${rank}-${awardDate}`;
+              
+              // Only add if this exact award doesn't already exist
+              if (!existingAwards.includes(newAward)) {
+                const updatedAwards = [...existingAwards, newAward];
 
                 const updatedData = {
                   ...data,
-                  awards: awards
+                  awards: updatedAwards
                 };
 
                 const updatedContent = matter.stringify(body, updatedData);
                 await writeFile(toolPath, updatedContent);
-                console.log(`Updated awards for ${toolPath}`);
-              } catch (error) {
-                console.log(`Could not update ${toolPath}: ${error.message}`);
+                console.log(`Added ${newAward} to ${toolPath}`);
               }
+            } catch (error) {
+              console.log(`Could not update ${toolPath}: ${error.message}`);
             }
-
-            async function main() {
-              try {
-                console.log('Starting main execution...');
-                console.log('Fetching tool upvotes...');
-                const tools = await getToolUpvotes();
-                
-                const periods = {
-                  daily: 'day',
-                  weekly: 'week',
-                  monthly: 'month',
-                  yearly: 'year'
-                };
-
-                const winners = {};
-                for (const [key, period] of Object.entries(periods)) {
-                  winners[key] = await determineWinners(tools, period);
-                }
-
-                const processedTools = new Set();
-
-                for (const [period, periodWinners] of Object.entries(winners)) {
-                  for (const winner of periodWinners) {
-                    if (processedTools.has(winner.slug)) continue;
-                    
-                    const awards = [];
-                    for (const [p, w] of Object.entries(winners)) {
-                      const toolAward = w.find(t => t.slug === winner.slug);
-                      if (toolAward) {
-                        awards.push(`${p}-award-${toolAward.rank}`);
-                      }
-                    }
-
-                    await updateToolMdx(join(TOOLS_DIR, `${winner.slug}.mdx`), awards);
-                    await updateToolMdx(join(AR_TOOLS_DIR, `${winner.slug}.mdx`), awards);
-
-                    processedTools.add(winner.slug);
-                  }
-                }
-
-                console.log('Awards updated successfully');
-              } catch (error) {
-                console.error('Error in main execution:', error);
-                process.exit(1);
-              }
-            }
-
-            main().catch(error => {
-              console.error('Unhandled error in main:', error);
-              process.exit(1);
-            });
-
-          } catch (error) {
-            console.error('Error creating Supabase client:', error);
-            throw error;
           }
+
+          async function main() {
+            try {
+              const now = dayjs().tz(TIMEZONE);
+              const tools = await getToolUpvotes();
+              
+              // Determine which awards to update
+              const awardType = process.env.AWARD_TYPE || 'daily';
+              
+              // Only run weekly on Sundays, monthly on 1st, yearly on Jan 1st
+              if (awardType === 'daily' || 
+                  (awardType === 'weekly' && now.day() === 0) ||
+                  (awardType === 'monthly' && now.date() === 1) ||
+                  (awardType === 'yearly' && now.month() === 0 && now.date() === 1)) {
+                
+                const winners = await determineWinners(tools, awardType, now);
+                
+                for (const winner of winners) {
+                  await updateToolMdx(
+                    join(TOOLS_DIR, `${winner.slug}.mdx`),
+                    awardType,
+                    winner.rank,
+                    winner.awardDate
+                  );
+                  await updateToolMdx(
+                    join(AR_TOOLS_DIR, `${winner.slug}.mdx`),
+                    awardType,
+                    winner.rank,
+                    winner.awardDate
+                  );
+                }
+                
+                console.log(`${awardType} awards updated successfully`);
+              } else {
+                console.log(`Skipping ${awardType} awards update - not the right time`);
+              }
+            } catch (error) {
+              console.error('Error in main execution:', error);
+              process.exit(1);
+            }
+          }
+
+          main().catch(error => {
+            console.error('Unhandled error in main:', error);
+            process.exit(1);
+          });
           EOF
 
       - name: Run awards script
         run: |
-          # Export the environment variables explicitly
           export SUPABASE_URL="${SUPABASE_URL}"
           export SUPABASE_ANON_KEY="${SUPABASE_ANON_KEY}"
+          export AWARD_TYPE="${{ github.event.inputs.award_type || 'daily' }}"
           node .github/scripts/updateAwards.mjs
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
@@ -203,4 +240,4 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add src/content/tools/
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update tool awards [skip ci]" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update ${{ github.event.inputs.award_type || 'daily' }} awards [skip ci]" && git push)
