@@ -164,10 +164,8 @@ jobs:
               awardDate: awardDate
             });
           
-            // Filter tools based on publishDate within the period
             const eligibleTools = tools
               .filter(tool => {
-                // Handle both date-only and full ISO timestamp formats
                 const publishDate = dayjs(tool.publishDate).tz(TIMEZONE);
                 const isEligible = publishDate.isSameOrAfter(start) && publishDate.isSameOrBefore(end);
                 
@@ -182,12 +180,14 @@ jobs:
             const winners = [];
             let currentRank = 1;
             let previousUpvotes = -1;
+            let toolsProcessed = 0;
           
             for (const tool of eligibleTools) {
               if (tool.total_upvotes === 0) continue;
           
+              // Only increment rank when we see a different upvote count
               if (tool.total_upvotes !== previousUpvotes) {
-                currentRank = winners.length + 1;
+                currentRank = toolsProcessed + 1;
               }
           
               if (currentRank <= 3) {
@@ -200,12 +200,12 @@ jobs:
               }
           
               previousUpvotes = tool.total_upvotes;
+              toolsProcessed++;
             }
           
             console.log(`Winners for ${periodType}:`, winners);
             return winners;
-          }
-          
+          }          
           async function updateToolMdx(toolPath, newAward) {
             try {
               console.log(`Updating ${toolPath} with award:`, newAward);
