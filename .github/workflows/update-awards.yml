@@ -164,48 +164,59 @@ jobs:
               awardDate: awardDate
             });
           
+            // Filter and sort eligible tools
             const eligibleTools = tools
               .filter(tool => {
                 const publishDate = dayjs(tool.publishDate).tz(TIMEZONE);
-                const isEligible = publishDate.isSameOrAfter(start) && publishDate.isSameOrBefore(end);
-                
-                console.log(`Tool ${tool.id}: publishDate=${tool.publishDate}, eligible=${isEligible}`);
-                return isEligible;
+                return publishDate.isSameOrAfter(start) && publishDate.isSameOrBefore(end);
               })
               .sort((a, b) => b.total_upvotes - a.total_upvotes);
           
             console.log(`Found ${eligibleTools.length} eligible tools for ${periodType}`);
-            console.log('Eligible tools:', eligibleTools);
+            
+            // Group tools by upvote count
+            const upvoteGroups = {};
+            eligibleTools.forEach(tool => {
+              if (tool.total_upvotes > 0) {
+                if (!upvoteGroups[tool.total_upvotes]) {
+                  upvoteGroups[tool.total_upvotes] = [];
+                }
+                upvoteGroups[tool.total_upvotes].push(tool);
+              }
+            });
+          
+            // Sort upvote counts in descending order
+            const sortedUpvotes = Object.keys(upvoteGroups)
+              .map(Number)
+              .sort((a, b) => b - a);
           
             const winners = [];
             let currentRank = 1;
-            let previousUpvotes = -1;
-            let toolsProcessed = 0;
           
-            for (const tool of eligibleTools) {
-              if (tool.total_upvotes === 0) continue;
-          
-              // Only increment rank when we see a different upvote count
-              if (tool.total_upvotes !== previousUpvotes) {
-                currentRank = toolsProcessed + 1;
-              }
-          
-              if (currentRank <= 3) {
-                winners.push({
-                  slug: tool.id,
-                  total_upvotes: tool.total_upvotes,
-                  rank: currentRank,
-                  awardDate
-                });
-              }
-          
-              previousUpvotes = tool.total_upvotes;
-              toolsProcessed++;
+            // Assign ranks based on distinct upvote counts
+            for (const upvoteCount of sortedUpvotes) {
+              if (currentRank > 3) break;
+              
+              const toolsWithUpvotes = upvoteGroups[upvoteCount];
+              toolsWithUpvotes.forEach(tool => {
+                if (currentRank <= 3) {
+                  winners.push({
+                    slug: tool.id,
+                    total_upvotes: tool.total_upvotes,
+                    rank: currentRank,
+                    awardDate
+                  });
+                }
+              });
+              
+              // Move to next rank after processing all tools with current upvote count
+              currentRank = winners.length + 1;
             }
           
-            console.log(`Winners for ${periodType}:`, winners);
+            console.log('Winners with ranks:', winners);
             return winners;
-          }          
+          }
+
           async function updateToolMdx(toolPath, newAward) {
             try {
               console.log(`Updating ${toolPath} with award:`, newAward);
