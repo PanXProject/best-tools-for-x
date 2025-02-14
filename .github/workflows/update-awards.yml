@@ -164,56 +164,46 @@ jobs:
               awardDate: awardDate
             });
           
-            // Filter and sort eligible tools
+            // Filter eligible tools
             const eligibleTools = tools
               .filter(tool => {
                 const publishDate = dayjs(tool.publishDate).tz(TIMEZONE);
                 return publishDate.isSameOrAfter(start) && publishDate.isSameOrBefore(end);
               })
-              .sort((a, b) => b.total_upvotes - a.total_upvotes);
+              .filter(tool => tool.total_upvotes > 0); // Remove 0 upvote tools
           
-            console.log(`Found ${eligibleTools.length} eligible tools for ${periodType}`);
-            
-            // Group tools by upvote count
-            const upvoteGroups = {};
-            eligibleTools.forEach(tool => {
-              if (tool.total_upvotes > 0) {
-                if (!upvoteGroups[tool.total_upvotes]) {
-                  upvoteGroups[tool.total_upvotes] = [];
-                }
-                upvoteGroups[tool.total_upvotes].push(tool);
-              }
-            });
+            // Sort by upvotes descending
+            eligibleTools.sort((a, b) => b.total_upvotes - a.total_upvotes);
           
-            // Sort upvote counts in descending order
-            const sortedUpvotes = Object.keys(upvoteGroups)
-              .map(Number)
-              .sort((a, b) => b - a);
+            // Get unique upvote counts
+            const uniqueUpvotes = [...new Set(eligibleTools.map(tool => tool.total_upvotes))];
+            console.log('Unique upvote counts:', uniqueUpvotes);
           
             const winners = [];
-            let currentRank = 1;
-          
-            // Assign ranks based on distinct upvote counts
-            for (const upvoteCount of sortedUpvotes) {
-              if (currentRank > 3) break;
-              
-              const toolsWithUpvotes = upvoteGroups[upvoteCount];
-              toolsWithUpvotes.forEach(tool => {
-                if (currentRank <= 3) {
+            
+            // Assign ranks based on unique upvote values
+            uniqueUpvotes.forEach((upvoteCount, index) => {
+              const rank = index + 1;
+              if (rank <= 3) {
+                const toolsWithThisUpvoteCount = eligibleTools.filter(
+                  tool => tool.total_upvotes === upvoteCount
+                );
+                
+                toolsWithThisUpvoteCount.forEach(tool => {
                   winners.push({
                     slug: tool.id,
                     total_upvotes: tool.total_upvotes,
-                    rank: currentRank,
+                    rank: rank,
                     awardDate
                   });
-                }
-              });
-              
-              // Move to next rank after processing all tools with current upvote count
-              currentRank = winners.length + 1;
-            }
+                });
+              }
+            });
           
-            console.log('Winners with ranks:', winners);
+            console.log('Final winners:', winners.map(w => 
+              `${w.slug}: ${w.total_upvotes} upvotes, rank ${w.rank}`
+            ));
+            
             return winners;
           }
 
