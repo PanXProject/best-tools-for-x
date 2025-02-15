@@ -448,7 +448,7 @@
         "Create & Build"
       ],
       "tags": [
-        "AI",
+        "ai",
         "productivity"
       ],
       "pricing": {
@@ -460,9 +460,7 @@
       ],
       "publishDate": "2025-01-10T00:00:00.000Z",
       "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1738787022/wsykici9saddpwaasy6z.png",
-      "toolUrl": "https://chatgpt.com",
-      "featured": true,
-      "featuredPosition": "2"
+      "toolUrl": "https://chatgpt.com"
     },
     {
       "id": "glitch",
@@ -581,5 +579,5 @@
       "toolUrl": "https://giphy.com"
     }
   ],
-  "lastUpdated": "2025-02-10T05:15:27.442Z"
+  "lastUpdated": "2025-02-15T14:12:58.705Z"
 }
