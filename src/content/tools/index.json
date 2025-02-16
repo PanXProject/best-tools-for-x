@@ -463,7 +463,9 @@
       ],
       "publishDate": "2025-01-10T00:00:00.000Z",
       "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1738787022/wsykici9saddpwaasy6z.png",
-      "toolUrl": "https://chatgpt.com"
+      "toolUrl": "https://chatgpt.com",
+      "featured": true,
+      "featuredPosition": "2"
     },
     {
       "id": "glitch",
