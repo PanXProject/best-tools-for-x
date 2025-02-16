@@ -14,7 +14,8 @@
       ],
       "tags": [
         "ai-tools",
-        "why"
+        "why",
+        "ai"
       ],
       "pricing": {
         "model": "free-trial"
@@ -580,5 +581,5 @@
       "toolUrl": "https://giphy.com"
     }
   ],
-  "lastUpdated": "2025-02-16T07:03:17.011Z"
+  "lastUpdated": "2025-02-16T07:17:53.875Z"
 }
