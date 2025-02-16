@@ -447,12 +447,12 @@
       "author": "testing",
       "username": "newusername",
       "categories": [
-        "Get & Keep Customers",
         "Create & Build"
       ],
       "tags": [
         "ai",
-        "productivity"
+        "productivity",
+        "yay"
       ],
       "pricing": {
         "model": "freemium"
@@ -582,5 +582,5 @@
       "toolUrl": "https://giphy.com"
     }
   ],
-  "lastUpdated": "2025-02-16T07:50:22.071Z"
+  "lastUpdated": "2025-02-16T07:52:35.482Z"
 }
