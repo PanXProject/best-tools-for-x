@@ -1,34 +1,6 @@
 {
   "tools": [
     {
-      "id": "hello-goodbye",
-      "slug": "hello-goodbye",
-      "title": "Hello Goodbye",
-      "description": "ofihoshoihfoisoisfoinsoinoinfsioniono",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
-      "categories": [
-        "Get & Keep Customers",
-        "Create & Build",
-        "Run Business"
-      ],
-      "tags": [
-        "why",
-        "hello",
-        "goodbye"
-      ],
-      "pricing": {
-        "model": "one-time-payment"
-      },
-      "softwareTypes": [
-        "web-app",
-        "mobile-app"
-      ],
-      "publishDate": "2025-02-16T13:44:17.838Z",
-      "heroImage": "",
-      "toolUrl": "https://hello.com"
-    },
-    {
       "id": "testingz-3",
       "slug": "testingz-3",
       "title": "Testingz 3",
@@ -617,5 +589,5 @@
       "toolUrl": "https://giphy.com"
     }
   ],
-  "lastUpdated": "2025-02-16T15:59:23.899Z"
+  "lastUpdated": "2025-02-18T20:00:06.079Z"
 }
