@@ -7,11 +7,7 @@
       "description": "small crm description",
       "author": "Wael Bathaqz",
       "username": "newusername",
-      "categories": [
-        "إدارة الأعمال",
-        "الفهم والتحسين",
-        "التواصل والتعاون"
-      ],
+      "categories": ["إدارة الأعمال", "الفهم والتحسين", "التواصل والتعاون"],
       "tags": [
         "لع",
         "هع"
