@@ -1,22 +1,20 @@
 {
   "tools": [
         {
-      "id": "testingz-3",
-      "slug": "testingz-3",
-      "title": "Testingz 3",
-      "description": "sgsfgsfgsfgfsgsfgsfggsgsfgf",
+      "id": "crms",
+      "slug": "crms",
+      "title": "crms",
+      "description": "small crm description",
       "author": "Wael Bathaqz",
       "username": "newusername",
       "categories": [
-        "Create & Build",
-        "Run Business",
-        "Manage Money"
+        "إدارة الأعمال",
+        "الفهم والتحسين",
+        "التواصل والتعاون"
       ],
       "tags": [
-        "ai-tools",
-        "why",
-        "toot",
-        "too"
+        "لع",
+        "هع"
       ],
       "pricing": {
         "model": "free-trial"
