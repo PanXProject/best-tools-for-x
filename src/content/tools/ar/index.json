@@ -23,6 +23,78 @@
       "publishDate": "2025-02-10T05:15:25.596Z",
       "heroImage": "",
       "toolUrl": "https://panx.io"
+    },
+            {
+      "id": "crms1",
+      "slug": "crms1",
+      "title": "crms1",
+      "description": "small crm1 description",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": ["إدارة الأعمال", "الفهم والتحسين", "التواصل والتعاون"],
+      "tags": [
+        "لع",
+        "هع"
+      ],
+      "pricing": {
+        "model": "free-trial"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app",
+        "desktop-app"
+      ],
+      "publishDate": "2025-02-10T05:15:25.596Z",
+      "heroImage": "",
+      "toolUrl": "https://panx.io"
+    },
+            {
+      "id": "crms2",
+      "slug": "crms2",
+      "title": "crms2",
+      "description": "small crm2 description",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": ["إدارة الأعمال", "الفهم والتحسين", "التواصل والتعاون"],
+      "tags": [
+        "لع",
+        "هع"
+      ],
+      "pricing": {
+        "model": "free-trial"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app",
+        "desktop-app"
+      ],
+      "publishDate": "2025-02-10T05:15:25.596Z",
+      "heroImage": "",
+      "toolUrl": "https://panx.io"
+    },
+            {
+      "id": "crm3",
+      "slug": "crm3",
+      "title": "crm3",
+      "description": "small crm3 description",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": ["إدارة الأعمال", "الفهم والتحسين", "التواصل والتعاون"],
+      "tags": [
+        "لببع",
+        "هعهع"
+      ],
+      "pricing": {
+        "model": "free-trial"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app",
+        "desktop-app"
+      ],
+      "publishDate": "2025-02-10T05:15:25.596Z",
+      "heroImage": "",
+      "toolUrl": "https://panx.io"
     }
   ],
   "lastUpdated": "2025-1-22T00:00:00.000Z"
