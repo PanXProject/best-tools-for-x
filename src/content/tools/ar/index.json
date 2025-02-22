@@ -1,30 +1,6 @@
 {
   "tools": [
     {
-      "id": "chatgpt",
-      "slug": "chatgpt",
-      "title": "chatgpt",
-      "description": "بسييبايايبايبايبايبايبايبايباياي",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
-      "categories": [
-        "Get & Keep Customers",
-        "Create & Build",
-        "Run Business"
-      ],
-      "tags": [],
-      "pricing": {
-        "model": "free"
-      },
-      "softwareTypes": [
-        "web-app",
-        "mobile-app"
-      ],
-      "publishDate": "2025-02-22T16:18:27.606Z",
-      "heroImage": "",
-      "toolUrl": "https://panx.io"
-    },
-    {
       "id": "crms",
       "slug": "crms",
       "title": "crms",
