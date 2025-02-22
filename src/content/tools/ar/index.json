@@ -1,13 +1,41 @@
 {
   "tools": [
-        {
+    {
+      "id": "chatgpt",
+      "slug": "chatgpt",
+      "title": "chatgpt",
+      "description": "بسييبايايبايبايبايبايبايبايباياي",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Get & Keep Customers",
+        "Create & Build",
+        "Run Business"
+      ],
+      "tags": [],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app"
+      ],
+      "publishDate": "2025-02-22T16:18:27.606Z",
+      "heroImage": "",
+      "toolUrl": "https://panx.io"
+    },
+    {
       "id": "crms",
       "slug": "crms",
       "title": "crms",
       "description": "small crm description",
       "author": "Wael Bathaqz",
       "username": "newusername",
-      "categories": ["إدارة الأعمال", "الفهم والتحسين", "التواصل والتعاون"],
+      "categories": [
+        "إدارة الأعمال",
+        "الفهم والتحسين",
+        "التواصل والتعاون"
+      ],
       "tags": [
         "لع",
         "هع"
@@ -24,14 +52,18 @@
       "heroImage": "",
       "toolUrl": "https://panx.io"
     },
-            {
+    {
       "id": "crms1",
       "slug": "crms1",
       "title": "crms1",
       "description": "small crm1 description",
       "author": "Wael Bathaqz",
       "username": "newusername",
-      "categories": ["إدارة الأعمال", "الفهم والتحسين", "التواصل والتعاون"],
+      "categories": [
+        "إدارة الأعمال",
+        "الفهم والتحسين",
+        "التواصل والتعاون"
+      ],
       "tags": [
         "لع",
         "هع"
@@ -48,14 +80,18 @@
       "heroImage": "",
       "toolUrl": "https://panx.io"
     },
-            {
+    {
       "id": "crms2",
       "slug": "crms2",
       "title": "crms2",
       "description": "small crm2 description",
       "author": "Wael Bathaqz",
       "username": "newusername",
-      "categories": ["إدارة الأعمال", "الفهم والتحسين", "التواصل والتعاون"],
+      "categories": [
+        "إدارة الأعمال",
+        "الفهم والتحسين",
+        "التواصل والتعاون"
+      ],
       "tags": [
         "لع",
         "هع"
@@ -72,14 +108,18 @@
       "heroImage": "",
       "toolUrl": "https://panx.io"
     },
-            {
+    {
       "id": "crm3",
       "slug": "crm3",
       "title": "crm3",
       "description": "small crm3 description",
       "author": "Wael Bathaqz",
       "username": "newusername",
-      "categories": ["إدارة الأعمال", "الفهم والتحسين", "التواصل والتعاون"],
+      "categories": [
+        "إدارة الأعمال",
+        "الفهم والتحسين",
+        "التواصل والتعاون"
+      ],
       "tags": [
         "لببع",
         "هعهع"
@@ -97,5 +137,5 @@
       "toolUrl": "https://panx.io"
     }
   ],
-  "lastUpdated": "2025-1-22T00:00:00.000Z"
+  "lastUpdated": "2025-02-22T16:18:29.154Z"
 }
