@@ -1,6 +1,26 @@
 {
   "tools": [
     {
+      "id": "mklmlksmdklfmsdkl",
+      "slug": "mklmlksmdklfmsdkl",
+      "title": "kldnlflkdsmklfsmld",
+      "title_ar": "kldnlflkdsmklfsmld",
+      "description": "lkmskldmfklmsdklfmksdlmklfmlkslfmlsd",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [],
+      "publishDate": "2025-02-22T18:15:58.181Z",
+      "heroImage": "",
+      "toolUrl": "https://panx.io"
+    },
+    {
       "id": "djsnjknsfk",
       "slug": "djsnjknsfk",
       "title": "عباعهخساهعاسه",
@@ -161,5 +181,5 @@
       "toolUrl": "https://panx.io"
     }
   ],
-  "lastUpdated": "2025-02-22T18:13:28.370Z"
+  "lastUpdated": "2025-02-22T18:15:58.795Z"
 }
