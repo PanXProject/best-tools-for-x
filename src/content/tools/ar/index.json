@@ -1,6 +1,28 @@
 {
   "tools": [
     {
+      "id": "djsnjknsfk",
+      "slug": "djsnjknsfk",
+      "title": "عباعهخساهعاسه",
+      "title_ar": "عباعهخساهعاسه",
+      "description": "سعابعهابعسهينتىبنتيب",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Get & Keep Customers",
+        "Create & Build",
+        "Run Business"
+      ],
+      "tags": [],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [],
+      "publishDate": "2025-02-22T18:13:27.818Z",
+      "heroImage": "",
+      "toolUrl": "https://panx.io"
+    },
+    {
       "id": "chatgpt",
       "slug": "chatgpt",
       "title": "ﻻعبعهيابهعايسعهباه",
@@ -139,5 +161,5 @@
       "toolUrl": "https://panx.io"
     }
   ],
-  "lastUpdated": "2025-02-22T18:09:25.102Z"
+  "lastUpdated": "2025-02-22T18:13:28.370Z"
 }
