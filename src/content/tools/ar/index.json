@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "chatgpt",
+      "slug": "chatgpt",
+      "title": "ﻻعبعهيابهعايسعهباه",
+      "title_ar": "ﻻعبعهيابهعايسعهباه",
+      "description": "jkdsgdkjfngjkfsngkjsngjknjksfnjgnsfjkgkjnsfkj",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Get & Keep Customers",
+        "Create & Build",
+        "Run Business"
+      ],
+      "tags": [],
+      "pricing": {
+        "model": "free-trial"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app",
+        "desktop-app"
+      ],
+      "publishDate": "2025-02-22T18:09:24.554Z",
+      "heroImage": "",
+      "toolUrl": "https://panx.io"
+    },
+    {
       "id": "crms",
       "slug": "crms",
       "title": "crms",
@@ -113,5 +139,5 @@
       "toolUrl": "https://panx.io"
     }
   ],
-  "lastUpdated": "2025-02-22T16:18:29.154Z"
+  "lastUpdated": "2025-02-22T18:09:25.102Z"
 }
