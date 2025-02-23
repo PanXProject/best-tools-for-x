@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "بسبسبسسشب",
+      "slug": "بسبسبسسشب",
+      "title": "بسبسبسسشب",
+      "description": "بششبشببشبشببششابعهشاشهعشعاشعهاهبشاهعاشبهعاهعابشهعاهعباهعاهعاهعاها",
+      "author": "اسمي",
+      "username": "newusername",
+      "categories": [
+        "Get & Keep Customers",
+        "Create & Build"
+      ],
+      "tags": [
+        "ai",
+        "ai"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app"
+      ],
+      "publishDate": "2025-02-23T19:04:01.827Z",
+      "heroImage": "",
+      "toolUrl": "https://panx.io"
+    },
+    {
       "id": "نتسبىتنبسىتنىبستن",
       "slug": "نتسبىتنبسىتنىبستن",
       "title": "نتسبىتنبسىتنىبستن",
@@ -252,5 +278,5 @@
       "toolUrl": "https://panx.io"
     }
   ],
-  "lastUpdated": "2025-02-23T19:02:01.148Z"
+  "lastUpdated": "2025-02-23T19:04:03.393Z"
 }
