@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "34524768754132",
+      "slug": "34524768754132",
+      "title": "ﻻرىغايبءئءلقس",
+      "title_en": "34524768754132",
+      "description": "بسلبسلسلسيبسيلسبلسبب",
+      "author": "اسمي",
+      "username": "newusername",
+      "categories": [
+        "Get & Keep Customers",
+        "Run Business"
+      ],
+      "tags": [
+        "بيستنلاتن",
+        "سخبهيلتسبخه-89789",
+        "لعىقع-سيلاتبسي"
+      ],
+      "pricing": {
+        "model": "free-trial"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app",
+        "desktop-app"
+      ],
+      "publishDate": "2025-02-23T21:55:10.349Z",
+      "heroImage": "",
+      "toolUrl": "https://panx.io"
+    },
+    {
       "id": "2453452352345",
       "slug": "2453452352345",
       "title": "التابتبلايبليب",
@@ -650,5 +679,5 @@
       "toolUrl": "https://panx.io"
     }
   ],
-  "lastUpdated": "2025-02-23T21:52:07.826Z"
+  "lastUpdated": "2025-02-23T21:55:11.903Z"
 }
