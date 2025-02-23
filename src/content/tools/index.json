@@ -1,6 +1,26 @@
 {
   "tools": [
     {
+      "id": "53asdasd647gsgfsgfsgsfdgfdgfsdgfs",
+      "slug": "53asdasd647gsgfsgfsgsfdgfdgfsdgfs",
+      "title": "53asdasd647gsgfsgfsgsfdgfdgfsdgfs",
+      "description": "asdgfhfddfhdfhdfhdfhdfhdfhdfhdfhdfhdf",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Get & Keep Customers",
+        "Create & Build"
+      ],
+      "tags": [],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [],
+      "publishDate": "2025-02-23T12:12:37.164Z",
+      "heroImage": "",
+      "toolUrl": "https://panx.io"
+    },
+    {
       "id": "1booboobobobobsrgoiddosdgsd",
       "slug": "1booboobobobobsrgoiddosdgsd",
       "title": "1Booboobobobobsrgoiddosdgsd",
@@ -664,5 +684,5 @@
       "toolUrl": "https://giphy.com"
     }
   ],
-  "lastUpdated": "2025-02-23T11:29:26.983Z"
+  "lastUpdated": "2025-02-23T12:12:39.021Z"
 }
