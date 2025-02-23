@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "sfhhdfhsjyjsrdgrethtry",
+      "slug": "sfhhdfhsjyjsrdgrethtry",
+      "title": "لاتبتبلتبتبلتايفس",
+      "title_en": "sfhhdfhsjyjsrdgrethtry",
+      "description": "fuyrtur6tyertrty56yu6rutrsrtryjtgerht",
+      "author": "اسمي",
+      "username": "newusername",
+      "categories": [
+        "Get & Keep Customers",
+        "Create & Build",
+        "Run Business"
+      ],
+      "tags": [
+        "بلبلبليب",
+        "بسلسبلبس",
+        "سيبلسلس"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "mobile-app"
+      ],
+      "publishDate": "2025-02-23T20:42:03.243Z",
+      "heroImage": "",
+      "toolUrl": "https://panx.io"
+    },
+    {
       "id": "lkdjaskljdlkjglkdasj",
       "slug": "lkdjaskljdlkjglkdasj",
       "title": "نمتبمستبمبسنت",
@@ -391,5 +419,5 @@
       "toolUrl": "https://panx.io"
     }
   ],
-  "lastUpdated": "2025-02-23T20:24:21.696Z"
+  "lastUpdated": "2025-02-23T20:42:04.728Z"
 }
