@@ -9,16 +9,17 @@
       "author": "اسمي",
       "username": "newusername",
       "categories": [
-        "جذب العملاء والاحتفاظ بهم",
-        "إنشاء و تطوير",
-        "إدارة الأعمال"
+        "Get & Keep Customers",
+        "Create & Build",
+        "Run Business"
       ],
       "tags": [
         "يبيبيب",
         "يسليسلس",
         "سيلسيل",
         "سيليسلس",
-        "سيلسي"
+        "سيلسي",
+        "تلي يليليت"
       ],
       "pricing": {
         "model": "تجربة مجانية"
@@ -30,7 +31,9 @@
       ],
       "publishDate": "2025-02-24T14:58:51.140Z",
       "heroImage": "",
-      "toolUrl": "https://panx.io"
+      "toolUrl": "https://panx.io",
+      "featured": false,
+      "featuredPosition": ""
     },
     {
       "id": "4236672346724",
@@ -863,5 +866,5 @@
       "toolUrl": "https://panx.io"
     }
   ],
-  "lastUpdated": "2025-02-24T14:58:52.501Z"
+  "lastUpdated": "2025-02-24T23:00:02.166Z"
 }
