@@ -37,7 +37,9 @@
       "author": "اسمي",
       "username": "newusername",
       "categories": [
-        "جذب العملاء والاحتفاظ بهم"
+        "جذب العملاء والاحتفاظ بهم",
+        "إنشاء و تطوير",
+        "إدارة الأعمال"
       ],
       "tags": [
         "نميستلنمس",
@@ -53,7 +55,9 @@
       ],
       "publishDate": "2025-02-25T16:39:41.324Z",
       "heroImage": "",
-      "toolUrl": "https://panx.io"
+      "toolUrl": "https://panx.io",
+      "featured": false,
+      "featuredPosition": ""
     },
     {
       "id": "49287424258927",
@@ -922,5 +926,5 @@
       "toolUrl": "https://panx.io"
     }
   ],
-  "lastUpdated": "2025-02-25T16:41:23.697Z"
+  "lastUpdated": "2025-02-25T23:12:36.836Z"
 }
