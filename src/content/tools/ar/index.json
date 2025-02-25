@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "sffdghdghdghdg",
+      "slug": "sffdghdghdghdg",
+      "title": "سيتسيقث",
+      "title_en": "sffdghdghdghdg",
+      "description": "يسايسلايلايايبايبلسبل",
+      "author": "اسمي",
+      "username": "newusername",
+      "categories": [
+        "جذب العملاء والاحتفاظ بهم"
+      ],
+      "tags": [
+        "نميستلنمس",
+        "سبلسلس"
+      ],
+      "pricing": {
+        "model": "تجربة مجانية"
+      },
+      "softwareTypes": [
+        "تطبيق ويب",
+        "تطبيق جوال",
+        "تطبيق سطح المكتب"
+      ],
+      "publishDate": "2025-02-25T16:39:41.324Z",
+      "heroImage": "",
+      "toolUrl": "https://panx.io"
+    },
+    {
       "id": "49287424258927",
       "slug": "49287424258927",
       "title": "خكهتاخفيب",
@@ -867,5 +894,5 @@
       "toolUrl": "https://panx.io"
     }
   ],
-  "lastUpdated": "2025-02-24T23:25:48.973Z"
+  "lastUpdated": "2025-02-25T16:39:42.870Z"
 }
