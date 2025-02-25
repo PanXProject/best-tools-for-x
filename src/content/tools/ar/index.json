@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "3443sffdghdghdghdg",
+      "slug": "3443sffdghdghdghdg",
+      "title": "سيتسيقيبتمن",
+      "title_en": "3443sffdghdghdghdg",
+      "description": "يسايسلايلايايبايبلسبل",
+      "author": "اسمي",
+      "username": "newusername",
+      "categories": [
+        "جذب العملاء والاحتفاظ بهم"
+      ],
+      "tags": [
+        "نميستلنمس",
+        "ميبن-سكميتلكمس",
+        "ميبن-هسخبتل"
+      ],
+      "pricing": {
+        "model": "تجربة مجانية"
+      },
+      "softwareTypes": [
+        "تطبيق ويب",
+        "تطبيق جوال",
+        "تطبيق سطح المكتب"
+      ],
+      "publishDate": "2025-02-25T16:41:22.013Z",
+      "heroImage": "",
+      "toolUrl": "https://panx.io"
+    },
+    {
       "id": "sffdghdghdghdg",
       "slug": "sffdghdghdghdg",
       "title": "سيتسيقث",
@@ -894,5 +922,5 @@
       "toolUrl": "https://panx.io"
     }
   ],
-  "lastUpdated": "2025-02-25T16:39:42.870Z"
+  "lastUpdated": "2025-02-25T16:41:23.697Z"
 }
