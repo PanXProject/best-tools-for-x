@@ -35,7 +35,7 @@
     {
       "id": "tool-4",
       "slug": "tool-4",
-      "title": "tool 4",
+      "title": "tool 44",
       "description": "diuhgiusdhuihsdiuhgifsgsfgsfg",
       "author": "Wael Bathaqz",
       "username": "newusername",
@@ -54,13 +54,16 @@
       },
       "softwareTypes": [
         "web-app",
+        "mobile-app",
         "desktop-app",
         "cli",
         "self-hosted"
       ],
       "publishDate": "2025-02-08T05:40:35.178Z",
       "heroImage": "",
-      "toolUrl": "https://panx.io"
+      "toolUrl": "https://panx.io",
+      "featured": false,
+      "featuredPosition": ""
     },
     {
       "id": "tool-3",
@@ -441,5 +444,5 @@
       "toolUrl": "https://giphy.com"
     }
   ],
-  "lastUpdated": "2025-02-26T17:14:21.102Z"
+  "lastUpdated": "2025-02-26T17:16:23.208Z"
 }
