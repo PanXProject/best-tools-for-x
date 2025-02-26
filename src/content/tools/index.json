@@ -21,25 +21,6 @@
       "toolUrl": "https://panx.io"
     },
     {
-      "id": "1booboobobobobsrgoiddosdgsd",
-      "slug": "1booboobobobobsrgoiddosdgsd",
-      "title": "1Booboobobobobsrgoiddosdgsd",
-      "description": "lkmskldmfklmsdklfmksdlmklfmlkslfmlsd",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
-      "categories": [
-        "Create & Build"
-      ],
-      "tags": [],
-      "pricing": {
-        "model": "free"
-      },
-      "softwareTypes": [],
-      "publishDate": "2025-02-23T11:29:25.401Z",
-      "heroImage": "",
-      "toolUrl": "https://panx.io"
-    },
-    {
       "id": "booboobobobobsrgoiddo",
       "slug": "booboobobobobsrgoiddo",
       "title": "Booboobobobobsrgoiddo",
@@ -684,5 +665,5 @@
       "toolUrl": "https://giphy.com"
     }
   ],
-  "lastUpdated": "2025-02-26T13:49:35.027Z"
+  "lastUpdated": "2025-02-26T13:52:27.190Z"
 }
