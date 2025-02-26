@@ -27,27 +27,6 @@
       "toolUrl": "https://panx.io"
     },
     {
-      "id": "syimnytuetauikwyklrs",
-      "slug": "syimnytuetauikwyklrs",
-      "title": "syimnytuetauikwyklrs",
-      "description": "dsgjanyfituol8udkyarutikutjludk",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
-      "categories": [
-        "Get & Keep Customers",
-        "Create & Build",
-        "Run Business"
-      ],
-      "tags": [],
-      "pricing": {
-        "model": "free"
-      },
-      "softwareTypes": [],
-      "publishDate": "2025-02-22T20:15:40.724Z",
-      "heroImage": "",
-      "toolUrl": "https://panx.io"
-    },
-    {
       "id": "testingz-3",
       "slug": "testingz-3",
       "title": "Testingz 3",
@@ -604,5 +583,5 @@
       "toolUrl": "https://giphy.com"
     }
   ],
-  "lastUpdated": "2025-02-26T14:34:48.359Z"
+  "lastUpdated": "2025-02-26T15:11:31.192Z"
 }
