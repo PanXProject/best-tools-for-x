@@ -30,35 +30,6 @@
       "featuredPosition": ""
     },
     {
-      "id": "testigzzzzz",
-      "slug": "testigzzzzz",
-      "title": "Testigzzzzz",
-      "description": "sfghljksfshfoighjsiophjiofsjhoisjfoijfoi",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
-      "categories": [
-        "Get & Keep Customers",
-        "Create & Build",
-        "Manage Money"
-      ],
-      "tags": [
-        "ai-tool",
-        "ai-tools",
-        "hello"
-      ],
-      "pricing": {
-        "model": "free"
-      },
-      "softwareTypes": [
-        "web-app",
-        "mobile-app",
-        "desktop-app"
-      ],
-      "publishDate": "2025-02-10T05:13:28.177Z",
-      "heroImage": "",
-      "toolUrl": "https://panx.io"
-    },
-    {
       "id": "sdfgsgsfgfgfgsfgfgsgfgsf",
       "slug": "sdfgsgsfgfgfgsfgfgsgfgsf",
       "title": "sdfgsgsfgfgfgsfgfgsgfgsf",
@@ -528,5 +499,5 @@
       "toolUrl": "https://giphy.com"
     }
   ],
-  "lastUpdated": "2025-02-26T15:25:38.825Z"
+  "lastUpdated": "2025-02-26T15:45:02.405Z"
 }
