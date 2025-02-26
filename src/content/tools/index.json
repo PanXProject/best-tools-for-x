@@ -4,7 +4,7 @@
       "id": "sdfgsgsfgfgfgsfgfgsgfgsf",
       "slug": "sdfgsgsfgfgfgsfgfgsgfgsf",
       "title": "sdfgsgsfgfgfgsfgfgsgfgsf",
-      "description": "sfdgsfggsgssfgsfdgsfggsgssfgsfdgsfggsgssfgsfdgsfggsgssfg 3",
+      "description": "iorwuqwetuopeqwutoqeuotuoqeuotoquouiotiqoe",
       "author": "Wael Bathaqz",
       "username": "newusername",
       "categories": [
@@ -23,6 +23,7 @@
       },
       "softwareTypes": [
         "web-app",
+        "mobile-app",
         "desktop-app"
       ],
       "publishDate": "2025-02-08T05:43:52.495Z",
@@ -470,5 +471,5 @@
       "toolUrl": "https://giphy.com"
     }
   ],
-  "lastUpdated": "2025-02-26T15:48:55.044Z"
+  "lastUpdated": "2025-02-26T15:50:54.892Z"
 }
