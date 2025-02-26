@@ -33,36 +33,6 @@
       "featuredPosition": ""
     },
     {
-      "id": "testing-fogisfgjiosgjos",
-      "slug": "testing-fogisfgjiosgjos",
-      "title": "testing fogisfgjiosgjos",
-      "description": "Don't worry about it delete later",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
-      "categories": [
-        "Get & Keep Customers",
-        "Create & Build",
-        "Manage People"
-      ],
-      "tags": [
-        "ai",
-        "ai-tool",
-        "ai-tools",
-        "hellobye"
-      ],
-      "pricing": {
-        "model": "subscription"
-      },
-      "softwareTypes": [
-        "web-app",
-        "desktop-app",
-        "extension"
-      ],
-      "publishDate": "2025-02-08T05:42:21.015Z",
-      "heroImage": "",
-      "toolUrl": "https://panx.io"
-    },
-    {
       "id": "tool-4",
       "slug": "tool-4",
       "title": "tool 4",
@@ -471,5 +441,5 @@
       "toolUrl": "https://giphy.com"
     }
   ],
-  "lastUpdated": "2025-02-26T15:50:54.892Z"
+  "lastUpdated": "2025-02-26T17:14:21.102Z"
 }
