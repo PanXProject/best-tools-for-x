@@ -13,7 +13,8 @@
         "Run Business"
       ],
       "tags": [
-        "ai"
+        "ai",
+        "try"
       ],
       "pricing": {
         "model": "free-trial"
@@ -24,7 +25,9 @@
       ],
       "publishDate": "2025-02-22T20:22:05.415Z",
       "heroImage": "",
-      "toolUrl": "https://panx.io"
+      "toolUrl": "https://panx.io",
+      "featured": false,
+      "featuredPosition": ""
     },
     {
       "id": "testingz-3",
@@ -583,5 +586,5 @@
       "toolUrl": "https://giphy.com"
     }
   ],
-  "lastUpdated": "2025-02-26T15:11:31.192Z"
+  "lastUpdated": "2025-02-26T15:14:23.079Z"
 }
