@@ -622,33 +622,6 @@
       "toolUrl": "https://panx.io"
     },
     {
-      "id": "test",
-      "slug": "test",
-      "title": "ليسلسيTest",
-      "description": "يسبيسبسيبسيبسيبسيبسيب",
-      "author": "اسمي",
-      "username": "newusername",
-      "categories": [
-        "Get & Keep Customers",
-        "Create & Build"
-      ],
-      "tags": [
-        "dev",
-        "pop",
-        "ai"
-      ],
-      "pricing": {
-        "model": "freemium"
-      },
-      "softwareTypes": [
-        "web-app",
-        "mobile-app"
-      ],
-      "publishDate": "2025-02-23T19:10:37.683Z",
-      "heroImage": "",
-      "toolUrl": "https://panx.io"
-    },
-    {
       "id": "بسبسبسسشب",
       "slug": "بسبسبسسشب",
       "title": "بسبسبسسشب",
@@ -926,5 +899,5 @@
       "toolUrl": "https://panx.io"
     }
   ],
-  "lastUpdated": "2025-02-25T23:12:36.836Z"
+  "lastUpdated": "2025-02-26T15:56:30.348Z"
 }
