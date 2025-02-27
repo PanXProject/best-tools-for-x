@@ -527,34 +527,6 @@
       "toolUrl": "https://panx.io"
     },
     {
-      "id": "432542542524524",
-      "slug": "432542542524524",
-      "title": "432542542524524",
-      "description": "4525252452424624642642",
-      "author": "اسمي",
-      "username": "newusername",
-      "categories": [
-        "Create & Build",
-        "Run Business"
-      ],
-      "tags": [
-        "",
-        "",
-        ""
-      ],
-      "pricing": {
-        "model": "free"
-      },
-      "softwareTypes": [
-        "web-app",
-        "mobile-app",
-        "desktop-app"
-      ],
-      "publishDate": "2025-02-23T19:12:57.499Z",
-      "heroImage": "",
-      "toolUrl": "https://panx.io"
-    },
-    {
       "id": "بسبسبسسشب",
       "slug": "بسبسبسسشب",
       "title": "بسبسبسسشب",
@@ -832,5 +804,5 @@
       "toolUrl": "https://panx.io"
     }
   ],
-  "lastUpdated": "2025-02-26T17:11:25.778Z"
+  "lastUpdated": "2025-02-27T15:12:08.886Z"
 }
