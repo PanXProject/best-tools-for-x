@@ -122,7 +122,9 @@
       ],
       "publishDate": "2025-02-24T11:18:52.885Z",
       "heroImage": "",
-      "toolUrl": "https://panx.io"
+      "toolUrl": "https://panx.io",
+      "featured": true,
+      "featuredPosition": "3"
     },
     {
       "id": "jflsjlsfjoiwrjo",
