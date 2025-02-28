@@ -49,6 +49,7 @@ jobs:
           import { readFile, writeFile } from 'fs/promises';
           import { join } from 'path';
           import matter from 'gray-matter';
+          import { existsSync } from 'fs';
           
           dayjs.extend(utc);
           dayjs.extend(timezone);
@@ -92,15 +93,34 @@ jobs:
             for (const page of pages) {
               const id = page.id.replace(/^tool?\//, '');
               try {
-                // Read the MDX file to get publishDate
-                const mdxPath = join(TOOLS_DIR, `${id}.mdx`);
-                const content = await readFile(mdxPath, 'utf-8');
-                const { data } = matter(content);
+                // First try to find the tool in the English directory
+                const englishMdxPath = join(TOOLS_DIR, `${id}.mdx`);
+                let content, publishDate;
+                
+                try {
+                  content = await readFile(englishMdxPath, 'utf-8');
+                  const { data } = matter(content);
+                  publishDate = data.publishDate;
+                } catch (error) {
+                  console.log(`Could not find tool in English directory: ${id}`);
+                  
+                  // If not found in English, try Arabic directory
+                  try {
+                    const arabicMdxPath = join(AR_TOOLS_DIR, `${id}.mdx`);
+                    content = await readFile(arabicMdxPath, 'utf-8');
+                    const { data } = matter(content);
+                    publishDate = data.publishDate;
+                  } catch (arabicError) {
+                    console.log(`Could not find tool in Arabic directory either: ${id}`);
+                    // If not found in either directory, skip this tool
+                    continue;
+                  }
+                }
                 
                 tools.push({
                   ...page,
                   id,
-                  publishDate: data.publishDate
+                  publishDate
                 });
               } catch (error) {
                 console.log(`Could not process ${id}: ${error.message}`);
@@ -247,10 +267,22 @@ jobs:
               // Update files for winners
               for (const winner of winners) {
                 const awardId = `${AWARD_TYPE}-award-${winner.rank}-${winner.awardDate}`;
+                const englishMdxPath = join(TOOLS_DIR, `${winner.slug}.mdx`);
+                const arabicMdxPath = join(AR_TOOLS_DIR, `${winner.slug}.mdx`);
                 
-                // Update both regular and AR versions
-                await updateToolMdx(join(TOOLS_DIR, `${winner.slug}.mdx`), awardId);
-                await updateToolMdx(join(AR_TOOLS_DIR, `${winner.slug}.mdx`), awardId);
+                // Update English MDX if it exists
+                if (existsSync(englishMdxPath)) {
+                  await updateToolMdx(englishMdxPath, awardId);
+                } else {
+                  console.log(`English MDX not found for ${winner.slug}`);
+                }
+                
+                // Update Arabic MDX if it exists
+                if (existsSync(arabicMdxPath)) {
+                  await updateToolMdx(arabicMdxPath, awardId);
+                } else {
+                  console.log(`Arabic MDX not found for ${winner.slug}`);
+                }
               }
           
               console.log(`${AWARD_TYPE} awards updated successfully`);
@@ -270,6 +302,8 @@ jobs:
           echo "Current working directory: $(pwd)"
           echo "Contents of src/content/tools:"
           ls -la src/content/tools || echo "Directory not found"
+          echo "Contents of src/content/tools/ar:"
+          ls -la src/content/tools/ar || echo "Directory not found"
           echo "GITHUB_EVENT_NAME: $GITHUB_EVENT_NAME"
           echo "AWARD_TYPE: ${{ github.event.inputs.award_type || 'daily' }}"
           
@@ -301,5 +335,5 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add src/content/tools/
+          git add src/content/tools/ar/
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update ${{ github.event.inputs.award_type || 'daily' }} awards [skip ci]" && git push)
-
