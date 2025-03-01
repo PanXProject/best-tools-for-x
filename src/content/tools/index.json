@@ -95,6 +95,37 @@
       "toolUrl": "https://panx.io"
     },
     {
+      "id": "chatgpt",
+      "slug": "chatgpt",
+      "title": "ChatGPT",
+      "description": "Large language negm beeh 4",
+      "author": "testing",
+      "username": "newusername",
+      "categories": [
+        "Get & Keep Customers",
+        "Create & Build"
+      ],
+      "tags": [
+        "ai",
+        "productivity",
+        "yay",
+        "love",
+        "bob"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app"
+      ],
+      "publishDate": "2025-02-27T00:00:00.000Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1738787022/wsykici9saddpwaasy6z.png",
+      "toolUrl": "https://chatgpt.com",
+      "featured": true,
+      "featuredPosition": "2"
+    },
+    {
       "id": "tool-1",
       "slug": "tool-1",
       "title": "Tool 1",
@@ -311,10 +342,7 @@
         "Manage People",
         "Connect & Collaborate"
       ],
-      "tags": [
-        "ai",
-        "ai"
-      ],
+      "tags": [],
       "pricing": {
         "model": "freemium"
       },
@@ -327,37 +355,6 @@
       "toolUrl": "https://panx.io",
       "featured": true,
       "featuredPosition": "1"
-    },
-    {
-      "id": "chatgpt",
-      "slug": "chatgpt",
-      "title": "ChatGPT",
-      "description": "Large language negm beeh 4",
-      "author": "testing",
-      "username": "newusername",
-      "categories": [
-        "Get & Keep Customers",
-        "Create & Build"
-      ],
-      "tags": [
-        "ai",
-        "productivity",
-        "yay",
-        "love",
-        "bob"
-      ],
-      "pricing": {
-        "model": "freemium"
-      },
-      "softwareTypes": [
-        "web-app",
-        "mobile-app"
-      ],
-      "publishDate": "2025-02-27T00:00:00.000Z",
-      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1738787022/wsykici9saddpwaasy6z.png",
-      "toolUrl": "https://chatgpt.com",
-      "featured": true,
-      "featuredPosition": "2"
     },
     {
       "id": "slack",
@@ -444,5 +441,5 @@
       "toolUrl": "https://giphy.com"
     }
   ],
-  "lastUpdated": "2025-02-26T17:16:23.208Z"
+  "lastUpdated": "2025-03-01T03:25:23.198Z"
 }
