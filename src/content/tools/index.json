@@ -77,13 +77,9 @@
         "Create & Build",
         "Manage Money"
       ],
-      "tags": [
-        "ai",
-        "ai-tools",
-        "ai-tool"
-      ],
+      "tags": [],
       "pricing": {
-        "model": "subscription"
+        "model": "free"
       },
       "softwareTypes": [
         "web-app",
@@ -92,7 +88,9 @@
       ],
       "publishDate": "2025-02-27T05:39:46.420Z",
       "heroImage": "",
-      "toolUrl": "https://panx.io"
+      "toolUrl": "https://panx.io",
+      "featured": false,
+      "featuredPosition": ""
     },
     {
       "id": "chatgpt",
@@ -438,5 +436,5 @@
       "toolUrl": "https://giphy.com"
     }
   ],
-  "lastUpdated": "2025-03-01T03:26:26.226Z"
+  "lastUpdated": "2025-03-01T03:53:09.172Z"
 }
