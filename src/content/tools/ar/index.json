@@ -119,9 +119,16 @@
       "categories": [
         "جذب العملاء والاحتفاظ بهم"
       ],
-      "tags": [],
-      "pricing": {},
-      "softwareTypes": [],
+      "tags": [
+        "ai"
+      ],
+      "pricing": {
+        "model": "تجربة مجانية"
+      },
+      "softwareTypes": [
+        "تطبيق ويب",
+        "تطبيق جوال"
+      ],
       "publishDate": "2025-02-24T11:18:52.885Z",
       "heroImage": "",
       "toolUrl": "https://panx.io",
@@ -786,5 +793,5 @@
       "toolUrl": "https://panx.io"
     }
   ],
-  "lastUpdated": "2025-03-01T19:59:43.125Z"
+  "lastUpdated": "2025-03-01T20:05:14.790Z"
 }
