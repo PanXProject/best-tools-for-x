@@ -81,11 +81,7 @@
       "pricing": {
         "model": "free"
       },
-      "softwareTypes": [
-        "web-app",
-        "mobile-app",
-        "desktop-app"
-      ],
+      "softwareTypes": [],
       "publishDate": "2025-02-27T05:39:46.420Z",
       "heroImage": "",
       "toolUrl": "https://panx.io",
@@ -436,5 +432,5 @@
       "toolUrl": "https://giphy.com"
     }
   ],
-  "lastUpdated": "2025-03-01T03:53:09.172Z"
+  "lastUpdated": "2025-03-01T03:53:40.973Z"
 }
