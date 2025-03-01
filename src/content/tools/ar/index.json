@@ -106,14 +106,8 @@
         "سبنتبلب",
         "بلب"
       ],
-      "pricing": {
-        "model": "free-trial"
-      },
-      "softwareTypes": [
-        "web-app",
-        "mobile-app",
-        "desktop-app"
-      ],
+      "pricing": {},
+      "softwareTypes": [],
       "publishDate": "2025-02-24T13:35:10.673Z",
       "heroImage": "",
       "toolUrl": "https://panx.io",
@@ -806,5 +800,5 @@
       "toolUrl": "https://panx.io"
     }
   ],
-  "lastUpdated": "2025-03-01T03:22:33.592Z"
+  "lastUpdated": "2025-03-01T04:06:36.426Z"
 }
