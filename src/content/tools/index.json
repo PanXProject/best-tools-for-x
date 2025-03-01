@@ -344,7 +344,7 @@
       ],
       "tags": [],
       "pricing": {
-        "model": "freemium"
+        "model": "free"
       },
       "softwareTypes": [
         "web-app",
@@ -441,5 +441,5 @@
       "toolUrl": "https://giphy.com"
     }
   ],
-  "lastUpdated": "2025-03-01T03:25:23.198Z"
+  "lastUpdated": "2025-03-01T03:25:51.680Z"
 }
