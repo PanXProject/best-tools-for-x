@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "sdgsdgagbatrhbab3542524",
+      "slug": "sdgsdgagbatrhbab3542524",
+      "title": "sdgsdgagbatrhbab3542524",
+      "description": "sfbvsfbsfababffsgarhgasfhasaghfshshf",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Get & Keep Customers",
+        "Create & Build"
+      ],
+      "tags": [
+        "adg",
+        "dgsdg",
+        "sgfgsf-fsgfsg"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app"
+      ],
+      "publishDate": "2025-03-09T21:54:46.536Z",
+      "heroImage": "",
+      "toolUrl": "https://hello.com"
+    },
+    {
       "id": "sdfgsgsfgfgfgsfgfgsgfgsf",
       "slug": "sdfgsgsfgfgfgsfgfgsgfgsf",
       "title": "sdfgsgsfgfgfgsfgfgsgfgsf",
@@ -441,5 +468,5 @@
       "toolUrl": "https://giphy.com"
     }
   ],
-  "lastUpdated": "2025-03-08T13:26:51.655Z"
+  "lastUpdated": "2025-03-09T21:54:47.858Z"
 }
