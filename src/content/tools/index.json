@@ -123,7 +123,7 @@
       "id": "chatgpt",
       "slug": "chatgpt",
       "title": "ChatGPT",
-      "description": "Large language negm beeh 4",
+      "description": "Large language negm beeh 45",
       "author": "testing",
       "username": "newusername",
       "categories": [
@@ -142,7 +142,8 @@
       },
       "softwareTypes": [
         "web-app",
-        "mobile-app"
+        "mobile-app",
+        "desktop-app"
       ],
       "publishDate": "2025-02-27T00:00:00.000Z",
       "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1738787022/wsykici9saddpwaasy6z.png",
@@ -468,5 +469,5 @@
       "toolUrl": "https://giphy.com"
     }
   ],
-  "lastUpdated": "2025-03-09T21:54:47.858Z"
+  "lastUpdated": "2025-03-10T01:38:15.328Z"
 }
