@@ -8,10 +8,12 @@
       "author": "Wael Bathaqz",
       "username": "newusername",
       "categories": [
-        "Get & Keep Customers"
+        "Get & Keep Customers",
+        "Create & Build"
       ],
       "tags": [
-        "ai"
+        "ai",
+        "toz"
       ],
       "pricing": {
         "model": "one-time-payment"
@@ -21,7 +23,9 @@
       ],
       "publishDate": "2025-03-16T22:04:05.382Z",
       "heroImage": "",
-      "toolUrl": "https://panx.io"
+      "toolUrl": "https://panx.io",
+      "featured": false,
+      "featuredPosition": null
     },
     {
       "id": "whateveer",
@@ -578,5 +582,5 @@
       "toolUrl": "https://giphy.com"
     }
   ],
-  "lastUpdated": "2025-03-16T22:04:06.851Z"
+  "lastUpdated": "2025-03-16T22:04:37.085Z"
 }
