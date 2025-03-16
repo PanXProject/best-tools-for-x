@@ -1,6 +1,29 @@
 {
   "tools": [
     {
+      "id": "whateverx3",
+      "slug": "whateverx3",
+      "title": "whateverx3",
+      "description": "lsdjglisjdkglsklgklsgmklsklgmklmgklm",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "pricing": {
+        "model": "one-time-payment"
+      },
+      "softwareTypes": [
+        "mobile-app"
+      ],
+      "publishDate": "2025-03-16T22:04:05.382Z",
+      "heroImage": "",
+      "toolUrl": "https://panx.io"
+    },
+    {
       "id": "whateveer",
       "slug": "whateveer",
       "title": "whateveer",
@@ -555,5 +578,5 @@
       "toolUrl": "https://giphy.com"
     }
   ],
-  "lastUpdated": "2025-03-16T20:46:47.675Z"
+  "lastUpdated": "2025-03-16T22:04:06.851Z"
 }
