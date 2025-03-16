@@ -1,6 +1,36 @@
 {
   "tools": [
     {
+      "id": "whateveer",
+      "slug": "whateveer",
+      "title": "whateveer",
+      "description": "djiadjfiodjasifojadiojdgoijadiosj",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Get & Keep Customers",
+        "Create & Build",
+        "Run Business"
+      ],
+      "tags": [
+        "afaf",
+        "adfadf",
+        "adfdag",
+        "ai"
+      ],
+      "pricing": {
+        "model": "custom-pricing"
+      },
+      "softwareTypes": [
+        "web-app",
+        "cli",
+        "self-hosted"
+      ],
+      "publishDate": "2025-03-16T20:46:46.317Z",
+      "heroImage": "",
+      "toolUrl": "https://panx.io"
+    },
+    {
       "id": "ijsidogjiosjjgiosjgiojsio",
       "slug": "ijsidogjiosjjgiosjgiojsio",
       "title": "خهبتيشهخبتشهخيشتي",
@@ -525,5 +555,5 @@
       "toolUrl": "https://giphy.com"
     }
   ],
-  "lastUpdated": "2025-03-16T20:39:03.218Z"
+  "lastUpdated": "2025-03-16T20:46:47.675Z"
 }
