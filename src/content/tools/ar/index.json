@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "sffghdghdhdghhg",
+      "slug": "sffghdghdhdghhg",
+      "title": "يبلييبلاىلى",
+      "title_en": "sffghdghdhdghhg",
+      "description": "سبابسيابيسايايايلايلاي",
+      "author": "اسمي",
+      "username": "newusername",
+      "categories": [
+        "جذب العملاء والاحتفاظ بهم",
+        "إنشاء و تطوير",
+        "إدارة الأعمال"
+      ],
+      "tags": [
+        "يشنتمنبشي",
+        "يشنتمنبشيشيب"
+      ],
+      "pricing": {
+        "model": "اشتراك"
+      },
+      "softwareTypes": [
+        "تطبيق ويب",
+        "تطبيق جوال",
+        "تطبيق سطح المكتب"
+      ],
+      "publishDate": "2025-03-16T22:29:37.464Z",
+      "heroImage": "",
+      "toolUrl": "https://panx.io"
+    },
+    {
       "id": "jasdfljsdgljdslj",
       "slug": "jasdfljsdgljdslj",
       "title": "نتيمنتمستمنتسملنت",
@@ -794,5 +823,5 @@
       "toolUrl": "https://panx.io"
     }
   ],
-  "lastUpdated": "2025-03-16T22:00:59.226Z"
+  "lastUpdated": "2025-03-16T22:29:38.962Z"
 }
