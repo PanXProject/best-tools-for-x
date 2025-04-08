@@ -1,0 +1,23 @@
+---
+title: "Zoho Books"
+description: "Online accounting software"
+author: "Waleed Sadek"
+username: "waleed"
+categories: ["Run Business"]
+tags: ["accounting", "finance"]
+pricing:
+  model: "subscription"
+softwareTypes: ["web-app"]
+publishDate: "2025-04-07T22:11:00.317Z"
+heroImage: ""
+toolUrl: "https://zohobooks.com"
+---
+## About
+Zoho Books handles invoicing and bookkeeping for small firms. Use it to track cash flow without desktop software. Great for teams needing affordable, cloud-based accounting.
+
+## Features
+- Send invoices online
+- Track expenses by category
+- Generate profit reports
+- Automate bank feeds
+- Manage multiple clients

@@ -1,0 +1,23 @@
+---
+title: "Taskade"
+description: "Collaborative task management"
+author: "Waleed Sadek"
+username: "waleed"
+categories: ["Run Business"]
+tags: ["tasks", "team"]
+pricing:
+  model: "freemium"
+softwareTypes: ["web-app", "mobile-app"]
+publishDate: "2025-04-07T22:04:00.317Z"
+heroImage: ""
+toolUrl: "https://taskade.com"
+---
+## About
+Taskade blends tasks and notes for team projects in real time. Use it to plan sprints or brainstorm ideas. Perfect for small teams needing a simple, all-in-one tool.
+
+## Features
+- Create tasks with checklists
+- Collaborate live on docs
+- Use mind map view
+- Sync across devices
+- Assign due dates

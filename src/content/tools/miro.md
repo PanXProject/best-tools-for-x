@@ -1,0 +1,23 @@
+---
+title: "Miro"
+description: "Online whiteboard for team collaboration"
+author: "Waleed Sadek"
+username: "waleed"
+categories: ["Run Business"]
+tags: ["whiteboard", "team"]
+pricing:
+  model: "freemium"
+softwareTypes: ["web-app"]
+publishDate: "2025-04-07T21:18:00.317Z"
+heroImage: ""
+toolUrl: "https://miro.com"
+---
+## About
+Miro provides a digital whiteboard for brainstorming or planning. Use it to map workflows with remote teams in real time. Perfect for workshops or agile project sprints.
+
+## Features
+- Draw ideas on infinite canvas
+- Add sticky notes for tasks
+- Collaborate live with team
+- Export boards as PDFs
+- Use templates for workflows

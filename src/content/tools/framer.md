@@ -1,0 +1,23 @@
+---
+title: "Framer"
+description: "Design and prototyping for web"
+author: "Waleed Sadek"
+username: "waleed"
+categories: ["Create & Build"]
+tags: ["design", "prototyping"]
+pricing:
+  model: "freemium"
+softwareTypes: ["web-app"]
+publishDate: "2025-04-07T21:46:00.317Z"
+heroImage: ""
+toolUrl: "https://framer.com"
+---
+## About
+Framer builds interactive web prototypes with design and code. Use it to create realistic mockups for client pitches. Ideal for designers who want control over animations and layouts.
+
+## Features
+- Design with drag-and-drop
+- Add custom code for effects
+- Preview prototypes live
+- Share links with clients
+- Export production-ready code

@@ -1,0 +1,23 @@
+---
+title: "Splitbee"
+description: "Privacy-focused web analytics"
+author: "Waleed Sadek"
+username: "waleed"
+categories: ["Run Business"]
+tags: ["analytics", "privacy"]
+pricing:
+  model: "freemium"
+softwareTypes: ["web-app"]
+publishDate: "2025-04-07T21:05:00.317Z"
+heroImage: ""
+toolUrl: "https://splitbee.io"
+---
+## About
+Splitbee tracks website stats without cookies, keeping user data private. Add it to your site to monitor traffic and events. Ideal for businesses prioritizing privacy over invasive tracking.
+
+## Features
+- Track visits with one script
+- Monitor events without cookies
+- See real-time visitor data
+- Analyze funnels for conversions
+- Export data for offline use

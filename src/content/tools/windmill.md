@@ -1,0 +1,23 @@
+---
+title: "Windmill"
+description: "Open-source workflow and script runner"
+author: "Waleed Sadek"
+username: "waleed"
+categories: ["Run Business"]
+tags: ["workflow", "scripts"]
+pricing:
+  model: "freemium"
+softwareTypes: ["web-app", "self-hosted"]
+publishDate: "2025-04-07T21:12:00.317Z"
+heroImage: ""
+toolUrl: "https://windmill.dev"
+---
+## About
+Windmill executes scripts and workflows, hosted on your server or their cloud. Use it to automate dev tasks like deployments or data syncs. Ideal for teams with custom scripting needs.
+
+## Features
+- Run scripts in multiple languages
+- Self-host for control
+- Schedule workflows to run daily
+- Monitor execution logs
+- Share scripts with team

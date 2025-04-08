@@ -1,0 +1,23 @@
+---
+title: "Huginn"
+description: "Self-hosted automation for tasks"
+author: "Waleed Sadek"
+username: "waleed"
+categories: ["Run Business"]
+tags: ["automation", "tasks"]
+pricing:
+  model: "free"
+softwareTypes: ["self-hosted"]
+publishDate: "2025-04-07T21:11:00.317Z"
+heroImage: ""
+toolUrl: "https://github.com/huginn/huginn"
+---
+## About
+Huginn runs custom automation scripts on your server, like scraping sites or sending alerts. Use it to monitor feeds or automate personal tasks without relying on cloud services.
+
+## Features
+- Scrape websites for data
+- Send custom email alerts
+- Self-host with Docker
+- Trigger actions on events
+- Open-source with no limits

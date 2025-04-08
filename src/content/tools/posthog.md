@@ -1,0 +1,23 @@
+---
+title: "PostHog"
+description: "Open-source product analytics"
+author: "Waleed Sadek"
+username: "waleed"
+categories: ["Run Business"]
+tags: ["analytics", "product"]
+pricing:
+  model: "freemium"
+softwareTypes: ["web-app", "self-hosted"]
+publishDate: "2025-04-07T21:38:00.317Z"
+heroImage: ""
+toolUrl: "https://posthog.com"
+---
+## About
+PostHog tracks user behavior for product insights, self-hosted or cloud. Use it to see how features perform without external analytics. Ideal for startups refining their offerings.
+
+## Features
+- Track events automatically
+- Self-host for data privacy
+- Build funnels for drop-offs
+- Visualize user paths
+- Export data to CSV
