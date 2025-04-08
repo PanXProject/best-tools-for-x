@@ -5,8 +5,8 @@
       "slug": "teachable",
       "title": "Teachable",
       "description": "Platform to create online courses",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Get & Keep Customers"
       ],
@@ -30,8 +30,8 @@
       "slug": "growthbook",
       "title": "GrowthBook",
       "description": "Open-source A/B testing platform",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Run Business"
       ],
@@ -56,8 +56,8 @@
       "slug": "openwebanalytics",
       "title": "Open Web Analytics",
       "description": "Open-source web tracking",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Run Business"
       ],
@@ -81,8 +81,8 @@
       "slug": "hotjar",
       "title": "Hotjar",
       "description": "User behavior analytics",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Run Business"
       ],
@@ -106,8 +106,8 @@
       "slug": "matomo",
       "title": "Matomo",
       "description": "Open-source web analytics",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Run Business"
       ],
@@ -132,8 +132,8 @@
       "slug": "wise",
       "title": "Wise",
       "description": "International money transfers",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Run Business"
       ],
@@ -158,8 +158,8 @@
       "slug": "zohobooks",
       "title": "Zoho Books",
       "description": "Online accounting software",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Run Business"
       ],
@@ -183,8 +183,8 @@
       "slug": "expensify",
       "title": "Expensify",
       "description": "Expense tracking and reporting",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Run Business"
       ],
@@ -209,8 +209,8 @@
       "slug": "keycloak",
       "title": "Keycloak",
       "description": "Open-source identity management",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Create & Build"
       ],
@@ -234,8 +234,8 @@
       "slug": "caddy",
       "title": "Caddy",
       "description": "Web server with auto HTTPS",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Create & Build"
       ],
@@ -259,8 +259,8 @@
       "slug": "vercel",
       "title": "Vercel",
       "description": "Deploy and scale web apps",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Create & Build"
       ],
@@ -284,8 +284,8 @@
       "slug": "letsencrypt",
       "title": "Let's Encrypt",
       "description": "Free SSL certificates",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Create & Build"
       ],
@@ -309,8 +309,8 @@
       "slug": "cloudflare",
       "title": "Cloudflare",
       "description": "CDN and security for websites",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Create & Build"
       ],
@@ -334,8 +334,8 @@
       "slug": "taskade",
       "title": "Taskade",
       "description": "Collaborative task management",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Run Business"
       ],
@@ -360,8 +360,8 @@
       "slug": "zulip",
       "title": "Zulip",
       "description": "Open-source team chat with threads",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Run Business"
       ],
@@ -386,8 +386,8 @@
       "slug": "slite",
       "title": "Slite",
       "description": "Team docs and knowledge base",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Run Business"
       ],
@@ -411,8 +411,8 @@
       "slug": "nextcloud",
       "title": "Nextcloud",
       "description": "Self-hosted cloud storage",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Run Business"
       ],
@@ -436,8 +436,8 @@
       "slug": "protonmail",
       "title": "ProtonMail",
       "description": "Encrypted email service",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Run Business"
       ],
@@ -462,8 +462,8 @@
       "slug": "spike",
       "title": "Spike",
       "description": "Email and chat in one app",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Run Business"
       ],
@@ -488,8 +488,8 @@
       "slug": "jitsi",
       "title": "Jitsi",
       "description": "Open-source video conferencing",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Run Business"
       ],
@@ -514,8 +514,8 @@
       "slug": "baselime",
       "title": "Baselime",
       "description": "Observability for serverless apps",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Create & Build"
       ],
@@ -539,8 +539,8 @@
       "slug": "pipefy",
       "title": "Pipefy",
       "description": "Workflow management for teams",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Run Business"
       ],
@@ -564,8 +564,8 @@
       "slug": "tally",
       "title": "Tally",
       "description": "Simple form builder with no limits",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Get & Keep Customers"
       ],
@@ -589,8 +589,8 @@
       "slug": "odoo",
       "title": "Odoo",
       "description": "Open-source ERP and CRM",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Run Business"
       ],
@@ -615,8 +615,8 @@
       "slug": "clickup",
       "title": "ClickUp",
       "description": "All-in-one project management",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Run Business"
       ],
@@ -641,8 +641,8 @@
       "slug": "appgyver",
       "title": "AppGyver",
       "description": "No-code app development platform",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Create & Build"
       ],
@@ -666,8 +666,8 @@
       "slug": "strapi",
       "title": "Strapi",
       "description": "Open-source headless CMS",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Create & Build"
       ],
@@ -691,8 +691,8 @@
       "slug": "typedream",
       "title": "Typedream",
       "description": "No-code website builder",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Create & Build"
       ],
@@ -716,8 +716,8 @@
       "slug": "glide",
       "title": "Glide",
       "description": "Build apps from spreadsheets",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Create & Build"
       ],
@@ -741,8 +741,8 @@
       "slug": "bubble",
       "title": "Bubble",
       "description": "No-code web app builder",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Create & Build"
       ],
@@ -766,8 +766,8 @@
       "slug": "photopea",
       "title": "Photopea",
       "description": "Free Photoshop-like editor online",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Create & Build"
       ],
@@ -791,8 +791,8 @@
       "slug": "framer",
       "title": "Framer",
       "description": "Design and prototyping for web",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Create & Build"
       ],
@@ -816,8 +816,8 @@
       "slug": "freshdesk",
       "title": "Freshdesk",
       "description": "Customer support and ticketing",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Get & Keep Customers"
       ],
@@ -841,8 +841,8 @@
       "slug": "sender",
       "title": "Sender",
       "description": "Email marketing and automation",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Get & Keep Customers"
       ],
@@ -866,8 +866,8 @@
       "slug": "tawkto",
       "title": "Tawk.to",
       "description": "Free live chat for websites",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Get & Keep Customers"
       ],
@@ -891,8 +891,8 @@
       "slug": "crisp",
       "title": "Crisp",
       "description": "Customer messaging and support",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Get & Keep Customers"
       ],
@@ -916,8 +916,8 @@
       "slug": "mailshake",
       "title": "Mailshake",
       "description": "Cold email outreach tool",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Get & Keep Customers"
       ],
@@ -941,8 +941,8 @@
       "slug": "panelbear",
       "title": "Panelbear",
       "description": "Lightweight website analytics",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Run Business"
       ],
@@ -966,8 +966,8 @@
       "slug": "pirsch",
       "title": "Pirsch",
       "description": "Simple, privacy-focused analytics",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Run Business"
       ],
@@ -991,8 +991,8 @@
       "slug": "posthog",
       "title": "PostHog",
       "description": "Open-source product analytics",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Run Business"
       ],
@@ -1017,8 +1017,8 @@
       "slug": "invoiceninja",
       "title": "Invoice Ninja",
       "description": "Open-source invoicing and payments",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Run Business"
       ],
@@ -1043,8 +1043,8 @@
       "slug": "bonsai",
       "title": "Bonsai",
       "description": "Freelancer invoicing and contracts",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Run Business"
       ],
@@ -1068,8 +1068,8 @@
       "slug": "paddle",
       "title": "Paddle",
       "description": "Payment processing for software",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Run Business"
       ],
@@ -1093,8 +1093,8 @@
       "slug": "borgbackup",
       "title": "BorgBackup",
       "description": "Deduplicating backup tool",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Run Business"
       ],
@@ -1118,8 +1118,8 @@
       "slug": "duplicati",
       "title": "Duplicati",
       "description": "Free backup with encryption",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Run Business"
       ],
@@ -1144,8 +1144,8 @@
       "slug": "arqbackup",
       "title": "Arq Backup",
       "description": "Encrypted backup to cloud or local",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Run Business"
       ],
@@ -1169,8 +1169,8 @@
       "slug": "restic",
       "title": "Restic",
       "description": "Secure and efficient backup software",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Run Business"
       ],
@@ -1194,8 +1194,8 @@
       "slug": "kopia",
       "title": "Kopia",
       "description": "Fast, encrypted backup tool",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Run Business"
       ],
@@ -1220,8 +1220,8 @@
       "slug": "flyio",
       "title": "Fly.io",
       "description": "Deploy apps close to users globally",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Create & Build"
       ],
@@ -1245,8 +1245,8 @@
       "slug": "netlify",
       "title": "Netlify",
       "description": "Hosting and deployment for web projects",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Create & Build"
       ],
@@ -1270,8 +1270,8 @@
       "slug": "digitalocean",
       "title": "DigitalOcean",
       "description": "Cloud infrastructure for developers",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Create & Build"
       ],
@@ -1295,8 +1295,8 @@
       "slug": "render",
       "title": "Render",
       "description": "Cloud hosting for apps and sites",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Create & Build"
       ],
@@ -1320,8 +1320,8 @@
       "slug": "snyk",
       "title": "Snyk",
       "description": "Security for code dependencies",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Create & Build"
       ],
@@ -1346,8 +1346,8 @@
       "slug": "simplelogin",
       "title": "SimpleLogin",
       "description": "Email alias for privacy protection",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Run Business"
       ],
@@ -1371,8 +1371,8 @@
       "slug": "krypton",
       "title": "Krypton",
       "description": "Secure SSH key management on mobile",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Run Business"
       ],
@@ -1396,8 +1396,8 @@
       "slug": "bitwarden",
       "title": "Bitwarden",
       "description": "Open-source password manager",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Run Business"
       ],
@@ -1423,8 +1423,8 @@
       "slug": "obsidian",
       "title": "Obsidian",
       "description": "Knowledge graph note-taking app",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Run Business"
       ],
@@ -1448,8 +1448,8 @@
       "slug": "plausible",
       "title": "Plausible",
       "description": "Lightweight, privacy-first analytics",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Run Business"
       ],
@@ -1474,8 +1474,8 @@
       "slug": "linear",
       "title": "Linear",
       "description": "Issue tracking for software teams",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Run Business"
       ],
@@ -1499,8 +1499,8 @@
       "slug": "miro",
       "title": "Miro",
       "description": "Online whiteboard for team collaboration",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Run Business"
       ],
@@ -1524,8 +1524,8 @@
       "slug": "cryptpad",
       "title": "Cryptpad",
       "description": "Encrypted collaborative document editor",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Run Business"
       ],
@@ -1550,8 +1550,8 @@
       "slug": "anytype",
       "title": "Anytype",
       "description": "Privacy-focused note-taking and organization",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Run Business"
       ],
@@ -1576,8 +1576,8 @@
       "slug": "rocketchat",
       "title": "Rocket.Chat",
       "description": "Open-source team communication platform",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Run Business"
       ],
@@ -1602,8 +1602,8 @@
       "slug": "slab",
       "title": "Slab",
       "description": "Team knowledge base and wiki",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Run Business"
       ],
@@ -1627,8 +1627,8 @@
       "slug": "recruitee",
       "title": "Recruitee",
       "description": "Hiring and applicant tracking system",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Run Business"
       ],
@@ -1652,8 +1652,8 @@
       "slug": "windmill",
       "title": "Windmill",
       "description": "Open-source workflow and script runner",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Run Business"
       ],
@@ -1678,8 +1678,8 @@
       "slug": "huginn",
       "title": "Huginn",
       "description": "Self-hosted automation for tasks",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Run Business"
       ],
@@ -1703,8 +1703,8 @@
       "slug": "n8n",
       "title": "n8n",
       "description": "Open-source workflow automation tool",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Run Business"
       ],
@@ -1729,8 +1729,8 @@
       "slug": "retool",
       "title": "Retool",
       "description": "Build internal tools quickly",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Create & Build",
         "Run Business"
@@ -1755,8 +1755,8 @@
       "slug": "baserow",
       "title": "Baserow",
       "description": "Open-source no-code database tool",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Run Business"
       ],
@@ -1781,8 +1781,8 @@
       "slug": "fibery",
       "title": "Fibery",
       "description": "Flexible work management platform",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Run Business"
       ],
@@ -1806,8 +1806,8 @@
       "slug": "nocodb",
       "title": "NocoDB",
       "description": "Open-source Airtable alternative",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Run Business"
       ],
@@ -1832,8 +1832,8 @@
       "slug": "splitbee",
       "title": "Splitbee",
       "description": "Privacy-focused web analytics",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Run Business"
       ],
@@ -1857,8 +1857,8 @@
       "slug": "metabase",
       "title": "Metabase",
       "description": "Open-source business intelligence tool",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Run Business"
       ],
@@ -1883,8 +1883,8 @@
       "slug": "evidence",
       "title": "Evidence",
       "description": "Data reports with SQL and markdown",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Run Business"
       ],
@@ -1909,8 +1909,8 @@
       "slug": "datasette",
       "title": "Datasette",
       "description": "Tool for exploring and publishing data",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Run Business"
       ],
@@ -1935,8 +1935,8 @@
       "slug": "fliki",
       "title": "Fliki",
       "description": "Text-to-video and voiceover generator",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Create & Build"
       ],
@@ -1960,8 +1960,8 @@
       "slug": "inkdrop",
       "title": "Inkdrop",
       "description": "Markdown note-taking app for developers",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Run Business"
       ],
@@ -1986,8 +1986,8 @@
       "slug": "memberstack",
       "title": "Memberstack",
       "description": "User authentication for websites",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Create & Build"
       ],
@@ -2011,8 +2011,8 @@
       "slug": "ghost",
       "title": "Ghost",
       "description": "Publishing platform for blogs and newsletters",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Create & Build",
         "Get & Keep Customers"
@@ -2038,8 +2038,8 @@
       "slug": "codesandbox",
       "title": "CodeSandbox",
       "description": "Online code editor for rapid prototyping",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Create & Build"
       ],
@@ -2063,8 +2063,8 @@
       "slug": "railway",
       "title": "Railway",
       "description": "Deploy apps with minimal configuration",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Create & Build"
       ],
@@ -2088,8 +2088,8 @@
       "slug": "supabase",
       "title": "Supabase",
       "description": "Open-source Firebase alternative",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Create & Build"
       ],
@@ -2114,8 +2114,8 @@
       "slug": "appwrite",
       "title": "Appwrite",
       "description": "Open-source backend-as-a-service platform",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Create & Build"
       ],
@@ -2139,8 +2139,8 @@
       "slug": "lunacy",
       "title": "Lunacy",
       "description": "Free design software with built-in assets",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Create & Build"
       ],
@@ -2164,8 +2164,8 @@
       "slug": "penpot",
       "title": "Penpot",
       "description": "Open-source design tool for teams",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Create & Build"
       ],
@@ -2190,8 +2190,8 @@
       "slug": "figma",
       "title": "Figma",
       "description": "Collaborative design and prototyping tool",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Create & Build"
       ],
@@ -2215,8 +2215,8 @@
       "slug": "amity",
       "title": "Amity",
       "description": "Social features SDK for apps and websites",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Create & Build"
       ],
@@ -2240,8 +2240,8 @@
       "slug": "chaskiq",
       "title": "Chaskiq",
       "description": "Open-source live chat for customer engagement",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Get & Keep Customers"
       ],
@@ -2265,8 +2265,8 @@
       "slug": "chatwoot",
       "title": "Chatwoot",
       "description": "Open-source customer support chat platform",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Get & Keep Customers"
       ],
@@ -2291,8 +2291,8 @@
       "slug": "omniconvert",
       "title": "OmniConvert",
       "description": "A/B testing and conversion optimization tool",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Get & Keep Customers"
       ],
@@ -2316,8 +2316,8 @@
       "slug": "listmonk",
       "title": "Listmonk",
       "description": "Self-hosted newsletter and mailing list manager",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "author": "Waleed Sadek",
+      "username": "waleed",
       "categories": [
         "Get & Keep Customers",
         "Run Business"
