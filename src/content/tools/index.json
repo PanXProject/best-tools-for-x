@@ -1,31 +1,6 @@
 {
   "tools": [
     {
-      "id": "let-s-do-this",
-      "slug": "let-s-do-this",
-      "title": "let's do this",
-      "description": "kjdgkjsnjdknsjknjksngkjsnkjgnskjgg",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
-      "categories": [
-        "Get & Keep Customers"
-      ],
-      "tags": [
-        "ai",
-        "hello"
-      ],
-      "pricing": {
-        "model": "free-trial"
-      },
-      "softwareTypes": [
-        "web-app",
-        "mobile-app"
-      ],
-      "publishDate": "2025-04-08T04:56:42.393Z",
-      "heroImage": "",
-      "toolUrl": "https://why.com"
-    },
-    {
       "id": "teachable",
       "slug": "teachable",
       "title": "Teachable",
@@ -2364,5 +2339,5 @@
       "toolUrl": "https://listmonk.app"
     }
   ],
-  "lastUpdated": "2025-04-08T04:56:43.170Z"
+  "lastUpdated": "2025-04-08T04:59:43.726Z"
 }
