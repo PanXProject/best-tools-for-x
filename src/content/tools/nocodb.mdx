@@ -1,0 +1,23 @@
+---
+title: "NocoDB"
+description: "Open-source Airtable alternative"
+author: "Waleed Sadek"
+username: "waleed"
+categories: ["Run Business"]
+tags: ["database", "no-code"]
+pricing:
+  model: "free"
+softwareTypes: ["web-app", "self-hosted"]
+publishDate: "2025-04-07T21:06:00.317Z"
+heroImage: ""
+toolUrl: "https://nocodb.com"
+---
+## About
+NocoDB turns your database into a spreadsheet-like interface. Self-host it to manage projects or inventory securely. Use it as a free, customizable alternative to Airtable for team workflows.
+
+## Features
+- Connect to existing databases
+- Edit data in grid view
+- Self-host for privacy
+- Share views with permissions
+- Automate tasks with webhooks

@@ -1,0 +1,23 @@
+---
+title: "Anytype"
+description: "Privacy-focused note-taking and organization"
+author: "Waleed Sadek"
+username: "waleed"
+categories: ["Run Business"]
+tags: ["notes", "privacy"]
+pricing:
+  model: "free"
+softwareTypes: ["desktop-app", "mobile-app"]
+publishDate: "2025-04-07T21:16:00.317Z"
+heroImage: ""
+toolUrl: "https://anytype.io"
+---
+## About
+Anytype keeps notes and tasks offline with end-to-end encryption. Use it to manage personal or team projects securely. Great for privacy-conscious users who need flexible organization.
+
+## Features
+- Store data locally
+- Link notes in a graph view
+- Sync across devices securely
+- Customize templates for tasks
+- Work offline without internet

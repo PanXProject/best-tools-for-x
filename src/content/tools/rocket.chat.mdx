@@ -1,0 +1,23 @@
+---
+title: "Rocket.Chat"
+description: "Open-source team communication platform"
+author: "Waleed Sadek"
+username: "waleed"
+categories: ["Run Business"]
+tags: ["chat", "team"]
+pricing:
+  model: "freemium"
+softwareTypes: ["web-app", "self-hosted"]
+publishDate: "2025-04-07T21:15:00.317Z"
+heroImage: ""
+toolUrl: "https://rocket.chat"
+---
+## About
+Rocket.Chat replaces Slack with a self-hosted chat solution. Use it for secure team messaging without external hosting. Ideal for orgs needing privacy or custom integrations.
+
+## Features
+- Host on your own server
+- Create channels for projects
+- Share files securely
+- Video call within app
+- Customize with open-source code

@@ -1,0 +1,23 @@
+---
+title: "Keycloak"
+description: "Open-source identity management"
+author: "Waleed Sadek"
+username: "waleed"
+categories: ["Create & Build"]
+tags: ["auth", "identity"]
+pricing:
+  model: "free"
+softwareTypes: ["self-hosted"]
+publishDate: "2025-04-07T22:09:00.317Z"
+heroImage: ""
+toolUrl: "https://keycloak.org"
+---
+## About
+Keycloak adds user auth and SSO to apps, self-hosted for control. Use it to secure internal tools or public sites. Ideal for devs building systems with complex user roles.
+
+## Features
+- Add SSO with one setup
+- Self-host for privacy
+- Manage users and roles
+- Support social logins
+- Integrate via OpenID
