@@ -1,1385 +1,2368 @@
 {
   "tools": [
-  {
-    "id": "listmonk",
-    "slug": "listmonk",
-    "title": "Listmonk",
-    "description": "Self-hosted newsletter and mailing list manager",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Get & Keep Customers", "Run Business"],
-    "tags": ["email", "newsletter", "self-hosted"],
-    "pricing": {"model": "free"},
-    "softwareTypes": ["web-app", "self-hosted"],
-    "publishDate": "2025-04-07T20:46:46.317Z",
-    "heroImage": "",
-    "toolUrl": "https://listmonk.app"
-  },
-  {
-    "id": "omniconvert",
-    "slug": "omniconvert",
-    "title": "OmniConvert",
-    "description": "A/B testing and conversion optimization tool",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Get & Keep Customers"],
-    "tags": ["ab-testing", "conversion", "analytics"],
-    "pricing": {"model": "subscription"},
-    "softwareTypes": ["web-app"],
-    "publishDate": "2025-04-07T20:47:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://omniconvert.com"
-  },
-  {
-    "id": "chatwoot",
-    "slug": "chatwoot",
-    "title": "Chatwoot",
-    "description": "Open-source customer support chat platform",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Get & Keep Customers"],
-    "tags": ["chat", "support", "open-source"],
-    "pricing": {"model": "freemium"},
-    "softwareTypes": ["web-app", "self-hosted"],
-    "publishDate": "2025-04-07T20:48:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://chatwoot.com"
-  },
-  {
-    "id": "chaskiq",
-    "slug": "chaskiq",
-    "title": "Chaskiq",
-    "description": "Open-source live chat for customer engagement",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Get & Keep Customers"],
-    "tags": ["live-chat", "open-source"],
-    "pricing": {"model": "free"},
-    "softwareTypes": ["web-app", "self-hosted"],
-    "publishDate": "2025-04-07T20:49:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://chaskiq.io"
-  },
-  {
-    "id": "amity",
-    "slug": "amity",
-    "title": "Amity",
-    "description": "Social features SDK for apps and websites",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Create & Build"],
-    "tags": ["social", "sdk", "community"],
-    "pricing": {"model": "custom-pricing"},
-    "softwareTypes": ["web-app"],
-    "publishDate": "2025-04-07T20:50:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://amity.co"
-  },
-  {
-    "id": "figma",
-    "slug": "figma",
-    "title": "Figma",
-    "description": "Collaborative design and prototyping tool",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Create & Build"],
-    "tags": ["design", "collaboration", "ui"],
-    "pricing": {"model": "freemium"},
-    "softwareTypes": ["web-app"],
-    "publishDate": "2025-04-07T20:51:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://figma.com"
-  },
-  {
-    "id": "penpot",
-    "slug": "penpot",
-    "title": "Penpot",
-    "description": "Open-source design tool for teams",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Create & Build"],
-    "tags": ["design", "open-source", "ui"],
-    "pricing": {"model": "free"},
-    "softwareTypes": ["web-app", "self-hosted"],
-    "publishDate": "2025-04-07T20:52:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://penpot.app"
-  },
-  {
-    "id": "lunacy",
-    "slug": "lunacy",
-    "title": "Lunacy",
-    "description": "Free design software with built-in assets",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Create & Build"],
-    "tags": ["design", "free", "ui"],
-    "pricing": {"model": "free"},
-    "softwareTypes": ["desktop-app"],
-    "publishDate": "2025-04-07T20:53:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://icons8.com/lunacy"
-  },
-  {
-    "id": "appwrite",
-    "slug": "appwrite",
-    "title": "Appwrite",
-    "description": "Open-source backend-as-a-service platform",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Create & Build"],
-    "tags": ["backend", "open-source", "api"],
-    "pricing": {"model": "free"},
-    "softwareTypes": ["self-hosted"],
-    "publishDate": "2025-04-07T20:54:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://appwrite.io"
-  },
-  {
-    "id": "supabase",
-    "slug": "supabase",
-    "title": "Supabase",
-    "description": "Open-source Firebase alternative",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Create & Build"],
-    "tags": ["database", "open-source", "api"],
-    "pricing": {"model": "freemium"},
-    "softwareTypes": ["web-app", "self-hosted"],
-    "publishDate": "2025-04-07T20:55:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://supabase.com"
-  },
-  {
-    "id": "railway",
-    "slug": "railway",
-    "title": "Railway",
-    "description": "Deploy apps with minimal configuration",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Create & Build"],
-    "tags": ["deployment", "cloud", "devops"],
-    "pricing": {"model": "pay-per-use"},
-    "softwareTypes": ["web-app"],
-    "publishDate": "2025-04-07T20:56:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://railway.app"
-  },
-  {
-    "id": "codesandbox",
-    "slug": "codesandbox",
-    "title": "CodeSandbox",
-    "description": "Online code editor for rapid prototyping",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Create & Build"],
-    "tags": ["coding", "prototyping", "web"],
-    "pricing": {"model": "freemium"},
-    "softwareTypes": ["web-app"],
-    "publishDate": "2025-04-07T20:57:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://codesandbox.io"
-  },
-  {
-    "id": "ghost",
-    "slug": "ghost",
-    "title": "Ghost",
-    "description": "Publishing platform for blogs and newsletters",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Create & Build", "Get & Keep Customers"],
-    "tags": ["blogging", "newsletter", "cms"],
-    "pricing": {"model": "subscription"},
-    "softwareTypes": ["web-app", "self-hosted"],
-    "publishDate": "2025-04-07T20:58:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://ghost.org"
-  },
-  {
-    "id": "memberstack",
-    "slug": "memberstack",
-    "title": "Memberstack",
-    "description": "User authentication for websites",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Create & Build"],
-    "tags": ["auth", "membership", "web"],
-    "pricing": {"model": "subscription"},
-    "softwareTypes": ["web-app"],
-    "publishDate": "2025-04-07T20:59:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://memberstack.com"
-  },
-  {
-    "id": "inkdrop",
-    "slug": "inkdrop",
-    "title": "Inkdrop",
-    "description": "Markdown note-taking app for developers",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Run Business"],
-    "tags": ["notes", "markdown", "dev"],
-    "pricing": {"model": "subscription"},
-    "softwareTypes": ["desktop-app", "mobile-app"],
-    "publishDate": "2025-04-07T21:00:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://inkdrop.app"
-  },
-  {
-    "id": "fliki",
-    "slug": "fliki",
-    "title": "Fliki",
-    "description": "Text-to-video and voiceover generator",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Create & Build"],
-    "tags": ["video", "ai", "voiceover"],
-    "pricing": {"model": "subscription"},
-    "softwareTypes": ["web-app"],
-    "publishDate": "2025-04-07T21:01:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://fliki.ai"
-  },
-  {
-    "id": "datasette",
-    "slug": "datasette",
-    "title": "Datasette",
-    "description": "Tool for exploring and publishing data",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Run Business"],
-    "tags": ["data", "open-source", "analysis"],
-    "pricing": {"model": "free"},
-    "softwareTypes": ["web-app", "self-hosted"],
-    "publishDate": "2025-04-07T21:02:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://datasette.io"
-  },
-  {
-    "id": "evidence",
-    "slug": "evidence",
-    "title": "Evidence",
-    "description": "Data reports with SQL and markdown",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Run Business"],
-    "tags": ["data", "sql", "reports"],
-    "pricing": {"model": "free"},
-    "softwareTypes": ["web-app", "self-hosted"],
-    "publishDate": "2025-04-07T21:03:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://evidence.dev"
-  },
-  {
-    "id": "metabase",
-    "slug": "metabase",
-    "title": "Metabase",
-    "description": "Open-source business intelligence tool",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Run Business"],
-    "tags": ["bi", "analytics", "open-source"],
-    "pricing": {"model": "freemium"},
-    "softwareTypes": ["web-app", "self-hosted"],
-    "publishDate": "2025-04-07T21:04:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://metabase.com"
-  },
-  {
-    "id": "splitbee",
-    "slug": "splitbee",
-    "title": "Splitbee",
-    "description": "Privacy-focused web analytics",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Run Business"],
-    "tags": ["analytics", "privacy", "web"],
-    "pricing": {"model": "freemium"},
-    "softwareTypes": ["web-app"],
-    "publishDate": "2025-04-07T21:05:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://splitbee.io"
-  },
-  {
-    "id": "nocodb",
-    "slug": "nocodb",
-    "title": "NocoDB",
-    "description": "Open-source Airtable alternative",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Run Business"],
-    "tags": ["database", "open-source", "spreadsheet"],
-    "pricing": {"model": "free"},
-    "softwareTypes": ["web-app", "self-hosted"],
-    "publishDate": "2025-04-07T21:06:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://nocodb.com"
-  },
-  {
-    "id": "fibery",
-    "slug": "fibery",
-    "title": "Fibery",
-    "description": "Flexible work management platform",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Run Business"],
-    "tags": ["project", "collaboration", "workflow"],
-    "pricing": {"model": "subscription"},
-    "softwareTypes": ["web-app"],
-    "publishDate": "2025-04-07T21:07:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://fibery.io"
-  },
-  {
-    "id": "baserow",
-    "slug": "baserow",
-    "title": "Baserow",
-    "description": "Open-source no-code database tool",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Run Business"],
-    "tags": ["database", "no-code", "open-source"],
-    "pricing": {"model": "freemium"},
-    "softwareTypes": ["web-app", "self-hosted"],
-    "publishDate": "2025-04-07T21:08:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://baserow.io"
-  },
-  {
-    "id": "retool",
-    "slug": "retool",
-    "title": "Retool",
-    "description": "Build internal tools quickly",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Create & Build", "Run Business"],
-    "tags": ["internal-tools", "no-code", "dev"],
-    "pricing": {"model": "subscription"},
-    "softwareTypes": ["web-app"],
-    "publishDate": "2025-04-07T21:09:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://retool.com"
-  },
-  {
-    "id": "n8n",
-    "slug": "n8n",
-    "title": "n8n",
-    "description": "Open-source workflow automation tool",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Run Business"],
-    "tags": ["automation", "open-source", "workflow"],
-    "pricing": {"model": "freemium"},
-    "softwareTypes": ["web-app", "self-hosted"],
-    "publishDate": "2025-04-07T21:10:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://n8n.io"
-  },
-  {
-    "id": "huginn",
-    "slug": "huginn",
-    "title": "Huginn",
-    "description": "Self-hosted automation for tasks",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Run Business"],
-    "tags": ["automation", "open-source", "tasks"],
-    "pricing": {"model": "free"},
-    "softwareTypes": ["self-hosted"],
-    "publishDate": "2025-04-07T21:11:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://github.com/huginn/huginn"
-  },
-  {
-    "id": "windmill",
-    "slug": "windmill",
-    "title": "Windmill",
-    "description": "Open-source workflow and script runner",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Run Business"],
-    "tags": ["workflow", "open-source", "scripts"],
-    "pricing": {"model": "freemium"},
-    "softwareTypes": ["web-app", "self-hosted"],
-    "publishDate": "2025-04-07T21:12:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://windmill.dev"
-  },
-  {
-    "id": "recruitee",
-    "slug": "recruitee",
-    "title": "Recruitee",
-    "description": "Hiring and applicant tracking system",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Run Business"],
-    "tags": ["hiring", "ats", "recruitment"],
-    "pricing": {"model": "subscription"},
-    "softwareTypes": ["web-app"],
-    "publishDate": "2025-04-07T21:13:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://recruitee.com"
-  },
-  {
-    "id": "slab",
-    "slug": "slab",
-    "title": "Slab",
-    "description": "Team knowledge base and wiki",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Run Business"],
-    "tags": ["knowledge", "wiki", "team"],
-    "pricing": {"model": "subscription"},
-    "softwareTypes": ["web-app"],
-    "publishDate": "2025-04-07T21:14:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://slab.com"
-  },
-  {
-    "id": "rocketchat",
-    "slug": "rocketchat",
-    "title": "Rocket.Chat",
-    "description": "Open-source team communication platform",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Run Business"],
-    "tags": ["chat", "open-source", "team"],
-    "pricing": {"model": "freemium"},
-    "softwareTypes": ["web-app", "self-hosted"],
-    "publishDate": "2025-04-07T21:15:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://rocket.chat"
-  },
-  {
-    "id": "anytype",
-    "slug": "anytype",
-    "title": "Anytype",
-    "description": "Privacy-focused note-taking and organization",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Run Business"],
-    "tags": ["notes", "privacy", "organization"],
-    "pricing": {"model": "free"},
-    "softwareTypes": ["desktop-app", "mobile-app"],
-    "publishDate": "2025-04-07T21:16:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://anytype.io"
-  },
-  {
-    "id": "cryptpad",
-    "slug": "cryptpad",
-    "title": "Cryptpad",
-    "description": "Encrypted collaborative document editor",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Run Business"],
-    "tags": ["encryption", "docs", "collaboration"],
-    "pricing": {"model": "freemium"},
-    "softwareTypes": ["web-app", "self-hosted"],
-    "publishDate": "2025-04-07T21:17:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://cryptpad.fr"
-  },
-  {
-    "id": "miro",
-    "slug": "miro",
-    "title": "Miro",
-    "description": "Online whiteboard for team collaboration",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Run Business"],
-    "tags": ["whiteboard", "collaboration", "team"],
-    "pricing": {"model": "freemium"},
-    "softwareTypes": ["web-app"],
-    "publishDate": "2025-04-07T21:18:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://miro.com"
-  },
-  {
-    "id": "linear",
-    "slug": "linear",
-    "title": "Linear",
-    "description": "Issue tracking for software teams",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Run Business"],
-    "tags": ["project", "dev", "tracking"],
-    "pricing": {"model": "subscription"},
-    "softwareTypes": ["web-app"],
-    "publishDate": "2025-04-07T21:19:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://linear.app"
-  },
-  {
-    "id": "plausible",
-    "slug": "plausible",
-    "title": "Plausible",
-    "description": "Lightweight, privacy-first analytics",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Run Business"],
-    "tags": ["analytics", "privacy", "web"],
-    "pricing": {"model": "subscription"},
-    "softwareTypes": ["web-app", "self-hosted"],
-    "publishDate": "2025-04-07T21:20:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://plausible.io"
-  },
-  {
-    "id": "obsidian",
-    "slug": "obsidian",
-    "title": "Obsidian",
-    "description": "Knowledge graph note-taking app",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Run Business"],
-    "tags": ["notes", "knowledge", "markdown"],
-    "pricing": {"model": "freemium"},
-    "softwareTypes": ["desktop-app"],
-    "publishDate": "2025-04-07T21:21:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://obsidian.md"
-  },
-  {
-    "id": "bitwarden",
-    "slug": "bitwarden",
-    "title": "Bitwarden",
-    "description": "Open-source password manager",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Run Business"],
-    "tags": ["password", "security", "open-source"],
-    "pricing": {"model": "freemium"},
-    "softwareTypes": ["web-app", "desktop-app", "mobile-app"],
-    "publishDate": "2025-04-07T21:22:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://bitwarden.com"
-  },
-  {
-    "id": "krypton",
-    "slug": "krypton",
-    "title": "Krypton",
-    "description": "Secure SSH key management on mobile",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Run Business"],
-    "tags": ["security", "ssh", "mobile"],
-    "pricing": {"model": "free"},
-    "softwareTypes": ["mobile-app"],
-    "publishDate": "2025-04-07T21:23:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://krypt.co"
-  },
-  {
-    "id": "simplelogin",
-    "slug": "simplelogin",
-    "title": "SimpleLogin",
-    "description": "Email alias for privacy protection",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Run Business"],
-    "tags": ["email", "privacy", "alias"],
-    "pricing": {"model": "freemium"},
-    "softwareTypes": ["web-app"],
-    "publishDate": "2025-04-07T21:24:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://simplelogin.io"
-  },
-  {
-    "id": "snyk",
-    "slug": "snyk",
-    "title": "Snyk",
-    "description": "Security for code dependencies",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Create & Build"],
-    "tags": ["security", "dev", "dependencies"],
-    "pricing": {"model": "freemium"},
-    "softwareTypes": ["web-app", "cli"],
-    "publishDate": "2025-04-07T21:25:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://snyk.io"
-  },
-  {
-    "id": "render",
-    "slug": "render",
-    "title": "Render",
-    "description": "Cloud hosting for apps and sites",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Create & Build"],
-    "tags": ["hosting", "cloud", "devops"],
-    "pricing": {"model": "pay-per-use"},
-    "softwareTypes": ["web-app"],
-    "publishDate": "2025-04-07T21:26:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://render.com"
-  },
-  {
-    "id": "digitalocean",
-    "slug": "digitalocean",
-    "title": "DigitalOcean",
-    "description": "Cloud infrastructure for developers",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Create & Build"],
-    "tags": ["cloud", "hosting", "devops"],
-    "pricing": {"model": "pay-per-use"},
-    "softwareTypes": ["web-app"],
-    "publishDate": "2025-04-07T21:27:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://digitalocean.com"
-  },
-  {
-    "id": "netlify",
-    "slug": "netlify",
-    "title": "Netlify",
-    "description": "Hosting and deployment for web projects",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Create & Build"],
-    "tags": ["hosting", "web", "deployment"],
-    "pricing": {"model": "freemium"},
-    "softwareTypes": ["web-app"],
-    "publishDate": "2025-04-07T21:28:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://netlify.com"
-  },
-  {
-    "id": "flyio",
-    "slug": "flyio",
-    "title": "Fly.io",
-    "description": "Deploy apps close to users globally",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Create & Build"],
-    "tags": ["deployment", "cloud", "global"],
-    "pricing": {"model": "pay-per-use"},
-    "softwareTypes": ["web-app"],
-    "publishDate": "2025-04-07T21:29:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://fly.io"
-  },
-  {
-    "id": "kopia",
-    "slug": "kopia",
-    "title": "Kopia",
-    "description": "Fast, encrypted backup tool",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Run Business"],
-    "tags": ["backup", "encryption", "open-source"],
-    "pricing": {"model": "free"},
-    "softwareTypes": ["desktop-app", "cli"],
-    "publishDate": "2025-04-07T21:30:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://kopia.io"
-  },
-  {
-    "id": "restic",
-    "slug": "restic",
-    "title": "Restic",
-    "description": "Secure and efficient backup software",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Run Business"],
-    "tags": ["backup", "encryption", "open-source"],
-    "pricing": {"model": "free"},
-    "softwareTypes": ["cli"],
-    "publishDate": "2025-04-07T21:31:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://restic.net"
-  },
-  {
-    "id": "arqbackup",
-    "slug": "arqbackup",
-    "title": "Arq Backup",
-    "description": "Encrypted backup to cloud or local",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Run Business"],
-    "tags": ["backup", "encryption", "cloud"],
-    "pricing": {"model": "one-time-payment"},
-    "softwareTypes": ["desktop-app"],
-    "publishDate": "2025-04-07T21:32:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://arqbackup.com"
-  },
-  {
-    "id": "duplicati",
-    "slug": "duplicati",
-    "title": "Duplicati",
-    "description": "Free backup with encryption",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Run Business"],
-    "tags": ["backup", "encryption", "open-source"],
-    "pricing": {"model": "free"},
-    "softwareTypes": ["desktop-app", "self-hosted"],
-    "publishDate": "2025-04-07T21:33:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://duplicati.com"
-  },
-  {
-    "id": "borgbackup",
-    "slug": "borgbackup",
-    "title": "BorgBackup",
-    "description": "Deduplicating backup tool",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Run Business"],
-    "tags": ["backup", "deduplication", "open-source"],
-    "pricing": {"model": "free"},
-    "softwareTypes": ["cli"],
-    "publishDate": "2025-04-07T21:34:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://borgbackup.org"
-  },
-  {
-    "id": "paddle",
-    "slug": "paddle",
-    "title": "Paddle",
-    "description": "Payment processing for software",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Run Business"],
-    "tags": ["payment", "billing", "software"],
-    "pricing": {"model": "custom-pricing"},
-    "softwareTypes": ["web-app"],
-    "publishDate": "2025-04-07T21:35:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://paddle.com"
-  },
-  {
-    "id": "bonsai",
-    "slug": "bonsai",
-    "title": "Bonsai",
-    "description": "Freelancer invoicing and contracts",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Run Business"],
-    "tags": ["invoicing", "contracts", "freelance"],
-    "pricing": {"model": "subscription"},
-    "softwareTypes": ["web-app"],
-    "publishDate": "2025-04-07T21:36:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://hellobonsai.com"
-  },
-  {
-    "id": "invoiceninja",
-    "slug": "invoiceninja",
-    "title": "Invoice Ninja",
-    "description": "Open-source invoicing and payments",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Run Business"],
-    "tags": ["invoicing", "open-source", "payments"],
-    "pricing": {"model": "freemium"},
-    "softwareTypes": ["web-app", "self-hosted"],
-    "publishDate": "2025-04-07T21:37:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://invoiceninja.com"
-  },
-  {
-    "id": "posthog",
-    "slug": "posthog",
-    "title": "PostHog",
-    "description": "Open-source product analytics",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Run Business"],
-    "tags": ["analytics", "open-source", "product"],
-    "pricing": {"model": "freemium"},
-    "softwareTypes": ["web-app", "self-hosted"],
-    "publishDate": "2025-04-07T21:38:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://posthog.com"
-  },
-  {
-    "id": "pirsch",
-    "slug": "pirsch",
-    "title": "Pirsch",
-    "description": "Simple, privacy-focused analytics",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Run Business"],
-    "tags": ["analytics", "privacy", "web"],
-    "pricing": {"model": "subscription"},
-    "softwareTypes": ["web-app"],
-    "publishDate": "2025-04-07T21:39:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://pirsch.io"
-  },
-  {
-    "id": "panelbear",
-    "slug": "panelbear",
-    "title": "Panelbear",
-    "description": "Lightweight website analytics",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Run Business"],
-    "tags": ["analytics", "web", "privacy"],
-    "pricing": {"model": "freemium"},
-    "softwareTypes": ["web-app"],
-    "publishDate": "2025-04-07T21:40:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://panelbear.com"
-  },
-  {
-    "id": "mailshake",
-    "slug": "mailshake",
-    "title": "Mailshake",
-    "description": "Cold email outreach tool",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Get & Keep Customers"],
-    "tags": ["email", "outreach", "sales"],
-    "pricing": {"model": "subscription"},
-    "softwareTypes": ["web-app"],
-    "publishDate": "2025-04-07T21:41:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://mailshake.com"
-  },
-  {
-    "id": "crisp",
-    "slug": "crisp",
-    "title": "Crisp",
-    "description": "Customer messaging and support",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Get & Keep Customers"],
-    "tags": ["chat", "support", "messaging"],
-    "pricing": {"model": "freemium"},
-    "softwareTypes": ["web-app"],
-    "publishDate": "2025-04-07T21:42:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://crisp.chat"
-  },
-  {
-    "id": "tawkto",
-    "slug": "tawkto",
-    "title": "Tawk.to",
-    "description": "Free live chat for websites",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Get & Keep Customers"],
-    "tags": ["chat", "support", "free"],
-    "pricing": {"model": "free"},
-    "softwareTypes": ["web-app"],
-    "publishDate": "2025-04-07T21:43:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://tawk.to"
-  },
-  {
-    "id": "sender",
-    "slug": "sender",
-    "title": "Sender",
-    "description": "Email marketing and automation",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Get & Keep Customers"],
-    "tags": ["email", "marketing", "automation"],
-    "pricing": {"model": "freemium"},
-    "softwareTypes": ["web-app"],
-    "publishDate": "2025-04-07T21:44:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://sender.net"
-  },
-  {
-    "id": "freshdesk",
-    "slug": "freshdesk",
-    "title": "Freshdesk",
-    "description": "Customer support and ticketing",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Get & Keep Customers"],
-    "tags": ["support", "ticketing", "customer"],
-    "pricing": {"model": "subscription"},
-    "softwareTypes": ["web-app"],
-    "publishDate": "2025-04-07T21:45:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://freshdesk.com"
-  },
-  {
-    "id": "framer",
-    "slug": "framer",
-    "title": "Framer",
-    "description": "Design and prototyping for web",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Create & Build"],
-    "tags": ["design", "prototyping", "web"],
-    "pricing": {"model": "freemium"},
-    "softwareTypes": ["web-app"],
-    "publishDate": "2025-04-07T21:46:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://framer.com"
-  },
-  {
-    "id": "photopea",
-    "slug": "photopea",
-    "title": "Photopea",
-    "description": "Free Photoshop-like editor online",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Create & Build"],
-    "tags": ["design", "photo", "free"],
-    "pricing": {"model": "free"},
-    "softwareTypes": ["web-app"],
-    "publishDate": "2025-04-07T21:47:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://photopea.com"
-  },
-  {
-    "id": "bubble",
-    "slug": "bubble",
-    "title": "Bubble",
-    "description": "No-code web app builder",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Create & Build"],
-    "tags": ["no-code", "web", "app"],
-    "pricing": {"model": "subscription"},
-    "softwareTypes": ["web-app"],
-    "publishDate": "2025-04-07T21:48:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://bubble.io"
-  },
-  {
-    "id": "glide",
-    "slug": "glide",
-    "title": "Glide",
-    "description": "Build apps from spreadsheets",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Create & Build"],
-    "tags": ["no-code", "app", "spreadsheet"],
-    "pricing": {"model": "freemium"},
-    "softwareTypes": ["web-app"],
-    "publishDate": "2025-04-07T21:49:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://glideapps.com"
-  },
-  {
-    "id": "typedream",
-    "slug": "typedream",
-    "title": "Typedream",
-    "description": "No-code website builder",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Create & Build"],
-    "tags": ["no-code", "website", "design"],
-    "pricing": {"model": "freemium"},
-    "softwareTypes": ["web-app"],
-    "publishDate": "2025-04-07T21:50:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://typedream.com"
-  },
-  {
-    "id": "strapi",
-    "slug": "strapi",
-    "title": "Strapi",
-    "description": "Open-source headless CMS",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Create & Build"],
-    "tags": ["cms", "open-source", "api"],
-    "pricing": {"model": "free"},
-    "softwareTypes": ["self-hosted"],
-    "publishDate": "2025-04-07T21:51:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://strapi.io"
-  },
-  {
-    "id": "appgyver",
-    "slug": "appgyver",
-    "title": "AppGyver",
-    "description": "No-code app development platform",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Create & Build"],
-    "tags": ["no-code", "app", "mobile"],
-    "pricing": {"model": "free"},
-    "softwareTypes": ["web-app"],
-    "publishDate": "2025-04-07T21:52:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://appgyver.com"
-  },
-  {
-    "id": "clickup",
-    "slug": "clickup",
-    "title": "ClickUp",
-    "description": "All-in-one project management",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Run Business"],
-    "tags": ["project", "team", "tasks"],
-    "pricing": {"model": "freemium"},
-    "softwareTypes": ["web-app", "mobile-app"],
-    "publishDate": "2025-04-07T21:53:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://clickup.com"
-  },
-  {
-    "id": "odoo",
-    "slug": "odoo",
-    "title": "Odoo",
-    "description": "Open-source ERP and CRM",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Run Business"],
-    "tags": ["erp", "crm", "open-source"],
-    "pricing": {"model": "freemium"},
-    "softwareTypes": ["web-app", "self-hosted"],
-    "publishDate": "2025-04-07T21:54:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://odoo.com"
-  },
-  {
-    "id": "tally",
-    "slug": "tally",
-    "title": "Tally",
-    "description": "Simple form builder with no limits",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Get & Keep Customers"],
-    "tags": ["forms", "no-code", "data"],
-    "pricing": {"model": "freemium"},
-    "softwareTypes": ["web-app"],
-    "publishDate": "2025-04-07T21:55:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://tally.so"
-  },
-  {
-    "id": "pipefy",
-    "slug": "pipefy",
-    "title": "Pipefy",
-    "description": "Workflow management for teams",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Run Business"],
-    "tags": ["workflow", "team", "automation"],
-    "pricing": {"model": "subscription"},
-    "softwareTypes": ["web-app"],
-    "publishDate": "2025-04-07T21:56:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://pipefy.com"
-  },
-  {
-    "id": "baselime",
-    "slug": "baselime",
-    "title": "Baselime",
-    "description": "Observability for serverless apps",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Create & Build"],
-    "tags": ["observability", "serverless", "dev"],
-    "pricing": {"model": "freemium"},
-    "softwareTypes": ["web-app"],
-    "publishDate": "2025-04-07T21:57:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://baselime.io"
-  },
-  {
-    "id": "jitsi",
-    "slug": "jitsi",
-    "title": "Jitsi",
-    "description": "Open-source video conferencing",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Run Business"],
-    "tags": ["video", "open-source", "meetings"],
-    "pricing": {"model": "free"},
-    "softwareTypes": ["web-app", "self-hosted"],
-    "publishDate": "2025-04-07T21:58:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://jitsi.org"
-  },
-  {
-    "id": "spike",
-    "slug": "spike",
-    "title": "Spike",
-    "description": "Email and chat in one app",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Run Business"],
-    "tags": ["email", "chat", "team"],
-    "pricing": {"model": "freemium"},
-    "softwareTypes": ["web-app", "mobile-app"],
-    "publishDate": "2025-04-07T21:59:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://spikenow.com"
-  },
-  {
-    "id": "protonmail",
-    "slug": "protonmail",
-    "title": "ProtonMail",
-    "description": "Encrypted email service",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Run Business"],
-    "tags": ["email", "privacy", "encryption"],
-    "pricing": {"model": "freemium"},
-    "softwareTypes": ["web-app", "mobile-app"],
-    "publishDate": "2025-04-07T22:00:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://proton.me"
-  },
-  {
-    "id": "nextcloud",
-    "slug": "nextcloud",
-    "title": "Nextcloud",
-    "description": "Self-hosted cloud storage",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Run Business"],
-    "tags": ["storage", "open-source", "cloud"],
-    "pricing": {"model": "free"},
-    "softwareTypes": ["self-hosted"],
-    "publishDate": "2025-04-07T22:01:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://nextcloud.com"
-  },
-  {
-    "id": "slite",
-    "slug": "slite",
-    "title": "Slite",
-    "description": "Team docs and knowledge base",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Run Business"],
-    "tags": ["docs", "team", "knowledge"],
-    "pricing": {"model": "freemium"},
-    "softwareTypes": ["web-app"],
-    "publishDate": "2025-04-07T22:02:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://slite.com"
-  },
-  {
-    "id": "zulip",
-    "slug": "zulip",
-    "title": "Zulip",
-    "description": "Open-source team chat with threads",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Run Business"],
-    "tags": ["chat", "open-source", "team"],
-    "pricing": {"model": "freemium"},
-    "softwareTypes": ["web-app", "self-hosted"],
-    "publishDate": "2025-04-07T22:03:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://zulip.com"
-  },
-  {
-    "id": "taskade",
-    "slug": "taskade",
-    "title": "Taskade",
-    "description": "Collaborative task management",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Run Business"],
-    "tags": ["tasks", "collaboration", "team"],
-    "pricing": {"model": "freemium"},
-    "softwareTypes": ["web-app", "mobile-app"],
-    "publishDate": "2025-04-07T22:04:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://taskade.com"
-  },
-  {
-    "id": "cloudflare",
-    "slug": "cloudflare",
-    "title": "Cloudflare",
-    "description": "CDN and security for websites",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Create & Build"],
-    "tags": ["cdn", "security", "web"],
-    "pricing": {"model": "freemium"},
-    "softwareTypes": ["web-app"],
-    "publishDate": "2025-04-07T22:05:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://cloudflare.com"
-  },
-  {
-    "id": "letsencrypt",
-    "slug": "letsencrypt",
-    "title": "Let's Encrypt",
-    "description": "Free SSL certificates",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Create & Build"],
-    "tags": ["ssl", "security", "free"],
-    "pricing": {"model": "free"},
-    "softwareTypes": ["cli"],
-    "publishDate": "2025-04-07T22:06:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://letsencrypt.com"
-  },
-  {
-    "id": "vercel",
-    "slug": "vercel",
-    "title": "Vercel",
-    "description": "Deploy and scale web apps",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Create & Build"],
-    "tags": ["deployment", "web", "cloud"],
-    "pricing": {"model": "freemium"},
-    "softwareTypes": ["web-app"],
-    "publishDate": "2025-04-07T22:07:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://vercel.com"
-  },
-  {
-    "id": "caddy",
-    "slug": "caddy",
-    "title": "Caddy",
-    "description": "Web server with auto HTTPS",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Create & Build"],
-    "tags": ["web-server", "https", "open-source"],
-    "pricing": {"model": "free"},
-    "softwareTypes": ["self-hosted"],
-    "publishDate": "2025-04-07T22:08:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://caddyserver.com"
-  },
-  {
-    "id": "keycloak",
-    "slug": "keycloak",
-    "title": "Keycloak",
-    "description": "Open-source identity management",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Create & Build"],
-    "tags": ["auth", "open-source", "identity"],
-    "pricing": {"model": "free"},
-    "softwareTypes": ["self-hosted"],
-    "publishDate": "2025-04-07T22:09:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://keycloak.org"
-  },
-  {
-    "id": "expensify",
-    "slug": "expensify",
-    "title": "Expensify",
-    "description": "Expense tracking and reporting",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Run Business"],
-    "tags": ["expenses", "finance", "tracking"],
-    "pricing": {"model": "subscription"},
-    "softwareTypes": ["web-app", "mobile-app"],
-    "publishDate": "2025-04-07T22:10:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://expensify.com"
-  },
-  {
-    "id": "zohobooks",
-    "slug": "zohobooks",
-    "title": "Zoho Books",
-    "description": "Online accounting software",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Run Business"],
-    "tags": ["accounting", "finance", "business"],
-    "pricing": {"model": "subscription"},
-    "softwareTypes": ["web-app"],
-    "publishDate": "2025-04-07T22:11:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://zohobooks.com"
-  },
-  {
-    "id": "wise",
-    "slug": "wise",
-    "title": "Wise",
-    "description": "International money transfers",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Run Business"],
-    "tags": ["finance", "transfers", "global"],
-    "pricing": {"model": "pay-per-use"},
-    "softwareTypes": ["web-app", "mobile-app"],
-    "publishDate": "2025-04-07T22:12:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://wise.com"
-  },
-  {
-    "id": "matomo",
-    "slug": "matomo",
-    "title": "Matomo",
-    "description": "Open-source web analytics",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Run Business"],
-    "tags": ["analytics", "open-source", "web"],
-    "pricing": {"model": "freemium"},
-    "softwareTypes": ["web-app", "self-hosted"],
-    "publishDate": "2025-04-07T22:13:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://matomo.org"
-  },
-  {
-    "id": "hotjar",
-    "slug": "hotjar",
-    "title": "Hotjar",
-    "description": "User behavior analytics",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Run Business"],
-    "tags": ["analytics", "ux", "heatmaps"],
-    "pricing": {"model": "freemium"},
-    "softwareTypes": ["web-app"],
-    "publishDate": "2025-04-07T22:14:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://hotjar.com"
-  },
-  {
-    "id": "openwebanalytics",
-    "slug": "openwebanalytics",
-    "title": "Open Web Analytics",
-    "description": "Open-source web tracking",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Run Business"],
-    "tags": ["analytics", "open-source", "web"],
-    "pricing": {"model": "free"},
-    "softwareTypes": ["self-hosted"],
-    "publishDate": "2025-04-07T22:15:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://openwebanalytics.com"
-  },
-  {
-    "id": "growthbook",
-    "slug": "growthbook",
-    "title": "GrowthBook",
-    "description": "Open-source A/B testing platform",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Run Business"],
-    "tags": ["ab-testing", "open-source", "growth"],
-    "pricing": {"model": "freemium"},
-    "softwareTypes": ["web-app", "self-hosted"],
-    "publishDate": "2025-04-07T22:16:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://growthbook.io"
-  },
-  {
-    "id": "teachable",
-    "slug": "teachable",
-    "title": "Teachable",
-    "description": "Platform to create online courses",
-    "author": "Wael Bathaqz",
-    "username": "newusername",
-    "categories": ["Get & Keep Customers"],
-    "tags": ["education", "courses", "online"],
-    "pricing": {"model": "subscription"},
-    "softwareTypes": ["web-app"],
-    "publishDate": "2025-04-07T22:17:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://teachable.com"
-  }
-],
-  "lastUpdated": "2025-03-16T22:04:37.085Z"
+    {
+      "id": "let-s-do-this",
+      "slug": "let-s-do-this",
+      "title": "let's do this",
+      "description": "kjdgkjsnjdknsjknjksngkjsnkjgnskjgg",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "ai",
+        "hello"
+      ],
+      "pricing": {
+        "model": "free-trial"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app"
+      ],
+      "publishDate": "2025-04-08T04:56:42.393Z",
+      "heroImage": "",
+      "toolUrl": "https://why.com"
+    },
+    {
+      "id": "teachable",
+      "slug": "teachable",
+      "title": "Teachable",
+      "description": "Platform to create online courses",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "education",
+        "courses",
+        "online"
+      ],
+      "pricing": {
+        "model": "subscription"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-04-07T22:17:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://teachable.com"
+    },
+    {
+      "id": "growthbook",
+      "slug": "growthbook",
+      "title": "GrowthBook",
+      "description": "Open-source A/B testing platform",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "ab-testing",
+        "open-source",
+        "growth"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app",
+        "self-hosted"
+      ],
+      "publishDate": "2025-04-07T22:16:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://growthbook.io"
+    },
+    {
+      "id": "openwebanalytics",
+      "slug": "openwebanalytics",
+      "title": "Open Web Analytics",
+      "description": "Open-source web tracking",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "analytics",
+        "open-source",
+        "web"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "self-hosted"
+      ],
+      "publishDate": "2025-04-07T22:15:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://openwebanalytics.com"
+    },
+    {
+      "id": "hotjar",
+      "slug": "hotjar",
+      "title": "Hotjar",
+      "description": "User behavior analytics",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "analytics",
+        "ux",
+        "heatmaps"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-04-07T22:14:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://hotjar.com"
+    },
+    {
+      "id": "matomo",
+      "slug": "matomo",
+      "title": "Matomo",
+      "description": "Open-source web analytics",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "analytics",
+        "open-source",
+        "web"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app",
+        "self-hosted"
+      ],
+      "publishDate": "2025-04-07T22:13:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://matomo.org"
+    },
+    {
+      "id": "wise",
+      "slug": "wise",
+      "title": "Wise",
+      "description": "International money transfers",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "finance",
+        "transfers",
+        "global"
+      ],
+      "pricing": {
+        "model": "pay-per-use"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app"
+      ],
+      "publishDate": "2025-04-07T22:12:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://wise.com"
+    },
+    {
+      "id": "zohobooks",
+      "slug": "zohobooks",
+      "title": "Zoho Books",
+      "description": "Online accounting software",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "accounting",
+        "finance",
+        "business"
+      ],
+      "pricing": {
+        "model": "subscription"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-04-07T22:11:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://zohobooks.com"
+    },
+    {
+      "id": "expensify",
+      "slug": "expensify",
+      "title": "Expensify",
+      "description": "Expense tracking and reporting",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "expenses",
+        "finance",
+        "tracking"
+      ],
+      "pricing": {
+        "model": "subscription"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app"
+      ],
+      "publishDate": "2025-04-07T22:10:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://expensify.com"
+    },
+    {
+      "id": "keycloak",
+      "slug": "keycloak",
+      "title": "Keycloak",
+      "description": "Open-source identity management",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "auth",
+        "open-source",
+        "identity"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "self-hosted"
+      ],
+      "publishDate": "2025-04-07T22:09:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://keycloak.org"
+    },
+    {
+      "id": "caddy",
+      "slug": "caddy",
+      "title": "Caddy",
+      "description": "Web server with auto HTTPS",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "web-server",
+        "https",
+        "open-source"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "self-hosted"
+      ],
+      "publishDate": "2025-04-07T22:08:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://caddyserver.com"
+    },
+    {
+      "id": "vercel",
+      "slug": "vercel",
+      "title": "Vercel",
+      "description": "Deploy and scale web apps",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "deployment",
+        "web",
+        "cloud"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-04-07T22:07:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://vercel.com"
+    },
+    {
+      "id": "letsencrypt",
+      "slug": "letsencrypt",
+      "title": "Let's Encrypt",
+      "description": "Free SSL certificates",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ssl",
+        "security",
+        "free"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "cli"
+      ],
+      "publishDate": "2025-04-07T22:06:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://letsencrypt.com"
+    },
+    {
+      "id": "cloudflare",
+      "slug": "cloudflare",
+      "title": "Cloudflare",
+      "description": "CDN and security for websites",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "cdn",
+        "security",
+        "web"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-04-07T22:05:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://cloudflare.com"
+    },
+    {
+      "id": "taskade",
+      "slug": "taskade",
+      "title": "Taskade",
+      "description": "Collaborative task management",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "tasks",
+        "collaboration",
+        "team"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app"
+      ],
+      "publishDate": "2025-04-07T22:04:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://taskade.com"
+    },
+    {
+      "id": "zulip",
+      "slug": "zulip",
+      "title": "Zulip",
+      "description": "Open-source team chat with threads",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "chat",
+        "open-source",
+        "team"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app",
+        "self-hosted"
+      ],
+      "publishDate": "2025-04-07T22:03:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://zulip.com"
+    },
+    {
+      "id": "slite",
+      "slug": "slite",
+      "title": "Slite",
+      "description": "Team docs and knowledge base",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "docs",
+        "team",
+        "knowledge"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-04-07T22:02:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://slite.com"
+    },
+    {
+      "id": "nextcloud",
+      "slug": "nextcloud",
+      "title": "Nextcloud",
+      "description": "Self-hosted cloud storage",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "storage",
+        "open-source",
+        "cloud"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "self-hosted"
+      ],
+      "publishDate": "2025-04-07T22:01:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://nextcloud.com"
+    },
+    {
+      "id": "protonmail",
+      "slug": "protonmail",
+      "title": "ProtonMail",
+      "description": "Encrypted email service",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "email",
+        "privacy",
+        "encryption"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app"
+      ],
+      "publishDate": "2025-04-07T22:00:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://proton.me"
+    },
+    {
+      "id": "spike",
+      "slug": "spike",
+      "title": "Spike",
+      "description": "Email and chat in one app",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "email",
+        "chat",
+        "team"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app"
+      ],
+      "publishDate": "2025-04-07T21:59:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://spikenow.com"
+    },
+    {
+      "id": "jitsi",
+      "slug": "jitsi",
+      "title": "Jitsi",
+      "description": "Open-source video conferencing",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "video",
+        "open-source",
+        "meetings"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app",
+        "self-hosted"
+      ],
+      "publishDate": "2025-04-07T21:58:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://jitsi.org"
+    },
+    {
+      "id": "baselime",
+      "slug": "baselime",
+      "title": "Baselime",
+      "description": "Observability for serverless apps",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "observability",
+        "serverless",
+        "dev"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-04-07T21:57:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://baselime.io"
+    },
+    {
+      "id": "pipefy",
+      "slug": "pipefy",
+      "title": "Pipefy",
+      "description": "Workflow management for teams",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "workflow",
+        "team",
+        "automation"
+      ],
+      "pricing": {
+        "model": "subscription"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-04-07T21:56:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://pipefy.com"
+    },
+    {
+      "id": "tally",
+      "slug": "tally",
+      "title": "Tally",
+      "description": "Simple form builder with no limits",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "forms",
+        "no-code",
+        "data"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-04-07T21:55:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://tally.so"
+    },
+    {
+      "id": "odoo",
+      "slug": "odoo",
+      "title": "Odoo",
+      "description": "Open-source ERP and CRM",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "erp",
+        "crm",
+        "open-source"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app",
+        "self-hosted"
+      ],
+      "publishDate": "2025-04-07T21:54:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://odoo.com"
+    },
+    {
+      "id": "clickup",
+      "slug": "clickup",
+      "title": "ClickUp",
+      "description": "All-in-one project management",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "project",
+        "team",
+        "tasks"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app"
+      ],
+      "publishDate": "2025-04-07T21:53:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://clickup.com"
+    },
+    {
+      "id": "appgyver",
+      "slug": "appgyver",
+      "title": "AppGyver",
+      "description": "No-code app development platform",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "no-code",
+        "app",
+        "mobile"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-04-07T21:52:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://appgyver.com"
+    },
+    {
+      "id": "strapi",
+      "slug": "strapi",
+      "title": "Strapi",
+      "description": "Open-source headless CMS",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "cms",
+        "open-source",
+        "api"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "self-hosted"
+      ],
+      "publishDate": "2025-04-07T21:51:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://strapi.io"
+    },
+    {
+      "id": "typedream",
+      "slug": "typedream",
+      "title": "Typedream",
+      "description": "No-code website builder",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "no-code",
+        "website",
+        "design"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-04-07T21:50:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://typedream.com"
+    },
+    {
+      "id": "glide",
+      "slug": "glide",
+      "title": "Glide",
+      "description": "Build apps from spreadsheets",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "no-code",
+        "app",
+        "spreadsheet"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-04-07T21:49:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://glideapps.com"
+    },
+    {
+      "id": "bubble",
+      "slug": "bubble",
+      "title": "Bubble",
+      "description": "No-code web app builder",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "no-code",
+        "web",
+        "app"
+      ],
+      "pricing": {
+        "model": "subscription"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-04-07T21:48:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://bubble.io"
+    },
+    {
+      "id": "photopea",
+      "slug": "photopea",
+      "title": "Photopea",
+      "description": "Free Photoshop-like editor online",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "design",
+        "photo",
+        "free"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-04-07T21:47:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://photopea.com"
+    },
+    {
+      "id": "framer",
+      "slug": "framer",
+      "title": "Framer",
+      "description": "Design and prototyping for web",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "design",
+        "prototyping",
+        "web"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-04-07T21:46:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://framer.com"
+    },
+    {
+      "id": "freshdesk",
+      "slug": "freshdesk",
+      "title": "Freshdesk",
+      "description": "Customer support and ticketing",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "support",
+        "ticketing",
+        "customer"
+      ],
+      "pricing": {
+        "model": "subscription"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-04-07T21:45:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://freshdesk.com"
+    },
+    {
+      "id": "sender",
+      "slug": "sender",
+      "title": "Sender",
+      "description": "Email marketing and automation",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "email",
+        "marketing",
+        "automation"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-04-07T21:44:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://sender.net"
+    },
+    {
+      "id": "tawkto",
+      "slug": "tawkto",
+      "title": "Tawk.to",
+      "description": "Free live chat for websites",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "chat",
+        "support",
+        "free"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-04-07T21:43:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://tawk.to"
+    },
+    {
+      "id": "crisp",
+      "slug": "crisp",
+      "title": "Crisp",
+      "description": "Customer messaging and support",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "chat",
+        "support",
+        "messaging"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-04-07T21:42:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://crisp.chat"
+    },
+    {
+      "id": "mailshake",
+      "slug": "mailshake",
+      "title": "Mailshake",
+      "description": "Cold email outreach tool",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "email",
+        "outreach",
+        "sales"
+      ],
+      "pricing": {
+        "model": "subscription"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-04-07T21:41:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://mailshake.com"
+    },
+    {
+      "id": "panelbear",
+      "slug": "panelbear",
+      "title": "Panelbear",
+      "description": "Lightweight website analytics",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "analytics",
+        "web",
+        "privacy"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-04-07T21:40:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://panelbear.com"
+    },
+    {
+      "id": "pirsch",
+      "slug": "pirsch",
+      "title": "Pirsch",
+      "description": "Simple, privacy-focused analytics",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "analytics",
+        "privacy",
+        "web"
+      ],
+      "pricing": {
+        "model": "subscription"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-04-07T21:39:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://pirsch.io"
+    },
+    {
+      "id": "posthog",
+      "slug": "posthog",
+      "title": "PostHog",
+      "description": "Open-source product analytics",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "analytics",
+        "open-source",
+        "product"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app",
+        "self-hosted"
+      ],
+      "publishDate": "2025-04-07T21:38:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://posthog.com"
+    },
+    {
+      "id": "invoiceninja",
+      "slug": "invoiceninja",
+      "title": "Invoice Ninja",
+      "description": "Open-source invoicing and payments",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "invoicing",
+        "open-source",
+        "payments"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app",
+        "self-hosted"
+      ],
+      "publishDate": "2025-04-07T21:37:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://invoiceninja.com"
+    },
+    {
+      "id": "bonsai",
+      "slug": "bonsai",
+      "title": "Bonsai",
+      "description": "Freelancer invoicing and contracts",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "invoicing",
+        "contracts",
+        "freelance"
+      ],
+      "pricing": {
+        "model": "subscription"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-04-07T21:36:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://hellobonsai.com"
+    },
+    {
+      "id": "paddle",
+      "slug": "paddle",
+      "title": "Paddle",
+      "description": "Payment processing for software",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "payment",
+        "billing",
+        "software"
+      ],
+      "pricing": {
+        "model": "custom-pricing"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-04-07T21:35:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://paddle.com"
+    },
+    {
+      "id": "borgbackup",
+      "slug": "borgbackup",
+      "title": "BorgBackup",
+      "description": "Deduplicating backup tool",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "backup",
+        "deduplication",
+        "open-source"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "cli"
+      ],
+      "publishDate": "2025-04-07T21:34:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://borgbackup.org"
+    },
+    {
+      "id": "duplicati",
+      "slug": "duplicati",
+      "title": "Duplicati",
+      "description": "Free backup with encryption",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "backup",
+        "encryption",
+        "open-source"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "desktop-app",
+        "self-hosted"
+      ],
+      "publishDate": "2025-04-07T21:33:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://duplicati.com"
+    },
+    {
+      "id": "arqbackup",
+      "slug": "arqbackup",
+      "title": "Arq Backup",
+      "description": "Encrypted backup to cloud or local",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "backup",
+        "encryption",
+        "cloud"
+      ],
+      "pricing": {
+        "model": "one-time-payment"
+      },
+      "softwareTypes": [
+        "desktop-app"
+      ],
+      "publishDate": "2025-04-07T21:32:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://arqbackup.com"
+    },
+    {
+      "id": "restic",
+      "slug": "restic",
+      "title": "Restic",
+      "description": "Secure and efficient backup software",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "backup",
+        "encryption",
+        "open-source"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "cli"
+      ],
+      "publishDate": "2025-04-07T21:31:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://restic.net"
+    },
+    {
+      "id": "kopia",
+      "slug": "kopia",
+      "title": "Kopia",
+      "description": "Fast, encrypted backup tool",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "backup",
+        "encryption",
+        "open-source"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "desktop-app",
+        "cli"
+      ],
+      "publishDate": "2025-04-07T21:30:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://kopia.io"
+    },
+    {
+      "id": "flyio",
+      "slug": "flyio",
+      "title": "Fly.io",
+      "description": "Deploy apps close to users globally",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "deployment",
+        "cloud",
+        "global"
+      ],
+      "pricing": {
+        "model": "pay-per-use"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-04-07T21:29:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://fly.io"
+    },
+    {
+      "id": "netlify",
+      "slug": "netlify",
+      "title": "Netlify",
+      "description": "Hosting and deployment for web projects",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "hosting",
+        "web",
+        "deployment"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-04-07T21:28:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://netlify.com"
+    },
+    {
+      "id": "digitalocean",
+      "slug": "digitalocean",
+      "title": "DigitalOcean",
+      "description": "Cloud infrastructure for developers",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "cloud",
+        "hosting",
+        "devops"
+      ],
+      "pricing": {
+        "model": "pay-per-use"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-04-07T21:27:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://digitalocean.com"
+    },
+    {
+      "id": "render",
+      "slug": "render",
+      "title": "Render",
+      "description": "Cloud hosting for apps and sites",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "hosting",
+        "cloud",
+        "devops"
+      ],
+      "pricing": {
+        "model": "pay-per-use"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-04-07T21:26:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://render.com"
+    },
+    {
+      "id": "snyk",
+      "slug": "snyk",
+      "title": "Snyk",
+      "description": "Security for code dependencies",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "security",
+        "dev",
+        "dependencies"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app",
+        "cli"
+      ],
+      "publishDate": "2025-04-07T21:25:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://snyk.io"
+    },
+    {
+      "id": "simplelogin",
+      "slug": "simplelogin",
+      "title": "SimpleLogin",
+      "description": "Email alias for privacy protection",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "email",
+        "privacy",
+        "alias"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-04-07T21:24:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://simplelogin.io"
+    },
+    {
+      "id": "krypton",
+      "slug": "krypton",
+      "title": "Krypton",
+      "description": "Secure SSH key management on mobile",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "security",
+        "ssh",
+        "mobile"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "mobile-app"
+      ],
+      "publishDate": "2025-04-07T21:23:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://krypt.co"
+    },
+    {
+      "id": "bitwarden",
+      "slug": "bitwarden",
+      "title": "Bitwarden",
+      "description": "Open-source password manager",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "password",
+        "security",
+        "open-source"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app",
+        "desktop-app",
+        "mobile-app"
+      ],
+      "publishDate": "2025-04-07T21:22:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://bitwarden.com"
+    },
+    {
+      "id": "obsidian",
+      "slug": "obsidian",
+      "title": "Obsidian",
+      "description": "Knowledge graph note-taking app",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "notes",
+        "knowledge",
+        "markdown"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "desktop-app"
+      ],
+      "publishDate": "2025-04-07T21:21:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://obsidian.md"
+    },
+    {
+      "id": "plausible",
+      "slug": "plausible",
+      "title": "Plausible",
+      "description": "Lightweight, privacy-first analytics",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "analytics",
+        "privacy",
+        "web"
+      ],
+      "pricing": {
+        "model": "subscription"
+      },
+      "softwareTypes": [
+        "web-app",
+        "self-hosted"
+      ],
+      "publishDate": "2025-04-07T21:20:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://plausible.io"
+    },
+    {
+      "id": "linear",
+      "slug": "linear",
+      "title": "Linear",
+      "description": "Issue tracking for software teams",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "project",
+        "dev",
+        "tracking"
+      ],
+      "pricing": {
+        "model": "subscription"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-04-07T21:19:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://linear.app"
+    },
+    {
+      "id": "miro",
+      "slug": "miro",
+      "title": "Miro",
+      "description": "Online whiteboard for team collaboration",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "whiteboard",
+        "collaboration",
+        "team"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-04-07T21:18:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://miro.com"
+    },
+    {
+      "id": "cryptpad",
+      "slug": "cryptpad",
+      "title": "Cryptpad",
+      "description": "Encrypted collaborative document editor",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "encryption",
+        "docs",
+        "collaboration"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app",
+        "self-hosted"
+      ],
+      "publishDate": "2025-04-07T21:17:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://cryptpad.fr"
+    },
+    {
+      "id": "anytype",
+      "slug": "anytype",
+      "title": "Anytype",
+      "description": "Privacy-focused note-taking and organization",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "notes",
+        "privacy",
+        "organization"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "desktop-app",
+        "mobile-app"
+      ],
+      "publishDate": "2025-04-07T21:16:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://anytype.io"
+    },
+    {
+      "id": "rocketchat",
+      "slug": "rocketchat",
+      "title": "Rocket.Chat",
+      "description": "Open-source team communication platform",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "chat",
+        "open-source",
+        "team"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app",
+        "self-hosted"
+      ],
+      "publishDate": "2025-04-07T21:15:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://rocket.chat"
+    },
+    {
+      "id": "slab",
+      "slug": "slab",
+      "title": "Slab",
+      "description": "Team knowledge base and wiki",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "knowledge",
+        "wiki",
+        "team"
+      ],
+      "pricing": {
+        "model": "subscription"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-04-07T21:14:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://slab.com"
+    },
+    {
+      "id": "recruitee",
+      "slug": "recruitee",
+      "title": "Recruitee",
+      "description": "Hiring and applicant tracking system",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "hiring",
+        "ats",
+        "recruitment"
+      ],
+      "pricing": {
+        "model": "subscription"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-04-07T21:13:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://recruitee.com"
+    },
+    {
+      "id": "windmill",
+      "slug": "windmill",
+      "title": "Windmill",
+      "description": "Open-source workflow and script runner",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "workflow",
+        "open-source",
+        "scripts"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app",
+        "self-hosted"
+      ],
+      "publishDate": "2025-04-07T21:12:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://windmill.dev"
+    },
+    {
+      "id": "huginn",
+      "slug": "huginn",
+      "title": "Huginn",
+      "description": "Self-hosted automation for tasks",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "automation",
+        "open-source",
+        "tasks"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "self-hosted"
+      ],
+      "publishDate": "2025-04-07T21:11:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://github.com/huginn/huginn"
+    },
+    {
+      "id": "n8n",
+      "slug": "n8n",
+      "title": "n8n",
+      "description": "Open-source workflow automation tool",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "automation",
+        "open-source",
+        "workflow"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app",
+        "self-hosted"
+      ],
+      "publishDate": "2025-04-07T21:10:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://n8n.io"
+    },
+    {
+      "id": "retool",
+      "slug": "retool",
+      "title": "Retool",
+      "description": "Build internal tools quickly",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Create & Build",
+        "Run Business"
+      ],
+      "tags": [
+        "internal-tools",
+        "no-code",
+        "dev"
+      ],
+      "pricing": {
+        "model": "subscription"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-04-07T21:09:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://retool.com"
+    },
+    {
+      "id": "baserow",
+      "slug": "baserow",
+      "title": "Baserow",
+      "description": "Open-source no-code database tool",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "database",
+        "no-code",
+        "open-source"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app",
+        "self-hosted"
+      ],
+      "publishDate": "2025-04-07T21:08:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://baserow.io"
+    },
+    {
+      "id": "fibery",
+      "slug": "fibery",
+      "title": "Fibery",
+      "description": "Flexible work management platform",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "project",
+        "collaboration",
+        "workflow"
+      ],
+      "pricing": {
+        "model": "subscription"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-04-07T21:07:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://fibery.io"
+    },
+    {
+      "id": "nocodb",
+      "slug": "nocodb",
+      "title": "NocoDB",
+      "description": "Open-source Airtable alternative",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "database",
+        "open-source",
+        "spreadsheet"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app",
+        "self-hosted"
+      ],
+      "publishDate": "2025-04-07T21:06:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://nocodb.com"
+    },
+    {
+      "id": "splitbee",
+      "slug": "splitbee",
+      "title": "Splitbee",
+      "description": "Privacy-focused web analytics",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "analytics",
+        "privacy",
+        "web"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-04-07T21:05:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://splitbee.io"
+    },
+    {
+      "id": "metabase",
+      "slug": "metabase",
+      "title": "Metabase",
+      "description": "Open-source business intelligence tool",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "bi",
+        "analytics",
+        "open-source"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app",
+        "self-hosted"
+      ],
+      "publishDate": "2025-04-07T21:04:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://metabase.com"
+    },
+    {
+      "id": "evidence",
+      "slug": "evidence",
+      "title": "Evidence",
+      "description": "Data reports with SQL and markdown",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "data",
+        "sql",
+        "reports"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app",
+        "self-hosted"
+      ],
+      "publishDate": "2025-04-07T21:03:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://evidence.dev"
+    },
+    {
+      "id": "datasette",
+      "slug": "datasette",
+      "title": "Datasette",
+      "description": "Tool for exploring and publishing data",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "data",
+        "open-source",
+        "analysis"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app",
+        "self-hosted"
+      ],
+      "publishDate": "2025-04-07T21:02:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://datasette.io"
+    },
+    {
+      "id": "fliki",
+      "slug": "fliki",
+      "title": "Fliki",
+      "description": "Text-to-video and voiceover generator",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "video",
+        "ai",
+        "voiceover"
+      ],
+      "pricing": {
+        "model": "subscription"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-04-07T21:01:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://fliki.ai"
+    },
+    {
+      "id": "inkdrop",
+      "slug": "inkdrop",
+      "title": "Inkdrop",
+      "description": "Markdown note-taking app for developers",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "notes",
+        "markdown",
+        "dev"
+      ],
+      "pricing": {
+        "model": "subscription"
+      },
+      "softwareTypes": [
+        "desktop-app",
+        "mobile-app"
+      ],
+      "publishDate": "2025-04-07T21:00:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://inkdrop.app"
+    },
+    {
+      "id": "memberstack",
+      "slug": "memberstack",
+      "title": "Memberstack",
+      "description": "User authentication for websites",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "auth",
+        "membership",
+        "web"
+      ],
+      "pricing": {
+        "model": "subscription"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-04-07T20:59:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://memberstack.com"
+    },
+    {
+      "id": "ghost",
+      "slug": "ghost",
+      "title": "Ghost",
+      "description": "Publishing platform for blogs and newsletters",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Create & Build",
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "blogging",
+        "newsletter",
+        "cms"
+      ],
+      "pricing": {
+        "model": "subscription"
+      },
+      "softwareTypes": [
+        "web-app",
+        "self-hosted"
+      ],
+      "publishDate": "2025-04-07T20:58:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://ghost.org"
+    },
+    {
+      "id": "codesandbox",
+      "slug": "codesandbox",
+      "title": "CodeSandbox",
+      "description": "Online code editor for rapid prototyping",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "coding",
+        "prototyping",
+        "web"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-04-07T20:57:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://codesandbox.io"
+    },
+    {
+      "id": "railway",
+      "slug": "railway",
+      "title": "Railway",
+      "description": "Deploy apps with minimal configuration",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "deployment",
+        "cloud",
+        "devops"
+      ],
+      "pricing": {
+        "model": "pay-per-use"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-04-07T20:56:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://railway.app"
+    },
+    {
+      "id": "supabase",
+      "slug": "supabase",
+      "title": "Supabase",
+      "description": "Open-source Firebase alternative",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "database",
+        "open-source",
+        "api"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app",
+        "self-hosted"
+      ],
+      "publishDate": "2025-04-07T20:55:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://supabase.com"
+    },
+    {
+      "id": "appwrite",
+      "slug": "appwrite",
+      "title": "Appwrite",
+      "description": "Open-source backend-as-a-service platform",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "backend",
+        "open-source",
+        "api"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "self-hosted"
+      ],
+      "publishDate": "2025-04-07T20:54:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://appwrite.io"
+    },
+    {
+      "id": "lunacy",
+      "slug": "lunacy",
+      "title": "Lunacy",
+      "description": "Free design software with built-in assets",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "design",
+        "free",
+        "ui"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "desktop-app"
+      ],
+      "publishDate": "2025-04-07T20:53:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://icons8.com/lunacy"
+    },
+    {
+      "id": "penpot",
+      "slug": "penpot",
+      "title": "Penpot",
+      "description": "Open-source design tool for teams",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "design",
+        "open-source",
+        "ui"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app",
+        "self-hosted"
+      ],
+      "publishDate": "2025-04-07T20:52:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://penpot.app"
+    },
+    {
+      "id": "figma",
+      "slug": "figma",
+      "title": "Figma",
+      "description": "Collaborative design and prototyping tool",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "design",
+        "collaboration",
+        "ui"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-04-07T20:51:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://figma.com"
+    },
+    {
+      "id": "amity",
+      "slug": "amity",
+      "title": "Amity",
+      "description": "Social features SDK for apps and websites",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "social",
+        "sdk",
+        "community"
+      ],
+      "pricing": {
+        "model": "custom-pricing"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-04-07T20:50:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://amity.co"
+    },
+    {
+      "id": "chaskiq",
+      "slug": "chaskiq",
+      "title": "Chaskiq",
+      "description": "Open-source live chat for customer engagement",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "live-chat",
+        "open-source"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app",
+        "self-hosted"
+      ],
+      "publishDate": "2025-04-07T20:49:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://chaskiq.io"
+    },
+    {
+      "id": "chatwoot",
+      "slug": "chatwoot",
+      "title": "Chatwoot",
+      "description": "Open-source customer support chat platform",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "chat",
+        "support",
+        "open-source"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app",
+        "self-hosted"
+      ],
+      "publishDate": "2025-04-07T20:48:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://chatwoot.com"
+    },
+    {
+      "id": "omniconvert",
+      "slug": "omniconvert",
+      "title": "OmniConvert",
+      "description": "A/B testing and conversion optimization tool",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "ab-testing",
+        "conversion",
+        "analytics"
+      ],
+      "pricing": {
+        "model": "subscription"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-04-07T20:47:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://omniconvert.com"
+    },
+    {
+      "id": "listmonk",
+      "slug": "listmonk",
+      "title": "Listmonk",
+      "description": "Self-hosted newsletter and mailing list manager",
+      "author": "Wael Bathaqz",
+      "username": "newusername",
+      "categories": [
+        "Get & Keep Customers",
+        "Run Business"
+      ],
+      "tags": [
+        "email",
+        "newsletter",
+        "self-hosted"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app",
+        "self-hosted"
+      ],
+      "publishDate": "2025-04-07T20:46:46.317Z",
+      "heroImage": "",
+      "toolUrl": "https://listmonk.app"
+    }
+  ],
+  "lastUpdated": "2025-04-08T04:56:43.170Z"
 }
