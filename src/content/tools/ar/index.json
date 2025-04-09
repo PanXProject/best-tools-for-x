@@ -1,827 +1,2627 @@
 {
   "tools": [
     {
-      "id": "sffghdghdhdghhg",
-      "slug": "sffghdghdhdghhg",
-      "title": "يبلييبلاىلى",
-      "title_en": "sffghdghdhdghhg",
-      "description": "سبابسيابيسايايايلايلاي",
-      "author": "اسمي",
-      "username": "newusername",
+      "id": "growthbook",
+      "slug": "growthbook",
+      "title": "جروث بوك",
+      "title_en": "GrowthBook",
+      "description": "منصة اختبار A/B مفتوحة المصدر",
+      "author": "وليد صادق",
+      "username": "waleed",
       "categories": [
-        "جذب العملاء والاحتفاظ بهم",
-        "إنشاء و تطوير",
+        "الفهم والتحسين",
         "إدارة الأعمال"
       ],
       "tags": [
-        "يشنتمنبشي",
-        "يشنتمنبشيشيب"
-      ],
-      "pricing": {
-        "model": "اشتراك"
-      },
-      "softwareTypes": [
-        "تطبيق ويب",
-        "تطبيق جوال",
-        "تطبيق سطح المكتب"
-      ],
-      "publishDate": "2025-03-16T22:29:37.464Z",
-      "heroImage": "",
-      "toolUrl": "https://panx.io"
-    },
-    {
-      "id": "jasdfljsdgljdslj",
-      "slug": "jasdfljsdgljdslj",
-      "title": "نتيمنتمستمنتسملنت",
-      "title_en": "jasdfljsdgljdslj",
-      "description": "fsfhdhdfhdfhghdghghhdg",
-      "author": "اسمي",
-      "username": "newusername",
-      "categories": [
-        "جذب العملاء والاحتفاظ بهم",
-        "إنشاء و تطوير",
-        "إدارة الأعمال"
-      ],
-      "tags": [
-        "يشبعهخاش",
-        "يشبعهخاشسيستم"
+        "اختبار-A/B",
+        "مفتوح-المصدر",
+        "نمو"
       ],
       "pricing": {
         "model": "فريميوم"
       },
       "softwareTypes": [
         "تطبيق ويب",
-        "تطبيق جوال",
-        "تطبيق سطح المكتب"
+        "مستضاف ذاتيًا"
       ],
-      "publishDate": "2025-03-16T21:55:48.132Z",
+      "publishDate": "2025-04-07T22:16:00.317Z",
       "heroImage": "",
-      "toolUrl": "https://panx.io",
-      "featured": false,
-      "featuredPosition": null
+      "toolUrl": "https://growthbook.io"
     },
     {
-      "id": "chatgpt",
-      "slug": "chatgpt",
-      "title": "ﻻعبعهيابهعايسعهباه",
-      "title_ar": "ﻻعبعهيابهعايسعهباه",
-      "description": "jkdsgdkjfngjkfsngkjsngjknjksfnjgnsfjkgkjnsfkj",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "id": "openwebanalytics",
+      "slug": "openwebanalytics",
+      "title": "تحليلات الويب المفتوحة",
+      "title_en": "Open Web Analytics",
+      "description": "تتبع الويب مفتوح المصدر",
+      "author": "وليد صادق",
+      "username": "waleed",
       "categories": [
-        "Get & Keep Customers",
-        "Create & Build",
-        "Run Business"
-      ],
-      "tags": [],
-      "pricing": {
-        "model": "free-trial"
-      },
-      "softwareTypes": [
-        "web-app",
-        "mobile-app",
-        "desktop-app"
-      ],
-      "publishDate": "2025-02-27T18:09:24.554Z",
-      "heroImage": "",
-      "toolUrl": "https://panx.io"
-    },
-    {
-      "id": "sffdghdghdghdg",
-      "slug": "sffdghdghdghdg",
-      "title": "سيتسيقث",
-      "title_en": "sffdghdghdghdg",
-      "description": "يسايسلايلايايبايبلسبل",
-      "author": "اسمي",
-      "username": "newusername",
-      "categories": [
-        "جذب العملاء والاحتفاظ بهم",
-        "إنشاء و تطوير",
+        "الفهم والتحسين",
         "إدارة الأعمال"
       ],
       "tags": [
-        "نميستلنمس",
-        "سبلسلس"
+        "تحليلات",
+        "مفتوح-المصدر",
+        "ويب"
       ],
       "pricing": {
-        "model": "تجربة مجانية"
+        "model": "مجاني"
       },
       "softwareTypes": [
-        "تطبيق ويب",
-        "تطبيق جوال",
-        "تطبيق سطح المكتب"
+        "مستضاف ذاتيًا"
       ],
-      "publishDate": "2025-02-27T16:39:41.324Z",
+      "publishDate": "2025-04-07T22:15:00.317Z",
       "heroImage": "",
-      "toolUrl": "https://panx.io",
-      "featured": true,
-      "featuredPosition": "2"
+      "toolUrl": "https://openwebanalytics.com"
     },
     {
-      "id": "ffhfsdhbtb",
-      "slug": "ffhfsdhbtb",
-      "title": "بلبلس",
-      "title_en": "ffhfsdhbtb",
-      "description": "بلبسيلبلسليلسبلسبلسبلبسلس",
-      "author": "اسمي",
-      "username": "newusername",
+      "id": "hotjar",
+      "slug": "hotjar",
+      "title": "هوتجار",
+      "title_en": "Hotjar",
+      "description": "تحليلات سلوك المستخدم",
+      "author": "وليد صادق",
+      "username": "waleed",
       "categories": [
-        "جذب العملاء والاحتفاظ بهم",
-        "إنشاء و تطوير"
-      ],
-      "tags": [],
-      "pricing": {},
-      "softwareTypes": [],
-      "publishDate": "2025-02-24T13:35:10.673Z",
-      "heroImage": "",
-      "toolUrl": "https://panx.io",
-      "featured": true,
-      "featuredPosition": "4"
-    },
-    {
-      "id": "jdijijiojoij",
-      "slug": "jdijijiojoij",
-      "title": "منةىبمنسةنمسةنمم",
-      "title_en": "jdijijiojoij",
-      "description": "نتيبهتهختخهتخهتخهتهختهخ",
-      "author": "اسمي",
-      "username": "newusername",
-      "categories": [
+        "الفهم والتحسين",
         "جذب العملاء والاحتفاظ بهم"
       ],
       "tags": [
-        "ai"
+        "تحليلات",
+        "تجربة-المستخدم",
+        "خرائط-الحرارة"
       ],
       "pricing": {
-        "model": "تجربة مجانية"
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-04-07T22:14:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://hotjar.com"
+    },
+    {
+      "id": "matomo",
+      "slug": "matomo",
+      "title": "ماتومو",
+      "title_en": "Matomo",
+      "description": "تحليلات الويب مفتوحة المصدر",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "الفهم والتحسين",
+        "إدارة الأعمال"
+      ],
+      "tags": [
+        "تحليلات",
+        "مفتوح-المصدر",
+        "ويب"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب",
+        "مستضاف ذاتيًا"
+      ],
+      "publishDate": "2025-04-07T22:13:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://matomo.org"
+    },
+    {
+      "id": "wise",
+      "slug": "wise",
+      "title": "وايز",
+      "title_en": "Wise",
+      "description": "تحويلات مالية دولية",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إدارة الأموال",
+        "إدارة الأعمال"
+      ],
+      "tags": [
+        "مالية",
+        "تحويلات",
+        "عالمي"
+      ],
+      "pricing": {
+        "model": "الدفع حسب الاستخدام"
       },
       "softwareTypes": [
         "تطبيق ويب",
         "تطبيق جوال"
       ],
-      "publishDate": "2025-02-24T11:18:52.885Z",
+      "publishDate": "2025-04-07T22:12:00.317Z",
       "heroImage": "",
-      "toolUrl": "https://panx.io",
-      "featured": true,
-      "featuredPosition": "3"
+      "toolUrl": "https://wise.com"
     },
     {
-      "id": "jflsjlsfjoiwrjo",
-      "slug": "jflsjlsfjoiwrjo",
-      "title": "اعيباهيعاه",
-      "title_en": "jflsjlsfjoiwrjo",
-      "description": "سيهتبخهسيتهخبتخسيتبخسه",
-      "author": "اسمي",
-      "username": "newusername",
+      "id": "zohobooks",
+      "slug": "zohobooks",
+      "title": "زوهو بوكس",
+      "title_en": "Zoho Books",
+      "description": "برنامج محاسبة عبر الإنترنت",
+      "author": "وليد صادق",
+      "username": "waleed",
       "categories": [
-        "Get & Keep Customers",
-        "Create & Build"
+        "إدارة الأموال",
+        "إدارة الأعمال"
       ],
       "tags": [
-        "ينتاعهبياس",
-        "يسبسي",
-        "يسبسيب",
-        "سبسيبس",
-        "تنسي"
+        "محاسبة",
+        "مالية",
+        "أعمال"
       ],
       "pricing": {
-        "model": "freemium"
+        "model": "اشتراك"
       },
       "softwareTypes": [
-        "web-app"
+        "تطبيق ويب"
       ],
-      "publishDate": "2025-02-24T00:24:06.482Z",
+      "publishDate": "2025-04-07T22:11:00.317Z",
       "heroImage": "",
-      "toolUrl": "https://panx.io"
+      "toolUrl": "https://zohobooks.com"
     },
     {
-      "id": "oiueaiopno",
-      "slug": "oiueaiopno",
-      "title": "منتينمتشنمتنم",
-      "title_en": "oiueaiopno",
-      "description": "منبتمنتسممنتمنشتمتمنسبنمت",
-      "author": "اسمي",
-      "username": "newusername",
+      "id": "expensify",
+      "slug": "expensify",
+      "title": "إكسبنسيفاي",
+      "title_en": "Expensify",
+      "description": "تتبع وتسجيل المصروفات",
+      "author": "وليد صادق",
+      "username": "waleed",
       "categories": [
-        "Get & Keep Customers",
-        "Create & Build",
-        "Run Business"
+        "إدارة الأموال",
+        "إدارة الأعمال"
       ],
       "tags": [
-        "نبيتنيب",
-        "حتحب",
-        "هتيشخت",
-        "هخستختيخس"
+        "مصروفات",
+        "مالية",
+        "تتبع"
       ],
       "pricing": {
-        "model": "freemium"
+        "model": "اشتراك"
       },
       "softwareTypes": [
-        "web-app",
-        "mobile-app",
-        "desktop-app"
+        "تطبيق ويب",
+        "تطبيق جوال"
       ],
-      "publishDate": "2025-02-23T22:36:47.823Z",
+      "publishDate": "2025-04-07T22:10:00.317Z",
       "heroImage": "",
-      "toolUrl": "https://panx.io"
+      "toolUrl": "https://expensify.com"
     },
     {
-      "id": "34524768754132",
-      "slug": "34524768754132",
-      "title": "ﻻرىغايبءئءلقس",
-      "title_en": "34524768754132",
-      "description": "بسلبسلسلسيبسيلسبلسبب",
-      "author": "اسمي",
-      "username": "newusername",
+      "id": "keycloak",
+      "slug": "keycloak",
+      "title": "كي كلوك",
+      "title_en": "Keycloak",
+      "description": "إدارة الهوية مفتوحة المصدر",
+      "author": "وليد صادق",
+      "username": "waleed",
       "categories": [
-        "Get & Keep Customers",
-        "Run Business"
+        "الأمان والنشر",
+        "إنشاء و تطوير"
       ],
       "tags": [
-        "بيستنلاتن",
-        "سخبهيلتسبخه-89789",
-        "لعىقع-سيلاتبسي"
+        "مصادقة",
+        "مفتوح-المصدر",
+        "هوية"
       ],
       "pricing": {
-        "model": "free-trial"
+        "model": "مجاني"
       },
       "softwareTypes": [
-        "web-app",
-        "mobile-app",
-        "desktop-app"
+        "مستضاف ذاتيًا"
       ],
-      "publishDate": "2025-02-23T21:55:10.349Z",
+      "publishDate": "2025-04-07T22:09:00.317Z",
       "heroImage": "",
-      "toolUrl": "https://panx.io"
+      "toolUrl": "https://keycloak.org"
     },
     {
-      "id": "2453452352345",
-      "slug": "2453452352345",
-      "title": "التابتبلايبليب",
-      "title_en": "2453452352345",
-      "description": "asdgfhfddfhdfhdfhdfhdfhdfhdfhdfhdfhdf",
-      "author": "اسمي",
-      "username": "newusername",
+      "id": "caddy",
+      "slug": "caddy",
+      "title": "كادي",
+      "title_en": "Caddy",
+      "description": "خادوم ويب مع HTTPS تلقائي",
+      "author": "وليد صادق",
+      "username": "waleed",
       "categories": [
-        "Get & Keep Customers",
-        "Create & Build"
+        "الأمان والنشر",
+        "إنشاء و تطوير"
       ],
       "tags": [
-        "يبيبيب",
-        "يسليسلس-سيلسيل-سيليسلس",
-        "سيلسي"
+        "خادوم-ويب",
+        "HTTPS",
+        "مفتوح-المصدر"
       ],
       "pricing": {
-        "model": "free-trial"
+        "model": "مجاني"
       },
       "softwareTypes": [
-        "web-app",
-        "mobile-app"
+        "مستضاف ذاتيًا"
       ],
-      "publishDate": "2025-02-23T21:52:06.293Z",
+      "publishDate": "2025-04-07T22:08:00.317Z",
       "heroImage": "",
-      "toolUrl": "https://panx.io"
+      "toolUrl": "https://caddyserver.com"
     },
     {
-      "id": "gdhdfgsrsersdfsdfgfsg",
-      "slug": "gdhdfgsrsersdfsdfgfsg",
-      "title": "التابتبلايبليب",
-      "title_en": "gdhdfgsrsersdfsdfgfsg",
-      "description": "asdgfhfddfhdfhdfhdfhdfhdfhdfhdfhdfhdf",
-      "author": "اسمي",
-      "username": "newusername",
+      "id": "vercel",
+      "slug": "vercel",
+      "title": "فرسل",
+      "title_en": "Vercel",
+      "description": "نشر وتوسيع تطبيقات الويب",
+      "author": "وليد صادق",
+      "username": "waleed",
       "categories": [
-        "Get & Keep Customers",
-        "Create & Build"
+        "إنشاء و تطوير",
+        "الأمان والنشر"
       ],
       "tags": [
-        "يبيبيب",
-        "يسليسلس-سيلسيل-سيليسلس",
-        "سيلسي"
+        "نشر",
+        "ويب",
+        "سحابة"
       ],
       "pricing": {
-        "model": "free-trial"
+        "model": "فريميوم"
       },
       "softwareTypes": [
-        "web-app",
-        "mobile-app"
+        "تطبيق ويب"
       ],
-      "publishDate": "2025-02-23T21:50:21.060Z",
+      "publishDate": "2025-04-07T22:07:00.317Z",
       "heroImage": "",
-      "toolUrl": "https://panx.io"
+      "toolUrl": "https://vercel.com"
     },
     {
-      "id": "647854763454",
-      "slug": "647854763454",
-      "title": "مبهغخةاخهخلا",
-      "title_en": "647854763454",
-      "description": "يليسلسلبلسبلسبلسبلسبلبسلبسلبس",
-      "author": "اسمي",
-      "username": "newusername",
+      "id": "letsencrypt",
+      "slug": "letsencrypt",
+      "title": "ليتس إنكربت",
+      "title_en": "Let's Encrypt",
+      "description": "شهادات SSL مجانية",
+      "author": "وليد صادق",
+      "username": "waleed",
       "categories": [
-        "Get & Keep Customers",
-        "Create & Build",
-        "Run Business"
+        "الأمان والنشر",
+        "إنشاء و تطوير"
       ],
       "tags": [
-        "سيلسلس-سيبلسيل-سسيلس",
-        "اييبايب",
-        "سبلبسلبس"
+        "SSL",
+        "أمان",
+        "مجاني"
       ],
       "pricing": {
-        "model": "free-trial"
+        "model": "مجاني"
       },
       "softwareTypes": [
-        "mobile-app"
+        "واجهة سطر الأوامر"
       ],
-      "publishDate": "2025-02-23T21:47:40.075Z",
+      "publishDate": "2025-04-07T22:06:00.317Z",
       "heroImage": "",
-      "toolUrl": "https://hello.com"
+      "toolUrl": "https://letsencrypt.com"
     },
     {
-      "id": "2542623542542542",
-      "slug": "2542623542542542",
-      "title": "مبهغخةاخهخلا",
-      "title_en": "2542623542542542",
-      "description": "يليسلسلبلسبلسبلسبلسبلبسلبسلبس",
-      "author": "اسمي",
-      "username": "newusername",
+      "id": "cloudflare",
+      "slug": "cloudflare",
+      "title": "كلاودفلير",
+      "title_en": "Cloudflare",
+      "description": "شبكة توصيل المحتوى وأمان للمواقع",
+      "author": "وليد صادق",
+      "username": "waleed",
       "categories": [
-        "Get & Keep Customers",
-        "Create & Build",
-        "Run Business"
+        "الأمان والنشر",
+        "إنشاء و تطوير"
       ],
       "tags": [
-        "سيلسلس-سيبلسيل-سسيلس",
-        "اييبايب",
-        "سبلبسلبس"
+        "CDN",
+        "أمان",
+        "ويب"
       ],
       "pricing": {
-        "model": "free-trial"
+        "model": "فريميوم"
       },
       "softwareTypes": [
-        "mobile-app"
+        "تطبيق ويب"
       ],
-      "publishDate": "2025-02-23T21:47:16.546Z",
+      "publishDate": "2025-04-07T22:05:00.317Z",
       "heroImage": "",
-      "toolUrl": "https://hello.com"
+      "toolUrl": "https://cloudflare.com"
     },
     {
-      "id": "23542542542",
-      "slug": "23542542542",
-      "title": "بلسيلصثقااث",
-      "title_en": "23542542542",
-      "description": "يليسلسلبلسبلسبلسبلسبلبسلبسلبس",
-      "author": "اسمي",
-      "username": "newusername",
+      "id": "taskade",
+      "slug": "taskade",
+      "title": "تاسكيد",
+      "title_en": "Taskade",
+      "description": "إدارة المهام التعاونية",
+      "author": "وليد صادق",
+      "username": "waleed",
       "categories": [
-        "Get & Keep Customers",
-        "Create & Build",
-        "Run Business"
+        "التواصل والتعاون",
+        "إدارة الأعمال",
+        "إدارة الأفراد"
       ],
       "tags": [
-        "سيلسلس-سيبلسيل-سسيلس",
-        "اييبايب",
-        "سبلبسلبس"
+        "مهام",
+        "تعاون",
+        "فريق"
       ],
       "pricing": {
-        "model": "free-trial"
+        "model": "فريميوم"
       },
       "softwareTypes": [
-        "mobile-app"
+        "تطبيق ويب",
+        "تطبيق جوال"
       ],
-      "publishDate": "2025-02-23T21:46:16.182Z",
+      "publishDate": "2025-04-07T22:04:00.317Z",
       "heroImage": "",
-      "toolUrl": "https://hello.com"
+      "toolUrl": "https://taskade.com"
     },
     {
-      "id": "oidjfisojfiosdj",
-      "slug": "oidjfisojfiosdj",
-      "title": "مهنملتاتلةه",
-      "title_en": "oidjfisojfiosdj",
-      "description": "ijoidjofjsdoifiodjsiofjdsojfoisdjoij",
-      "author": "اسمي",
-      "username": "newusername",
+      "id": "zulip",
+      "slug": "zulip",
+      "title": "زوليب",
+      "title_en": "Zulip",
+      "description": "دردشة فريق مفتوحة المصدر مع سلاسل",
+      "author": "وليد صادق",
+      "username": "waleed",
       "categories": [
-        "Get & Keep Customers"
+        "التواصل والتعاون",
+        "إدارة الأعمال",
+        "إدارة الأفراد"
       ],
       "tags": [
-        "سيبسيبسيب",
-        "سيبسي-سيبسيبس",
-        "سيمبنسنميتبنمس",
-        "سيعابسسيليسلي"
+        "دردشة",
+        "مفتوح-المصدر",
+        "فريق"
       ],
       "pricing": {
-        "model": "one-time-payment"
+        "model": "فريميوم"
       },
       "softwareTypes": [
-        "web-app",
-        "mobile-app",
-        "desktop-app"
+        "تطبيق ويب",
+        "مستضاف ذاتيًا"
       ],
-      "publishDate": "2025-02-23T21:14:54.642Z",
+      "publishDate": "2025-04-07T22:03:00.317Z",
       "heroImage": "",
-      "toolUrl": "https://panx.io"
+      "toolUrl": "https://zulip.com"
     },
     {
-      "id": "342354252452",
-      "slug": "342354252452",
-      "title": "تىغفعفىقغقثي",
-      "title_en": "342354252452",
-      "description": "fuyrtur6tyertrty56yu6rutrsrtryjtgerht",
-      "author": "اسمي",
-      "username": "newusername",
+      "id": "slite",
+      "slug": "slite",
+      "title": "سلايت",
+      "title_en": "Slite",
+      "description": "مستندات الفريق وقاعدة المعرفة",
+      "author": "وليد صادق",
+      "username": "waleed",
       "categories": [
-        "Get & Keep Customers",
-        "Create & Build",
-        "Run Business"
+        "التواصل والتعاون",
+        "إدارة الأعمال",
+        "إدارة الأفراد"
       ],
       "tags": [
-        "عيتتستنبىيس",
-        "سيبلسيل",
-        "خهسيتخهسي",
-        "سيهعابهخسيععهخ",
-        "نيستابنتسيا"
+        "مستندات",
+        "فريق",
+        "معرفة"
       ],
       "pricing": {
-        "model": "subscription"
+        "model": "فريميوم"
       },
       "softwareTypes": [
-        "web-app",
-        "mobile-app",
-        "desktop-app"
+        "تطبيق ويب"
       ],
-      "publishDate": "2025-02-23T21:12:46.302Z",
+      "publishDate": "2025-04-07T22:02:00.317Z",
       "heroImage": "",
-      "toolUrl": "https://panx.io"
+      "toolUrl": "https://slite.com"
     },
     {
-      "id": "325243524sfhhdfhsjyjsrdgrethtry",
-      "slug": "325243524sfhhdfhsjyjsrdgrethtry",
-      "title": "تىغفعفىقغقثي",
-      "title_en": "325243524sfhhdfhsjyjsrdgrethtry",
-      "description": "fuyrtur6tyertrty56yu6rutrsrtryjtgerht",
-      "author": "اسمي",
-      "username": "newusername",
+      "id": "nextcloud",
+      "slug": "nextcloud",
+      "title": "نكست كلاود",
+      "title_en": "Nextcloud",
+      "description": "تخزين سحابي مستضاف ذاتيًا",
+      "author": "وليد صادق",
+      "username": "waleed",
       "categories": [
-        "Get & Keep Customers",
-        "Create & Build",
-        "Run Business"
+        "التواصل والتعاون",
+        "الأمان والنشر",
+        "إدارة الأعمال"
       ],
       "tags": [
-        "ينبنخخينسبسي-يخهعبيخهبتهخي",
-        "يسهبتيسهبت",
-        "يسعابهعسيا",
-        "سنعاسعالس-تسنيبلسبهخع"
+        "تخزين",
+        "مفتوح-المصدر",
+        "سحابة"
       ],
       "pricing": {
-        "model": "freemium"
+        "model": "مجاني"
       },
       "softwareTypes": [
-        "web-app",
-        "mobile-app"
+        "مستضاف ذاتيًا"
       ],
-      "publishDate": "2025-02-23T21:02:09.023Z",
+      "publishDate": "2025-04-07T22:01:00.317Z",
       "heroImage": "",
-      "toolUrl": "https://panx.io"
+      "toolUrl": "https://nextcloud.com"
     },
     {
-      "id": "sfhhdfhsjyjsrdgrethtry",
-      "slug": "sfhhdfhsjyjsrdgrethtry",
-      "title": "لاتبتبلتبتبلتايفس",
-      "title_en": "sfhhdfhsjyjsrdgrethtry",
-      "description": "fuyrtur6tyertrty56yu6rutrsrtryjtgerht",
-      "author": "اسمي",
-      "username": "newusername",
+      "id": "protonmail",
+      "slug": "protonmail",
+      "title": "بروتون ميل",
+      "title_en": "ProtonMail",
+      "description": "خدمة بريد إلكتروني مشفرة",
+      "author": "وليد صادق",
+      "username": "waleed",
       "categories": [
-        "Get & Keep Customers",
-        "Create & Build",
-        "Run Business"
+        "التواصل والتعاون",
+        "الأمان والنشر",
+        "إدارة الأعمال"
       ],
       "tags": [
-        "بلبلبليب",
-        "بسلسبلبس",
-        "سيبلسلس"
+        "بريد-إلكتروني",
+        "خصوصية",
+        "تشفير"
       ],
       "pricing": {
-        "model": "freemium"
+        "model": "فريميوم"
       },
       "softwareTypes": [
-        "mobile-app"
+        "تطبيق ويب",
+        "تطبيق جوال"
       ],
-      "publishDate": "2025-02-23T20:42:03.243Z",
+      "publishDate": "2025-04-07T22:00:00.317Z",
       "heroImage": "",
-      "toolUrl": "https://panx.io"
+      "toolUrl": "https://proton.me"
     },
     {
-      "id": "lkdjaskljdlkjglkdasj",
-      "slug": "lkdjaskljdlkjglkdasj",
-      "title": "نمتبمستبمبسنت",
-      "title_en": "lkdjaskljdlkjglkdasj",
-      "description": "ككبنمسكنلكسبنكلمنسبكمنلكمس",
-      "author": "اسمي",
-      "username": "newusername",
+      "id": "spike",
+      "slug": "spike",
+      "title": "سبايك",
+      "title_en": "Spike",
+      "description": "بريد إلكتروني ودردشة في تطبيق واحد",
+      "author": "وليد صادق",
+      "username": "waleed",
       "categories": [
-        "Get & Keep Customers",
-        "Create & Build",
-        "Run Business"
+        "التواصل والتعاون",
+        "إدارة الأعمال",
+        "إدارة الأفراد"
       ],
       "tags": [
-        "dev",
-        "pop",
-        "ai"
+        "بريد-إلكتروني",
+        "دردشة",
+        "فريق"
       ],
       "pricing": {
-        "model": "freemium"
+        "model": "فريميوم"
       },
       "softwareTypes": [
-        "web-app",
-        "desktop-app"
+        "تطبيق ويب",
+        "تطبيق جوال"
       ],
-      "publishDate": "2025-02-23T20:24:20.370Z",
+      "publishDate": "2025-04-07T21:59:00.317Z",
       "heroImage": "",
-      "toolUrl": "https://panx.io"
+      "toolUrl": "https://spikenow.com"
     },
     {
-      "id": "ابسسخبهحخصق",
-      "slug": "ابسسخبهحخصق",
-      "title": "ابسسخبهحخصق",
-      "description": "بسسشيعشعهاسعهششييشيس",
-      "author": "اسمي",
-      "username": "newusername",
+      "id": "jitsi",
+      "slug": "jitsi",
+      "title": "جيتسي",
+      "title_en": "Jitsi",
+      "description": "مؤتمرات فيديو مفتوحة المصدر",
+      "author": "وليد صادق",
+      "username": "waleed",
       "categories": [
-        "Get & Keep Customers",
-        "Create & Build",
-        "Run Business"
+        "التواصل والتعاون",
+        "إدارة الأعمال",
+        "إدارة الأفراد"
       ],
       "tags": [
-        "dev",
-        "pop",
-        "ai"
+        "فيديو",
+        "مفتوح-المصدر",
+        "اجتماعات"
       ],
       "pricing": {
-        "model": "free-trial"
+        "model": "مجاني"
       },
       "softwareTypes": [
-        "web-app",
-        "mobile-app",
-        "desktop-app"
+        "تطبيق ويب",
+        "مستضاف ذاتيًا"
       ],
-      "publishDate": "2025-02-23T20:13:14.964Z",
+      "publishDate": "2025-04-07T21:58:00.317Z",
       "heroImage": "",
-      "toolUrl": "https://panx.io"
+      "toolUrl": "https://jitsi.org"
     },
     {
-      "id": "بسبسبسسشب",
-      "slug": "بسبسبسسشب",
-      "title": "بسبسبسسشب",
-      "description": "بششبشببشبشببششابعهشاشهعشعاشعهاهبشاهعاشبهعاهعابشهعاهعباهعاهعاهعاها",
-      "author": "اسمي",
-      "username": "newusername",
+      "id": "baselime",
+      "slug": "baselime",
+      "title": "بيسلايم",
+      "title_en": "Baselime",
+      "description": "مراقبة تطبيقات بدون خادوم",
+      "author": "وليد صادق",
+      "username": "waleed",
       "categories": [
-        "Get & Keep Customers",
-        "Create & Build"
+        "الفهم والتحسين",
+        "إنشاء و تطوير"
       ],
       "tags": [
-        "ai",
-        "ai"
+        "مراقبة",
+        "بدون-خادوم",
+        "تطوير"
       ],
       "pricing": {
-        "model": "freemium"
+        "model": "فريميوم"
       },
       "softwareTypes": [
-        "web-app",
-        "mobile-app"
+        "تطبيق ويب"
       ],
-      "publishDate": "2025-02-23T19:04:01.827Z",
+      "publishDate": "2025-04-07T21:57:00.317Z",
       "heroImage": "",
-      "toolUrl": "https://panx.io"
+      "toolUrl": "https://baselime.io"
     },
     {
-      "id": "نتسبىتنبسىتنىبستن",
-      "slug": "نتسبىتنبسىتنىبستن",
-      "title": "نتسبىتنبسىتنىبستن",
-      "description": "asdgfhfddfhdfhdfhdfhdfhdfhdfhdfhdfhdf",
-      "author": "اسمي",
-      "username": "newusername",
-      "categories": [
-        "Get & Keep Customers",
-        "Create & Build"
-      ],
-      "tags": [
-        "dev",
-        "pop",
-        "ai"
-      ],
-      "pricing": {
-        "model": "free"
-      },
-      "softwareTypes": [
-        "web-app",
-        "mobile-app"
-      ],
-      "publishDate": "2025-02-23T19:01:59.647Z",
-      "heroImage": "",
-      "toolUrl": "https://panx.io"
-    },
-    {
-      "id": "",
-      "slug": "",
-      "title": "يلسيلسيلسيلس",
-      "description": "سشيلسيلسيلسيلسيلسيلسيل",
-      "author": "اسمي",
-      "username": "newusername",
-      "categories": [
-        "Create & Build"
-      ],
-      "tags": [
-        ""
-      ],
-      "pricing": {
-        "model": "freemium"
-      },
-      "softwareTypes": [
-        "web-app",
-        "mobile-app",
-        "desktop-app"
-      ],
-      "publishDate": "2025-02-23T17:48:06.609Z",
-      "heroImage": "",
-      "toolUrl": "https://panx.io"
-    },
-    {
-      "id": "dsjkfnjksndfkjndsfjknsdkjnfkj",
-      "slug": "dsjkfnjksndfkjndsfjknsdkjnfkj",
-      "title": "dsjkfnjksndfkjndsfjknsdkjnfkj",
-      "description": "kjndskjkfsdkfsnjkdfnkjsdnfkjsdnkfnsj",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
-      "categories": [
-        "Get & Keep Customers"
-      ],
-      "tags": [],
-      "pricing": {
-        "model": "free"
-      },
-      "softwareTypes": [],
-      "publishDate": "2025-02-22T18:19:22.573Z",
-      "heroImage": "",
-      "toolUrl": "https://panx.io"
-    },
-    {
-      "id": "mklmlksmdklfmsdkl",
-      "slug": "mklmlksmdklfmsdkl",
-      "title": "kldnlflkdsmklfsmld",
-      "title_ar": "kldnlflkdsmklfsmld",
-      "description": "lkmskldmfklmsdklfmksdlmklfmlkslfmlsd",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
-      "categories": [
-        "Get & Keep Customers"
-      ],
-      "tags": [],
-      "pricing": {
-        "model": "free"
-      },
-      "softwareTypes": [],
-      "publishDate": "2025-02-22T18:15:58.181Z",
-      "heroImage": "",
-      "toolUrl": "https://panx.io"
-    },
-    {
-      "id": "djsnjknsfk",
-      "slug": "djsnjknsfk",
-      "title": "عباعهخساهعاسه",
-      "title_ar": "عباعهخساهعاسه",
-      "description": "سعابعهابعسهينتىبنتيب",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
-      "categories": [
-        "Get & Keep Customers",
-        "Create & Build",
-        "Run Business"
-      ],
-      "tags": [],
-      "pricing": {
-        "model": "free"
-      },
-      "softwareTypes": [],
-      "publishDate": "2025-02-22T18:13:27.818Z",
-      "heroImage": "",
-      "toolUrl": "https://panx.io"
-    },
-    {
-      "id": "crms",
-      "slug": "crms",
-      "title": "crms",
-      "description": "small crm description",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "id": "pipefy",
+      "slug": "pipefy",
+      "title": "بايبفاي",
+      "title_en": "Pipefy",
+      "description": "إدارة سير العمل للفرق",
+      "author": "وليد صادق",
+      "username": "waleed",
       "categories": [
         "إدارة الأعمال",
-        "الفهم والتحسين",
+        "إدارة الأفراد",
         "التواصل والتعاون"
       ],
       "tags": [
-        "لع",
-        "هع"
+        "سير-العمل",
+        "فريق",
+        "أتمتة"
       ],
       "pricing": {
-        "model": "free-trial"
+        "model": "اشتراك"
       },
       "softwareTypes": [
-        "web-app",
-        "mobile-app",
-        "desktop-app"
+        "تطبيق ويب"
       ],
-      "publishDate": "2025-02-10T05:15:25.596Z",
+      "publishDate": "2025-04-07T21:56:00.317Z",
       "heroImage": "",
-      "toolUrl": "https://panx.io"
+      "toolUrl": "https://pipefy.com"
     },
     {
-      "id": "crms1",
-      "slug": "crms1",
-      "title": "crms1",
-      "description": "small crm1 description",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "id": "tally",
+      "slug": "tally",
+      "title": "تالي",
+      "title_en": "Tally",
+      "description": "أداة بناء نماذج بسيطة بدون حدود",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "جذب العملاء والاحتفاظ بهم",
+        "إنشاء و تطوير",
+        "الفهم والتحسين"
+      ],
+      "tags": [
+        "نماذج",
+        "بدون-كود",
+        "بيانات"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-04-07T21:55:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://tally.so"
+    },
+    {
+      "id": "odoo",
+      "slug": "odoo",
+      "title": "أودو",
+      "title_en": "Odoo",
+      "description": "نظام ERP وCRM مفتوح المصدر",
+      "author": "وليد صادق",
+      "username": "waleed",
       "categories": [
         "إدارة الأعمال",
-        "الفهم والتحسين",
+        "جذب العملاء والاحتفاظ بهم",
+        "إدارة الأموال"
+      ],
+      "tags": [
+        "ERP",
+        "CRM",
+        "مفتوح-المصدر"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب",
+        "مستضاف ذاتيًا"
+      ],
+      "publishDate": "2025-04-07T21:54:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://odoo.com"
+    },
+    {
+      "id": "clickup",
+      "slug": "clickup",
+      "title": "كليك أب",
+      "title_en": "ClickUp",
+      "description": "إدارة مشاريع شاملة",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إدارة الأعمال",
+        "إدارة الأفراد",
         "التواصل والتعاون"
       ],
       "tags": [
-        "لع",
-        "هع"
+        "مشروع",
+        "فريق",
+        "مهام"
       ],
       "pricing": {
-        "model": "free-trial"
+        "model": "فريميوم"
       },
       "softwareTypes": [
-        "web-app",
-        "mobile-app",
-        "desktop-app"
+        "تطبيق ويب",
+        "تطبيق جوال"
       ],
-      "publishDate": "2025-02-10T05:15:25.596Z",
+      "publishDate": "2025-04-07T21:53:00.317Z",
       "heroImage": "",
-      "toolUrl": "https://panx.io"
+      "toolUrl": "https://clickup.com"
     },
     {
-      "id": "crms2",
-      "slug": "crms2",
-      "title": "crms2",
-      "description": "small crm2 description",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "id": "appgyver",
+      "slug": "appgyver",
+      "title": "أب جايفر",
+      "title_en": "AppGyver",
+      "description": "منصة تطوير تطبيقات بدون كود",
+      "author": "وليد صادق",
+      "username": "waleed",
       "categories": [
-        "إدارة الأعمال",
-        "الفهم والتحسين",
+        "إنشاء و تطوير",
+        "إدارة الأعمال"
+      ],
+      "tags": [
+        "بدون-كود",
+        "تطبيق",
+        "جوال"
+      ],
+      "pricing": {
+        "model": "مجاني"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-04-07T21:52:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://appgyver.com"
+    },
+    {
+      "id": "strapi",
+      "slug": "strapi",
+      "title": "سترابي",
+      "title_en": "Strapi",
+      "description": "نظام إدارة محتوى بدون رأس مفتوح المصدر",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير",
+        "إدارة الأعمال"
+      ],
+      "tags": [
+        "CMS",
+        "مفتوح-المصدر",
+        "API"
+      ],
+      "pricing": {
+        "model": "مجاني"
+      },
+      "softwareTypes": [
+        "مستضاف ذاتيًا"
+      ],
+      "publishDate": "2025-04-07T21:51:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://strapi.io"
+    },
+    {
+      "id": "typedream",
+      "slug": "typedream",
+      "title": "تايب دريم",
+      "title_en": "Typedream",
+      "description": "أداة بناء مواقع بدون كود",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير",
+        "جذب العملاء والاحتفاظ بهم"
+      ],
+      "tags": [
+        "بدون-كود",
+        "موقع-ويب",
+        "تصميم"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-04-07T21:50:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://typedream.com"
+    },
+    {
+      "id": "bubble",
+      "slug": "bubble",
+      "title": "بابل",
+      "title_en": "Bubble",
+      "description": "أداة بناء تطبيقات ويب بدون كود",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير",
+        "إدارة الأعمال"
+      ],
+      "tags": [
+        "بدون-كود",
+        "ويب",
+        "تطبيق"
+      ],
+      "pricing": {
+        "model": "اشتراك"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-04-07T21:48:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://bubble.io"
+    },
+    {
+      "id": "photopea",
+      "slug": "photopea",
+      "title": "فوتوبيا",
+      "title_en": "Photopea",
+      "description": "محرر صور مجاني شبيه بفوتوشوب عبر الإنترنت",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير"
+      ],
+      "tags": [
+        "تصميم",
+        "صور",
+        "مجاني"
+      ],
+      "pricing": {
+        "model": "مجاني"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-04-07T21:47:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://photopea.com"
+    },
+    {
+      "id": "framer",
+      "slug": "framer",
+      "title": "فريمر",
+      "title_en": "Framer",
+      "description": "تصميم ونمذجة للويب",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير",
         "التواصل والتعاون"
       ],
       "tags": [
-        "لع",
-        "هع"
+        "تصميم",
+        "نمذجة",
+        "ويب"
       ],
       "pricing": {
-        "model": "free-trial"
+        "model": "فريميوم"
       },
       "softwareTypes": [
-        "web-app",
-        "mobile-app",
-        "desktop-app"
+        "تطبيق ويب"
       ],
-      "publishDate": "2025-02-10T05:15:25.596Z",
+      "publishDate": "2025-04-07T21:46:00.317Z",
       "heroImage": "",
-      "toolUrl": "https://panx.io"
+      "toolUrl": "https://framer.com"
     },
     {
-      "id": "crm3",
-      "slug": "crm3",
-      "title": "crm3",
-      "description": "small crm3 description",
-      "author": "Wael Bathaqz",
-      "username": "newusername",
+      "id": "sender",
+      "slug": "sender",
+      "title": "سيندر",
+      "title_en": "Sender",
+      "description": "تسويق وأتمتة البريد الإلكتروني",
+      "author": "وليد صادق",
+      "username": "waleed",
       "categories": [
-        "إدارة الأعمال",
-        "الفهم والتحسين",
+        "جذب العملاء والاحتفاظ بهم",
+        "إدارة الأعمال"
+      ],
+      "tags": [
+        "بريد-إلكتروني",
+        "تسويق",
+        "أتمتة"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-04-07T21:44:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://sender.net"
+    },
+    {
+      "id": "tawkto",
+      "slug": "tawkto",
+      "title": "توك تو",
+      "title_en": "Tawk.to",
+      "description": "دردشة مباشرة مجانية للمواقع",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "جذب العملاء والاحتفاظ بهم",
         "التواصل والتعاون"
       ],
       "tags": [
-        "لببع",
-        "هعهع"
+        "دردشة",
+        "دعم",
+        "مجاني"
       ],
       "pricing": {
-        "model": "free-trial"
+        "model": "مجاني"
       },
       "softwareTypes": [
-        "web-app",
-        "mobile-app",
-        "desktop-app"
+        "تطبيق ويب"
       ],
-      "publishDate": "2025-02-10T05:15:25.596Z",
+      "publishDate": "2025-04-07T21:43:00.317Z",
       "heroImage": "",
-      "toolUrl": "https://panx.io"
+      "toolUrl": "https://tawk.to"
+    },
+    {
+      "id": "crisp",
+      "slug": "crisp",
+      "title": "كريسب",
+      "title_en": "Crisp",
+      "description": "مراسلة ودعم العملاء",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "جذب العملاء والاحتفاظ بهم",
+        "التواصل والتعاون"
+      ],
+      "tags": [
+        "دردشة",
+        "دعم",
+        "مراسلة"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-04-07T21:42:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://crisp.chat"
+    },
+    {
+      "id": "panelbear",
+      "slug": "panelbear",
+      "title": "بانل بير",
+      "title_en": "Panelbear",
+      "description": "تحليلات مواقع خفيفة الوزن",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "الفهم والتحسين",
+        "إدارة الأعمال"
+      ],
+      "tags": [
+        "تحليلات",
+        "ويب",
+        "خصوصية"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-04-07T21:40:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://panelbear.com"
+    },
+    {
+      "id": "posthog",
+      "slug": "posthog",
+      "title": "بوست هوغ",
+      "title_en": "PostHog",
+      "description": "تحليلات منتجات مفتوحة المصدر",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "الفهم والتحسين",
+        "إدارة الأعمال"
+      ],
+      "tags": [
+        "تحليلات",
+        "مفتوح-المصدر",
+        "منتج"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب",
+        "مستضاف ذاتيًا"
+      ],
+      "publishDate": "2025-04-07T21:38:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://posthog.com"
+    },
+    {
+      "id": "invoiceninja",
+      "slug": "invoiceninja",
+      "title": "إنفويس نينجا",
+      "title_en": "Invoice Ninja",
+      "description": "فوترة ومدفوعات مفتوحة المصدر",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إدارة الأموال",
+        "إدارة الأعمال"
+      ],
+      "tags": [
+        "فوترة",
+        "مفتوح-المصدر",
+        "مدفوعات"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب",
+        "مستضاف ذاتيًا"
+      ],
+      "publishDate": "2025-04-07T21:37:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://invoiceninja.com"
+    },
+    {
+      "id": "paddle",
+      "slug": "paddle",
+      "title": "بادل",
+      "title_en": "Paddle",
+      "description": "معالجة مدفوعات للبرمجيات",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إدارة الأموال",
+        "إدارة الأعمال"
+      ],
+      "tags": [
+        "دفع",
+        "فوترة",
+        "برمجيات"
+      ],
+      "pricing": {
+        "model": "تسعير مخصص"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-04-07T21:35:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://paddle.com"
+    },
+    {
+      "id": "borgbackup",
+      "slug": "borgbackup",
+      "title": "بورغ باكب",
+      "title_en": "BorgBackup",
+      "description": "أداة نسخ احتياطي مع إزالة التكرار",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "الأمان والنشر",
+        "إدارة الأعمال"
+      ],
+      "tags": [
+        "نسخ-احتياطي",
+        "إزالة-التكرار",
+        "مفتوح-المصدر"
+      ],
+      "pricing": {
+        "model": "مجاني"
+      },
+      "softwareTypes": [
+        "واجهة سطر الأوامر"
+      ],
+      "publishDate": "2025-04-07T21:34:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://borgbackup.org"
+    },
+    {
+      "id": "duplicati",
+      "slug": "duplicati",
+      "title": "دوبليكاتي",
+      "title_en": "Duplicati",
+      "description": "نسخ احتياطي مجاني مع تشفير",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "الأمان والنشر",
+        "إدارة الأعمال"
+      ],
+      "tags": [
+        "نسخ-احتياطي",
+        "تشفير",
+        "مفتوح-المصدر"
+      ],
+      "pricing": {
+        "model": "مجاني"
+      },
+      "softwareTypes": [
+        "تطبيق سطح المكتب",
+        "مستضاف ذاتيًا"
+      ],
+      "publishDate": "2025-04-07T21:33:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://duplicati.com"
+    },
+    {
+      "id": "restic",
+      "slug": "restic",
+      "title": "ريستيك",
+      "title_en": "Restic",
+      "description": "برنامج نسخ احتياطي آمن وفعال",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "الأمان والنشر",
+        "إدارة الأعمال"
+      ],
+      "tags": [
+        "نسخ-احتياطي",
+        "تشفير",
+        "مفتوح-المصدر"
+      ],
+      "pricing": {
+        "model": "مجاني"
+      },
+      "softwareTypes": [
+        "واجهة سطر الأوامر"
+      ],
+      "publishDate": "2025-04-07T21:31:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://restic.net"
+    },
+    {
+      "id": "kopia",
+      "slug": "kopia",
+      "title": "كوبيا",
+      "title_en": "Kopia",
+      "description": "أداة نسخ احتياطي سريعة ومشفرة",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "الأمان والنشر",
+        "إدارة الأعمال"
+      ],
+      "tags": [
+        "نسخ-احتياطي",
+        "تشفير",
+        "مفتوح-المصدر"
+      ],
+      "pricing": {
+        "model": "مجاني"
+      },
+      "softwareTypes": [
+        "تطبيق سطح المكتب",
+        "واجهة سطر الأوامر"
+      ],
+      "publishDate": "2025-04-07T21:30:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://kopia.io"
+    },
+    {
+      "id": "flyio",
+      "slug": "flyio",
+      "title": "فلاي آي أو",
+      "title_en": "Fly.io",
+      "description": "نشر تطبيقات قريبة من المستخدمين عالميًا",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير",
+        "الأمان والنشر"
+      ],
+      "tags": [
+        "نشر",
+        "سحابة",
+        "عالمي"
+      ],
+      "pricing": {
+        "model": "الدفع حسب الاستخدام"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-04-07T21:29:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://fly.io"
+    },
+    {
+      "id": "netlify",
+      "slug": "netlify",
+      "title": "نتلايفاي",
+      "title_en": "Netlify",
+      "description": "استضافة ونشر لمشاريع الويب",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير",
+        "الأمان والنشر"
+      ],
+      "tags": [
+        "استضافة",
+        "ويب",
+        "نشر"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-04-07T21:28:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://netlify.com"
+    },
+    {
+      "id": "digitalocean",
+      "slug": "digitalocean",
+      "title": "ديجيتال أوشن",
+      "title_en": "DigitalOcean",
+      "description": "بنية تحتية سحابية للمطورين",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير",
+        "الأمان والنشر"
+      ],
+      "tags": [
+        "سحابة",
+        "استضافة",
+        "ديفوبس"
+      ],
+      "pricing": {
+        "model": "الدفع حسب الاستخدام"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-04-07T21:27:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://digitalocean.com"
+    },
+    {
+      "id": "render",
+      "slug": "render",
+      "title": "ريندر",
+      "title_en": "Render",
+      "description": "استضافة سحابية للتطبيقات والمواقع",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير",
+        "الأمان والنشر"
+      ],
+      "tags": [
+        "استضافة",
+        "سحابة",
+        "ديفوبس"
+      ],
+      "pricing": {
+        "model": "الدفع حسب الاستخدام"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-04-07T21:26:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://render.com"
+    },
+    {
+      "id": "snyk",
+      "slug": "snyk",
+      "title": "سنيك",
+      "title_en": "Snyk",
+      "description": "أمان لتبعيات البرمجة",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "الأمان والنشر",
+        "إنشاء و تطوير"
+      ],
+      "tags": [
+        "أمان",
+        "تطوير",
+        "تبعيات"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب",
+        "واجهة سطر الأوامر"
+      ],
+      "publishDate": "2025-04-07T21:25:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://snyk.io"
+    },
+    {
+      "id": "simplelogin",
+      "slug": "simplelogin",
+      "title": "سيمبل لوجين",
+      "title_en": "SimpleLogin",
+      "description": "اسم مستعار للبريد لحماية الخصوصية",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "الأمان والنشر",
+        "التواصل والتعاون",
+        "إدارة الأعمال"
+      ],
+      "tags": [
+        "بريد-إلكتروني",
+        "خصوصية",
+        "اسم-مستعار"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-04-07T21:24:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://simplelogin.io"
+    },
+    {
+      "id": "krypton",
+      "slug": "krypton",
+      "title": "كريبتون",
+      "title_en": "Krypton",
+      "description": "إدارة مفاتيح SSH آمنة على الجوال",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "الأمان والنشر",
+        "إدارة الأعمال"
+      ],
+      "tags": [
+        "أمان",
+        "SSH",
+        "جوال"
+      ],
+      "pricing": {
+        "model": "مجاني"
+      },
+      "softwareTypes": [
+        "تطبيق جوال"
+      ],
+      "publishDate": "2025-04-07T21:23:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://krypt.co"
+    },
+    {
+      "id": "bitwarden",
+      "slug": "bitwarden",
+      "title": "بيت وردن",
+      "title_en": "Bitwarden",
+      "description": "مدير كلمات مرور مفتوح المصدر",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "الأمان والنشر",
+        "إدارة الأعمال"
+      ],
+      "tags": [
+        "كلمة-مرور",
+        "أمان",
+        "مفتوح-المصدر"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب",
+        "تطبيق سطح المكتب",
+        "تطبيق جوال"
+      ],
+      "publishDate": "2025-04-07T21:22:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://bitwarden.com"
+    },
+    {
+      "id": "obsidian",
+      "slug": "obsidian",
+      "title": "أوبسيديان",
+      "title_en": "Obsidian",
+      "description": "تطبيق تدوين ملاحظات بمخطط معرفي",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "التواصل والتعاون",
+        "إدارة الأعمال"
+      ],
+      "tags": [
+        "ملاحظات",
+        "معرفة",
+        "ماركداون"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق سطح المكتب"
+      ],
+      "publishDate": "2025-04-07T21:21:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://obsidian.md"
+    },
+    {
+      "id": "linear",
+      "slug": "linear",
+      "title": "لينيار",
+      "title_en": "Linear",
+      "description": "تتبع المشكلات لفرق البرمجيات",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إدارة الأعمال",
+        "إدارة الأفراد",
+        "التواصل والتعاون"
+      ],
+      "tags": [
+        "مشروع",
+        "تطوير",
+        "تتبع"
+      ],
+      "pricing": {
+        "model": "اشتراك"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-04-07T21:19:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://linear.app"
+    },
+    {
+      "id": "miro",
+      "slug": "miro",
+      "title": "ميرو",
+      "title_en": "Miro",
+      "description": "سبورة بيضاء عبر الإنترنت للتعاون الجماعي",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "التواصل والتعاون",
+        "إدارة الأعمال",
+        "إدارة الأفراد"
+      ],
+      "tags": [
+        "سبورة-بيضاء",
+        "تعاون",
+        "فريق"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-04-07T21:18:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://miro.com"
+    },
+    {
+      "id": "cryptpad",
+      "slug": "cryptpad",
+      "title": "كريبت باد",
+      "title_en": "Cryptpad",
+      "description": "محرر مستندات تعاوني مشفر",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "التواصل والتعاون",
+        "الأمان والنشر",
+        "إدارة الأعمال"
+      ],
+      "tags": [
+        "تشفير",
+        "مستندات",
+        "تعاون"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب",
+        "مستضاف ذاتيًا"
+      ],
+      "publishDate": "2025-04-07T21:17:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://cryptpad.fr"
+    },
+    {
+      "id": "anytype",
+      "slug": "anytype",
+      "title": "أني تايب",
+      "title_en": "Anytype",
+      "description": "تدوين ملاحظات وتنظيم مع التركيز على الخصوصية",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "التواصل والتعاون",
+        "إدارة الأعمال"
+      ],
+      "tags": [
+        "ملاحظات",
+        "خصوصية",
+        "تنظيم"
+      ],
+      "pricing": {
+        "model": "مجاني"
+      },
+      "softwareTypes": [
+        "تطبيق سطح المكتب",
+        "تطبيق جوال"
+      ],
+      "publishDate": "2025-04-07T21:16:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://anytype.io"
+    },
+    {
+      "id": "rocketchat",
+      "slug": "rocketchat",
+      "title": "روكت شات",
+      "title_en": "Rocket.Chat",
+      "description": "منصة تواصل فريق مفتوحة المصدر",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "التواصل والتعاون",
+        "إدارة الأعمال",
+        "إدارة الأفراد"
+      ],
+      "tags": [
+        "دردشة",
+        "مفتوح-المصدر",
+        "فريق"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب",
+        "مستضاف ذاتيًا"
+      ],
+      "publishDate": "2025-04-07T21:15:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://rocket.chat"
+    },
+    {
+      "id": "slab",
+      "slug": "slab",
+      "title": "سلاب",
+      "title_en": "Slab",
+      "description": "قاعدة معرفة وويكي للفريق",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "التواصل والتعاون",
+        "إدارة الأعمال",
+        "إدارة الأفراد"
+      ],
+      "tags": [
+        "معرفة",
+        "ويكي",
+        "فريق"
+      ],
+      "pricing": {
+        "model": "اشتراك"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-04-07T21:14:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://slab.com"
+    },
+    {
+      "id": "windmill",
+      "slug": "windmill",
+      "title": "ويندميل",
+      "title_en": "Windmill",
+      "description": "مشغل سير عمل ونصوص مفتوح المصدر",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إدارة الأعمال",
+        "إنشاء و تطوير"
+      ],
+      "tags": [
+        "سير-العمل",
+        "مفتوح-المصدر",
+        "نصوص"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب",
+        "مستضاف ذاتيًا"
+      ],
+      "publishDate": "2025-04-07T21:12:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://windmill.dev"
+    },
+    {
+      "id": "huginn",
+      "slug": "huginn",
+      "title": "هوجين",
+      "title_en": "Huginn",
+      "description": "أتمتة مستضافة ذاتيًا للمهام",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إدارة الأعمال",
+        "إنشاء و تطوير"
+      ],
+      "tags": [
+        "أتمتة",
+        "مفتوح-المصدر",
+        "مهام"
+      ],
+      "pricing": {
+        "model": "مجاني"
+      },
+      "softwareTypes": [
+        "مستضاف ذاتيًا"
+      ],
+      "publishDate": "2025-04-07T21:11:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://github.com/huginn/huginn"
+    },
+    {
+      "id": "n8n",
+      "slug": "n8n",
+      "title": "إن 8 إن",
+      "title_en": "n8n",
+      "description": "أداة أتمتة سير العمل مفتوحة المصدر",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إدارة الأعمال",
+        "إنشاء و تطوير"
+      ],
+      "tags": [
+        "أتمتة",
+        "مفتوح-المصدر",
+        "سير-العمل"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب",
+        "مستضاف ذاتيًا"
+      ],
+      "publishDate": "2025-04-07T21:10:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://n8n.io"
+    },
+    {
+      "id": "retool",
+      "slug": "retool",
+      "title": "ريتوول",
+      "title_en": "Retool",
+      "description": "بناء أدوات داخلية بسرعة",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير",
+        "إدارة الأعمال"
+      ],
+      "tags": [
+        "أدوات-داخلية",
+        "بدون-كود",
+        "تطوير"
+      ],
+      "pricing": {
+        "model": "اشتراك"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-04-07T21:09:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://retool.com"
+    },
+    {
+      "id": "baserow",
+      "slug": "baserow",
+      "title": "بيسرو",
+      "title_en": "Baserow",
+      "description": "أداة قاعدة بيانات بدون كود مفتوحة المصدر",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير",
+        "إدارة الأعمال"
+      ],
+      "tags": [
+        "قاعدة-بيانات",
+        "بدون-كود",
+        "مفتوح-المصدر"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب",
+        "مستضاف ذاتيًا"
+      ],
+      "publishDate": "2025-04-07T21:08:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://baserow.io"
+    },
+    {
+      "id": "fibery",
+      "slug": "fibery",
+      "title": "فايبري",
+      "title_en": "Fibery",
+      "description": "منصة إدارة عمل مرنة",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إدارة الأعمال",
+        "إدارة الأفراد",
+        "التواصل والتعاون"
+      ],
+      "tags": [
+        "مشروع",
+        "تعاون",
+        "سير-العمل"
+      ],
+      "pricing": {
+        "model": "اشتراك"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-04-07T21:07:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://fibery.io"
+    },
+    {
+      "id": "nocodb",
+      "slug": "nocodb",
+      "title": "نوكو دي بي",
+      "title_en": "NocoDB",
+      "description": "بديل Airtable مفتوح المصدر",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير",
+        "إدارة الأعمال"
+      ],
+      "tags": [
+        "قاعدة-بيانات",
+        "مفتوح-المصدر",
+        "جدول-بيانات"
+      ],
+      "pricing": {
+        "model": "مجاني"
+      },
+      "softwareTypes": [
+        "تطبيق ويب",
+        "مستضاف ذاتيًا"
+      ],
+      "publishDate": "2025-04-07T21:06:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://nocodb.com"
+    },
+    {
+      "id": "splitbee",
+      "slug": "splitbee",
+      "title": "سبليت بي",
+      "title_en": "Splitbee",
+      "description": "تحليلات ويب تركز على الخصوصية",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "الفهم والتحسين",
+        "إدارة الأعمال"
+      ],
+      "tags": [
+        "تحليلات",
+        "خصوصية",
+        "ويب"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-04-07T21:05:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://splitbee.io"
+    },
+    {
+      "id": "metabase",
+      "slug": "metabase",
+      "title": "ميتا بيس",
+      "title_en": "Metabase",
+      "description": "أداة ذكاء أعمال مفتوحة المصدر",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "الفهم والتحسين",
+        "إدارة الأعمال"
+      ],
+      "tags": [
+        "ذكاء-أعمال",
+        "تحليلات",
+        "مفتوح-المصدر"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب",
+        "مستضاف ذاتيًا"
+      ],
+      "publishDate": "2025-04-07T21:04:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://metabase.com"
+    },
+    {
+      "id": "evidence",
+      "slug": "evidence",
+      "title": "إيفيدنس",
+      "title_en": "Evidence",
+      "description": "تقارير بيانات مع SQL وماركداون",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "الفهم والتحسين",
+        "إدارة الأعمال"
+      ],
+      "tags": [
+        "بيانات",
+        "SQL",
+        "تقارير"
+      ],
+      "pricing": {
+        "model": "مجاني"
+      },
+      "softwareTypes": [
+        "تطبيق ويب",
+        "مستضاف ذاتيًا"
+      ],
+      "publishDate": "2025-04-07T21:03:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://evidence.dev"
+    },
+    {
+      "id": "datasette",
+      "slug": "datasette",
+      "title": "داتاسيت",
+      "title_en": "Datasette",
+      "description": "أداة لاستكشاف ونشر البيانات",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "الفهم والتحسين",
+        "إدارة الأعمال"
+      ],
+      "tags": [
+        "بيانات",
+        "مفتوح-المصدر",
+        "تحليل"
+      ],
+      "pricing": {
+        "model": "مجاني"
+      },
+      "softwareTypes": [
+        "تطبيق ويب",
+        "مستضاف ذاتيًا"
+      ],
+      "publishDate": "2025-04-07T21:02:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://datasette.io"
+    },
+    {
+      "id": "fliki",
+      "slug": "fliki",
+      "title": "فليكي",
+      "title_en": "Fliki",
+      "description": "مولد فيديو وتعليق صوتي من نصوص",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير",
+        "جذب العملاء والاحتفاظ بهم"
+      ],
+      "tags": [
+        "فيديو",
+        "ذكاء-اصطناعي",
+        "تعليق-صوتي"
+      ],
+      "pricing": {
+        "model": "اشتراك"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-04-07T21:01:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://fliki.ai"
+    },
+    {
+      "id": "inkdrop",
+      "slug": "inkdrop",
+      "title": "إنك دروب",
+      "title_en": "Inkdrop",
+      "description": "تطبيق تدوين ملاحظات ماركداون للمطورين",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "التواصل والتعاون",
+        "إدارة الأعمال"
+      ],
+      "tags": [
+        "ملاحظات",
+        "ماركداون",
+        "تطوير"
+      ],
+      "pricing": {
+        "model": "اشتراك"
+      },
+      "softwareTypes": [
+        "تطبيق سطح المكتب",
+        "تطبيق جوال"
+      ],
+      "publishDate": "2025-04-07T21:00:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://inkdrop.app"
+    },
+    {
+      "id": "memberstack",
+      "slug": "memberstack",
+      "title": "ميمبر ستاك",
+      "title_en": "Memberstack",
+      "description": "مصادقة مستخدمين للمواقع",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير",
+        "الأمان والنشر"
+      ],
+      "tags": [
+        "مصادقة",
+        "عضوية",
+        "ويب"
+      ],
+      "pricing": {
+        "model": "اشتراك"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-04-07T20:59:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://memberstack.com"
+    },
+    {
+      "id": "ghost",
+      "slug": "ghost",
+      "title": "غوست",
+      "title_en": "Ghost",
+      "description": "منصة نشر للمدونات والنشرات الإخبارية",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير",
+        "جذب العملاء والاحتفاظ بهم"
+      ],
+      "tags": [
+        "تدوين",
+        "نشرة-إخبارية",
+        "CMS"
+      ],
+      "pricing": {
+        "model": "اشتراك"
+      },
+      "softwareTypes": [
+        "تطبيق ويب",
+        "مستضاف ذاتيًا"
+      ],
+      "publishDate": "2025-04-07T20:58:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://ghost.org"
+    },
+    {
+      "id": "codesandbox",
+      "slug": "codesandbox",
+      "title": "كود ساندبوكس",
+      "title_en": "CodeSandbox",
+      "description": "محرر كود عبر الإنترنت للنمذجة السريعة",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير",
+        "التواصل والتعاون"
+      ],
+      "tags": [
+        "برمجة",
+        "نمذجة",
+        "ويب"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-04-07T20:57:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://codesandbox.io"
+    },
+{
+      "id": "railway",
+      "slug": "railway",
+      "title": "رايلواي",
+      "title_en": "Railway",
+      "description": "نشر التطبيقات بتكوين بسيط",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير",
+        "الأمان والنشر"
+      ],
+      "tags": [
+        "نشر",
+        "سحابة",
+        "ديفوبس"
+      ],
+      "pricing": {
+        "model": "الدفع حسب الاستخدام"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-04-07T20:56:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://railway.app"
+    },
+    {
+      "id": "supabase",
+      "slug": "supabase",
+      "title": "سوبابيس",
+      "title_en": "Supabase",
+      "description": "بديل مفتوح المصدر لـ Firebase",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير",
+        "الأمان والنشر"
+      ],
+      "tags": [
+        "قاعدة-بيانات",
+        "مفتوح-المصدر",
+        "API"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب",
+        "مستضاف ذاتيًا"
+      ],
+      "publishDate": "2025-04-07T20:55:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://supabase.com"
+    },
+    {
+      "id": "appwrite",
+      "slug": "appwrite",
+      "title": "أب رايت",
+      "title_en": "Appwrite",
+      "description": "منصة خلفية كخدمة مفتوحة المصدر",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير",
+        "الأمان والنشر"
+      ],
+      "tags": [
+        "خلفية",
+        "مفتوح-المصدر",
+        "API"
+      ],
+      "pricing": {
+        "model": "مجاني"
+      },
+      "softwareTypes": [
+        "مستضاف ذاتيًا"
+      ],
+      "publishDate": "2025-04-07T20:54:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://appwrite.io"
+    },
+    {
+      "id": "lunacy",
+      "slug": "lunacy",
+      "title": "لوناسي",
+      "title_en": "Lunacy",
+      "description": "برنامج تصميم مجاني مع أصول مدمجة",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير"
+      ],
+      "tags": [
+        "تصميم",
+        "مجاني",
+        "واجهة-مستخدم"
+      ],
+      "pricing": {
+        "model": "مجاني"
+      },
+      "softwareTypes": [
+        "تطبيق سطح المكتب"
+      ],
+      "publishDate": "2025-04-07T20:53:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://icons8.com/lunacy"
+    },
+    {
+      "id": "penpot",
+      "slug": "penpot",
+      "title": "بنبوت",
+      "title_en": "Penpot",
+      "description": "أداة تصميم مفتوحة المصدر للفرق",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير",
+        "التواصل والتعاون"
+      ],
+      "tags": [
+        "تصميم",
+        "مفتوح-المصدر",
+        "واجهة-مستخدم"
+      ],
+      "pricing": {
+        "model": "مجاني"
+      },
+      "softwareTypes": [
+        "تطبيق ويب",
+        "مستضاف ذاتيًا"
+      ],
+      "publishDate": "2025-04-07T20:52:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://penpot.app"
+    },
+    {
+      "id": "figma",
+      "slug": "figma",
+      "title": "فيغما",
+      "title_en": "Figma",
+      "description": "أداة تصميم ونمذجة تعاونية",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير",
+        "التواصل والتعاون"
+      ],
+      "tags": [
+        "تصميم",
+        "تعاون",
+        "واجهة-مستخدم"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-04-07T20:51:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://figma.com"
+    },
+    {
+      "id": "amity",
+      "slug": "amity",
+      "title": "أميتي",
+      "title_en": "Amity",
+      "description": "حزمة تطوير للميزات الاجتماعية للتطبيقات والمواقع",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير",
+        "جذب العملاء والاحتفاظ بهم"
+      ],
+      "tags": [
+        "اجتماعي",
+        "SDK",
+        "مجتمع"
+      ],
+      "pricing": {
+        "model": "تسعير مخصص"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-04-07T20:50:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://amity.co"
+    },
+    {
+      "id": "chaskiq",
+      "slug": "chaskiq",
+      "title": "شاسكيك",
+      "title_en": "Chaskiq",
+      "description": "دردشة مباشرة مفتوحة المصدر لتفاعل العملاء",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "جذب العملاء والاحتفاظ بهم",
+        "التواصل والتعاون"
+      ],
+      "tags": [
+        "دردشة-مباشرة",
+        "مفتوح-المصدر"
+      ],
+      "pricing": {
+        "model": "مجاني"
+      },
+      "softwareTypes": [
+        "تطبيق ويب",
+        "مستضاف ذاتيًا"
+      ],
+      "publishDate": "2025-04-07T20:49:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://chaskiq.io"
+    },
+    {
+      "id": "chatwoot",
+      "slug": "chatwoot",
+      "title": "شات ووت",
+      "title_en": "Chatwoot",
+      "description": "منصة دعم عملاء مفتوحة المصدر للدردشة",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "جذب العملاء والاحتفاظ بهم",
+        "التواصل والتعاون",
+        "إدارة الأعمال"
+      ],
+      "tags": [
+        "دردشة",
+        "دعم",
+        "مفتوح-المصدر"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب",
+        "مستضاف ذاتيًا"
+      ],
+      "publishDate": "2025-04-07T20:48:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://chatwoot.com"
+    },
+    {
+      "id": "omniconvert",
+      "slug": "omniconvert",
+      "title": "أومني كونفرت",
+      "title_en": "OmniConvert",
+      "description": "أداة اختبار A/B وتحسين التحويل",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "الفهم والتحسين",
+        "جذب العملاء والاحتفاظ بهم"
+      ],
+      "tags": [
+        "اختبار-A/B",
+        "تحويل",
+        "تحليلات"
+      ],
+      "pricing": {
+        "model": "اشتراك"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-04-07T20:47:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://omniconvert.com"
+    },
+    {
+      "id": "listmonk",
+      "slug": "listmonk",
+      "title": "ليست مونك",
+      "title_en": "Listmonk",
+      "description": "مدير قوائم بريدية ونشرات إخبارية مستضاف ذاتيًا",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "جذب العملاء والاحتفاظ بهم",
+        "إدارة الأعمال",
+        "التواصل والتعاون"
+      ],
+      "tags": [
+        "بريد-إلكتروني",
+        "نشرة-إخبارية",
+        "مستضاف-ذاتيًا"
+      ],
+      "pricing": {
+        "model": "مجاني"
+      },
+      "softwareTypes": [
+        "تطبيق ويب",
+        "مستضاف ذاتيًا"
+      ],
+      "publishDate": "2025-04-07T20:46:46.317Z",
+      "heroImage": "",
+      "toolUrl": "https://listmonk.app"
+    },
+    {
+      "id": "carrd",
+      "slug": "carrd",
+      "title": "كارد",
+      "title_en": "Carrd",
+      "description": "أداة بناء مواقع صفحة واحدة بسيطة",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير",
+        "جذب العملاء والاحتفاظ بهم"
+      ],
+      "tags": [
+        "موقع-ويب",
+        "بدون-كود",
+        "صفحة-هبوط"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-04-07T20:46:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://carrd.co"
+    },
+    {
+      "id": "umami",
+      "slug": "umami",
+      "title": "أومامي",
+      "title_en": "Umami",
+      "description": "تحليلات ويب تركز على الخصوصية",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إدارة الأعمال",
+        "الفهم والتحسين"
+      ],
+      "tags": [
+        "تحليلات",
+        "خصوصية",
+        "مفتوح-المصدر"
+      ],
+      "pricing": {
+        "model": "مجاني"
+      },
+      "softwareTypes": [
+        "تطبيق ويب",
+        "مستضاف ذاتيًا"
+      ],
+      "publishDate": "2025-04-07T20:45:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://umami.is"
+    },
+    {
+      "id": "metricool",
+      "slug": "metricool",
+      "title": "ميتريكول",
+      "title_en": "Metricool",
+      "description": "جدولة وتحليلات وسائل التواصل الاجتماعي",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "جذب العملاء والاحتفاظ بهم",
+        "الفهم والتحسين"
+      ],
+      "tags": [
+        "وسائل-تواصل",
+        "جدولة",
+        "تحليلات"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-04-07T20:44:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://metricool.com"
+    },
+    {
+      "id": "breezyhr",
+      "slug": "breezyhr",
+      "title": "بريزي إتش آر",
+      "title_en": "Breezy HR",
+      "description": "تتبع المتقدمين مجانًا للفرق الصغيرة",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إدارة الأفراد",
+        "إدارة الأعمال"
+      ],
+      "tags": [
+        "توظيف",
+        "ATS",
+        "تجنيد"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-04-07T20:43:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://breezy.hr"
+    },
+    {
+      "id": "simpleanalytics",
+      "slug": "simpleanalytics",
+      "title": "سيمبل أناليتكس",
+      "title_en": "Simple Analytics",
+      "description": "تحليلات ويب تركز على الخصوصية مع طبقة مجانية",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "الفهم والتحسين",
+        "إدارة الأعمال"
+      ],
+      "tags": [
+        "تحليلات",
+        "خصوصية",
+        "ويب"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-04-07T20:42:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://simpleanalytics.com"
+    },
+    {
+      "id": "syncthing",
+      "slug": "syncthing",
+      "title": "سينكثينغ",
+      "title_en": "Syncthing",
+      "description": "أداة مزامنة ملفات مفتوحة المصدر",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "الأمان والنشر",
+        "إدارة الأعمال"
+      ],
+      "tags": [
+        "نسخ-احتياطي",
+        "مزامنة",
+        "مفتوح-المصدر"
+      ],
+      "pricing": {
+        "model": "مجاني"
+      },
+      "softwareTypes": [
+        "تطبيق سطح المكتب",
+        "مستضاف ذاتيًا"
+      ],
+      "publishDate": "2025-04-07T20:41:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://syncthing.net"
+    },
+    {
+      "id": "andco",
+      "slug": "andco",
+      "title": "آند كو",
+      "title_en": "AND.CO",
+      "description": "فوترة وإدارة عقود للمستقلين",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إدارة الأموال",
+        "إدارة الأعمال"
+      ],
+      "tags": [
+        "فوترة",
+        "عقود",
+        "مستقل"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-04-07T20:40:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://www.and.co"
+    },
+    {
+      "id": "goaccess",
+      "slug": "goaccess",
+      "title": "جو أكسيس",
+      "title_en": "GoAccess",
+      "description": "محلل سجلات ويب في الوقت الحقيقي مفتوح المصدر",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "الفهم والتحسين",
+        "إدارة الأعمال"
+      ],
+      "tags": [
+        "تحليلات",
+        "ويب",
+        "مفتوح-المصدر"
+      ],
+      "pricing": {
+        "model": "مجاني"
+      },
+      "softwareTypes": [
+        "مستضاف ذاتيًا",
+        "واجهة سطر الأوامر"
+      ],
+      "publishDate": "2025-04-07T20:39:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://goaccess.io"
+    },
+    {
+      "id": "kit",
+      "slug": "kit",
+      "title": "كيت",
+      "title_en": "Kit",
+      "description": "تسويق بريدي مع خطة مجانية للقوائم الصغيرة",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "جذب العملاء والاحتفاظ بهم",
+        "إدارة الأعمال"
+      ],
+      "tags": [
+        "بريد-إلكتروني",
+        "تسويق",
+        "أتمتة"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-04-07T20:38:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://kit.com"
+    },
+    {
+      "id": "zammad",
+      "slug": "zammad",
+      "title": "زاماد",
+      "title_en": "Zammad",
+      "description": "نظام مساعدة وتذاكر مفتوح المصدر",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "جذب العملاء والاحتفاظ بهم",
+        "إدارة الأعمال"
+      ],
+      "tags": [
+        "دعم",
+        "تذاكر",
+        "مفتوح-المصدر"
+      ],
+      "pricing": {
+        "model": "مجاني"
+      },
+      "softwareTypes": [
+        "مستضاف ذاتيًا",
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-04-07T20:37:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://zammad.org"
+    },
+    {
+      "id": "softr",
+      "slug": "softr",
+      "title": "سوفتر",
+      "title_en": "Softr",
+      "description": "أداة بناء تطبيقات ويب بدون كود من Airtable",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير",
+        "إدارة الأعمال"
+      ],
+      "tags": [
+        "بدون-كود",
+        "تطبيق",
+        "Airtable"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-04-07T20:36:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://www.softr.io"
+    },
+    {
+      "id": "moodle",
+      "slug": "moodle",
+      "title": "مودل",
+      "title_en": "Moodle",
+      "description": "نظام إدارة تعليم مفتوح المصدر",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير",
+        "جذب العملاء والاحتفاظ بهم"
+      ],
+      "tags": [
+        "تعليم",
+        "دورات",
+        "مفتوح-المصدر"
+      ],
+      "pricing": {
+        "model": "مجاني"
+      },
+      "softwareTypes": [
+        "مستضاف ذاتيًا",
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-04-07T20:35:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-03-16T22:29:38.962Z"
+  "lastUpdated": "2025-04-07T22:29:38.962Z"
 }
