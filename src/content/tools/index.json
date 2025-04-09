@@ -2445,6 +2445,59 @@
       "publishDate": "2025-04-07T20:46:46.317Z",
       "heroImage": "",
       "toolUrl": "https://listmonk.app"
+    },
+    {
+      "id": "carrd",
+      "slug": "carrd",
+      "title": "Carrd",
+      "description": "Simple one-page website builder",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Create & Build",
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "website",
+        "no-code",
+        "landing-page"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-04-07T20:46:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://carrd.co"
+    },
+    {
+      "id": "umami",
+      "slug": "umami",
+      "title": "Umami",
+      "description": "Privacy-focused web analytics",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Run Business",
+        "Understand & Improve"
+      ],
+      "tags": [
+        "analytics",
+        "privacy",
+        "open-source"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app",
+        "self-hosted"
+      ],
+      "publishDate": "2025-04-07T20:45:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://umami.is"
     }
   ],
   "lastUpdated": "2025-04-09T04:59:43.726Z"
