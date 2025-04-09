@@ -1,33 +1,6 @@
 {
   "tools": [
     {
-      "id": "teachable",
-      "slug": "teachable",
-      "title": "Teachable",
-      "description": "Platform to create online courses",
-      "author": "Waleed Sadek",
-      "username": "waleed",
-      "categories": [
-        "Create & Build",
-        "Get & Keep Customers",
-        "Understand & Improve"
-      ],
-      "tags": [
-        "education",
-        "courses",
-        "online"
-      ],
-      "pricing": {
-        "model": "subscription"
-      },
-      "softwareTypes": [
-        "web-app"
-      ],
-      "publishDate": "2025-04-07T22:17:00.317Z",
-      "heroImage": "",
-      "toolUrl": "https://teachable.com"
-    },
-    {
       "id": "growthbook",
       "slug": "growthbook",
       "title": "GrowthBook",
@@ -752,32 +725,6 @@
       "toolUrl": "https://typedream.com"
     },
     {
-      "id": "glide",
-      "slug": "glide",
-      "title": "Glide",
-      "description": "Build apps from spreadsheets",
-      "author": "Waleed Sadek",
-      "username": "waleed",
-      "categories": [
-        "Create & Build",
-        "Run Business"
-      ],
-      "tags": [
-        "no-code",
-        "app",
-        "spreadsheet"
-      ],
-      "pricing": {
-        "model": "freemium"
-      },
-      "softwareTypes": [
-        "web-app"
-      ],
-      "publishDate": "2025-04-07T21:49:00.317Z",
-      "heroImage": "",
-      "toolUrl": "https://glideapps.com"
-    },
-    {
       "id": "bubble",
       "slug": "bubble",
       "title": "Bubble",
@@ -853,32 +800,6 @@
       "publishDate": "2025-04-07T21:46:00.317Z",
       "heroImage": "",
       "toolUrl": "https://framer.com"
-    },
-    {
-      "id": "freshdesk",
-      "slug": "freshdesk",
-      "title": "Freshdesk",
-      "description": "Customer support and ticketing",
-      "author": "Waleed Sadek",
-      "username": "waleed",
-      "categories": [
-        "Get & Keep Customers",
-        "Run Business"
-      ],
-      "tags": [
-        "support",
-        "ticketing",
-        "customer"
-      ],
-      "pricing": {
-        "model": "subscription"
-      },
-      "softwareTypes": [
-        "web-app"
-      ],
-      "publishDate": "2025-04-07T21:45:00.317Z",
-      "heroImage": "",
-      "toolUrl": "https://freshdesk.com"
     },
     {
       "id": "sender",
@@ -959,32 +880,6 @@
       "toolUrl": "https://crisp.chat"
     },
     {
-      "id": "mailshake",
-      "slug": "mailshake",
-      "title": "Mailshake",
-      "description": "Cold email outreach tool",
-      "author": "Waleed Sadek",
-      "username": "waleed",
-      "categories": [
-        "Get & Keep Customers",
-        "Run Business"
-      ],
-      "tags": [
-        "email",
-        "outreach",
-        "sales"
-      ],
-      "pricing": {
-        "model": "subscription"
-      },
-      "softwareTypes": [
-        "web-app"
-      ],
-      "publishDate": "2025-04-07T21:41:00.317Z",
-      "heroImage": "",
-      "toolUrl": "https://mailshake.com"
-    },
-    {
       "id": "panelbear",
       "slug": "panelbear",
       "title": "Panelbear",
@@ -1009,32 +904,6 @@
       "publishDate": "2025-04-07T21:40:00.317Z",
       "heroImage": "",
       "toolUrl": "https://panelbear.com"
-    },
-    {
-      "id": "pirsch",
-      "slug": "pirsch",
-      "title": "Pirsch",
-      "description": "Simple, privacy-focused analytics",
-      "author": "Waleed Sadek",
-      "username": "waleed",
-      "categories": [
-        "Understand & Improve",
-        "Run Business"
-      ],
-      "tags": [
-        "analytics",
-        "privacy",
-        "web"
-      ],
-      "pricing": {
-        "model": "subscription"
-      },
-      "softwareTypes": [
-        "web-app"
-      ],
-      "publishDate": "2025-04-07T21:39:00.317Z",
-      "heroImage": "",
-      "toolUrl": "https://pirsch.io"
     },
     {
       "id": "posthog",
@@ -1089,32 +958,6 @@
       "publishDate": "2025-04-07T21:37:00.317Z",
       "heroImage": "",
       "toolUrl": "https://invoiceninja.com"
-    },
-    {
-      "id": "bonsai",
-      "slug": "bonsai",
-      "title": "Bonsai",
-      "description": "Freelancer invoicing and contracts",
-      "author": "Waleed Sadek",
-      "username": "waleed",
-      "categories": [
-        "Manage Money",
-        "Run Business"
-      ],
-      "tags": [
-        "invoicing",
-        "contracts",
-        "freelance"
-      ],
-      "pricing": {
-        "model": "subscription"
-      },
-      "softwareTypes": [
-        "web-app"
-      ],
-      "publishDate": "2025-04-07T21:36:00.317Z",
-      "heroImage": "",
-      "toolUrl": "https://hellobonsai.com"
     },
     {
       "id": "paddle",
@@ -1194,32 +1037,6 @@
       "publishDate": "2025-04-07T21:33:00.317Z",
       "heroImage": "",
       "toolUrl": "https://duplicati.com"
-    },
-    {
-      "id": "arqbackup",
-      "slug": "arqbackup",
-      "title": "Arq Backup",
-      "description": "Encrypted backup to cloud or local",
-      "author": "Waleed Sadek",
-      "username": "waleed",
-      "categories": [
-        "Secure & Deploy",
-        "Run Business"
-      ],
-      "tags": [
-        "backup",
-        "encryption",
-        "cloud"
-      ],
-      "pricing": {
-        "model": "one-time-payment"
-      },
-      "softwareTypes": [
-        "desktop-app"
-      ],
-      "publishDate": "2025-04-07T21:32:00.317Z",
-      "heroImage": "",
-      "toolUrl": "https://arqbackup.com"
     },
     {
       "id": "restic",
@@ -1513,33 +1330,6 @@
       "toolUrl": "https://obsidian.md"
     },
     {
-      "id": "plausible",
-      "slug": "plausible",
-      "title": "Plausible",
-      "description": "Lightweight, privacy-first analytics",
-      "author": "Waleed Sadek",
-      "username": "waleed",
-      "categories": [
-        "Understand & Improve",
-        "Run Business"
-      ],
-      "tags": [
-        "analytics",
-        "privacy",
-        "web"
-      ],
-      "pricing": {
-        "model": "subscription"
-      },
-      "softwareTypes": [
-        "web-app",
-        "self-hosted"
-      ],
-      "publishDate": "2025-04-07T21:20:00.317Z",
-      "heroImage": "",
-      "toolUrl": "https://plausible.io"
-    },
-    {
       "id": "linear",
       "slug": "linear",
       "title": "Linear",
@@ -1702,32 +1492,6 @@
       "publishDate": "2025-04-07T21:14:00.317Z",
       "heroImage": "",
       "toolUrl": "https://slab.com"
-    },
-    {
-      "id": "recruitee",
-      "slug": "recruitee",
-      "title": "Recruitee",
-      "description": "Hiring and applicant tracking system",
-      "author": "Waleed Sadek",
-      "username": "waleed",
-      "categories": [
-        "Manage People",
-        "Run Business"
-      ],
-      "tags": [
-        "hiring",
-        "ats",
-        "recruitment"
-      ],
-      "pricing": {
-        "model": "subscription"
-      },
-      "softwareTypes": [
-        "web-app"
-      ],
-      "publishDate": "2025-04-07T21:13:00.317Z",
-      "heroImage": "",
-      "toolUrl": "https://recruitee.com"
     },
     {
       "id": "windmill",
@@ -2498,6 +2262,270 @@
       "publishDate": "2025-04-07T20:45:00.317Z",
       "heroImage": "",
       "toolUrl": "https://umami.is"
+    },
+      {
+      "id": "metricool",
+      "slug": "metricool",
+      "title": "Metricool",
+      "description": "Social media scheduling and analytics",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Get & Keep Customers",
+        "Understand & Improve"
+      ],
+      "tags": [
+        "social-media",
+        "scheduling",
+        "analytics"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-04-07T20:44:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://metricool.com"
+    },
+    {
+      "id": "breezyhr",
+      "slug": "breezyhr",
+      "title": "Breezy HR",
+      "description": "Free applicant tracking for small teams",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Manage People",
+        "Run Business"
+      ],
+      "tags": [
+        "hiring",
+        "ats",
+        "recruitment"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-04-07T20:43:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://breezy.hr"
+    },
+    {
+      "id": "simpleanalytics",
+      "slug": "simpleanalytics",
+      "title": "Simple Analytics",
+      "description": "Privacy-first web analytics with free tier",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Understand & Improve",
+        "Run Business"
+      ],
+      "tags": [
+        "analytics",
+        "privacy",
+        "web"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-04-07T20:42:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://simpleanalytics.com"
+    },
+    {
+      "id": "syncthing",
+      "slug": "syncthing",
+      "title": "Syncthing",
+      "description": "Open-source file synchronization tool",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Secure & Deploy",
+        "Run Business"
+      ],
+      "tags": [
+        "backup",
+        "sync",
+        "open-source"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "desktop-app",
+        "self-hosted"
+      ],
+      "publishDate": "2025-04-07T20:41:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://syncthing.net"
+    },
+    {
+      "id": "andco",
+      "slug": "andco",
+      "title": "AND.CO",
+      "description": "Freelance invoicing and contract management",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Manage Money",
+        "Run Business"
+      ],
+      "tags": [
+        "invoicing",
+        "contracts",
+        "freelance"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-04-07T20:40:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://www.and.co"
+    },
+    {
+      "id": "goaccess",
+      "slug": "goaccess",
+      "title": "GoAccess",
+      "description": "Open-source real-time web log analyzer",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Understand & Improve",
+        "Run Business"
+      ],
+      "tags": [
+        "analytics",
+        "web",
+        "open-source"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "self-hosted",
+        "cli"
+      ],
+      "publishDate": "2025-04-07T20:39:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://goaccess.io"
+    },
+    {
+      "id": "kit",
+      "slug": "kit",
+      "title": "Kit",
+      "description": "Email marketing with free plan for small lists",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Get & Keep Customers",
+        "Run Business"
+      ],
+      "tags": [
+        "email",
+        "marketing",
+        "automation"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-04-07T20:38:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://kit.com"
+    },
+    {
+      "id": "zammad",
+      "slug": "zammad",
+      "title": "Zammad",
+      "description": "Open-source helpdesk and ticketing system",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Get & Keep Customers",
+        "Run Business"
+      ],
+      "tags": [
+        "support",
+        "ticketing",
+        "open-source"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "self-hosted",
+        "web-app"
+      ],
+      "publishDate": "2025-04-07T20:37:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://zammad.org"
+    },
+    {
+      "id": "softr",
+      "slug": "softr",
+      "title": "Softr",
+      "description": "No-code web app builder from Airtable",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Create & Build",
+        "Run Business"
+      ],
+      "tags": [
+        "no-code",
+        "app",
+        "airtable"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-04-07T20:36:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://www.softr.io"
+    },
+    {
+      "id": "moodle",
+      "slug": "moodle",
+      "title": "Moodle",
+      "description": "Open-source learning management system",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Create & Build",
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "education",
+        "courses",
+        "open-source"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "self-hosted",
+        "web-app"
+      ],
+      "publishDate": "2025-04-07T20:35:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://moodle.org"
     }
   ],
   "lastUpdated": "2025-04-09T04:59:43.726Z"
