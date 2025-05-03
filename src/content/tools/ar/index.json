@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "ramy-ahmed-blog",
+      "slug": "ramy-ahmed-blog",
+      "title": "مدونة رامي أحمد",
+      "title_en": "Ramy Ahmed Blog",
+      "description": "مدونة تقنية عربية شخصية تهتم بكل ما يخص البرمجة والتصميم",
+      "author": "Ramy Ahmed",
+      "username": "ramyahm",
+      "categories": [
+        "إنشاء و تطوير",
+        "إدارة الأعمال"
+      ],
+      "tags": [
+        "ذكاء-اصطناعي",
+        "برمجة",
+        "تطوير-الويب"
+      ],
+      "pricing": {
+        "model": "مجاني"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-05-03T08:24:16.832Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1746260564/uljyoivrvkstk6y4hffq.png",
+      "toolUrl": "https://ramyahmed.com/"
+    },
+    {
       "id": "growthbook",
       "slug": "growthbook",
       "title": "جروث بوك",
@@ -1991,7 +2018,7 @@
       "heroImage": "",
       "toolUrl": "https://codesandbox.io"
     },
-{
+    {
       "id": "railway",
       "slug": "railway",
       "title": "رايلواي",
@@ -2623,5 +2650,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-04-07T22:29:38.962Z"
+  "lastUpdated": "2025-05-03T08:24:17.661Z"
 }
