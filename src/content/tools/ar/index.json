@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "fawaterak",
+      "slug": "fawaterak",
+      "title": "فواتيرك",
+      "title_en": "Fawaterak",
+      "description": "منصة لإدارة الفواتير والمدفوعات الإلكترونية بسهولة",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إدارة الأموال"
+      ],
+      "tags": [
+        "مدفوعات",
+        "فواتير-إلكترونية",
+        "إدارة-مالية",
+        "حلول-مالية"
+      ],
+      "pricing": {
+        "model": "الدفع حسب الاستخدام"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-05-05T13:53:25.136Z",
+      "heroImage": "",
+      "toolUrl": "https://fawaterk.com"
+    },
+    {
       "id": "vminds-ai",
       "slug": "vminds-ai",
       "title": "ڤي مايندز",
@@ -2678,5 +2705,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-05-05T13:47:10.770Z"
+  "lastUpdated": "2025-05-05T13:53:26.045Z"
 }
