@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "cal-com",
+      "slug": "cal-com",
+      "title": "Cal.com",
+      "description": "Open-source calendar scheduling for teams and clients",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Connect & Collaborate"
+      ],
+      "tags": [
+        "scheduling",
+        "meetings",
+        "calendar",
+        "booking"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app",
+        "desktop-app",
+        "extension",
+        "self-hosted"
+      ],
+      "publishDate": "2025-05-05T09:36:16.089Z",
+      "heroImage": "",
+      "toolUrl": "https://cal.com"
+    },
+    {
       "id": "erxes",
       "slug": "erxes",
       "title": "Erxes",
@@ -2612,5 +2641,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-05-05T09:29:47.078Z"
+  "lastUpdated": "2025-05-05T09:36:16.889Z"
 }
