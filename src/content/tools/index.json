@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "tinacms",
+      "slug": "tinacms",
+      "title": "TinaCMS",
+      "description": "Real-time, Git-backed content management for modern teams",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "cms",
+        "open-source",
+        "git",
+        "content"
+      ],
+      "pricing": {
+        "model": "subscription"
+      },
+      "softwareTypes": [
+        "web-app",
+        "self-hosted"
+      ],
+      "publishDate": "2025-05-05T09:13:44.109Z",
+      "heroImage": "",
+      "toolUrl": "https://tina.io"
+    },
+    {
       "id": "growthbook",
       "slug": "growthbook",
       "title": "GrowthBook",
@@ -2263,7 +2290,7 @@
       "heroImage": "",
       "toolUrl": "https://umami.is"
     },
-      {
+    {
       "id": "metricool",
       "slug": "metricool",
       "title": "Metricool",
@@ -2528,5 +2555,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-04-09T04:59:43.726Z"
+  "lastUpdated": "2025-05-05T09:13:44.850Z"
 }
