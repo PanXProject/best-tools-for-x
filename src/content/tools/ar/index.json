@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "vminds-ai",
+      "slug": "vminds-ai",
+      "title": "ڤي مايندز",
+      "title_en": "vminds ai",
+      "description": "منصة موحدة لأدوات الذكاء الاصطناعي تعزز الإبداع والإنتاجية",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير"
+      ],
+      "tags": [
+        "ذكاء-اصطناعي",
+        "أدوات-إنتاجية",
+        "إنشاء-محتوى",
+        "تطوير",
+        "أدوات-للمبدعين"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-05-05T13:47:09.947Z",
+      "heroImage": "",
+      "toolUrl": "https://vminds.ai"
+    },
+    {
       "id": "ramy-ahmed-blog",
       "slug": "ramy-ahmed-blog",
       "title": "مدونة رامي أحمد",
@@ -2650,5 +2678,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-05-03T08:24:17.661Z"
+  "lastUpdated": "2025-05-05T13:47:10.770Z"
 }
