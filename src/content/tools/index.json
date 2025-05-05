@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "actual-budget",
+      "slug": "actual-budget",
+      "title": "Actual Budget",
+      "description": "Control of your finances with privacy-first budgeting",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Manage Money"
+      ],
+      "tags": [
+        "budgeting",
+        "finance",
+        "expense-tracking"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app",
+        "desktop-app",
+        "self-hosted"
+      ],
+      "publishDate": "2025-05-05T09:43:21.722Z",
+      "heroImage": "",
+      "toolUrl": "https://actualbudget.org"
+    },
+    {
       "id": "cal-com",
       "slug": "cal-com",
       "title": "Cal.com",
@@ -2641,5 +2669,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-05-05T09:36:16.889Z"
+  "lastUpdated": "2025-05-05T09:43:22.492Z"
 }
