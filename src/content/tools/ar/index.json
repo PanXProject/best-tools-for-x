@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "widebot",
+      "slug": "widebot",
+      "title": "وايد بوت",
+      "title_en": "WideBot",
+      "description": "منصة محادثات ذكية لتعزيز تجربة العملاء",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "جذب العملاء والاحتفاظ بهم"
+      ],
+      "tags": [
+        "ذكاء-اصطناعي",
+        "دعم-العملاء",
+        "تسويق",
+        "روبوتات-دردشة"
+      ],
+      "pricing": {
+        "model": "تسعير مخصص"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-05-05T14:01:58.487Z",
+      "heroImage": "",
+      "toolUrl": "https://widebot.ai"
+    },
+    {
       "id": "fawaterak",
       "slug": "fawaterak",
       "title": "فواتيرك",
@@ -2705,5 +2732,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-05-05T13:53:26.045Z"
+  "lastUpdated": "2025-05-05T14:01:59.327Z"
 }
