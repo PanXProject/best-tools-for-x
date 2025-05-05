@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "wuilt",
+      "slug": "wuilt",
+      "title": "ويلت",
+      "title_en": "Wuilt",
+      "description": "منصة لبناء مواقع إلكترونية دون الحاجة للبرمجة",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير"
+      ],
+      "tags": [
+        "إنشاء-مواقع",
+        "تجارة-إلكترونية",
+        "أدوات-للمصممين",
+        "أدوات-للأعمال",
+        "تطوير"
+      ],
+      "pricing": {
+        "model": "اشتراك"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-05-05T14:55:57.486Z",
+      "heroImage": "",
+      "toolUrl": "https://wuilt.com"
+    },
+    {
       "id": "kotobee",
       "slug": "kotobee",
       "title": "كتبي",
@@ -2762,5 +2790,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-05-05T14:45:40.857Z"
+  "lastUpdated": "2025-05-05T14:55:58.473Z"
 }
