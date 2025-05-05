@@ -1,6 +1,36 @@
 {
   "tools": [
     {
+      "id": "erxes",
+      "slug": "erxes",
+      "title": "Erxes",
+      "description": "All-in-one open-source platform for business growth",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Get & Keep Customers",
+        "Create & Build",
+        "Run Business"
+      ],
+      "tags": [
+        "crm",
+        "marketing",
+        "commerce",
+        "customer-service",
+        "omnichannel"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app",
+        "self-hosted"
+      ],
+      "publishDate": "2025-05-05T09:29:46.335Z",
+      "heroImage": "",
+      "toolUrl": "https://erxes.io/"
+    },
+    {
       "id": "mailmeteor",
       "slug": "mailmeteor",
       "title": "Mailmeteor",
@@ -2582,5 +2612,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-05-05T09:21:27.206Z"
+  "lastUpdated": "2025-05-05T09:29:47.078Z"
 }
