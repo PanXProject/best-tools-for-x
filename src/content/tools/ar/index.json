@@ -1,6 +1,36 @@
 {
   "tools": [
     {
+      "id": "kotobee",
+      "slug": "kotobee",
+      "title": "كتبي",
+      "title_en": "Kotobee",
+      "description": "منصة لإنشاء ونشر الكتب الإلكترونية التفاعلية بسهولة",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير"
+      ],
+      "tags": [
+        "نشر-إلكتروني",
+        "تعليم-إلكتروني",
+        "إنشاء-محتوى",
+        "أدوات-للمؤلفين",
+        "كتب-تفاعلية"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب",
+        "تطبيق جوال",
+        "تطبيق سطح المكتب"
+      ],
+      "publishDate": "2025-05-05T14:45:39.993Z",
+      "heroImage": "",
+      "toolUrl": "https://www.kotobee.com/ar"
+    },
+    {
       "id": "widebot",
       "slug": "widebot",
       "title": "وايد بوت",
@@ -2732,5 +2762,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-05-05T14:01:59.327Z"
+  "lastUpdated": "2025-05-05T14:45:40.857Z"
 }
