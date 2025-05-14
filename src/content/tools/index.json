@@ -1,5 +1,134 @@
 {
   "tools": [
+  {
+    "id": "wave",
+    "slug": "wave",
+    "title": "Wave",
+    "description": "Free accounting software for invoicing and expense tracking",
+    "author": "Waleed Sadek",
+    "username": "waleed",
+    "categories": [
+      "Manage Money"
+    ],
+    "tags": [
+      "accounting",
+      "finance",
+      "invoicing"
+    ],
+    "pricing": {
+      "model": "free"
+    },
+    "softwareTypes": [
+      "web-app"
+    ],
+    "publishDate": "2025-05-14T19:12:00.000Z",
+    "heroImage": "",
+    "toolUrl": "https://www.waveapps.com/accounting"
+  },
+  {
+    "id": "hubspot-crm",
+    "slug": "hubspot-crm",
+    "title": "HubSpot CRM",
+    "description": "Free CRM for managing leads and customer interactions",
+    "author": "Waleed Sadek",
+    "username": "waleed",
+    "categories": [
+      "Get & Keep Customers"
+    ],
+    "tags": [
+      "crm",
+      "sales",
+      "leads"
+    ],
+    "pricing": {
+      "model": "free"
+    },
+    "softwareTypes": [
+      "web-app"
+    ],
+    "publishDate": "2025-05-14T19:12:00.000Z",
+    "heroImage": "",
+    "toolUrl": "https://www.hubspot.com/products/crm"
+  },
+  {
+    "id": "trello",
+    "slug": "trello",
+    "title": "Trello",
+    "description": "Free project management tool with Kanban boards",
+    "author": "Waleed Sadek",
+    "username": "waleed",
+    "categories": [
+      "Run Business"
+    ],
+    "tags": [
+      "project-management",
+      "tasks",
+      "kanban"
+    ],
+    "pricing": {
+      "model": "freemium"
+    },
+    "softwareTypes": [
+      "web-app",
+      "mobile-app"
+    ],
+    "publishDate": "2025-05-14T19:12:00.000Z",
+    "heroImage": "",
+    "toolUrl": "https://trello.com/"
+  },
+  {
+    "id": "slack",
+    "slug": "slack",
+    "title": "Slack",
+    "description": "Free communication tool for team messaging",
+    "author": "Waleed Sadek",
+    "username": "waleed",
+    "categories": [
+      "Connect & Collaborate"
+    ],
+    "tags": [
+      "chat",
+      "collaboration",
+      "team"
+    ],
+    "pricing": {
+      "model": "freemium"
+    },
+    "softwareTypes": [
+      "web-app",
+      "mobile-app",
+      "desktop-app"
+    ],
+    "publishDate": "2025-05-14T19:12:00.000Z",
+    "heroImage": "",
+    "toolUrl": "https://slack.com/"
+  },
+  {
+    "id": "rybbit",
+    "slug": "rybbit",
+    "title": "Rybbit.io",
+    "description": "Open-source, privacy-friendly web analytics tool",
+    "author": "Waleed Sadek",
+    "username": "waleed",
+    "categories": [
+      "Understand & Improve"
+    ],
+    "tags": [
+      "analytics",
+      "privacy",
+      "website"
+    ],
+    "pricing": {
+      "model": "free"
+    },
+    "softwareTypes": [
+      "web-app",
+      "self-hosted"
+    ],
+    "publishDate": "2025-05-14T19:12:00.000Z",
+    "heroImage": "",
+    "toolUrl": "https://rybbit.io/"
+  },
     {
       "id": "pointlessai",
       "slug": "pointlessai",
