@@ -1,32 +1,6 @@
 {
   "tools": [
     {
-      "id": "sdbgfsvbkjsdnvkjsdnjkndsjknjsk",
-      "slug": "sdbgfsvbkjsdnvkjsdnjkndsjknjsk",
-      "title": "hello",
-      "description": "sdgsdgfdhdfhdfhhdfhhdfhdfhdfhdfhdfhdfhdfh",
-      "author": "Waleed english name",
-      "username": "username2",
-      "categories": [
-        "Get & Keep Customers"
-      ],
-      "tags": [
-        "daa",
-        "ada"
-      ],
-      "pricing": {
-        "model": "free"
-      },
-      "softwareTypes": [
-        "web-app"
-      ],
-      "publishDate": "2025-05-24T05:01:28.375Z",
-      "heroImage": "",
-      "toolUrl": "https://mail.zoho.com/zm/#mail/folder/inbox",
-      "featured": false,
-      "featuredPosition": null
-    },
-    {
       "id": "stakpak",
       "slug": "stakpak",
       "title": "Stakpak",
