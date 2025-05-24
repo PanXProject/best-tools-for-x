@@ -3,7 +3,7 @@
     {
       "id": "sdbgfsvbkjsdnvkjsdnjkndsjknjsk",
       "slug": "sdbgfsvbkjsdnvkjsdnjkndsjknjsk",
-      "title": "sdbgfsvbkjsdnvkjsdnjkndsjknjsk",
+      "title": "hello",
       "description": "sdgsdgfdhdfhdfhhdfhhdfhdfhdfhdfhdfhdfhdfh",
       "author": "Waleed english name",
       "username": "username2",
@@ -22,7 +22,9 @@
       ],
       "publishDate": "2025-05-24T05:01:28.375Z",
       "heroImage": "",
-      "toolUrl": "https://mail.zoho.com/zm/#mail/folder/inbox"
+      "toolUrl": "https://mail.zoho.com/zm/#mail/folder/inbox",
+      "featured": false,
+      "featuredPosition": null
     },
     {
       "id": "stakpak",
@@ -2969,5 +2971,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-05-24T05:01:29.722Z"
+  "lastUpdated": "2025-05-24T05:01:54.556Z"
 }
