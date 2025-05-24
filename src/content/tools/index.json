@@ -1,214 +1,279 @@
 {
   "tools": [
-  {
-    "id": "stakpak",
-    "slug": "stakpak",
-    "title": "Stakpak",
-    "description": "An AI-powered DevOps IDE that enables rapid building, maintenance, and self-service of software infrastructure, reducing deployment times and enhancing developer productivity.",
-    "author": "Waleed Sadek",
-    "username": "waleed",
-    "categories": ["Create & Build"],
-    "tags": ["DevOps", "Infrastructure as Code", "AI"],
-    "pricing": {
-      "model": "pay-per-use"
+    {
+      "id": "sdbgfsvbkjsdnvkjsdnjkndsjknjsk",
+      "slug": "sdbgfsvbkjsdnvkjsdnjkndsjknjsk",
+      "title": "sdbgfsvbkjsdnvkjsdnjkndsjknjsk",
+      "description": "sdgsdgfdhdfhdfhhdfhhdfhdfhdfhdfhdfhdfhdfh",
+      "author": "Waleed english name",
+      "username": "username2",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "daa",
+        "ada"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-05-24T05:01:28.375Z",
+      "heroImage": "",
+      "toolUrl": "https://mail.zoho.com/zm/#mail/folder/inbox"
     },
-    "softwareTypes": ["web-app"],
-    "publishDate": "2025-05-20T00:00:00.000Z",
-    "toolUrl": "https://stakpak.dev"
-  },
-  {
-    "id": "village",
-    "slug": "village",
-    "title": "Village",
-    "description": "A Social Capital API that enhances sales, fundraising, and hiring workflows by mapping and leveraging team connections, facilitating warm introductions to key stakeholders.",
-    "author": "Waleed Sadek",
-    "username": "waleed",
-    "categories": ["Get & Keep Customers"],
-    "tags": ["Networking", "Sales", "Fundraising"],
-    "pricing": {
-      "model": "subscription"
+    {
+      "id": "stakpak",
+      "slug": "stakpak",
+      "title": "Stakpak",
+      "description": "An AI-powered DevOps IDE that enables rapid building, maintenance, and self-service of software infrastructure, reducing deployment times and enhancing developer productivity.",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "DevOps",
+        "Infrastructure as Code",
+        "AI"
+      ],
+      "pricing": {
+        "model": "pay-per-use"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-05-20T00:00:00.000Z",
+      "toolUrl": "https://stakpak.dev"
     },
-    "softwareTypes": ["web-app"],
-    "publishDate": "2025-05-20T00:00:00.000Z",
-    "toolUrl": "https://village.do"
-  },
-  {
-    "id": "freedcamp",
-    "slug": "freedcamp",
-    "title": "Freedcamp",
-    "description": "A comprehensive project management tool offering task lists, kanban boards, and time tracking to streamline team collaboration and enhance productivity.",
-    "author": "Waleed Sadek",
-    "username": "waleed",
-    "categories": ["Run Business"],
-    "tags": ["Project Management", "Collaboration", "Task Management"],
-    "pricing": {
-      "model": "freemium"
+    {
+      "id": "village",
+      "slug": "village",
+      "title": "Village",
+      "description": "A Social Capital API that enhances sales, fundraising, and hiring workflows by mapping and leveraging team connections, facilitating warm introductions to key stakeholders.",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "Networking",
+        "Sales",
+        "Fundraising"
+      ],
+      "pricing": {
+        "model": "subscription"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-05-20T00:00:00.000Z",
+      "toolUrl": "https://village.do"
     },
-    "softwareTypes": ["web-app", "mobile-app"],
-    "publishDate": "2025-05-20T00:00:00.000Z",
-    "toolUrl": "https://freedcamp.com"
-  },
-  {
-    "id": "guru",
-    "slug": "guru",
-    "title": "Guru",
-    "description": "An AI-powered enterprise search and knowledge management platform that delivers instant, verified information within your workflow, improving team efficiency and decision-making.",
-    "author": "Waleed Sadek",
-    "username": "waleed",
-    "categories": ["Understand & Improve"],
-    "tags": ["Knowledge Management", "AI Search", "Enterprise Wiki"],
-    "pricing": {
-      "model": "subscription"
+    {
+      "id": "freedcamp",
+      "slug": "freedcamp",
+      "title": "Freedcamp",
+      "description": "A comprehensive project management tool offering task lists, kanban boards, and time tracking to streamline team collaboration and enhance productivity.",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "Project Management",
+        "Collaboration",
+        "Task Management"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app"
+      ],
+      "publishDate": "2025-05-20T00:00:00.000Z",
+      "toolUrl": "https://freedcamp.com"
     },
-    "softwareTypes": ["web-app"],
-    "publishDate": "2025-05-20T00:00:00.000Z",
-    "toolUrl": "https://www.getguru.com"
-  },
-  {
-    "id": "rasa",
-    "slug": "rasa",
-    "title": "Rasa",
-    "description": "An open-source conversational AI platform for building contextual chatbots and voice assistants, enabling developers to create more human-like interactions.",
-    "author": "Waleed Sadek",
-    "username": "waleed",
-    "categories": ["Connect & Collaborate"],
-    "tags": ["Conversational AI", "Chatbots", "Voice Assistants"],
-    "pricing": {
-      "model": "open-source"
+    {
+      "id": "guru",
+      "slug": "guru",
+      "title": "Guru",
+      "description": "An AI-powered enterprise search and knowledge management platform that delivers instant, verified information within your workflow, improving team efficiency and decision-making.",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "Knowledge Management",
+        "AI Search",
+        "Enterprise Wiki"
+      ],
+      "pricing": {
+        "model": "subscription"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-05-20T00:00:00.000Z",
+      "toolUrl": "https://www.getguru.com"
     },
-    "softwareTypes": ["self-hosted"],
-    "publishDate": "2025-05-20T00:00:00.000Z",
-    "toolUrl": "https://rasa.com"
-  },
-  {
-    "id": "wave",
-    "slug": "wave",
-    "title": "Wave",
-    "description": "Free accounting software for invoicing and expense tracking",
-    "author": "Waleed Sadek",
-    "username": "waleed",
-    "categories": [
-      "Manage Money"
-    ],
-    "tags": [
-      "accounting",
-      "finance",
-      "invoicing"
-    ],
-    "pricing": {
-      "model": "free"
+    {
+      "id": "rasa",
+      "slug": "rasa",
+      "title": "Rasa",
+      "description": "An open-source conversational AI platform for building contextual chatbots and voice assistants, enabling developers to create more human-like interactions.",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Connect & Collaborate"
+      ],
+      "tags": [
+        "Conversational AI",
+        "Chatbots",
+        "Voice Assistants"
+      ],
+      "pricing": {
+        "model": "open-source"
+      },
+      "softwareTypes": [
+        "self-hosted"
+      ],
+      "publishDate": "2025-05-20T00:00:00.000Z",
+      "toolUrl": "https://rasa.com"
     },
-    "softwareTypes": [
-      "web-app"
-    ],
-    "publishDate": "2025-05-14T19:12:00.000Z",
-    "heroImage": "",
-    "toolUrl": "https://www.waveapps.com/accounting"
-  },
-  {
-    "id": "hubspot-crm",
-    "slug": "hubspot-crm",
-    "title": "HubSpot CRM",
-    "description": "Free CRM for managing leads and customer interactions",
-    "author": "Waleed Sadek",
-    "username": "waleed",
-    "categories": [
-      "Get & Keep Customers"
-    ],
-    "tags": [
-      "crm",
-      "sales",
-      "leads"
-    ],
-    "pricing": {
-      "model": "free"
+    {
+      "id": "wave",
+      "slug": "wave",
+      "title": "Wave",
+      "description": "Free accounting software for invoicing and expense tracking",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Manage Money"
+      ],
+      "tags": [
+        "accounting",
+        "finance",
+        "invoicing"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-05-14T19:12:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://www.waveapps.com/accounting"
     },
-    "softwareTypes": [
-      "web-app"
-    ],
-    "publishDate": "2025-05-14T19:12:00.000Z",
-    "heroImage": "",
-    "toolUrl": "https://www.hubspot.com/products/crm"
-  },
-  {
-    "id": "trello",
-    "slug": "trello",
-    "title": "Trello",
-    "description": "Free project management tool with Kanban boards",
-    "author": "Waleed Sadek",
-    "username": "waleed",
-    "categories": [
-      "Run Business"
-    ],
-    "tags": [
-      "project-management",
-      "tasks",
-      "kanban"
-    ],
-    "pricing": {
-      "model": "freemium"
+    {
+      "id": "hubspot-crm",
+      "slug": "hubspot-crm",
+      "title": "HubSpot CRM",
+      "description": "Free CRM for managing leads and customer interactions",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "crm",
+        "sales",
+        "leads"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-05-14T19:12:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://www.hubspot.com/products/crm"
     },
-    "softwareTypes": [
-      "web-app",
-      "mobile-app"
-    ],
-    "publishDate": "2025-05-14T19:12:00.000Z",
-    "heroImage": "",
-    "toolUrl": "https://trello.com/"
-  },
-  {
-    "id": "slack",
-    "slug": "slack",
-    "title": "Slack",
-    "description": "Free communication tool for team messaging",
-    "author": "Waleed Sadek",
-    "username": "waleed",
-    "categories": [
-      "Connect & Collaborate"
-    ],
-    "tags": [
-      "chat",
-      "collaboration",
-      "team"
-    ],
-    "pricing": {
-      "model": "freemium"
+    {
+      "id": "trello",
+      "slug": "trello",
+      "title": "Trello",
+      "description": "Free project management tool with Kanban boards",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "project-management",
+        "tasks",
+        "kanban"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app"
+      ],
+      "publishDate": "2025-05-14T19:12:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://trello.com/"
     },
-    "softwareTypes": [
-      "web-app",
-      "mobile-app",
-      "desktop-app"
-    ],
-    "publishDate": "2025-05-14T19:12:00.000Z",
-    "heroImage": "",
-    "toolUrl": "https://slack.com/"
-  },
-  {
-    "id": "rybbit",
-    "slug": "rybbit",
-    "title": "Rybbit.io",
-    "description": "Open-source, privacy-friendly web analytics tool",
-    "author": "Waleed Sadek",
-    "username": "waleed",
-    "categories": [
-      "Understand & Improve"
-    ],
-    "tags": [
-      "analytics",
-      "privacy",
-      "website"
-    ],
-    "pricing": {
-      "model": "free"
+    {
+      "id": "slack",
+      "slug": "slack",
+      "title": "Slack",
+      "description": "Free communication tool for team messaging",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Connect & Collaborate"
+      ],
+      "tags": [
+        "chat",
+        "collaboration",
+        "team"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app",
+        "desktop-app"
+      ],
+      "publishDate": "2025-05-14T19:12:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://slack.com/"
     },
-    "softwareTypes": [
-      "web-app",
-      "self-hosted"
-    ],
-    "publishDate": "2025-05-14T19:12:00.000Z",
-    "heroImage": "",
-    "toolUrl": "https://rybbit.io/"
-  },
+    {
+      "id": "rybbit",
+      "slug": "rybbit",
+      "title": "Rybbit.io",
+      "description": "Open-source, privacy-friendly web analytics tool",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "analytics",
+        "privacy",
+        "website"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app",
+        "self-hosted"
+      ],
+      "publishDate": "2025-05-14T19:12:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://rybbit.io/"
+    },
     {
       "id": "pointlessai",
       "slug": "pointlessai",
@@ -2904,5 +2969,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-05-09T13:30:51.600Z"
+  "lastUpdated": "2025-05-24T05:01:29.722Z"
 }
