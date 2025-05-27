@@ -120,7 +120,7 @@
       ],
       "tags": [
         "محاسبة",
-        "إدارة مالية",
+        "إدارة-مالية",
         "فواتير"
       ],
       "pricing": {
@@ -130,7 +130,9 @@
         "تطبيق ويب"
       ],
       "publishDate": "2025-05-20T00:00:00.000Z",
-      "toolUrl": "https://manager.io/ar"
+      "toolUrl": "https://manager.io/ar",
+      "featured": false,
+      "featuredPosition": null
     },
     {
       "id": "aliphia",
@@ -3055,5 +3057,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-05-27T02:44:00.823Z"
+  "lastUpdated": "2025-05-27T02:44:27.059Z"
 }
