@@ -1,91 +1,132 @@
 {
   "tools": [
-  {
-    "id": "sndian",
-    "slug": "sndian",
-    "title": "سنديان",
-    "title_en": "Sndian",
-    "description": "منصة إلكترونية تقدم خدمات متنوعة للمستخدمين في العالم العربي، تشمل مجالات متعددة لتلبية احتياجاتهم اليومية.",
-    "author": "Waleed Sadek",
-    "username": "waleed",
-    "categories": ["إدارة الأعمال"],
-    "tags": ["خدمات إلكترونية", "منصة متعددة الخدمات"],
-    "pricing": {
-      "model": "مجاني"
+    {
+      "id": "sndian",
+      "slug": "sndian",
+      "title": "سنديان",
+      "title_en": "Sndian",
+      "description": "منصة إلكترونية تقدم خدمات متنوعة للمستخدمين في العالم العربي، تشمل مجالات متعددة لتلبية احتياجاتهم اليومية.",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "إدارة الأعمال"
+      ],
+      "tags": [
+        "خدمات-إلكترونية",
+        "منصة-متعددة-الخدمات"
+      ],
+      "pricing": {
+        "model": "مجاني"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-05-20T00:00:00.000Z",
+      "toolUrl": "https://sndian.com",
+      "featured": false,
+      "featuredPosition": null
     },
-    "softwareTypes": ["تطبيق ويب"],
-    "publishDate": "2025-05-20T00:00:00.000Z",
-    "toolUrl": "https://sndian.com"
-  },
-  {
-    "id": "zaetoon",
-    "slug": "zaetoon",
-    "title": "زيتون",
-    "title_en": "Zaetoon",
-    "description": "موقع إلكتروني يقدم محتوى تعليمي وثقافي باللغة العربية، يهدف إلى نشر المعرفة في مجالات متعددة.",
-    "author": "Waleed Sadek",
-    "username": "waleed",
-    "categories": ["الفهم والتحسين"],
-    "tags": ["تعليم", "ثقافة", "محتوى عربي"],
-    "pricing": {
-      "model": "مجاني"
+    {
+      "id": "zaetoon",
+      "slug": "zaetoon",
+      "title": "زيتون",
+      "title_en": "Zaetoon",
+      "description": "موقع إلكتروني يقدم محتوى تعليمي وثقافي باللغة العربية، يهدف إلى نشر المعرفة في مجالات متعددة.",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "الفهم والتحسين"
+      ],
+      "tags": [
+        "تعليم",
+        "ثقافة",
+        "محتوى عربي"
+      ],
+      "pricing": {
+        "model": "مجاني"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-05-20T00:00:00.000Z",
+      "toolUrl": "https://zaetoon.com"
     },
-    "softwareTypes": ["تطبيق ويب"],
-    "publishDate": "2025-05-20T00:00:00.000Z",
-    "toolUrl": "https://zaetoon.com"
-  },
-  {
-    "id": "khamsat",
-    "slug": "khamsat",
-    "title": "خمسات",
-    "title_en": "Khamsat",
-    "description": "أكبر سوق عربي لبيع وشراء الخدمات المصغرة، يتيح للمستقلين تقديم خدماتهم وللشركات والأفراد شراء هذه الخدمات بسهولة.",
-    "author": "Waleed Sadek",
-    "username": "waleed",
-    "categories": ["إدارة الأعمال"],
-    "tags": ["عمل حر", "خدمات مصغرة", "توظيف"],
-    "pricing": {
-      "model": "مجاني"
+    {
+      "id": "khamsat",
+      "slug": "khamsat",
+      "title": "خمسات",
+      "title_en": "Khamsat",
+      "description": "أكبر سوق عربي لبيع وشراء الخدمات المصغرة، يتيح للمستقلين تقديم خدماتهم وللشركات والأفراد شراء هذه الخدمات بسهولة.",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "إدارة الأعمال"
+      ],
+      "tags": [
+        "عمل حر",
+        "خدمات مصغرة",
+        "توظيف"
+      ],
+      "pricing": {
+        "model": "مجاني"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-05-20T00:00:00.000Z",
+      "toolUrl": "https://khamsat.com"
     },
-    "softwareTypes": ["تطبيق ويب"],
-    "publishDate": "2025-05-20T00:00:00.000Z",
-    "toolUrl": "https://khamsat.com"
-  },
-  {
-    "id": "mostaql",
-    "slug": "mostaql",
-    "title": "مستقل",
-    "title_en": "Mostaql",
-    "description": "منصة عربية للعمل الحر تتيح للمستقلين تقديم خدماتهم وللشركات والأفراد شراء هذه الخدمات بسهولة.",
-    "author": "Waleed Sadek",
-    "username": "waleed",
-    "categories": ["إدارة الأعمال"],
-    "tags": ["عمل حر", "مشاريع", "توظيف"],
-    "pricing": {
-      "model": "مجاني"
+    {
+      "id": "mostaql",
+      "slug": "mostaql",
+      "title": "مستقل",
+      "title_en": "Mostaql",
+      "description": "منصة عربية للعمل الحر تتيح للمستقلين تقديم خدماتهم وللشركات والأفراد شراء هذه الخدمات بسهولة.",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "إدارة الأعمال"
+      ],
+      "tags": [
+        "عمل حر",
+        "مشاريع",
+        "توظيف"
+      ],
+      "pricing": {
+        "model": "مجاني"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-05-20T00:00:00.000Z",
+      "toolUrl": "https://mostaql.com"
     },
-    "softwareTypes": ["تطبيق ويب"],
-    "publishDate": "2025-05-20T00:00:00.000Z",
-    "toolUrl": "https://mostaql.com"
-  },
-  {
-    "id": "manager-io",
-    "slug": "manager-io",
-    "title": "مانجر",
-    "title_en": "Manager",
-    "description": "برنامج محاسبة سحابي للشركات الصغيرة والمتوسطة في المنطقة العربية، يوفر أدوات لإدارة الحسابات، الفواتير، والمخزون.",
-    "author": "Waleed Sadek",
-    "username": "waleed",
-    "categories": ["إدارة الأموال"],
-    "tags": ["محاسبة", "إدارة مالية", "فواتير"],
-    "pricing": {
-      "model": "مجاني"
+    {
+      "id": "manager-io",
+      "slug": "manager-io",
+      "title": "مانجر",
+      "title_en": "Manager",
+      "description": "برنامج محاسبة سحابي للشركات الصغيرة والمتوسطة في المنطقة العربية، يوفر أدوات لإدارة الحسابات، الفواتير، والمخزون.",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "إدارة الأموال"
+      ],
+      "tags": [
+        "محاسبة",
+        "إدارة مالية",
+        "فواتير"
+      ],
+      "pricing": {
+        "model": "مجاني"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-05-20T00:00:00.000Z",
+      "toolUrl": "https://manager.io/ar"
     },
-    "softwareTypes": ["تطبيق ويب"],
-    "publishDate": "2025-05-20T00:00:00.000Z",
-    "toolUrl": "https://manager.io/ar"
-  },
-  {
+    {
       "id": "aliphia",
       "slug": "aliphia",
       "title": "أليفيا",
@@ -3008,5 +3049,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-05-05T14:55:58.473Z"
+  "lastUpdated": "2025-05-27T02:28:24.452Z"
 }
