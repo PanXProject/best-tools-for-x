@@ -1,31 +1,6 @@
 {
   "tools": [
     {
-      "id": "123",
-      "slug": "123",
-      "title": "123",
-      "title_en": "123",
-      "description": "sdgsdgfdhdfhdfhhdfhhdfhdfhdfhdfhdfhdfhdfh",
-      "author": "Testing 1",
-      "username": "username",
-      "categories": [
-        "جذب العملاء والاحتفاظ بهم"
-      ],
-      "tags": [
-        "123"
-      ],
-      "pricing": {
-        "model": "مجاني"
-      },
-      "softwareTypes": [
-        "تطبيق ويب",
-        "تطبيق جوال"
-      ],
-      "publishDate": "2025-05-27T07:31:21.214Z",
-      "heroImage": "",
-      "toolUrl": "https://mail.zoho.com/zm/#mail/folder/inbox"
-    },
-    {
       "id": "sndian",
       "slug": "sndian",
       "title": "سنديان",
@@ -3084,5 +3059,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-05-27T07:31:52.917Z"
+  "lastUpdated": "2025-05-27T07:40:13.653Z"
 }
