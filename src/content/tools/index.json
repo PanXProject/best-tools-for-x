@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "sdbgfsvbkjsdnvkjsdnjkndsjknjsk",
+      "slug": "sdbgfsvbkjsdnvkjsdnjkndsjknjsk",
+      "title": "sdbgfsvbkjsdnvkjsdnjkndsjknjsk",
+      "description": "sdgsdgfdhdfhdfhhdfhhdfhdfhdfhdfhdfhdfhdfh",
+      "author": "Testing 1",
+      "username": "username",
+      "categories": [
+        "Get & Keep Customers",
+        "Create & Build"
+      ],
+      "tags": [
+        "ai",
+        "test-test"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app"
+      ],
+      "publishDate": "2025-05-27T06:23:24.728Z",
+      "heroImage": "",
+      "toolUrl": "https://mail.zoho.com/zm/#mail/folder/inbox"
+    },
+    {
       "id": "stakpak",
       "slug": "stakpak",
       "title": "Stakpak",
@@ -2955,5 +2981,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-05-27T02:52:59.409Z"
+  "lastUpdated": "2025-05-27T06:23:26.231Z"
 }
