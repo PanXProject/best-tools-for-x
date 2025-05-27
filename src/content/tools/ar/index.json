@@ -1,6 +1,30 @@
 {
   "tools": [
     {
+      "id": "123",
+      "slug": "123",
+      "title": "sdbgfsvbkjsdnvkjsdnjkndsjknjsk",
+      "title_en": "123",
+      "description": "sdgsdgfdhdfhdfhhdfhhdfhdfhdfhdfhdfhdfhdfh",
+      "author": "Testing 1",
+      "username": "username",
+      "categories": [
+        "جذب العملاء والاحتفاظ بهم"
+      ],
+      "tags": [
+        "crm"
+      ],
+      "pricing": {
+        "model": "مجاني"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-05-27T07:14:14.628Z",
+      "heroImage": "",
+      "toolUrl": "https://mail.zoho.com/zm/#mail/folder/inbox"
+    },
+    {
       "id": "sdbgfsvbkjsdnvkjsdnjkndsjknjsk",
       "slug": "sdbgfsvbkjsdnvkjsdnjkndsjknjsk",
       "title": "sdbgfsvbkjsdnvkjsdnjkndsjknjsk",
@@ -3086,5 +3110,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-05-27T06:24:50.080Z"
+  "lastUpdated": "2025-05-27T07:14:16.014Z"
 }
