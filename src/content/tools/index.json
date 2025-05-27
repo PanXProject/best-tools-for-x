@@ -54,16 +54,16 @@
       "id": "freedcamp",
       "slug": "freedcamp",
       "title": "Freedcamp",
-      "description": "A comprehensive project management tool offering task lists, kanban boards, and time tracking to streamline team collaboration and enhance productivity.",
+      "description": "Project management with task lists, kanban boards, and time tracking.",
       "author": "Waleed Sadek",
       "username": "waleed",
       "categories": [
         "Run Business"
       ],
       "tags": [
-        "Project Management",
-        "Collaboration",
-        "Task Management"
+        "project-management",
+        "collaboration",
+        "task-management"
       ],
       "pricing": {
         "model": "freemium"
@@ -73,7 +73,9 @@
         "mobile-app"
       ],
       "publishDate": "2025-05-20T00:00:00.000Z",
-      "toolUrl": "https://freedcamp.com"
+      "toolUrl": "https://freedcamp.com",
+      "featured": false,
+      "featuredPosition": null
     },
     {
       "id": "guru",
@@ -2951,5 +2953,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-05-27T02:49:56.942Z"
+  "lastUpdated": "2025-05-27T02:51:44.480Z"
 }
