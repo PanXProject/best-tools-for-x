@@ -40,7 +40,7 @@
       "tags": [
         "تعليم",
         "ثقافة",
-        "محتوى عربي"
+        "محتوى-عربي"
       ],
       "pricing": {
         "model": "مجاني"
@@ -49,7 +49,9 @@
         "تطبيق ويب"
       ],
       "publishDate": "2025-05-20T00:00:00.000Z",
-      "toolUrl": "https://zaetoon.com"
+      "toolUrl": "https://zaetoon.com",
+      "featured": false,
+      "featuredPosition": null
     },
     {
       "id": "khamsat",
@@ -3049,5 +3051,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-05-27T02:28:24.452Z"
+  "lastUpdated": "2025-05-27T02:33:37.111Z"
 }
