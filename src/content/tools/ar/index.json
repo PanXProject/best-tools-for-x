@@ -1,6 +1,30 @@
 {
   "tools": [
     {
+      "id": "123",
+      "slug": "123",
+      "title": "sdbgfsvbkjsdnvkjsdnjkndsjknjsk",
+      "title_en": "123",
+      "description": "sdgsdgfdhdfhdfhhdfhhdfhdfhdfhdfhdfhdfhdfh",
+      "author": "Testing 1",
+      "username": "username",
+      "categories": [
+        "جذب العملاء والاحتفاظ بهم"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "pricing": {
+        "model": "تجربة مجانية"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-05-27T07:42:31.629Z",
+      "heroImage": "",
+      "toolUrl": "https://mail.zoho.com/zm/#mail/folder/inbox"
+    },
+    {
       "id": "sndian",
       "slug": "sndian",
       "title": "سنديان",
@@ -3059,5 +3083,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-05-27T07:40:13.653Z"
+  "lastUpdated": "2025-05-27T07:42:33.283Z"
 }
