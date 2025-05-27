@@ -26,33 +26,6 @@
       "toolUrl": "https://mail.zoho.com/zm/#mail/folder/inbox"
     },
     {
-      "id": "sdbgfsvbkjsdnvkjsdnjkndsjknjsk",
-      "slug": "sdbgfsvbkjsdnvkjsdnjkndsjknjsk",
-      "title": "sdbgfsvbkjsdnvkjsdnjkndsjknjsk",
-      "title_en": "sdbgfsvbkjsdnvkjsdnjkndsjknjsk",
-      "description": "sdgsdgfdhdfhdfhhdfhhdfhdfhdfhdfhdfhdfhdfh",
-      "author": "Testing 1",
-      "username": "username",
-      "categories": [
-        "جذب العملاء والاحتفاظ بهم",
-        "إنشاء و تطوير"
-      ],
-      "tags": [
-        "sflgkjfslk",
-        "sdigjoifdsjw-kjlf"
-      ],
-      "pricing": {
-        "model": "فريميوم"
-      },
-      "softwareTypes": [
-        "تطبيق ويب",
-        "تطبيق جوال"
-      ],
-      "publishDate": "2025-05-27T06:24:48.661Z",
-      "heroImage": "",
-      "toolUrl": "https://mail.zoho.com/zm/#mail/folder/inbox"
-    },
-    {
       "id": "sndian",
       "slug": "sndian",
       "title": "سنديان",
@@ -3111,5 +3084,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-05-27T07:31:22.738Z"
+  "lastUpdated": "2025-05-27T07:31:52.917Z"
 }
