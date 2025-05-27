@@ -103,25 +103,27 @@
       "id": "rasa",
       "slug": "rasa",
       "title": "Rasa",
-      "description": "An open-source conversational AI platform for building contextual chatbots and voice assistants, enabling developers to create more human-like interactions.",
+      "description": "AI platform for building contextual chatbots and voice assistants.",
       "author": "Waleed Sadek",
       "username": "waleed",
       "categories": [
         "Connect & Collaborate"
       ],
       "tags": [
-        "Conversational AI",
-        "Chatbots",
-        "Voice Assistants"
+        "conversational-ai",
+        "chatbots",
+        "voice-assistants"
       ],
       "pricing": {
-        "model": "open-source"
+        "model": "free"
       },
       "softwareTypes": [
         "self-hosted"
       ],
       "publishDate": "2025-05-20T00:00:00.000Z",
-      "toolUrl": "https://rasa.com"
+      "toolUrl": "https://rasa.com",
+      "featured": false,
+      "featuredPosition": null
     },
     {
       "id": "wave",
@@ -2947,5 +2949,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-05-27T01:43:59.174Z"
+  "lastUpdated": "2025-05-27T02:49:23.489Z"
 }
