@@ -30,16 +30,16 @@
       "id": "village",
       "slug": "village",
       "title": "Village",
-      "description": "A Social Capital API that enhances sales, fundraising, and hiring workflows by mapping and leveraging team connections, facilitating warm introductions to key stakeholders.",
+      "description": "Social Capital API enhancing sales, fundraising, and hiring workflows.",
       "author": "Waleed Sadek",
       "username": "waleed",
       "categories": [
         "Get & Keep Customers"
       ],
       "tags": [
-        "Networking",
-        "Sales",
-        "Fundraising"
+        "networking",
+        "sales",
+        "fundraising"
       ],
       "pricing": {
         "model": "subscription"
@@ -48,7 +48,9 @@
         "web-app"
       ],
       "publishDate": "2025-05-20T00:00:00.000Z",
-      "toolUrl": "https://village.do"
+      "toolUrl": "https://village.do",
+      "featured": false,
+      "featuredPosition": null
     },
     {
       "id": "freedcamp",
@@ -2953,5 +2955,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-05-27T02:51:44.480Z"
+  "lastUpdated": "2025-05-27T02:52:59.409Z"
 }
