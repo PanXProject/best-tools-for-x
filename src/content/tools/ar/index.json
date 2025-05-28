@@ -1,6 +1,152 @@
 {
   "tools": [
     {
+      "id": "netmoud",
+      "slug": "netmoud",
+      "title": "نت مود",
+      "title_en": "Netmoud",
+      "description": "منصة عربية لبيع المنتجات الرقمية مثل الكتب الإلكترونية والقوالب",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "جذب العملاء والاحتفاظ بهم",
+        "إنشاء و تطوير"
+      ],
+      "tags": [
+        "منتجات-رقمية",
+        "تجارة-إلكترونية",
+        "مبيعات",
+        "تسويق",
+        "مبدعون"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-05-28T00:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://netmoud.com"
+    },
+    {
+      "id": "salla",
+      "slug": "salla",
+      "title": "سلة",
+      "title_en": "Salla",
+      "description": "منصة لإنشاء متاجر إلكترونية بسهولة",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "جذب العملاء والاحتفاظ بهم",
+        "إنشاء و تطوير"
+      ],
+      "tags": [
+        "تجارة-إلكترونية",
+        "متجر-إلكتروني",
+        "مبيعات",
+        "تسويق",
+        "أعمال-صغيرة"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-05-28T00:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://salla.sa"
+    },
+    {
+      "id": "zaher",
+      "slug": "zaher",
+      "title": "زاهر",
+      "title_en": "Zaher",
+      "description": "منصة لبيع المنتجات الرقمية وأصول التصميم",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "جذب العملاء والاحتفاظ بهم",
+        "إنشاء و تطوير"
+      ],
+      "tags": [
+        "منتجات-رقمية",
+        "أصول-تصميم",
+        "مبيعات",
+        "إبداعي",
+        "تسويق"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-05-28T00:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://zaher.io"
+    },
+    {
+      "id": "mawared",
+      "slug": "mawared",
+      "title": "موارد",
+      "title_en": "Mawared",
+      "description": "منصة لإدارة الموارد البشرية للشركات الصغيرة",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إدارة الأفراد",
+        "إدارة الأعمال"
+      ],
+      "tags": [
+        "موارد-بشرية",
+        "كشوف-المرتبات",
+        "حضور",
+        "إدارة-الموظفين",
+        "أعمال-صغيرة"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-05-28T00:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://mawaredhr.com"
+    },
+    {
+      "id": "daftra",
+      "slug": "daftra",
+      "title": "دفترة",
+      "title_en": "Daftra",
+      "description": "برنامج إدارة أعمال سحابي للمحاسبة والمخزون والموارد البشرية",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إدارة الأعمال",
+        "إدارة الأموال",
+        "إدارة الأفراد"
+      ],
+      "tags": [
+        "محاسبة",
+        "مخزون",
+        "موارد-بشرية",
+        "إدارة-أعمال",
+        "سحابي"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-05-28T00:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://www.daftra.com"
+    },
+    {
       "id": "sndian",
       "slug": "sndian",
       "title": "سنديان",
