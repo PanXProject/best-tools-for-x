@@ -1,6 +1,146 @@
 {
   "tools": [
     {
+      "id": "flowlu",
+      "slug": "flowlu",
+      "title": "Flowlu",
+      "description": "All-in-one business management for sales, projects, and finances.",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Run Business",
+        "Get & Keep Customers",
+        "Manage Money"
+      ],
+      "tags": [
+        "crm",
+        "project-management",
+        "invoicing",
+        "business-management",
+        "cloud-based"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-05-28T00:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://flowlu.com"
+    },
+    {
+      "id": "nifty",
+      "slug": "nifty",
+      "title": "Nifty",
+      "description": "Project management and collaboration tool for teams.",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Run Business",
+        "Connect & Collaborate"
+      ],
+      "tags": [
+        "project-management",
+        "collaboration",
+        "task-management",
+        "teamwork",
+        "kanban"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-05-28T00:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://nifty.pm"
+    },
+    {
+      "id": "invoicely",
+      "slug": "invoicely",
+      "title": "Invoicely",
+      "description": "Simple invoicing and billing for freelancers and small businesses.",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Manage Money",
+        "Run Business"
+      ],
+      "tags": [
+        "invoicing",
+        "billing",
+        "accounting",
+        "freelance",
+        "small-business"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-05-28T00:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://invoicely.com"
+    },
+    {
+      "id": "engagebay",
+      "slug": "engagebay",
+      "title": "EngageBay",
+      "description": "Integrated platform for CRM, email marketing, and sales automation.",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Get & Keep Customers",
+        "Run Business"
+      ],
+      "tags": [
+        "crm",
+        "email-marketing",
+        "sales-automation",
+        "marketing-automation",
+        "lead-management"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-05-28T00:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://engagebay.com"
+    },
+    {
+      "id": "locofy",
+      "slug": "locofy",
+      "title": "Locofy",
+      "description": "Turn your designs into production-ready code with AI.",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "low-code",
+        "design-to-code",
+        "app-development",
+        "figma-integration",
+        "web-development"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-05-28T00:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://www.locofy.ai"
+    },
+    {
       "id": "stakpak",
       "slug": "stakpak",
       "title": "Stakpak",
