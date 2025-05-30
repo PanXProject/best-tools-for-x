@@ -27,7 +27,9 @@
       ],
       "publishDate": "2025-05-30T09:28:49.189Z",
       "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1748597161/sjbth1cgywjfki4henaq.png",
-      "toolUrl": "https://lin-k.ai?utm_source=toolseekr"
+      "toolUrl": "https://lin-k.ai?utm_source=toolseekr",
+      "featured": false,
+      "featuredPosition": null
     },
     {
       "id": "flowlu",
@@ -3124,5 +3126,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-05-30T09:28:49.999Z"
+  "lastUpdated": "2025-05-30T09:29:28.998Z"
 }
