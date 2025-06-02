@@ -1,37 +1,6 @@
 {
   "tools": [
     {
-      "id": "testing",
-      "slug": "testing",
-      "title": "Testing",
-      "description": "Testing",
-      "author": "Waleed Sadek",
-      "username": "waleed",
-      "categories": [
-        "Create & Build",
-        "Run Business",
-        "Understand & Improve"
-      ],
-      "tags": [
-        "url-shortener",
-        "qr-codes",
-        "bio-pages",
-        "marketing",
-        "analytics"
-      ],
-      "pricing": {
-        "model": "freemium"
-      },
-      "softwareTypes": [
-        "web-app"
-      ],
-      "publishDate": "2025-06-01T09:28:49.189Z",
-      "heroImage": "",
-      "toolUrl": "https://panx.io",
-      "featured": false,
-      "featuredPosition": null
-    },
-    {
       "id": "lin-k-ai",
       "slug": "lin-k-ai",
       "title": "Lin-k.ai",
