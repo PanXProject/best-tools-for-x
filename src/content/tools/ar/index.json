@@ -1,5 +1,154 @@
 {
   "tools": [
+  {
+    "id": "monicahq",
+    "slug": "monicahq",
+    "title": "مونيكا إتش كيو",
+    "title_en": "MonicaHQ",
+    "description": "نظام إدارة علاقات شخصية مفتوح المصدر لتنظيم تفاعلاتك الاجتماعية",
+    "author": "وليد صادق",
+    "username": "waleed",
+    "categories": [
+      "جذب العملاء والاحتفاظ بهم",
+      "إدارة الأعمال"
+    ],
+    "tags": [
+      "إدارة-علاقات-العملاء",
+      "شخصي",
+      "مفتوح-المصدر",
+      "إدارة-العلاقات",
+      "إدارة-جهات-الاتصال"
+    ],
+    "pricing": {
+      "model": "مجاني"
+    },
+    "softwareTypes": [
+      "مستضاف ذاتيًا",
+      "تطبيق ويب"
+    ],
+    "publishDate": "2025-06-11T00:00:00.000Z",
+    "heroImage": "",
+    "toolUrl": "https://www.monicahq.com"
+  },
+  {
+    "id": "bagisto",
+    "slug": "bagisto",
+    "title": "باجيستو",
+    "title_en": "Bagisto",
+    "description": "منصة تجارة إلكترونية مفتوحة المصدر مبنية على Laravel",
+    "author": "وليد صادق",
+    "username": "waleed",
+    "categories": [
+      "إدارة الأعمال",
+      "إنشاء و تطوير"
+    ],
+    "tags": [
+      "تجارة-إلكترونية",
+      "Laravel",
+      "مفتوح-المصدر",
+      "عربة-تسوق",
+      "متجر-إلكتروني"
+    ],
+    "pricing": {
+      "model": "مجاني"
+    },
+    "softwareTypes": [
+      "مستضاف ذاتيًا",
+      "تطبيق ويب"
+    ],
+    "publishDate": "2025-06-11T00:00:00.000Z",
+    "heroImage": "",
+    "toolUrl": "https://bagisto.com/en/"
+  },
+  {
+    "id": "krayincrm",
+    "slug": "krayincrm",
+    "title": "كرايين سي آر إم",
+    "title_en": "KrayinCRM",
+    "description": "حل CRM مفتوح المصدر لإدارة علاقات العملاء",
+    "author": "وليد صادق",
+    "username": "waleed",
+    "categories": [
+      "جذب العملاء والاحتفاظ بهم",
+      "إدارة الأعمال"
+    ],
+    "tags": [
+      "إدارة-علاقات-العملاء",
+      "إدارة-العملاء",
+      "مفتوح-المصدر",
+      "مبيعات",
+      "تسويق"
+    ],
+    "pricing": {
+      "model": "مجاني"
+    },
+    "softwareTypes": [
+      "مستضاف ذاتيًا",
+      "تطبيق ويب"
+    ],
+    "publishDate": "2025-06-11T00:00:00.000Z",
+    "heroImage": "",
+    "toolUrl": "https://krayincrm.com"
+  },
+  {
+    "id": "aureuserp",
+    "slug": "aureuserp",
+    "title": "أوريوس إي آر بي",
+    "title_en": "AureusERP",
+    "description": "منصة تخطيط موارد المؤسسات مجانية ومفتوحة المصدر للشركات",
+    "author": "وليد صادق",
+    "username": "waleed",
+    "categories": [
+      "إدارة الأعمال",
+      "إدارة الأموال"
+    ],
+    "tags": [
+      "تخطيط-موارد-المؤسسات",
+      "مفتوح-المصدر",
+      "إدارة-الأعمال",
+      "محاسبة",
+      "مخزون"
+    ],
+    "pricing": {
+      "model": "مجاني"
+    },
+    "softwareTypes": [
+      "مستضاف ذاتيًا",
+      "تطبيق ويب"
+    ],
+    "publishDate": "2025-06-11T00:00:00.000Z",
+    "heroImage": "",
+    "toolUrl": "https://aureuserp.com"
+  },
+  {
+    "id": "uvdesk",
+    "slug": "uvdesk",
+    "title": "يو في ديسك",
+    "title_en": "UVdesk",
+    "description": "نظام مكتب مساعدة وتذاكر مفتوح المصدر لدعم العملاء",
+    "author": "وليد صادق",
+    "username": "waleed",
+    "categories": [
+      "جذب العملاء والاحتفاظ بهم",
+      "التواصل والتعاون"
+    ],
+    "tags": [
+      "مكتب-مساعدة",
+      "تذاكر",
+      "دعم-العملاء",
+      "مفتوح-المصدر",
+      "إدارة-علاقات-العملاء"
+    ],
+    "pricing": {
+      "model": "فريميوم"
+    },
+    "softwareTypes": [
+      "تطبيق ويب"
+    ],
+    "publishDate": "2025-06-11T00:00:00.000Z",
+    "heroImage": "",
+    "toolUrl": "https://www.uvdesk.com/en/"
+  },
     {
       "id": "netmoud",
       "slug": "netmoud",
