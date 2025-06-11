@@ -1,6 +1,150 @@
 {
   "tools": [
     {
+    "id": "monicahq",
+    "slug": "monicahq",
+    "title": "MonicaHQ",
+    "description": "Open-source personal CRM to organize your social interactions",
+    "author": "Waleed Sadek",
+    "username": "waleed",
+    "categories": [
+      "Get & Keep Customers",
+      "Run Business"
+    ],
+    "tags": [
+      "crm",
+      "personal",
+      "open-source",
+      "relationship-management",
+      "contact-management"
+    ],
+    "pricing": {
+      "model": "free"
+    },
+    "softwareTypes": [
+      "self-hosted",
+      "web-app"
+    ],
+    "publishDate": "2025-06-11T00:00:00.000Z",
+    "heroImage": "",
+    "toolUrl": "https://www.monicahq.com"
+  },
+  {
+    "id": "bagisto",
+    "slug": "bagisto",
+    "title": "Bagisto",
+    "description": "Open-source e-commerce platform built on Laravel",
+    "author": "Waleed Sadek",
+    "username": "waleed",
+    "categories": [
+      "Run Business",
+      "Create & Build"
+    ],
+    "tags": [
+      "e-commerce",
+      "laravel",
+      "open-source",
+      "shopping-cart",
+      "online-store"
+    ],
+    "pricing": {
+      "model": "free"
+    },
+    "softwareTypes": [
+      "self-hosted",
+      "web-app"
+    ],
+    "publishDate": "2025-06-11T00:00:00.000Z",
+    "heroImage": "",
+    "toolUrl": "https://bagisto.com/en/"
+  },
+  {
+    "id": "krayincrm",
+    "slug": "krayincrm",
+    "title": "KrayinCRM",
+    "description": "Open-source CRM solution for managing customer relationships",
+    "author": "Waleed Sadek",
+    "username": "waleed",
+    "categories": [
+      "Get & Keep Customers",
+      "Run Business"
+    ],
+    "tags": [
+      "crm",
+      "customer-management",
+      "open-source",
+      "sales",
+      "marketing"
+    ],
+    "pricing": {
+      "model": "free"
+    },
+    "softwareTypes": [
+      "self-hosted",
+      "web-app"
+    ],
+    "publishDate": "2025-06-11T00:00:00.000Z",
+    "heroImage": "",
+    "toolUrl": "https://krayincrm.com"
+  },
+  {
+    "id": "aureuserp",
+    "slug": "aureuserp",
+    "title": "AureusERP",
+    "description": "Free and open-source ERP platform for businesses",
+    "author": "Waleed Sadek",
+    "username": "waleed",
+    "categories": [
+      "Run Business",
+      "Manage Money"
+    ],
+    "tags": [
+      "erp",
+      "open-source",
+      "business-management",
+      "accounting",
+      "inventory"
+    ],
+    "pricing": {
+      "model": "free"
+    },
+    "softwareTypes": [
+      "self-hosted",
+      "web-app"
+    ],
+    "publishDate": "2025-06-11T00:00:00.000Z",
+    "heroImage": "",
+    "toolUrl": "https://aureuserp.com"
+  },
+  {
+    "id": "uvdesk",
+    "slug": "uvdesk",
+    "title": "UVdesk",
+    "description": "Open-source helpdesk and ticketing system for customer support",
+    "author": "Waleed Sadek",
+    "username": "waleed",
+    "categories": [
+      "Get & Keep Customers",
+      "Connect & Collaborate"
+    ],
+    "tags": [
+      "helpdesk",
+      "ticketing",
+      "customer-support",
+      "open-source",
+      "crm"
+    ],
+    "pricing": {
+      "model": "freemium"
+    },
+    "softwareTypes": [
+      "web-app"
+    ],
+    "publishDate": "2025-06-11T00:00:00.000Z",
+    "heroImage": "",
+    "toolUrl": "https://www.uvdesk.com/en/"
+  },
+    {
       "id": "lin-k-ai",
       "slug": "lin-k-ai",
       "title": "Lin-k.ai",
