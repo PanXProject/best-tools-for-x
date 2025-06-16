@@ -27,7 +27,9 @@
       ],
       "publishDate": "2025-06-16T18:41:58.640Z",
       "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1750099041/lhcgjwfnvnpzguanjrmp.png",
-      "toolUrl": "https://app.akedly.io"
+      "toolUrl": "https://akedly.io",
+      "featured": false,
+      "featuredPosition": null
     },
     {
       "id": "monicahq",
@@ -3299,5 +3301,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-06-16T18:41:59.534Z"
+  "lastUpdated": "2025-06-16T18:42:52.258Z"
 }
