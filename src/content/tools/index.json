@@ -1,5 +1,148 @@
 {
   "tools": [
+      {
+    "id": "buildship",
+    "slug": "buildship",
+    "title": "BuildShip",
+    "description": "Platform for building backend workflows and APIs.",
+    "author": "Waleed Sadek",
+    "username": "waleed",
+    "categories": [
+      "Create & Build",
+      "Run Business"
+    ],
+    "tags": [
+      "backend",
+      "workflow",
+      "api",
+      "no-code",
+      "automation"
+    ],
+    "pricing": {
+      "model": "freemium"
+    },
+    "softwareTypes": [
+      "web-app"
+    ],
+    "publishDate": "2025-06-18T00:00:00.000Z",
+    "heroImage": "",
+    "toolUrl": "https://buildship.com"
+  },
+  {
+    "id": "glideapps",
+    "slug": "glideapps",
+    "title": "GlideApps",
+    "description": "No-code platform to build mobile and web apps from spreadsheets.",
+    "author": "Waleed Sadek",
+    "username": "waleed",
+    "categories": [
+      "Create & Build",
+      "Run Business"
+    ],
+    "tags": [
+      "no-code",
+      "mobile-app",
+      "web-app",
+      "spreadsheet",
+      "business-tools"
+    ],
+    "pricing": {
+      "model": "freemium"
+    },
+    "softwareTypes": [
+      "web-app",
+      "mobile-app"
+    ],
+    "publishDate": "2025-06-18T00:00:00.000Z",
+    "heroImage": "",
+    "toolUrl": "https://www.glideapps.com"
+  },
+  {
+    "id": "akaunting",
+    "slug": "akaunting",
+    "title": "Akaunting",
+    "description": "Free and open-source online accounting software for small businesses.",
+    "author": "Waleed Sadek",
+    "username": "waleed",
+    "categories": [
+      "Manage Money",
+      "Run Business"
+    ],
+    "tags": [
+      "accounting",
+      "finance",
+      "invoicing",
+      "open-source",
+      "small-business"
+    ],
+    "pricing": {
+      "model": "free"
+    },
+    "softwareTypes": [
+      "web-app",
+      "self-hosted"
+    ],
+    "publishDate": "2025-06-18T00:00:00.000Z",
+    "heroImage": "",
+    "toolUrl": "https://akaunting.com"
+  },
+  {
+    "id": "mailerlite",
+    "slug": "mailerlite",
+    "title": "MailerLite",
+    "description": "Email marketing platform with website and landing page builders.",
+    "author": "Waleed Sadek",
+    "username": "waleed",
+    "categories": [
+      "Get & Keep Customers",
+      "Create & Build"
+    ],
+    "tags": [
+      "email-marketing",
+      "newsletter",
+      "landing-page",
+      "website-builder",
+      "marketing"
+    ],
+    "pricing": {
+      "model": "freemium"
+    },
+    "softwareTypes": [
+      "web-app"
+    ],
+    "publishDate": "2025-06-18T00:00:00.000Z",
+    "heroImage": "",
+    "toolUrl": "https://www.mailerlite.com"
+  },
+  {
+    "id": "dochub",
+    "slug": "dochub",
+    "title": "DocHub",
+    "description": "Online PDF editor, e-signature, and document management solution.",
+    "author": "Waleed Sadek",
+    "username": "waleed",
+    "categories": [
+      "Connect & Collaborate",
+      "Run Business"
+    ],
+    "tags": [
+      "pdf-editor",
+      "e-signature",
+      "document-management",
+      "productivity",
+      "online-tools"
+    ],
+    "pricing": {
+      "model": "freemium"
+    },
+    "softwareTypes": [
+      "web-app"
+    ],
+    "publishDate": "2025-06-18T00:00:00.000Z",
+    "heroImage": "",
+    "toolUrl": "https://dochub.com"
+  }
+    ,
     {
       "id": "akedly-io",
       "slug": "akedly-io",
