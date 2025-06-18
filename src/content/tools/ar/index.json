@@ -1,5 +1,152 @@
 {
   "tools": [
+    {
+    "id": "arabygpt",
+    "slug": "arabygpt",
+    "title": "أرابى جي بي تي",
+    "title_en": "ArabyGPT",
+    "description": "منصة ذكاء اصطناعي لتوليد وفهم المحتوى العربي.",
+    "author": "وليد صادق",
+    "username": "waleed",
+    "categories": [
+      "إنشاء و تطوير",
+      "الفهم والتحسين"
+    ],
+    "tags": [
+      "ذكاء-اصطناعي",
+      "عربي",
+      "توليد-محتوى",
+      "لغة",
+      "كتابة"
+    ],
+    "pricing": {
+      "model": "مجاني"
+    },
+    "softwareTypes": [
+      "تطبيق ويب"
+    ],
+    "publishDate": "2025-06-18T00:00:00.000Z",
+    "heroImage": "",
+    "toolUrl": "https://www.arabygpt.araby.ai"
+  },
+  {
+    "id": "namozaj",
+    "slug": "namozaj",
+    "title": "نماذج",
+    "title_en": "Namozaj",
+    "description": "مكتبة قوالب أعمال وقانونية عربية/إنجليزية.",
+    "author": "وليد صادق",
+    "username": "waleed",
+    "categories": [
+      "إدارة الأعمال",
+      "إنشاء و تطوير"
+    ],
+    "tags": [
+      "قوالب",
+      "قانوني",
+      "أعمال",
+      "مستندات",
+      "عربي"
+    ],
+    "pricing": {
+      "model": "اشتراك"
+    },
+    "softwareTypes": [
+      "تطبيق ويب"
+    ],
+    "publishDate": "2025-06-18T00:00:00.000Z",
+    "heroImage": "",
+    "toolUrl": "https://www.namozaj.com"
+  },
+  {
+    "id": "lisan",
+    "slug": "lisan",
+    "title": "لسان",
+    "title_en": "Lisan",
+    "description": "مساعد تدقيق وكتابة عربي مدعوم بالذكاء الاصطناعي.",
+    "author": "وليد صادق",
+    "username": "waleed",
+    "categories": [
+      "إنشاء و تطوير",
+      "الفهم والتحسين"
+    ],
+    "tags": [
+      "ذكاء-اصطناعي",
+      "تدقيق",
+      "كتابة",
+      "عربي",
+      "قواعد"
+    ],
+    "pricing": {
+      "model": "فريميوم"
+    },
+    "softwareTypes": [
+      "تطبيق ويب",
+      "برنامج مساعد"
+    ],
+    "publishDate": "2025-06-18T00:00:00.000Z",
+    "heroImage": "",
+    "toolUrl": "https://www.lisan.com"
+  },
+  {
+    "id": "tarjama",
+    "slug": "tarjama",
+    "title": "ترجمة",
+    "title_en": "Tarjama",
+    "description": "منصة ترجمة آلية للغة العربية والإنجليزية.",
+    "author": "وليد صادق",
+    "username": "waleed",
+    "categories": [
+      "التواصل والتعاون",
+      "الفهم والتحسين"
+    ],
+    "tags": [
+      "ترجمة",
+      "عربي",
+      "ذكاء-اصطناعي",
+      "مستندات",
+      "لغة"
+    ],
+    "pricing": {
+      "model": "تجربة مجانية"
+    },
+    "softwareTypes": [
+      "تطبيق ويب"
+    ],
+    "publishDate": "2025-06-18T00:00:00.000Z",
+    "heroImage": "",
+    "toolUrl": "https://translate.tarjama.com"
+  },
+  {
+    "id": "qalam",
+    "slug": "qalam",
+    "title": "قلم",
+    "title_en": "Qalam",
+    "description": "ذكاء اصطناعي توليدي لإنشاء المحتوى العربي والمساعدة في الكتابة.",
+    "author": "وليد صادق",
+    "username": "waleed",
+    "categories": [
+      "إنشاء و تطوير",
+      "الفهم والتحسين"
+    ],
+    "tags": [
+      "ذكاء-اصطناعي",
+      "كتابة",
+      "عربي",
+      "محتوى",
+      "ذكاء-اصطناعي-توليدي"
+    ],
+    "pricing": {
+      "model": "فريميوم"
+    },
+    "softwareTypes": [
+      "تطبيق ويب"
+    ],
+    "publishDate": "2025-06-18T00:00:00.000Z",
+    "heroImage": "",
+    "toolUrl": "https://qalam.ai"
+  }
+  ,
   {
     "id": "monicahq",
     "slug": "monicahq",
