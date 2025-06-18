@@ -3,7 +3,7 @@
     {
     "id": "arabygpt",
     "slug": "arabygpt",
-    "title": "أرابى جي بي تي",
+    "title": "عربي جي بي تي",
     "title_en": "ArabyGPT",
     "description": "منصة ذكاء اصطناعي لتوليد وفهم المحتوى العربي.",
     "author": "وليد صادق",
@@ -32,7 +32,7 @@
   {
     "id": "namozaj",
     "slug": "namozaj",
-    "title": "نماذج",
+    "title": "نموذج",
     "title_en": "Namozaj",
     "description": "مكتبة قوالب أعمال وقانونية عربية/إنجليزية.",
     "author": "وليد صادق",
