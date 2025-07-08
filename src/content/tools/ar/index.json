@@ -1,5 +1,149 @@
 {
   "tools": [
+  {
+    "id": "visily",
+    "slug": "visily",
+    "title": "فيزيلي",
+    "title_en": "Visily",
+    "description": "أداة تصميم واجهات مدعومة بالذكاء الاصطناعي لإنشاء النماذج الأولية",
+    "author": "وليد صادق",
+    "username": "waleed",
+    "categories": [
+      "إنشاء و تطوير",
+      "إدارة الأعمال"
+    ],
+    "tags": [
+      "تصميم-واجهات",
+      "نماذج-أولية",
+      "ذكي-اصطناعي",
+      "أداة-تصميم",
+      "واجهات-مستخدم"
+    ],
+    "pricing": {
+      "model": "فريميوم"
+    },
+    "softwareTypes": [
+      "تطبيق ويب"
+    ],
+    "publishDate": "2025-07-08T20:37:00.317Z",
+    "heroImage": "",
+    "toolUrl": "https://www.visily.ai"
+  },
+  {
+    "id": "poindeo",
+    "slug": "poindeo",
+    "title": "بوينديو",
+    "title_en": "Poindeo",
+    "description": "محرر فيديو عبر الإنترنت لإنشاء عروض المنتجات والشروحات",
+    "author": "وليد صادق",
+    "username": "waleed",
+    "categories": [
+      "إنشاء و تطوير",
+      "جذب العملاء والاحتفاظ بهم"
+    ],
+    "tags": [
+      "تحرير-فيديو",
+      "عروض-منتجات",
+      "شروحات",
+      "تأثيرات-تكبير",
+      "وسائل-اجتماعية"
+    ],
+    "pricing": {
+      "model": "فريميوم"
+    },
+    "softwareTypes": [
+      "تطبيق ويب"
+    ],
+    "publishDate": "2025-07-08T20:37:00.317Z",
+    "heroImage": "",
+    "toolUrl": "https://poindeo.com"
+  },
+  {
+    "id": "kittl",
+    "slug": "kittl",
+    "title": "كيتل",
+    "title_en": "Kittl",
+    "description": "منصة تصميم تعاونية مع أدوات ذكاء اصطناعي للجرافيك والشعارات",
+    "author": "وليد صادق",
+    "username": "waleed",
+    "categories": [
+      "إنشاء و تطوير",
+      "جذب العملاء والاحتفاظ بهم"
+    ],
+    "tags": [
+      "تصميم-جرافيكي",
+      "صانع-شعارات",
+      "ذكاء-اصطناعي",
+      "قوالب",
+      "تعاون"
+    ],
+    "pricing": {
+      "model": "فريميوم"
+    },
+    "softwareTypes": [
+      "تطبيق ويب"
+    ],
+    "publishDate": "2025-07-08T20:37:00.317Z",
+    "heroImage": "",
+    "toolUrl": "https://www.kittl.com"
+  },
+  {
+    "id": "coolors",
+    "slug": "coolors",
+    "title": "كولورز",
+    "title_en": "Coolors",
+    "description": "مولد لوحات الألوان وأداة تصميم لإنشاء أنظمة الألوان",
+    "author": "وليد صادق",
+    "username": "waleed",
+    "categories": [
+      "إنشاء و تطوير"
+    ],
+    "tags": [
+      "لوحة-ألوان",
+      "أداة-تصميم",
+      "أنظمة-ألوان",
+      "مولد",
+      "هوية-تجارية"
+    ],
+    "pricing": {
+      "model": "فريميوم"
+    },
+    "softwareTypes": [
+      "تطبيق ويب"
+    ],
+    "publishDate": "2025-07-08T20:37:00.317Z",
+    "heroImage": "",
+    "toolUrl": "https://coolors.co"
+  },
+  {
+    "id": "freelogodesign",
+    "slug": "freelogodesign",
+    "title": "فري لوجو ديزاين",
+    "title_en": "FreeLogoDesign",
+    "description": "صانع شعارات مجاني مع قوالب قابلة للتخصيص وأدوات تصميم",
+    "author": "وليد صادق",
+    "username": "waleed",
+    "categories": [
+      "إنشاء و تطوير",
+      "جذب العملاء والاحتفاظ بهم"
+    ],
+    "tags": [
+      "صانع-شعارات",
+      "تصميم-مجاني",
+      "هوية-تجارية",
+      "قوالب",
+      "هوية-عمل"
+    ],
+    "pricing": {
+      "model": "فريميوم"
+    },
+    "softwareTypes": [
+      "تطبيق ويب"
+    ],
+    "publishDate": "2025-07-08T20:37:00.317Z",
+    "heroImage": "",
+    "toolUrl": "https://www.freelogodesign.org"
+  },
     {
     "id": "arabygpt",
     "slug": "arabygpt",
