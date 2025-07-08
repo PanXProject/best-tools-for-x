@@ -1,5 +1,145 @@
 {
   "tools": [
+  {
+    "id": "visily",
+    "slug": "visily",
+    "title": "Visily",
+    "description": "AI-powered UI design tool for creating wireframes and prototypes",
+    "author": "Waleed Sadek",
+    "username": "waleed",
+    "categories": [
+      "Create & Build",
+      "Run Business"
+    ],
+    "tags": [
+      "ui-design",
+      "wireframes",
+      "prototyping",
+      "ai-design",
+      "design-tool"
+    ],
+    "pricing": {
+      "model": "freemium"
+    },
+    "softwareTypes": [
+      "web-app"
+    ],
+    "publishDate": "2025-07-08T20:37:00.317Z",
+    "heroImage": "",
+    "toolUrl": "https://www.visily.ai"
+  },
+  {
+    "id": "poindeo",
+    "slug": "poindeo",
+    "title": "Poindeo",
+    "description": "Online video editor for creating product demos and tutorials",
+    "author": "Waleed Sadek",
+    "username": "waleed",
+    "categories": [
+      "Create & Build",
+      "Get & Keep Customers"
+    ],
+    "tags": [
+      "video-editing",
+      "product-demos",
+      "tutorials",
+      "zoom-effects",
+      "social-media"
+    ],
+    "pricing": {
+      "model": "freemium"
+    },
+    "softwareTypes": [
+      "web-app"
+    ],
+    "publishDate": "2025-07-08T20:37:00.317Z",
+    "heroImage": "",
+    "toolUrl": "https://poindeo.com"
+  },
+  {
+    "id": "fathom",
+    "slug": "fathom",
+    "title": "Fathom",
+    "description": "AI meeting assistant for recording and transcribing video calls",
+    "author": "Waleed Sadek",
+    "username": "waleed",
+    "categories": [
+      "Connect & Collaborate",
+      "Run Business"
+    ],
+    "tags": [
+      "meeting-recorder",
+      "transcription",
+      "ai-assistant",
+      "video-calls",
+      "productivity"
+    ],
+    "pricing": {
+      "model": "freemium"
+    },
+    "softwareTypes": [
+      "web-app"
+    ],
+    "publishDate": "2025-07-08T20:37:00.317Z",
+    "heroImage": "",
+    "toolUrl": "https://fathom.video"
+  },
+  {
+    "id": "kittl",
+    "slug": "kittl",
+    "title": "Kittl",
+    "description": "Collaborative design platform with AI tools for graphics and logos",
+    "author": "Waleed Sadek",
+    "username": "waleed",
+    "categories": [
+      "Create & Build",
+      "Get & Keep Customers"
+    ],
+    "tags": [
+      "graphic-design",
+      "logo-maker",
+      "ai-design",
+      "templates",
+      "collaboration"
+    ],
+    "pricing": {
+      "model": "freemium"
+    },
+    "softwareTypes": [
+      "web-app"
+    ],
+    "publishDate": "2025-07-08T20:37:00.317Z",
+    "heroImage": "",
+    "toolUrl": "https://www.kittl.com"
+  },
+  {
+    "id": "adalo",
+    "slug": "adalo",
+    "title": "Adalo",
+    "description": "No-code platform for building native mobile and web apps",
+    "author": "Waleed Sadek",
+    "username": "waleed",
+    "categories": [
+      "Create & Build",
+      "Run Business"
+    ],
+    "tags": [
+      "no-code",
+      "mobile-apps",
+      "web-apps",
+      "app-builder",
+      "native-apps"
+    ],
+    "pricing": {
+      "model": "freemium"
+    },
+    "softwareTypes": [
+      "web-app"
+    ],
+    "publishDate": "2025-07-08T20:37:00.317Z",
+    "heroImage": "",
+    "toolUrl": "https://www.adalo.com"
+  },
       {
     "id": "buildship",
     "slug": "buildship",
