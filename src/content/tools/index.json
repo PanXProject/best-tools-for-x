@@ -1,6 +1,117 @@
 {
   "tools": [
   {
+    "id": "joinotto",
+    "slug": "joinotto",
+    "title": "Otto",
+    "description": "AI-powered customer service automation and chatbot platform",
+    "author": "Waleed Sadek",
+    "username": "waleed",
+    "categories": [
+      "Get & Keep Customers",
+      "Run Business"
+    ],
+    "tags": [
+      "chatbot",
+      "customer-service",
+      "ai-automation",
+      "support",
+      "messaging"
+    ],
+    "pricing": {
+      "model": "subscription"
+    },
+    "softwareTypes": [
+      "web-app"
+    ],
+    "publishDate": "2025-07-14T20:37:00.317Z",
+    "heroImage": "",
+    "toolUrl": "https://joinotto.com"
+  },
+  {
+    "id": "coolors",
+    "slug": "coolors",
+    "title": "Coolors",
+    "description": "Color palette generator and design tool for creating color schemes",
+    "author": "Waleed Sadek",
+    "username": "waleed",
+    "categories": [
+      "Create & Build"
+    ],
+    "tags": [
+      "color-palette",
+      "design-tool",
+      "color-schemes",
+      "generator",
+      "branding"
+    ],
+    "pricing": {
+      "model": "freemium"
+    },
+    "softwareTypes": [
+      "web-app"
+    ],
+    "publishDate": "2025-07-14T20:37:00.317Z",
+    "heroImage": "",
+    "toolUrl": "https://coolors.co"
+  },
+  {
+    "id": "freelogodesign",
+    "slug": "freelogodesign",
+    "title": "FreeLogoDesign",
+    "description": "Free logo maker with customizable templates and design tools",
+    "author": "Waleed Sadek",
+    "username": "waleed",
+    "categories": [
+      "Create & Build",
+      "Get & Keep Customers"
+    ],
+    "tags": [
+      "logo-maker",
+      "free-design",
+      "branding",
+      "templates",
+      "business-identity"
+    ],
+    "pricing": {
+      "model": "freemium"
+    },
+    "softwareTypes": [
+      "web-app"
+    ],
+    "publishDate": "2025-07-14T20:37:00.317Z",
+    "heroImage": "",
+    "toolUrl": "https://www.freelogodesign.org"
+  },
+  {
+    "id": "cabin",
+    "slug": "cabin",
+    "title": "Cabin",
+    "description": "Privacy-focused web analytics alternative to Google Analytics",
+    "author": "Waleed Sadek",
+    "username": "waleed",
+    "categories": [
+      "Understand & Improve",
+      "Run Business"
+    ],
+    "tags": [
+      "web-analytics",
+      "privacy",
+      "google-analytics",
+      "website-tracking",
+      "data-analysis"
+    ],
+    "pricing": {
+      "model": "subscription"
+    },
+    "softwareTypes": [
+      "web-app"
+    ],
+    "publishDate": "2025-07-14T20:37:00.317Z",
+    "heroImage": "",
+    "toolUrl": "https://withcabin.com"
+  },
+  {
     "id": "visily",
     "slug": "visily",
     "title": "Visily",
