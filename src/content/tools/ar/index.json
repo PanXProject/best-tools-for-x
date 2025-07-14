@@ -1,6 +1,154 @@
 {
   "tools": [
   {
+    "id": "wafeq",
+    "slug": "wafeq",
+    "title": "وافق",
+    "title_en": "Wafeq",
+    "description": "برنامج محاسبة وفوترة إلكترونية للشركات الصغيرة والمتوسطة",
+    "author": "وليد صادق",
+    "username": "waleed",
+    "categories": [
+      "إدارة الأعمال",
+      "إدارة الأموال"
+    ],
+    "tags": [
+      "محاسبة",
+      "فوترة-إلكترونية",
+      "ضريبة-القيمة-المضافة",
+      "إدارة-المخزون",
+      "تقارير-مالية"
+    ],
+    "pricing": {
+      "model": "اشتراك"
+    },
+    "softwareTypes": [
+      "تطبيق ويب",
+      "تطبيق سطح المكتب"
+    ],
+    "publishDate": "2025-07-14T20:37:00.317Z",
+    "heroImage": "",
+    "toolUrl": "https://wafeq.com"
+  },
+  {
+    "id": "ana-hsoub",
+    "slug": "ana-hsoub",
+    "title": "أنا",
+    "title_en": "Ana",
+    "description": "برنامج إدارة المشاريع وفرق العمل باللغة العربية",
+    "author": "وليد صادق",
+    "username": "waleed",
+    "categories": [
+      "إدارة الأعمال",
+      "التواصل والتعاون"
+    ],
+    "tags": [
+      "إدارة-المشاريع",
+      "فرق-العمل",
+      "تنظيم-المهام",
+      "تعاون",
+      "عربي"
+    ],
+    "pricing": {
+      "model": "فريميوم"
+    },
+    "softwareTypes": [
+      "تطبيق ويب"
+    ],
+    "publishDate": "2025-07-14T20:36:00.317Z",
+    "heroImage": "",
+    "toolUrl": "https://ana.hsoub.com"
+  },
+  {
+    "id": "yamli",
+    "slug": "yamli",
+    "title": "يملي",
+    "title_en": "Yamli",
+    "description": "لوحة مفاتيح عربية ذكية للكتابة بالعربية بدون كيبورد عربي",
+    "author": "وليد صادق",
+    "username": "waleed",
+    "categories": [
+      "إنشاء و تطوير",
+      "التواصل والتعاون"
+    ],
+    "tags": [
+      "كتابة-عربية",
+      "كيبورد-ذكي",
+      "ترجمة-حروف",
+      "محرر-نصوص",
+      "بحث-عربي"
+    ],
+    "pricing": {
+      "model": "مجاني"
+    },
+    "softwareTypes": [
+      "تطبيق ويب",
+      "برنامج مساعد"
+    ],
+    "publishDate": "2025-07-14T20:35:00.317Z",
+    "heroImage": "",
+    "toolUrl": "https://yamli.com"
+  },
+  {
+    "id": "crowd-analyzer",
+    "slug": "crowd-analyzer",
+    "title": "كراود أنالايزر",
+    "title_en": "Crowd Analyzer",
+    "description": "منصة تحليل وسائل التواصل الاجتماعي والمحتوى العربي",
+    "author": "وليد صادق",
+    "username": "waleed",
+    "categories": [
+      "الفهم والتحسين",
+      "جذب العملاء والاحتفاظ بهم"
+    ],
+    "tags": [
+      "تحليل-وسائل-التواصل",
+      "محتوى-عربي",
+      "تحليلات",
+      "رصد-العلامة-التجارية",
+      "ذكاء-اصطناعي"
+    ],
+    "pricing": {
+      "model": "اشتراك"
+    },
+    "softwareTypes": [
+      "تطبيق ويب"
+    ],
+    "publishDate": "2025-07-14T20:34:00.317Z",
+    "heroImage": "",
+    "toolUrl": "https://www.crowdanalyzer.com"
+  },
+  {
+    "id": "m3aarf",
+    "slug": "m3aarf",
+    "title": "معارف",
+    "title_en": "M3aarf",
+    "description": "منصة تعليمية عربية للكورسات والمهارات المهنية",
+    "author": "وليد صادق",
+    "username": "waleed",
+    "categories": [
+      "الفهم والتحسين",
+      "إدارة الأفراد"
+    ],
+    "tags": [
+      "تعليم-عربي",
+      "كورسات-أونلاين",
+      "تطوير-المهارات",
+      "تدريب-مهني",
+      "شهادات"
+    ],
+    "pricing": {
+      "model": "فريميوم"
+    },
+    "softwareTypes": [
+      "تطبيق ويب",
+      "تطبيق جوال"
+    ],
+    "publishDate": "2025-07-14T20:33:00.317Z",
+    "heroImage": "",
+    "toolUrl": "https://www.m3aarf.com"
+  },
+  {
     "id": "visily",
     "slug": "visily",
     "title": "فيزيلي",
