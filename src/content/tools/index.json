@@ -1,6 +1,34 @@
 {
   "tools": [
   {
+    "id": "pretty-insights",
+    "slug": "pretty-insights",
+    "title": "Pretty Insights",
+    "description": "Beautiful data visualization and analytics dashboard tool",
+    "author": "Waleed Sadek",
+    "username": "waleed",
+    "categories": [
+      "Understand & Improve",
+      "Create & Build"
+    ],
+    "tags": [
+      "analytics",
+      "visualization",
+      "dashboard",
+      "data",
+      "insights"
+    ],
+    "pricing": {
+      "model": "freemium"
+    },
+    "softwareTypes": [
+      "web-app"
+    ],
+    "publishDate": "2025-07-14T20:37:00.317Z",
+    "heroImage": "",
+    "toolUrl": "https://prettyinsights.com"
+  },
+  {
     "id": "joinotto",
     "slug": "joinotto",
     "title": "Otto",
