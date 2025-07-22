@@ -86,34 +86,6 @@
     "toolUrl": "https://www.heygen.com"
   },
   {
-    "id": "framer",
-    "slug": "framer",
-    "title": "Framer",
-    "description": "Design and publish websites with interactive prototypes",
-    "author": "Waleed Sadek",
-    "username": "waleed",
-    "categories": [
-      "Create & Build",
-      "Get & Keep Customers"
-    ],
-    "tags": [
-      "design",
-      "website-builder",
-      "prototyping",
-      "interactive",
-      "responsive"
-    ],
-    "pricing": {
-      "model": "freemium"
-    },
-    "softwareTypes": [
-      "web-app"
-    ],
-    "publishDate": "2025-07-22T20:34:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://framer.com"
-  },
-  {
     "id": "scribehow",
     "slug": "scribehow",
     "title": "Scribe",
