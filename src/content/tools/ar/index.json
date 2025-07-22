@@ -1,6 +1,124 @@
 {
   "tools": [
   {
+    "id": "magicform-app",
+    "slug": "magicform-app",
+    "title": "ماجيك فورم",
+    "title_en": "MagicForm",
+    "description": "إنشاء اختبارات بالذكاء الاصطناعي من أي محتوى في ثواني",
+    "author": "وليد صادق",
+    "username": "waleed",
+    "categories": [
+      "إنشاء و تطوير",
+      "الفهم والتحسين"
+    ],
+    "tags": [
+      "ذكاء-اصطناعي",
+      "اختبارات",
+      "تعليم",
+      "نماذج",
+      "مولد"
+    ],
+    "pricing": {
+      "model": "فريميوم"
+    },
+    "softwareTypes": [
+      "تطبيق ويب",
+      "برنامج مساعد"
+    ],
+    "publishDate": "2025-07-22T20:36:00.317Z",
+    "heroImage": "",
+    "toolUrl": "https://www.magicform.app"
+  },
+  {
+    "id": "heygen",
+    "slug": "heygen", 
+    "title": "هاي جين",
+    "title_en": "HeyGen",
+    "description": "مولد فيديو بالذكاء الاصطناعي مع شخصيات واقعية وتقليد الصوت",
+    "author": "وليد صادق",
+    "username": "waleed",
+    "categories": [
+      "إنشاء و تطوير",
+      "جذب العملاء والاحتفاظ بهم"
+    ],
+    "tags": [
+      "ذكاء-اصطناعي",
+      "فيديو",
+      "شخصيات",
+      "تقليد-الصوت",
+      "تسويق"
+    ],
+    "pricing": {
+      "model": "فريميوم"
+    },
+    "softwareTypes": [
+      "تطبيق ويب"
+    ],
+    "publishDate": "2025-07-22T20:35:00.317Z",
+    "heroImage": "",
+    "toolUrl": "https://www.heygen.com"
+  },
+  {
+    "id": "sawt-sa",
+    "slug": "sawt-sa",
+    "title": "صوت",
+    "title_en": "Sawt",
+    "description": "منصة عربية للمحتوى الصوتي والبودكاست",
+    "author": "وليد صادق",
+    "username": "waleed",
+    "categories": [
+      "إنشاء و تطوير",
+      "التواصل والتعاون"
+    ],
+    "tags": [
+      "بودكاست",
+      "صوتي",
+      "عربي",
+      "محتوى",
+      "إذاعة"
+    ],
+    "pricing": {
+      "model": "مجاني"
+    },
+    "softwareTypes": [
+      "تطبيق ويب",
+      "تطبيق جوال"
+    ],
+    "publishDate": "2025-07-22T20:33:00.317Z",
+    "heroImage": "",
+    "toolUrl": "https://www.sawt.sa"
+  },
+  {
+    "id": "passioneurs",
+    "slug": "passioneurs",
+    "title": "باسيونيرز",
+    "title_en": "Passioneurs",
+    "description": "منصة عربية لريادة الأعمال والمحتوى التقني",
+    "author": "وليد صادق",
+    "username": "waleed",
+    "categories": [
+      "الفهم والتحسين",
+      "إدارة الأعمال"
+    ],
+    "tags": [
+      "ريادة-أعمال",
+      "تقنية",
+      "عربي",
+      "محتوى",
+      "تعليم"
+    ],
+    "pricing": {
+      "model": "مجاني"
+    },
+    "softwareTypes": [
+      "تطبيق ويب"
+    ],
+    "publishDate": "2025-07-22T20:32:00.317Z",
+    "heroImage": "",
+    "toolUrl": "https://www.passioneurs.net/ar"
+  },
+  {
     "id": "wafeq",
     "slug": "wafeq",
     "title": "وافق",
