@@ -1,6 +1,148 @@
 {
   "tools": [
   {
+    "id": "super-so",
+    "slug": "super-so",
+    "title": "Super",
+    "description": "Turn Notion pages into beautiful websites with no-code",
+    "author": "Waleed Sadek",
+    "username": "waleed",
+    "categories": [
+      "Create & Build",
+      "Get & Keep Customers"
+    ],
+    "tags": [
+      "notion",
+      "website-builder",
+      "no-code",
+      "cms",
+      "landing-page"
+    ],
+    "pricing": {
+      "model": "freemium"
+    },
+    "softwareTypes": [
+      "web-app"
+    ],
+    "publishDate": "2025-07-22T20:37:00.317Z",
+    "heroImage": "",
+    "toolUrl": "https://super.so"
+  },
+  {
+    "id": "magicform-app",
+    "slug": "magicform-app",
+    "title": "MagicForm",
+    "description": "Create AI-powered quizzes from any content in seconds",
+    "author": "Waleed Sadek",
+    "username": "waleed",
+    "categories": [
+      "Create & Build",
+      "Understand & Improve"
+    ],
+    "tags": [
+      "ai",
+      "quiz",
+      "education",
+      "forms",
+      "generator"
+    ],
+    "pricing": {
+      "model": "freemium"
+    },
+    "softwareTypes": [
+      "web-app",
+      "extension"
+    ],
+    "publishDate": "2025-07-22T20:36:00.317Z",
+    "heroImage": "",
+    "toolUrl": "https://www.magicform.app"
+  },
+  {
+    "id": "heygen",
+    "slug": "heygen",
+    "title": "HeyGen",
+    "description": "AI video generator with realistic avatars and voice cloning",
+    "author": "Waleed Sadek",
+    "username": "waleed",
+    "categories": [
+      "Create & Build",
+      "Get & Keep Customers"
+    ],
+    "tags": [
+      "ai",
+      "video",
+      "avatar",
+      "voice-cloning",
+      "marketing"
+    ],
+    "pricing": {
+      "model": "freemium"
+    },
+    "softwareTypes": [
+      "web-app"
+    ],
+    "publishDate": "2025-07-22T20:35:00.317Z",
+    "heroImage": "",
+    "toolUrl": "https://www.heygen.com"
+  },
+  {
+    "id": "framer",
+    "slug": "framer",
+    "title": "Framer",
+    "description": "Design and publish websites with interactive prototypes",
+    "author": "Waleed Sadek",
+    "username": "waleed",
+    "categories": [
+      "Create & Build",
+      "Get & Keep Customers"
+    ],
+    "tags": [
+      "design",
+      "website-builder",
+      "prototyping",
+      "interactive",
+      "responsive"
+    ],
+    "pricing": {
+      "model": "freemium"
+    },
+    "softwareTypes": [
+      "web-app"
+    ],
+    "publishDate": "2025-07-22T20:34:00.317Z",
+    "heroImage": "",
+    "toolUrl": "https://framer.com"
+  },
+  {
+    "id": "scribehow",
+    "slug": "scribehow",
+    "title": "Scribe",
+    "description": "Auto-generate step-by-step guides and documentation",
+    "author": "Waleed Sadek",
+    "username": "waleed",
+    "categories": [
+      "Connect & Collaborate",
+      "Run Business"
+    ],
+    "tags": [
+      "documentation",
+      "guides",
+      "automation",
+      "training",
+      "processes"
+    ],
+    "pricing": {
+      "model": "freemium"
+    },
+    "softwareTypes": [
+      "web-app",
+      "extension"
+    ],
+    "publishDate": "2025-07-22T20:33:00.317Z",
+    "heroImage": "",
+    "toolUrl": "https://scribehow.com"
+  },
+  {
     "id": "pretty-insights",
     "slug": "pretty-insights",
     "title": "Pretty Insights",
