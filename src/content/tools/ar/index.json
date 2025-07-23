@@ -1,711 +1,736 @@
 {
   "tools": [
-  {
-    "id": "magicform-app",
-    "slug": "magicform-app",
-    "title": "ماجيك فورم",
-    "title_en": "MagicForm",
-    "description": "إنشاء اختبارات بالذكاء الاصطناعي من أي محتوى في ثواني",
-    "author": "وليد صادق",
-    "username": "waleed",
-    "categories": [
-      "إنشاء و تطوير",
-      "الفهم والتحسين"
-    ],
-    "tags": [
-      "ذكاء-اصطناعي",
-      "اختبارات",
-      "تعليم",
-      "نماذج",
-      "مولد"
-    ],
-    "pricing": {
-      "model": "فريميوم"
-    },
-    "softwareTypes": [
-      "تطبيق ويب",
-      "برنامج مساعد"
-    ],
-    "publishDate": "2025-07-22T20:36:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://www.magicform.app"
-  },
-  {
-    "id": "heygen",
-    "slug": "heygen", 
-    "title": "هاي جين",
-    "title_en": "HeyGen",
-    "description": "مولد فيديو بالذكاء الاصطناعي مع شخصيات واقعية وتقليد الصوت",
-    "author": "وليد صادق",
-    "username": "waleed",
-    "categories": [
-      "إنشاء و تطوير",
-      "جذب العملاء والاحتفاظ بهم"
-    ],
-    "tags": [
-      "ذكاء-اصطناعي",
-      "فيديو",
-      "شخصيات",
-      "تقليد-الصوت",
-      "تسويق"
-    ],
-    "pricing": {
-      "model": "فريميوم"
-    },
-    "softwareTypes": [
-      "تطبيق ويب"
-    ],
-    "publishDate": "2025-07-22T20:35:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://www.heygen.com"
-  },
-  {
-    "id": "sawt-sa",
-    "slug": "sawt-sa",
-    "title": "صوت",
-    "title_en": "Sawt",
-    "description": "منصة عربية للمحتوى الصوتي والبودكاست",
-    "author": "وليد صادق",
-    "username": "waleed",
-    "categories": [
-      "إنشاء و تطوير",
-      "التواصل والتعاون"
-    ],
-    "tags": [
-      "بودكاست",
-      "صوتي",
-      "عربي",
-      "محتوى",
-      "إذاعة"
-    ],
-    "pricing": {
-      "model": "مجاني"
-    },
-    "softwareTypes": [
-      "تطبيق ويب",
-      "تطبيق جوال"
-    ],
-    "publishDate": "2025-07-22T20:33:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://www.sawt.sa"
-  },
-  {
-    "id": "passioneurs",
-    "slug": "passioneurs",
-    "title": "باسيونيرز",
-    "title_en": "Passioneurs",
-    "description": "منصة عربية لريادة الأعمال والمحتوى التقني",
-    "author": "وليد صادق",
-    "username": "waleed",
-    "categories": [
-      "الفهم والتحسين",
-      "إدارة الأعمال"
-    ],
-    "tags": [
-      "ريادة-أعمال",
-      "تقنية",
-      "عربي",
-      "محتوى",
-      "تعليم"
-    ],
-    "pricing": {
-      "model": "مجاني"
-    },
-    "softwareTypes": [
-      "تطبيق ويب"
-    ],
-    "publishDate": "2025-07-22T20:32:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://www.passioneurs.net/ar"
-  },
-  {
-    "id": "wafeq",
-    "slug": "wafeq",
-    "title": "وافق",
-    "title_en": "Wafeq",
-    "description": "برنامج محاسبة وفوترة إلكترونية للشركات الصغيرة والمتوسطة",
-    "author": "وليد صادق",
-    "username": "waleed",
-    "categories": [
-      "إدارة الأعمال",
-      "إدارة الأموال"
-    ],
-    "tags": [
-      "محاسبة",
-      "فوترة-إلكترونية",
-      "ضريبة-القيمة-المضافة",
-      "إدارة-المخزون",
-      "تقارير-مالية"
-    ],
-    "pricing": {
-      "model": "اشتراك"
-    },
-    "softwareTypes": [
-      "تطبيق ويب",
-      "تطبيق سطح المكتب"
-    ],
-    "publishDate": "2025-07-14T20:37:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://wafeq.com"
-  },
-  {
-    "id": "ana-hsoub",
-    "slug": "ana-hsoub",
-    "title": "أنا",
-    "title_en": "Ana",
-    "description": "برنامج إدارة المشاريع وفرق العمل باللغة العربية",
-    "author": "وليد صادق",
-    "username": "waleed",
-    "categories": [
-      "إدارة الأعمال",
-      "التواصل والتعاون"
-    ],
-    "tags": [
-      "إدارة-المشاريع",
-      "فرق-العمل",
-      "تنظيم-المهام",
-      "تعاون",
-      "عربي"
-    ],
-    "pricing": {
-      "model": "فريميوم"
-    },
-    "softwareTypes": [
-      "تطبيق ويب"
-    ],
-    "publishDate": "2025-07-14T20:36:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://ana.hsoub.com"
-  },
-  {
-    "id": "yamli",
-    "slug": "yamli",
-    "title": "يملي",
-    "title_en": "Yamli",
-    "description": "لوحة مفاتيح عربية ذكية للكتابة بالعربية بدون كيبورد عربي",
-    "author": "وليد صادق",
-    "username": "waleed",
-    "categories": [
-      "إنشاء و تطوير",
-      "التواصل والتعاون"
-    ],
-    "tags": [
-      "كتابة-عربية",
-      "كيبورد-ذكي",
-      "ترجمة-حروف",
-      "محرر-نصوص",
-      "بحث-عربي"
-    ],
-    "pricing": {
-      "model": "مجاني"
-    },
-    "softwareTypes": [
-      "تطبيق ويب",
-      "برنامج مساعد"
-    ],
-    "publishDate": "2025-07-14T20:35:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://yamli.com"
-  },
-  {
-    "id": "crowd-analyzer",
-    "slug": "crowd-analyzer",
-    "title": "كراود أنالايزر",
-    "title_en": "Crowd Analyzer",
-    "description": "منصة تحليل وسائل التواصل الاجتماعي والمحتوى العربي",
-    "author": "وليد صادق",
-    "username": "waleed",
-    "categories": [
-      "الفهم والتحسين",
-      "جذب العملاء والاحتفاظ بهم"
-    ],
-    "tags": [
-      "تحليل-وسائل-التواصل",
-      "محتوى-عربي",
-      "تحليلات",
-      "رصد-العلامة-التجارية",
-      "ذكاء-اصطناعي"
-    ],
-    "pricing": {
-      "model": "اشتراك"
-    },
-    "softwareTypes": [
-      "تطبيق ويب"
-    ],
-    "publishDate": "2025-07-14T20:34:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://www.crowdanalyzer.com"
-  },
-  {
-    "id": "m3aarf",
-    "slug": "m3aarf",
-    "title": "معارف",
-    "title_en": "M3aarf",
-    "description": "منصة تعليمية عربية للكورسات والمهارات المهنية",
-    "author": "وليد صادق",
-    "username": "waleed",
-    "categories": [
-      "الفهم والتحسين",
-      "إدارة الأفراد"
-    ],
-    "tags": [
-      "تعليم-عربي",
-      "كورسات-أونلاين",
-      "تطوير-المهارات",
-      "تدريب-مهني",
-      "شهادات"
-    ],
-    "pricing": {
-      "model": "فريميوم"
-    },
-    "softwareTypes": [
-      "تطبيق ويب",
-      "تطبيق جوال"
-    ],
-    "publishDate": "2025-07-14T20:33:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://www.m3aarf.com"
-  },
-  {
-    "id": "visily",
-    "slug": "visily",
-    "title": "فيزيلي",
-    "title_en": "Visily",
-    "description": "أداة تصميم واجهات مدعومة بالذكاء الاصطناعي لإنشاء النماذج الأولية",
-    "author": "وليد صادق",
-    "username": "waleed",
-    "categories": [
-      "إنشاء و تطوير",
-      "إدارة الأعمال"
-    ],
-    "tags": [
-      "تصميم-واجهات",
-      "نماذج-أولية",
-      "ذكي-اصطناعي",
-      "أداة-تصميم",
-      "واجهات-مستخدم"
-    ],
-    "pricing": {
-      "model": "فريميوم"
-    },
-    "softwareTypes": [
-      "تطبيق ويب"
-    ],
-    "publishDate": "2025-07-08T20:37:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://www.visily.ai"
-  },
-  {
-    "id": "poindeo",
-    "slug": "poindeo",
-    "title": "بوينديو",
-    "title_en": "Poindeo",
-    "description": "محرر فيديو عبر الإنترنت لإنشاء عروض المنتجات والشروحات",
-    "author": "وليد صادق",
-    "username": "waleed",
-    "categories": [
-      "إنشاء و تطوير",
-      "جذب العملاء والاحتفاظ بهم"
-    ],
-    "tags": [
-      "تحرير-فيديو",
-      "عروض-منتجات",
-      "شروحات",
-      "تأثيرات-تكبير",
-      "وسائل-اجتماعية"
-    ],
-    "pricing": {
-      "model": "فريميوم"
-    },
-    "softwareTypes": [
-      "تطبيق ويب"
-    ],
-    "publishDate": "2025-07-08T20:37:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://poindeo.com"
-  },
-  {
-    "id": "kittl",
-    "slug": "kittl",
-    "title": "كيتل",
-    "title_en": "Kittl",
-    "description": "منصة تصميم تعاونية مع أدوات ذكاء اصطناعي للجرافيك والشعارات",
-    "author": "وليد صادق",
-    "username": "waleed",
-    "categories": [
-      "إنشاء و تطوير",
-      "جذب العملاء والاحتفاظ بهم"
-    ],
-    "tags": [
-      "تصميم-جرافيكي",
-      "صانع-شعارات",
-      "ذكاء-اصطناعي",
-      "قوالب",
-      "تعاون"
-    ],
-    "pricing": {
-      "model": "فريميوم"
-    },
-    "softwareTypes": [
-      "تطبيق ويب"
-    ],
-    "publishDate": "2025-07-08T20:37:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://www.kittl.com"
-  },
-  {
-    "id": "coolors",
-    "slug": "coolors",
-    "title": "كولورز",
-    "title_en": "Coolors",
-    "description": "مولد لوحات الألوان وأداة تصميم لإنشاء أنظمة الألوان",
-    "author": "وليد صادق",
-    "username": "waleed",
-    "categories": [
-      "إنشاء و تطوير"
-    ],
-    "tags": [
-      "لوحة-ألوان",
-      "أداة-تصميم",
-      "أنظمة-ألوان",
-      "مولد",
-      "هوية-تجارية"
-    ],
-    "pricing": {
-      "model": "فريميوم"
-    },
-    "softwareTypes": [
-      "تطبيق ويب"
-    ],
-    "publishDate": "2025-07-08T20:37:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://coolors.co"
-  },
-  {
-    "id": "freelogodesign",
-    "slug": "freelogodesign",
-    "title": "فري لوجو ديزاين",
-    "title_en": "FreeLogoDesign",
-    "description": "صانع شعارات مجاني مع قوالب قابلة للتخصيص وأدوات تصميم",
-    "author": "وليد صادق",
-    "username": "waleed",
-    "categories": [
-      "إنشاء و تطوير",
-      "جذب العملاء والاحتفاظ بهم"
-    ],
-    "tags": [
-      "صانع-شعارات",
-      "تصميم-مجاني",
-      "هوية-تجارية",
-      "قوالب",
-      "هوية-عمل"
-    ],
-    "pricing": {
-      "model": "فريميوم"
-    },
-    "softwareTypes": [
-      "تطبيق ويب"
-    ],
-    "publishDate": "2025-07-08T20:37:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://www.freelogodesign.org"
-  },
     {
-    "id": "arabygpt",
-    "slug": "arabygpt",
-    "title": "عربي جي بي تي",
-    "title_en": "ArabyGPT",
-    "description": "منصة ذكاء اصطناعي لتوليد وفهم المحتوى العربي.",
-    "author": "وليد صادق",
-    "username": "waleed",
-    "categories": [
-      "إنشاء و تطوير",
-      "الفهم والتحسين"
-    ],
-    "tags": [
-      "ذكاء-اصطناعي",
-      "عربي",
-      "توليد-محتوى",
-      "لغة",
-      "كتابة"
-    ],
-    "pricing": {
-      "model": "مجاني"
+      "id": "mortakaz",
+      "slug": "mortakaz",
+      "title": "منصة مرتكز",
+      "title_en": "Mortakaz",
+      "description": "لكل فكرة بداية، ولكل بداية مرتكز",
+      "author": "رامي أحمد",
+      "username": "ramyahm",
+      "categories": [
+        "إدارة الأعمال",
+        "التواصل والتعاون"
+      ],
+      "tags": [
+        "مشروعات-ناشئة",
+        "تطبيقات-برمجية"
+      ],
+      "pricing": {
+        "model": "مجاني"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-07-23T23:44:17.531Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1753314123/v40nqmryrcxe6768r6nm.png",
+      "toolUrl": "https://mortakaz.com/"
     },
-    "softwareTypes": [
-      "تطبيق ويب"
-    ],
-    "publishDate": "2025-06-18T00:00:00.000Z",
-    "heroImage": "",
-    "toolUrl": "https://www.arabygpt.araby.ai"
-  },
-  {
-    "id": "namozaj",
-    "slug": "namozaj",
-    "title": "نموذج",
-    "title_en": "Namozaj",
-    "description": "مكتبة قوالب أعمال وقانونية عربية/إنجليزية.",
-    "author": "وليد صادق",
-    "username": "waleed",
-    "categories": [
-      "إدارة الأعمال",
-      "إنشاء و تطوير"
-    ],
-    "tags": [
-      "قوالب",
-      "قانوني",
-      "أعمال",
-      "مستندات",
-      "عربي"
-    ],
-    "pricing": {
-      "model": "اشتراك"
+    {
+      "id": "magicform-app",
+      "slug": "magicform-app",
+      "title": "ماجيك فورم",
+      "title_en": "MagicForm",
+      "description": "إنشاء اختبارات بالذكاء الاصطناعي من أي محتوى في ثواني",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير",
+        "الفهم والتحسين"
+      ],
+      "tags": [
+        "ذكاء-اصطناعي",
+        "اختبارات",
+        "تعليم",
+        "نماذج",
+        "مولد"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب",
+        "برنامج مساعد"
+      ],
+      "publishDate": "2025-07-22T20:36:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://www.magicform.app"
     },
-    "softwareTypes": [
-      "تطبيق ويب"
-    ],
-    "publishDate": "2025-06-18T00:00:00.000Z",
-    "heroImage": "",
-    "toolUrl": "https://www.namozaj.com"
-  },
-  {
-    "id": "lisan",
-    "slug": "lisan",
-    "title": "لسان",
-    "title_en": "Lisan",
-    "description": "مساعد تدقيق وكتابة عربي مدعوم بالذكاء الاصطناعي.",
-    "author": "وليد صادق",
-    "username": "waleed",
-    "categories": [
-      "إنشاء و تطوير",
-      "الفهم والتحسين"
-    ],
-    "tags": [
-      "ذكاء-اصطناعي",
-      "تدقيق",
-      "كتابة",
-      "عربي",
-      "قواعد"
-    ],
-    "pricing": {
-      "model": "فريميوم"
+    {
+      "id": "heygen",
+      "slug": "heygen",
+      "title": "هاي جين",
+      "title_en": "HeyGen",
+      "description": "مولد فيديو بالذكاء الاصطناعي مع شخصيات واقعية وتقليد الصوت",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير",
+        "جذب العملاء والاحتفاظ بهم"
+      ],
+      "tags": [
+        "ذكاء-اصطناعي",
+        "فيديو",
+        "شخصيات",
+        "تقليد-الصوت",
+        "تسويق"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-07-22T20:35:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://www.heygen.com"
     },
-    "softwareTypes": [
-      "تطبيق ويب",
-      "برنامج مساعد"
-    ],
-    "publishDate": "2025-06-18T00:00:00.000Z",
-    "heroImage": "",
-    "toolUrl": "https://www.lisan.com"
-  },
-  {
-    "id": "tarjama",
-    "slug": "tarjama",
-    "title": "ترجمة",
-    "title_en": "Tarjama",
-    "description": "منصة ترجمة آلية للغة العربية والإنجليزية.",
-    "author": "وليد صادق",
-    "username": "waleed",
-    "categories": [
-      "التواصل والتعاون",
-      "الفهم والتحسين"
-    ],
-    "tags": [
-      "ترجمة",
-      "عربي",
-      "ذكاء-اصطناعي",
-      "مستندات",
-      "لغة"
-    ],
-    "pricing": {
-      "model": "تجربة مجانية"
+    {
+      "id": "sawt-sa",
+      "slug": "sawt-sa",
+      "title": "صوت",
+      "title_en": "Sawt",
+      "description": "منصة عربية للمحتوى الصوتي والبودكاست",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير",
+        "التواصل والتعاون"
+      ],
+      "tags": [
+        "بودكاست",
+        "صوتي",
+        "عربي",
+        "محتوى",
+        "إذاعة"
+      ],
+      "pricing": {
+        "model": "مجاني"
+      },
+      "softwareTypes": [
+        "تطبيق ويب",
+        "تطبيق جوال"
+      ],
+      "publishDate": "2025-07-22T20:33:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://www.sawt.sa"
     },
-    "softwareTypes": [
-      "تطبيق ويب"
-    ],
-    "publishDate": "2025-06-18T00:00:00.000Z",
-    "heroImage": "",
-    "toolUrl": "https://translate.tarjama.com"
-  },
-  {
-    "id": "qalam",
-    "slug": "qalam",
-    "title": "قلم",
-    "title_en": "Qalam",
-    "description": "ذكاء اصطناعي توليدي لإنشاء المحتوى العربي والمساعدة في الكتابة.",
-    "author": "وليد صادق",
-    "username": "waleed",
-    "categories": [
-      "إنشاء و تطوير",
-      "الفهم والتحسين"
-    ],
-    "tags": [
-      "ذكاء-اصطناعي",
-      "كتابة",
-      "عربي",
-      "محتوى",
-      "ذكاء-اصطناعي-توليدي"
-    ],
-    "pricing": {
-      "model": "فريميوم"
+    {
+      "id": "passioneurs",
+      "slug": "passioneurs",
+      "title": "باسيونيرز",
+      "title_en": "Passioneurs",
+      "description": "منصة عربية لريادة الأعمال والمحتوى التقني",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "الفهم والتحسين",
+        "إدارة الأعمال"
+      ],
+      "tags": [
+        "ريادة-أعمال",
+        "تقنية",
+        "عربي",
+        "محتوى",
+        "تعليم"
+      ],
+      "pricing": {
+        "model": "مجاني"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-07-22T20:32:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://www.passioneurs.net/ar"
     },
-    "softwareTypes": [
-      "تطبيق ويب"
-    ],
-    "publishDate": "2025-06-18T00:00:00.000Z",
-    "heroImage": "",
-    "toolUrl": "https://qalam.ai"
-  }
-  ,
-  {
-    "id": "monicahq",
-    "slug": "monicahq",
-    "title": "مونيكا إتش كيو",
-    "title_en": "MonicaHQ",
-    "description": "نظام إدارة علاقات شخصية مفتوح المصدر لتنظيم تفاعلاتك الاجتماعية",
-    "author": "وليد صادق",
-    "username": "waleed",
-    "categories": [
-      "جذب العملاء والاحتفاظ بهم",
-      "إدارة الأعمال"
-    ],
-    "tags": [
-      "إدارة-علاقات-العملاء",
-      "شخصي",
-      "مفتوح-المصدر",
-      "إدارة-العلاقات",
-      "إدارة-جهات-الاتصال"
-    ],
-    "pricing": {
-      "model": "مجاني"
+    {
+      "id": "wafeq",
+      "slug": "wafeq",
+      "title": "وافق",
+      "title_en": "Wafeq",
+      "description": "برنامج محاسبة وفوترة إلكترونية للشركات الصغيرة والمتوسطة",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إدارة الأعمال",
+        "إدارة الأموال"
+      ],
+      "tags": [
+        "محاسبة",
+        "فوترة-إلكترونية",
+        "ضريبة-القيمة-المضافة",
+        "إدارة-المخزون",
+        "تقارير-مالية"
+      ],
+      "pricing": {
+        "model": "اشتراك"
+      },
+      "softwareTypes": [
+        "تطبيق ويب",
+        "تطبيق سطح المكتب"
+      ],
+      "publishDate": "2025-07-14T20:37:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://wafeq.com"
     },
-    "softwareTypes": [
-      "مستضاف ذاتيًا",
-      "تطبيق ويب"
-    ],
-    "publishDate": "2025-06-11T00:00:00.000Z",
-    "heroImage": "",
-    "toolUrl": "https://www.monicahq.com"
-  },
-  {
-    "id": "bagisto",
-    "slug": "bagisto",
-    "title": "باجيستو",
-    "title_en": "Bagisto",
-    "description": "منصة تجارة إلكترونية مفتوحة المصدر مبنية على Laravel",
-    "author": "وليد صادق",
-    "username": "waleed",
-    "categories": [
-      "إدارة الأعمال",
-      "إنشاء و تطوير"
-    ],
-    "tags": [
-      "تجارة-إلكترونية",
-      "Laravel",
-      "مفتوح-المصدر",
-      "عربة-تسوق",
-      "متجر-إلكتروني"
-    ],
-    "pricing": {
-      "model": "مجاني"
+    {
+      "id": "ana-hsoub",
+      "slug": "ana-hsoub",
+      "title": "أنا",
+      "title_en": "Ana",
+      "description": "برنامج إدارة المشاريع وفرق العمل باللغة العربية",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إدارة الأعمال",
+        "التواصل والتعاون"
+      ],
+      "tags": [
+        "إدارة-المشاريع",
+        "فرق-العمل",
+        "تنظيم-المهام",
+        "تعاون",
+        "عربي"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-07-14T20:36:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://ana.hsoub.com"
     },
-    "softwareTypes": [
-      "مستضاف ذاتيًا",
-      "تطبيق ويب"
-    ],
-    "publishDate": "2025-06-11T00:00:00.000Z",
-    "heroImage": "",
-    "toolUrl": "https://bagisto.com/en/"
-  },
-  {
-    "id": "krayincrm",
-    "slug": "krayincrm",
-    "title": "كرايين سي آر إم",
-    "title_en": "KrayinCRM",
-    "description": "حل CRM مفتوح المصدر لإدارة علاقات العملاء",
-    "author": "وليد صادق",
-    "username": "waleed",
-    "categories": [
-      "جذب العملاء والاحتفاظ بهم",
-      "إدارة الأعمال"
-    ],
-    "tags": [
-      "إدارة-علاقات-العملاء",
-      "إدارة-العملاء",
-      "مفتوح-المصدر",
-      "مبيعات",
-      "تسويق"
-    ],
-    "pricing": {
-      "model": "مجاني"
+    {
+      "id": "yamli",
+      "slug": "yamli",
+      "title": "يملي",
+      "title_en": "Yamli",
+      "description": "لوحة مفاتيح عربية ذكية للكتابة بالعربية بدون كيبورد عربي",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير",
+        "التواصل والتعاون"
+      ],
+      "tags": [
+        "كتابة-عربية",
+        "كيبورد-ذكي",
+        "ترجمة-حروف",
+        "محرر-نصوص",
+        "بحث-عربي"
+      ],
+      "pricing": {
+        "model": "مجاني"
+      },
+      "softwareTypes": [
+        "تطبيق ويب",
+        "برنامج مساعد"
+      ],
+      "publishDate": "2025-07-14T20:35:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://yamli.com"
     },
-    "softwareTypes": [
-      "مستضاف ذاتيًا",
-      "تطبيق ويب"
-    ],
-    "publishDate": "2025-06-11T00:00:00.000Z",
-    "heroImage": "",
-    "toolUrl": "https://krayincrm.com"
-  },
-  {
-    "id": "aureuserp",
-    "slug": "aureuserp",
-    "title": "أوريوس إي آر بي",
-    "title_en": "AureusERP",
-    "description": "منصة تخطيط موارد المؤسسات مجانية ومفتوحة المصدر للشركات",
-    "author": "وليد صادق",
-    "username": "waleed",
-    "categories": [
-      "إدارة الأعمال",
-      "إدارة الأموال"
-    ],
-    "tags": [
-      "تخطيط-موارد-المؤسسات",
-      "مفتوح-المصدر",
-      "إدارة-الأعمال",
-      "محاسبة",
-      "مخزون"
-    ],
-    "pricing": {
-      "model": "مجاني"
+    {
+      "id": "crowd-analyzer",
+      "slug": "crowd-analyzer",
+      "title": "كراود أنالايزر",
+      "title_en": "Crowd Analyzer",
+      "description": "منصة تحليل وسائل التواصل الاجتماعي والمحتوى العربي",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "الفهم والتحسين",
+        "جذب العملاء والاحتفاظ بهم"
+      ],
+      "tags": [
+        "تحليل-وسائل-التواصل",
+        "محتوى-عربي",
+        "تحليلات",
+        "رصد-العلامة-التجارية",
+        "ذكاء-اصطناعي"
+      ],
+      "pricing": {
+        "model": "اشتراك"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-07-14T20:34:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://www.crowdanalyzer.com"
     },
-    "softwareTypes": [
-      "مستضاف ذاتيًا",
-      "تطبيق ويب"
-    ],
-    "publishDate": "2025-06-11T00:00:00.000Z",
-    "heroImage": "",
-    "toolUrl": "https://aureuserp.com"
-  },
-  {
-    "id": "uvdesk",
-    "slug": "uvdesk",
-    "title": "يو في ديسك",
-    "title_en": "UVdesk",
-    "description": "نظام مكتب مساعدة وتذاكر مفتوح المصدر لدعم العملاء",
-    "author": "وليد صادق",
-    "username": "waleed",
-    "categories": [
-      "جذب العملاء والاحتفاظ بهم",
-      "التواصل والتعاون"
-    ],
-    "tags": [
-      "مكتب-مساعدة",
-      "تذاكر",
-      "دعم-العملاء",
-      "مفتوح-المصدر",
-      "إدارة-علاقات-العملاء"
-    ],
-    "pricing": {
-      "model": "فريميوم"
+    {
+      "id": "m3aarf",
+      "slug": "m3aarf",
+      "title": "معارف",
+      "title_en": "M3aarf",
+      "description": "منصة تعليمية عربية للكورسات والمهارات المهنية",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "الفهم والتحسين",
+        "إدارة الأفراد"
+      ],
+      "tags": [
+        "تعليم-عربي",
+        "كورسات-أونلاين",
+        "تطوير-المهارات",
+        "تدريب-مهني",
+        "شهادات"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب",
+        "تطبيق جوال"
+      ],
+      "publishDate": "2025-07-14T20:33:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://www.m3aarf.com"
     },
-    "softwareTypes": [
-      "تطبيق ويب"
-    ],
-    "publishDate": "2025-06-11T00:00:00.000Z",
-    "heroImage": "",
-    "toolUrl": "https://www.uvdesk.com/en/"
-  },
+    {
+      "id": "visily",
+      "slug": "visily",
+      "title": "فيزيلي",
+      "title_en": "Visily",
+      "description": "أداة تصميم واجهات مدعومة بالذكاء الاصطناعي لإنشاء النماذج الأولية",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير",
+        "إدارة الأعمال"
+      ],
+      "tags": [
+        "تصميم-واجهات",
+        "نماذج-أولية",
+        "ذكي-اصطناعي",
+        "أداة-تصميم",
+        "واجهات-مستخدم"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-07-08T20:37:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://www.visily.ai"
+    },
+    {
+      "id": "poindeo",
+      "slug": "poindeo",
+      "title": "بوينديو",
+      "title_en": "Poindeo",
+      "description": "محرر فيديو عبر الإنترنت لإنشاء عروض المنتجات والشروحات",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير",
+        "جذب العملاء والاحتفاظ بهم"
+      ],
+      "tags": [
+        "تحرير-فيديو",
+        "عروض-منتجات",
+        "شروحات",
+        "تأثيرات-تكبير",
+        "وسائل-اجتماعية"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-07-08T20:37:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://poindeo.com"
+    },
+    {
+      "id": "kittl",
+      "slug": "kittl",
+      "title": "كيتل",
+      "title_en": "Kittl",
+      "description": "منصة تصميم تعاونية مع أدوات ذكاء اصطناعي للجرافيك والشعارات",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير",
+        "جذب العملاء والاحتفاظ بهم"
+      ],
+      "tags": [
+        "تصميم-جرافيكي",
+        "صانع-شعارات",
+        "ذكاء-اصطناعي",
+        "قوالب",
+        "تعاون"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-07-08T20:37:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://www.kittl.com"
+    },
+    {
+      "id": "coolors",
+      "slug": "coolors",
+      "title": "كولورز",
+      "title_en": "Coolors",
+      "description": "مولد لوحات الألوان وأداة تصميم لإنشاء أنظمة الألوان",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير"
+      ],
+      "tags": [
+        "لوحة-ألوان",
+        "أداة-تصميم",
+        "أنظمة-ألوان",
+        "مولد",
+        "هوية-تجارية"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-07-08T20:37:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://coolors.co"
+    },
+    {
+      "id": "freelogodesign",
+      "slug": "freelogodesign",
+      "title": "فري لوجو ديزاين",
+      "title_en": "FreeLogoDesign",
+      "description": "صانع شعارات مجاني مع قوالب قابلة للتخصيص وأدوات تصميم",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير",
+        "جذب العملاء والاحتفاظ بهم"
+      ],
+      "tags": [
+        "صانع-شعارات",
+        "تصميم-مجاني",
+        "هوية-تجارية",
+        "قوالب",
+        "هوية-عمل"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-07-08T20:37:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://www.freelogodesign.org"
+    },
+    {
+      "id": "arabygpt",
+      "slug": "arabygpt",
+      "title": "عربي جي بي تي",
+      "title_en": "ArabyGPT",
+      "description": "منصة ذكاء اصطناعي لتوليد وفهم المحتوى العربي.",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير",
+        "الفهم والتحسين"
+      ],
+      "tags": [
+        "ذكاء-اصطناعي",
+        "عربي",
+        "توليد-محتوى",
+        "لغة",
+        "كتابة"
+      ],
+      "pricing": {
+        "model": "مجاني"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-06-18T00:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://www.arabygpt.araby.ai"
+    },
+    {
+      "id": "namozaj",
+      "slug": "namozaj",
+      "title": "نموذج",
+      "title_en": "Namozaj",
+      "description": "مكتبة قوالب أعمال وقانونية عربية/إنجليزية.",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إدارة الأعمال",
+        "إنشاء و تطوير"
+      ],
+      "tags": [
+        "قوالب",
+        "قانوني",
+        "أعمال",
+        "مستندات",
+        "عربي"
+      ],
+      "pricing": {
+        "model": "اشتراك"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-06-18T00:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://www.namozaj.com"
+    },
+    {
+      "id": "lisan",
+      "slug": "lisan",
+      "title": "لسان",
+      "title_en": "Lisan",
+      "description": "مساعد تدقيق وكتابة عربي مدعوم بالذكاء الاصطناعي.",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير",
+        "الفهم والتحسين"
+      ],
+      "tags": [
+        "ذكاء-اصطناعي",
+        "تدقيق",
+        "كتابة",
+        "عربي",
+        "قواعد"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب",
+        "برنامج مساعد"
+      ],
+      "publishDate": "2025-06-18T00:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://www.lisan.com"
+    },
+    {
+      "id": "tarjama",
+      "slug": "tarjama",
+      "title": "ترجمة",
+      "title_en": "Tarjama",
+      "description": "منصة ترجمة آلية للغة العربية والإنجليزية.",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "التواصل والتعاون",
+        "الفهم والتحسين"
+      ],
+      "tags": [
+        "ترجمة",
+        "عربي",
+        "ذكاء-اصطناعي",
+        "مستندات",
+        "لغة"
+      ],
+      "pricing": {
+        "model": "تجربة مجانية"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-06-18T00:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://translate.tarjama.com"
+    },
+    {
+      "id": "qalam",
+      "slug": "qalam",
+      "title": "قلم",
+      "title_en": "Qalam",
+      "description": "ذكاء اصطناعي توليدي لإنشاء المحتوى العربي والمساعدة في الكتابة.",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير",
+        "الفهم والتحسين"
+      ],
+      "tags": [
+        "ذكاء-اصطناعي",
+        "كتابة",
+        "عربي",
+        "محتوى",
+        "ذكاء-اصطناعي-توليدي"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-06-18T00:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://qalam.ai"
+    },
+    {
+      "id": "monicahq",
+      "slug": "monicahq",
+      "title": "مونيكا إتش كيو",
+      "title_en": "MonicaHQ",
+      "description": "نظام إدارة علاقات شخصية مفتوح المصدر لتنظيم تفاعلاتك الاجتماعية",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "جذب العملاء والاحتفاظ بهم",
+        "إدارة الأعمال"
+      ],
+      "tags": [
+        "إدارة-علاقات-العملاء",
+        "شخصي",
+        "مفتوح-المصدر",
+        "إدارة-العلاقات",
+        "إدارة-جهات-الاتصال"
+      ],
+      "pricing": {
+        "model": "مجاني"
+      },
+      "softwareTypes": [
+        "مستضاف ذاتيًا",
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-06-11T00:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://www.monicahq.com"
+    },
+    {
+      "id": "bagisto",
+      "slug": "bagisto",
+      "title": "باجيستو",
+      "title_en": "Bagisto",
+      "description": "منصة تجارة إلكترونية مفتوحة المصدر مبنية على Laravel",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إدارة الأعمال",
+        "إنشاء و تطوير"
+      ],
+      "tags": [
+        "تجارة-إلكترونية",
+        "Laravel",
+        "مفتوح-المصدر",
+        "عربة-تسوق",
+        "متجر-إلكتروني"
+      ],
+      "pricing": {
+        "model": "مجاني"
+      },
+      "softwareTypes": [
+        "مستضاف ذاتيًا",
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-06-11T00:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://bagisto.com/en/"
+    },
+    {
+      "id": "krayincrm",
+      "slug": "krayincrm",
+      "title": "كرايين سي آر إم",
+      "title_en": "KrayinCRM",
+      "description": "حل CRM مفتوح المصدر لإدارة علاقات العملاء",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "جذب العملاء والاحتفاظ بهم",
+        "إدارة الأعمال"
+      ],
+      "tags": [
+        "إدارة-علاقات-العملاء",
+        "إدارة-العملاء",
+        "مفتوح-المصدر",
+        "مبيعات",
+        "تسويق"
+      ],
+      "pricing": {
+        "model": "مجاني"
+      },
+      "softwareTypes": [
+        "مستضاف ذاتيًا",
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-06-11T00:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://krayincrm.com"
+    },
+    {
+      "id": "aureuserp",
+      "slug": "aureuserp",
+      "title": "أوريوس إي آر بي",
+      "title_en": "AureusERP",
+      "description": "منصة تخطيط موارد المؤسسات مجانية ومفتوحة المصدر للشركات",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إدارة الأعمال",
+        "إدارة الأموال"
+      ],
+      "tags": [
+        "تخطيط-موارد-المؤسسات",
+        "مفتوح-المصدر",
+        "إدارة-الأعمال",
+        "محاسبة",
+        "مخزون"
+      ],
+      "pricing": {
+        "model": "مجاني"
+      },
+      "softwareTypes": [
+        "مستضاف ذاتيًا",
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-06-11T00:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://aureuserp.com"
+    },
+    {
+      "id": "uvdesk",
+      "slug": "uvdesk",
+      "title": "يو في ديسك",
+      "title_en": "UVdesk",
+      "description": "نظام مكتب مساعدة وتذاكر مفتوح المصدر لدعم العملاء",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "جذب العملاء والاحتفاظ بهم",
+        "التواصل والتعاون"
+      ],
+      "tags": [
+        "مكتب-مساعدة",
+        "تذاكر",
+        "دعم-العملاء",
+        "مفتوح-المصدر",
+        "إدارة-علاقات-العملاء"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-06-11T00:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://www.uvdesk.com/en/"
+    },
     {
       "id": "netmoud",
       "slug": "netmoud",
@@ -3911,5 +3936,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-05-27T07:42:50.745Z"
+  "lastUpdated": "2025-07-23T23:44:18.436Z"
 }
