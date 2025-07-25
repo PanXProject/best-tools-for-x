@@ -1,541 +1,567 @@
 {
   "tools": [
-  {
-    "id": "super-so",
-    "slug": "super-so",
-    "title": "Super",
-    "description": "Turn Notion pages into beautiful websites with no-code",
-    "author": "Waleed Sadek",
-    "username": "waleed",
-    "categories": [
-      "Create & Build",
-      "Get & Keep Customers"
-    ],
-    "tags": [
-      "notion",
-      "website-builder",
-      "no-code",
-      "cms",
-      "landing-page"
-    ],
-    "pricing": {
-      "model": "freemium"
+    {
+      "id": "autolocalise",
+      "slug": "autolocalise",
+      "title": "AutoLocalise",
+      "description": "Localize your app instantly — no translation files, no setup hassle.",
+      "author": "Lee I. Martin",
+      "username": "leemartin",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai",
+        "localization",
+        "i18n",
+        "react",
+        "developer-tools"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-07-25T12:35:46.540Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1753446749/dg7sff2g2kg3u43pdxlo.png",
+      "toolUrl": "https://www.autolocalise.com/?utm_source=toolseekr"
     },
-    "softwareTypes": [
-      "web-app"
-    ],
-    "publishDate": "2025-07-22T20:37:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://super.so"
-  },
-  {
-    "id": "magicform-app",
-    "slug": "magicform-app",
-    "title": "MagicForm",
-    "description": "Create AI-powered quizzes from any content in seconds",
-    "author": "Waleed Sadek",
-    "username": "waleed",
-    "categories": [
-      "Create & Build",
-      "Understand & Improve"
-    ],
-    "tags": [
-      "ai",
-      "quiz",
-      "education",
-      "forms",
-      "generator"
-    ],
-    "pricing": {
-      "model": "freemium"
+    {
+      "id": "super-so",
+      "slug": "super-so",
+      "title": "Super",
+      "description": "Turn Notion pages into beautiful websites with no-code",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Create & Build",
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "notion",
+        "website-builder",
+        "no-code",
+        "cms",
+        "landing-page"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-07-22T20:37:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://super.so"
     },
-    "softwareTypes": [
-      "web-app",
-      "extension"
-    ],
-    "publishDate": "2025-07-22T20:36:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://www.magicform.app"
-  },
-  {
-    "id": "heygen",
-    "slug": "heygen",
-    "title": "HeyGen",
-    "description": "AI video generator with realistic avatars and voice cloning",
-    "author": "Waleed Sadek",
-    "username": "waleed",
-    "categories": [
-      "Create & Build",
-      "Get & Keep Customers"
-    ],
-    "tags": [
-      "ai",
-      "video",
-      "avatar",
-      "voice-cloning",
-      "marketing"
-    ],
-    "pricing": {
-      "model": "freemium"
+    {
+      "id": "magicform-app",
+      "slug": "magicform-app",
+      "title": "MagicForm",
+      "description": "Create AI-powered quizzes from any content in seconds",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Create & Build",
+        "Understand & Improve"
+      ],
+      "tags": [
+        "ai",
+        "quiz",
+        "education",
+        "forms",
+        "generator"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app",
+        "extension"
+      ],
+      "publishDate": "2025-07-22T20:36:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://www.magicform.app"
     },
-    "softwareTypes": [
-      "web-app"
-    ],
-    "publishDate": "2025-07-22T20:35:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://www.heygen.com"
-  },
-  {
-    "id": "scribehow",
-    "slug": "scribehow",
-    "title": "Scribe",
-    "description": "Auto-generate step-by-step guides and documentation",
-    "author": "Waleed Sadek",
-    "username": "waleed",
-    "categories": [
-      "Connect & Collaborate",
-      "Run Business"
-    ],
-    "tags": [
-      "documentation",
-      "guides",
-      "automation",
-      "training",
-      "processes"
-    ],
-    "pricing": {
-      "model": "freemium"
+    {
+      "id": "heygen",
+      "slug": "heygen",
+      "title": "HeyGen",
+      "description": "AI video generator with realistic avatars and voice cloning",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Create & Build",
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "ai",
+        "video",
+        "avatar",
+        "voice-cloning",
+        "marketing"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-07-22T20:35:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://www.heygen.com"
     },
-    "softwareTypes": [
-      "web-app",
-      "extension"
-    ],
-    "publishDate": "2025-07-22T20:33:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://scribehow.com"
-  },
-  {
-    "id": "pretty-insights",
-    "slug": "pretty-insights",
-    "title": "Pretty Insights",
-    "description": "Beautiful data visualization and analytics dashboard tool",
-    "author": "Waleed Sadek",
-    "username": "waleed",
-    "categories": [
-      "Understand & Improve",
-      "Create & Build"
-    ],
-    "tags": [
-      "analytics",
-      "visualization",
-      "dashboard",
-      "data",
-      "insights"
-    ],
-    "pricing": {
-      "model": "freemium"
+    {
+      "id": "scribehow",
+      "slug": "scribehow",
+      "title": "Scribe",
+      "description": "Auto-generate step-by-step guides and documentation",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Connect & Collaborate",
+        "Run Business"
+      ],
+      "tags": [
+        "documentation",
+        "guides",
+        "automation",
+        "training",
+        "processes"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app",
+        "extension"
+      ],
+      "publishDate": "2025-07-22T20:33:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://scribehow.com"
     },
-    "softwareTypes": [
-      "web-app"
-    ],
-    "publishDate": "2025-07-14T20:37:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://prettyinsights.com"
-  },
-  {
-    "id": "joinotto",
-    "slug": "joinotto",
-    "title": "Otto",
-    "description": "AI-powered customer service automation and chatbot platform",
-    "author": "Waleed Sadek",
-    "username": "waleed",
-    "categories": [
-      "Get & Keep Customers",
-      "Run Business"
-    ],
-    "tags": [
-      "chatbot",
-      "customer-service",
-      "ai-automation",
-      "support",
-      "messaging"
-    ],
-    "pricing": {
-      "model": "subscription"
+    {
+      "id": "pretty-insights",
+      "slug": "pretty-insights",
+      "title": "Pretty Insights",
+      "description": "Beautiful data visualization and analytics dashboard tool",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Understand & Improve",
+        "Create & Build"
+      ],
+      "tags": [
+        "analytics",
+        "visualization",
+        "dashboard",
+        "data",
+        "insights"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-07-14T20:37:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://prettyinsights.com"
     },
-    "softwareTypes": [
-      "web-app"
-    ],
-    "publishDate": "2025-07-14T20:37:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://joinotto.com"
-  },
-  {
-    "id": "coolors",
-    "slug": "coolors",
-    "title": "Coolors",
-    "description": "Color palette generator and design tool for creating color schemes",
-    "author": "Waleed Sadek",
-    "username": "waleed",
-    "categories": [
-      "Create & Build"
-    ],
-    "tags": [
-      "color-palette",
-      "design-tool",
-      "color-schemes",
-      "generator",
-      "branding"
-    ],
-    "pricing": {
-      "model": "freemium"
+    {
+      "id": "joinotto",
+      "slug": "joinotto",
+      "title": "Otto",
+      "description": "AI-powered customer service automation and chatbot platform",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Get & Keep Customers",
+        "Run Business"
+      ],
+      "tags": [
+        "chatbot",
+        "customer-service",
+        "ai-automation",
+        "support",
+        "messaging"
+      ],
+      "pricing": {
+        "model": "subscription"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-07-14T20:37:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://joinotto.com"
     },
-    "softwareTypes": [
-      "web-app"
-    ],
-    "publishDate": "2025-07-14T20:37:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://coolors.co"
-  },
-  {
-    "id": "freelogodesign",
-    "slug": "freelogodesign",
-    "title": "FreeLogoDesign",
-    "description": "Free logo maker with customizable templates and design tools",
-    "author": "Waleed Sadek",
-    "username": "waleed",
-    "categories": [
-      "Create & Build",
-      "Get & Keep Customers"
-    ],
-    "tags": [
-      "logo-maker",
-      "free-design",
-      "branding",
-      "templates",
-      "business-identity"
-    ],
-    "pricing": {
-      "model": "freemium"
+    {
+      "id": "coolors",
+      "slug": "coolors",
+      "title": "Coolors",
+      "description": "Color palette generator and design tool for creating color schemes",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "color-palette",
+        "design-tool",
+        "color-schemes",
+        "generator",
+        "branding"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-07-14T20:37:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://coolors.co"
     },
-    "softwareTypes": [
-      "web-app"
-    ],
-    "publishDate": "2025-07-14T20:37:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://www.freelogodesign.org"
-  },
-  {
-    "id": "cabin",
-    "slug": "cabin",
-    "title": "Cabin",
-    "description": "Privacy-focused web analytics alternative to Google Analytics",
-    "author": "Waleed Sadek",
-    "username": "waleed",
-    "categories": [
-      "Understand & Improve",
-      "Run Business"
-    ],
-    "tags": [
-      "web-analytics",
-      "privacy",
-      "google-analytics",
-      "website-tracking",
-      "data-analysis"
-    ],
-    "pricing": {
-      "model": "subscription"
+    {
+      "id": "freelogodesign",
+      "slug": "freelogodesign",
+      "title": "FreeLogoDesign",
+      "description": "Free logo maker with customizable templates and design tools",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Create & Build",
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "logo-maker",
+        "free-design",
+        "branding",
+        "templates",
+        "business-identity"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-07-14T20:37:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://www.freelogodesign.org"
     },
-    "softwareTypes": [
-      "web-app"
-    ],
-    "publishDate": "2025-07-14T20:37:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://withcabin.com"
-  },
-  {
-    "id": "visily",
-    "slug": "visily",
-    "title": "Visily",
-    "description": "AI-powered UI design tool for creating wireframes and prototypes",
-    "author": "Waleed Sadek",
-    "username": "waleed",
-    "categories": [
-      "Create & Build",
-      "Run Business"
-    ],
-    "tags": [
-      "ui-design",
-      "wireframes",
-      "prototyping",
-      "ai-design",
-      "design-tool"
-    ],
-    "pricing": {
-      "model": "freemium"
+    {
+      "id": "cabin",
+      "slug": "cabin",
+      "title": "Cabin",
+      "description": "Privacy-focused web analytics alternative to Google Analytics",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Understand & Improve",
+        "Run Business"
+      ],
+      "tags": [
+        "web-analytics",
+        "privacy",
+        "google-analytics",
+        "website-tracking",
+        "data-analysis"
+      ],
+      "pricing": {
+        "model": "subscription"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-07-14T20:37:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://withcabin.com"
     },
-    "softwareTypes": [
-      "web-app"
-    ],
-    "publishDate": "2025-07-08T20:37:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://www.visily.ai"
-  },
-  {
-    "id": "poindeo",
-    "slug": "poindeo",
-    "title": "Poindeo",
-    "description": "Online video editor for creating product demos and tutorials",
-    "author": "Waleed Sadek",
-    "username": "waleed",
-    "categories": [
-      "Create & Build",
-      "Get & Keep Customers"
-    ],
-    "tags": [
-      "video-editing",
-      "product-demos",
-      "tutorials",
-      "zoom-effects",
-      "social-media"
-    ],
-    "pricing": {
-      "model": "freemium"
+    {
+      "id": "visily",
+      "slug": "visily",
+      "title": "Visily",
+      "description": "AI-powered UI design tool for creating wireframes and prototypes",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Create & Build",
+        "Run Business"
+      ],
+      "tags": [
+        "ui-design",
+        "wireframes",
+        "prototyping",
+        "ai-design",
+        "design-tool"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-07-08T20:37:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://www.visily.ai"
     },
-    "softwareTypes": [
-      "web-app"
-    ],
-    "publishDate": "2025-07-08T20:37:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://poindeo.com"
-  },
-  {
-    "id": "fathom",
-    "slug": "fathom",
-    "title": "Fathom",
-    "description": "AI meeting assistant for recording and transcribing video calls",
-    "author": "Waleed Sadek",
-    "username": "waleed",
-    "categories": [
-      "Connect & Collaborate",
-      "Run Business"
-    ],
-    "tags": [
-      "meeting-recorder",
-      "transcription",
-      "ai-assistant",
-      "video-calls",
-      "productivity"
-    ],
-    "pricing": {
-      "model": "freemium"
+    {
+      "id": "poindeo",
+      "slug": "poindeo",
+      "title": "Poindeo",
+      "description": "Online video editor for creating product demos and tutorials",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Create & Build",
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "video-editing",
+        "product-demos",
+        "tutorials",
+        "zoom-effects",
+        "social-media"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-07-08T20:37:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://poindeo.com"
     },
-    "softwareTypes": [
-      "web-app"
-    ],
-    "publishDate": "2025-07-08T20:37:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://fathom.video"
-  },
-  {
-    "id": "kittl",
-    "slug": "kittl",
-    "title": "Kittl",
-    "description": "Collaborative design platform with AI tools for graphics and logos",
-    "author": "Waleed Sadek",
-    "username": "waleed",
-    "categories": [
-      "Create & Build",
-      "Get & Keep Customers"
-    ],
-    "tags": [
-      "graphic-design",
-      "logo-maker",
-      "ai-design",
-      "templates",
-      "collaboration"
-    ],
-    "pricing": {
-      "model": "freemium"
+    {
+      "id": "fathom",
+      "slug": "fathom",
+      "title": "Fathom",
+      "description": "AI meeting assistant for recording and transcribing video calls",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Connect & Collaborate",
+        "Run Business"
+      ],
+      "tags": [
+        "meeting-recorder",
+        "transcription",
+        "ai-assistant",
+        "video-calls",
+        "productivity"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-07-08T20:37:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://fathom.video"
     },
-    "softwareTypes": [
-      "web-app"
-    ],
-    "publishDate": "2025-07-08T20:37:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://www.kittl.com"
-  },
-  {
-    "id": "adalo",
-    "slug": "adalo",
-    "title": "Adalo",
-    "description": "No-code platform for building native mobile and web apps",
-    "author": "Waleed Sadek",
-    "username": "waleed",
-    "categories": [
-      "Create & Build",
-      "Run Business"
-    ],
-    "tags": [
-      "no-code",
-      "mobile-apps",
-      "web-apps",
-      "app-builder",
-      "native-apps"
-    ],
-    "pricing": {
-      "model": "freemium"
+    {
+      "id": "kittl",
+      "slug": "kittl",
+      "title": "Kittl",
+      "description": "Collaborative design platform with AI tools for graphics and logos",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Create & Build",
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "graphic-design",
+        "logo-maker",
+        "ai-design",
+        "templates",
+        "collaboration"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-07-08T20:37:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://www.kittl.com"
     },
-    "softwareTypes": [
-      "web-app"
-    ],
-    "publishDate": "2025-07-08T20:37:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://www.adalo.com"
-  },
-      {
-    "id": "buildship",
-    "slug": "buildship",
-    "title": "BuildShip",
-    "description": "Platform for building backend workflows and APIs.",
-    "author": "Waleed Sadek",
-    "username": "waleed",
-    "categories": [
-      "Create & Build",
-      "Run Business"
-    ],
-    "tags": [
-      "backend",
-      "workflow",
-      "api",
-      "no-code",
-      "automation"
-    ],
-    "pricing": {
-      "model": "freemium"
+    {
+      "id": "adalo",
+      "slug": "adalo",
+      "title": "Adalo",
+      "description": "No-code platform for building native mobile and web apps",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Create & Build",
+        "Run Business"
+      ],
+      "tags": [
+        "no-code",
+        "mobile-apps",
+        "web-apps",
+        "app-builder",
+        "native-apps"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-07-08T20:37:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://www.adalo.com"
     },
-    "softwareTypes": [
-      "web-app"
-    ],
-    "publishDate": "2025-06-18T00:00:00.000Z",
-    "heroImage": "",
-    "toolUrl": "https://buildship.com"
-  },
-  {
-    "id": "glideapps",
-    "slug": "glideapps",
-    "title": "GlideApps",
-    "description": "No-code platform to build mobile and web apps from spreadsheets.",
-    "author": "Waleed Sadek",
-    "username": "waleed",
-    "categories": [
-      "Create & Build",
-      "Run Business"
-    ],
-    "tags": [
-      "no-code",
-      "mobile-app",
-      "web-app",
-      "spreadsheet",
-      "business-tools"
-    ],
-    "pricing": {
-      "model": "freemium"
+    {
+      "id": "buildship",
+      "slug": "buildship",
+      "title": "BuildShip",
+      "description": "Platform for building backend workflows and APIs.",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Create & Build",
+        "Run Business"
+      ],
+      "tags": [
+        "backend",
+        "workflow",
+        "api",
+        "no-code",
+        "automation"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-06-18T00:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://buildship.com"
     },
-    "softwareTypes": [
-      "web-app",
-      "mobile-app"
-    ],
-    "publishDate": "2025-06-18T00:00:00.000Z",
-    "heroImage": "",
-    "toolUrl": "https://www.glideapps.com"
-  },
-  {
-    "id": "akaunting",
-    "slug": "akaunting",
-    "title": "Akaunting",
-    "description": "Free and open-source online accounting software for small businesses.",
-    "author": "Waleed Sadek",
-    "username": "waleed",
-    "categories": [
-      "Manage Money",
-      "Run Business"
-    ],
-    "tags": [
-      "accounting",
-      "finance",
-      "invoicing",
-      "open-source",
-      "small-business"
-    ],
-    "pricing": {
-      "model": "free"
+    {
+      "id": "glideapps",
+      "slug": "glideapps",
+      "title": "GlideApps",
+      "description": "No-code platform to build mobile and web apps from spreadsheets.",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Create & Build",
+        "Run Business"
+      ],
+      "tags": [
+        "no-code",
+        "mobile-app",
+        "web-app",
+        "spreadsheet",
+        "business-tools"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app"
+      ],
+      "publishDate": "2025-06-18T00:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://www.glideapps.com"
     },
-    "softwareTypes": [
-      "web-app",
-      "self-hosted"
-    ],
-    "publishDate": "2025-06-18T00:00:00.000Z",
-    "heroImage": "",
-    "toolUrl": "https://akaunting.com"
-  },
-  {
-    "id": "mailerlite",
-    "slug": "mailerlite",
-    "title": "MailerLite",
-    "description": "Email marketing platform with website and landing page builders.",
-    "author": "Waleed Sadek",
-    "username": "waleed",
-    "categories": [
-      "Get & Keep Customers",
-      "Create & Build"
-    ],
-    "tags": [
-      "email-marketing",
-      "newsletter",
-      "landing-page",
-      "website-builder",
-      "marketing"
-    ],
-    "pricing": {
-      "model": "freemium"
+    {
+      "id": "akaunting",
+      "slug": "akaunting",
+      "title": "Akaunting",
+      "description": "Free and open-source online accounting software for small businesses.",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Manage Money",
+        "Run Business"
+      ],
+      "tags": [
+        "accounting",
+        "finance",
+        "invoicing",
+        "open-source",
+        "small-business"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app",
+        "self-hosted"
+      ],
+      "publishDate": "2025-06-18T00:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://akaunting.com"
     },
-    "softwareTypes": [
-      "web-app"
-    ],
-    "publishDate": "2025-06-18T00:00:00.000Z",
-    "heroImage": "",
-    "toolUrl": "https://www.mailerlite.com"
-  },
-  {
-    "id": "dochub",
-    "slug": "dochub",
-    "title": "DocHub",
-    "description": "Online PDF editor, e-signature, and document management solution.",
-    "author": "Waleed Sadek",
-    "username": "waleed",
-    "categories": [
-      "Connect & Collaborate",
-      "Run Business"
-    ],
-    "tags": [
-      "pdf-editor",
-      "e-signature",
-      "document-management",
-      "productivity",
-      "online-tools"
-    ],
-    "pricing": {
-      "model": "freemium"
+    {
+      "id": "mailerlite",
+      "slug": "mailerlite",
+      "title": "MailerLite",
+      "description": "Email marketing platform with website and landing page builders.",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Get & Keep Customers",
+        "Create & Build"
+      ],
+      "tags": [
+        "email-marketing",
+        "newsletter",
+        "landing-page",
+        "website-builder",
+        "marketing"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-06-18T00:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://www.mailerlite.com"
     },
-    "softwareTypes": [
-      "web-app"
-    ],
-    "publishDate": "2025-06-18T00:00:00.000Z",
-    "heroImage": "",
-    "toolUrl": "https://dochub.com"
-  }
-    ,
+    {
+      "id": "dochub",
+      "slug": "dochub",
+      "title": "DocHub",
+      "description": "Online PDF editor, e-signature, and document management solution.",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Connect & Collaborate",
+        "Run Business"
+      ],
+      "tags": [
+        "pdf-editor",
+        "e-signature",
+        "document-management",
+        "productivity",
+        "online-tools"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-06-18T00:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://dochub.com"
+    },
     {
       "id": "akedly-io",
       "slug": "akedly-io",
@@ -3837,5 +3863,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-06-16T18:43:35.497Z"
+  "lastUpdated": "2025-07-25T12:35:47.298Z"
 }
