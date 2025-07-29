@@ -1,5 +1,144 @@
 {
   "tools": [
+  {
+    "id": "apollo",
+    "slug": "apollo",
+    "title": "Apollo",
+    "description": "AI-powered sales intelligence and CRM platform",
+    "author": "Waleed Sadek",
+    "username": "waleed",
+    "categories": [
+      "Get & Keep Customers",
+      "Run Business"
+    ],
+    "tags": [
+      "sales",
+      "crm",
+      "lead-generation",
+      "email-outreach",
+      "b2b"
+    ],
+    "pricing": {
+      "model": "freemium"
+    },
+    "softwareTypes": [
+      "web-app"
+    ],
+    "publishDate": "2025-07-29T20:37:00.317Z",
+    "heroImage": "",
+    "toolUrl": "https://www.apollo.io"
+  },
+  {
+    "id": "tinywow",
+    "slug": "tinywow",
+    "title": "TinyWow",
+    "description": "Free online tools for PDF, AI writing, and file conversions",
+    "author": "Waleed Sadek",
+    "username": "waleed",
+    "categories": [
+      "Create & Build",
+      "Run Business"
+    ],
+    "tags": [
+      "pdf-converter",
+      "file-conversion",
+      "ai-writing",
+      "online-tools",
+      "productivity"
+    ],
+    "pricing": {
+      "model": "freemium"
+    },
+    "softwareTypes": [
+      "web-app"
+    ],
+    "publishDate": "2025-07-29T20:36:00.317Z",
+    "heroImage": "",
+    "toolUrl": "https://tinywow.com"
+  },
+  {
+    "id": "pomofocus",
+    "slug": "pomofocus",
+    "title": "PomofocuS",
+    "description": "Simple pomodoro timer for focused work sessions",
+    "author": "Waleed Sadek",
+    "username": "waleed",
+    "categories": [
+      "Run Business",
+      "Understand & Improve"
+    ],
+    "tags": [
+      "pomodoro",
+      "productivity",
+      "time-management",
+      "focus",
+      "timer"
+    ],
+    "pricing": {
+      "model": "free"
+    },
+    "softwareTypes": [
+      "web-app"
+    ],
+    "publishDate": "2025-07-29T20:35:00.317Z",
+    "heroImage": "",
+    "toolUrl": "https://pomofocus.io"
+  },
+  {
+    "id": "sai",
+    "slug": "sai",
+    "title": "SAI",
+    "description": "Stable Diffusion AI image generator for creating art from text",
+    "author": "Waleed Sadek",
+    "username": "waleed",
+    "categories": [
+      "Create & Build"
+    ],
+    "tags": [
+      "ai-art",
+      "image-generation",
+      "stable-diffusion",
+      "text-to-image",
+      "creative"
+    ],
+    "pricing": {
+      "model": "freemium"
+    },
+    "softwareTypes": [
+      "web-app"
+    ],
+    "publishDate": "2025-07-29T20:34:00.317Z",
+    "heroImage": "",
+    "toolUrl": "https://stability.ai"
+  },
+  {
+    "id": "slidesgo-ai",
+    "slug": "slidesgo-ai",
+    "title": "Slidesgo AI",
+    "description": "AI-powered presentation maker with professional templates",
+    "author": "Waleed Sadek",
+    "username": "waleed",
+    "categories": [
+      "Create & Build",
+      "Connect & Collaborate"
+    ],
+    "tags": [
+      "presentations",
+      "ai-design",
+      "templates",
+      "slides",
+      "powerpoint"
+    ],
+    "pricing": {
+      "model": "freemium"
+    },
+    "softwareTypes": [
+      "web-app"
+    ],
+    "publishDate": "2025-07-29T20:33:00.317Z",
+    "heroImage": "",
+    "toolUrl": "https://slidesgo.com/ai-presentations"
+  },
     {
       "id": "autolocalise",
       "slug": "autolocalise",
