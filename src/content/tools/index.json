@@ -84,33 +84,34 @@
     "heroImage": "",
     "toolUrl": "https://pomofocus.io"
   },
-  {
-    "id": "sai",
-    "slug": "sai",
-    "title": "SAI",
-    "description": "Stable Diffusion AI image generator for creating art from text",
-    "author": "Waleed Sadek",
-    "username": "waleed",
-    "categories": [
-      "Create & Build"
-    ],
-    "tags": [
-      "ai-art",
-      "image-generation",
-      "stable-diffusion",
-      "text-to-image",
-      "creative"
-    ],
-    "pricing": {
-      "model": "freemium"
-    },
-    "softwareTypes": [
-      "web-app"
-    ],
-    "publishDate": "2025-07-29T20:34:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://stability.ai"
+{
+  "id": "sai",
+  "slug": "sai",
+  "title": "Sai",
+  "description": "AI learning platform for students with customizable study tools",
+  "author": "Waleed Sadek",
+  "username": "waleed",
+  "categories": [
+    "Understand & Improve",
+    "Connect & Collaborate"
+  ],
+  "tags": [
+    "learning",
+    "ai-tutor",
+    "education",
+    "study-assistant",
+    "personalized-learning"
+  ],
+  "pricing": {
+    "model": "freemium"
   },
+  "softwareTypes": [
+    "web-app"
+  ],
+  "publishDate": "2025-07-29T20:37:00.317Z",
+  "heroImage": "",
+  "toolUrl": "https://trysai.com"
+},
   {
     "id": "slidesgo-ai",
     "slug": "slidesgo-ai",
