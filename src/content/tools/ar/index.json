@@ -1,5 +1,149 @@
 {
   "tools": [
+  {
+    "id": "apollo",
+    "slug": "apollo",
+    "title": "أبولو",
+    "title_en": "Apollo",
+    "description": "منصة ذكاء مبيعات وإدارة علاقات العملاء مدعومة بالذكاء الاصطناعي",
+    "author": "وليد صادق",
+    "username": "waleed",
+    "categories": [
+      "جذب العملاء والاحتفاظ بهم",
+      "إدارة الأعمال"
+    ],
+    "tags": [
+      "مبيعات",
+      "إدارة-علاقات-العملاء",
+      "توليد-العملاء-المحتملين",
+      "التواصل-عبر-البريد",
+      "أعمال-تجارية"
+    ],
+    "pricing": {
+      "model": "فريميوم"
+    },
+    "softwareTypes": [
+      "تطبيق ويب"
+    ],
+    "publishDate": "2025-07-29T20:37:00.317Z",
+    "heroImage": "",
+    "toolUrl": "https://www.apollo.io"
+  },
+  {
+    "id": "tinywow",
+    "slug": "tinywow",
+    "title": "تايني واو",
+    "title_en": "TinyWow",
+    "description": "أدوات مجانية عبر الإنترنت لملفات PDF والكتابة بالذكاء الاصطناعي وتحويل الملفات",
+    "author": "وليد صادق",
+    "username": "waleed",
+    "categories": [
+      "إنشاء و تطوير",
+      "إدارة الأعمال"
+    ],
+    "tags": [
+      "محول-ملفات-PDF",
+      "تحويل-الملفات",
+      "كتابة-بالذكاء-الاصطناعي",
+      "أدوات-إنترنت",
+      "إنتاجية"
+    ],
+    "pricing": {
+      "model": "فريميوم"
+    },
+    "softwareTypes": [
+      "تطبيق ويب"
+    ],
+    "publishDate": "2025-07-29T20:36:00.317Z",
+    "heroImage": "",
+    "toolUrl": "https://tinywow.com"
+  },
+  {
+    "id": "pomofocus",
+    "slug": "pomofocus",
+    "title": "بومو فوكس",
+    "title_en": "PomofocuS",
+    "description": "مؤقت بومودورو بسيط لجلسات العمل المركزة",
+    "author": "وليد صادق",
+    "username": "waleed",
+    "categories": [
+      "إدارة الأعمال",
+      "الفهم والتحسين"
+    ],
+    "tags": [
+      "بومودورو",
+      "إنتاجية",
+      "إدارة-الوقت",
+      "تركيز",
+      "مؤقت"
+    ],
+    "pricing": {
+      "model": "مجاني"
+    },
+    "softwareTypes": [
+      "تطبيق ويب"
+    ],
+    "publishDate": "2025-07-29T20:35:00.317Z",
+    "heroImage": "",
+    "toolUrl": "https://pomofocus.io"
+  },
+  {
+    "id": "sai",
+    "slug": "sai",
+    "title": "ستيبل إيه آي",
+    "title_en": "SAI",
+    "description": "مولد صور بالذكاء الاصطناعي لإنشاء الفن من النص باستخدام Stable Diffusion",
+    "author": "وليد صادق",
+    "username": "waleed",
+    "categories": [
+      "إنشاء و تطوير"
+    ],
+    "tags": [
+      "فن-بالذكاء-الاصطناعي",
+      "توليد-الصور",
+      "ستيبل-ديفيوجن",
+      "نص-إلى-صورة",
+      "إبداعي"
+    ],
+    "pricing": {
+      "model": "فريميوم"
+    },
+    "softwareTypes": [
+      "تطبيق ويب"
+    ],
+    "publishDate": "2025-07-29T20:34:00.317Z",
+    "heroImage": "",
+    "toolUrl": "https://trysai.com"
+  },
+  {
+    "id": "slidesgo-ai",
+    "slug": "slidesgo-ai",
+    "title": "سلايدز جو إيه آي",
+    "title_en": "Slidesgo AI",
+    "description": "منشئ عروض تقديمية مدعوم بالذكاء الاصطناعي مع قوالب احترافية",
+    "author": "وليد صادق",
+    "username": "waleed",
+    "categories": [
+      "إنشاء و تطوير",
+      "التواصل والتعاون"
+    ],
+    "tags": [
+      "عروض-تقديمية",
+      "تصميم-بالذكاء-الاصطناعي",
+      "قوالب",
+      "شرائح",
+      "باوربوينت"
+    ],
+    "pricing": {
+      "model": "فريميوم"
+    },
+    "softwareTypes": [
+      "تطبيق ويب"
+    ],
+    "publishDate": "2025-07-29T20:33:00.317Z",
+    "heroImage": "",
+    "toolUrl": "https://slidesgo.com/ai-presentations"
+  },
     {
       "id": "mortakaz",
       "slug": "mortakaz",
