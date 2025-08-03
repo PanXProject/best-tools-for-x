@@ -1,150 +1,180 @@
 {
   "tools": [
-  {
-    "id": "apollo",
-    "slug": "apollo",
-    "title": "أبولو",
-    "title_en": "Apollo",
-    "description": "منصة ذكاء مبيعات وإدارة علاقات العملاء مدعومة بالذكاء الاصطناعي",
-    "author": "وليد صادق",
-    "username": "waleed",
-    "categories": [
-      "جذب العملاء والاحتفاظ بهم",
-      "إدارة الأعمال"
-    ],
-    "tags": [
-      "مبيعات",
-      "إدارة-علاقات-العملاء",
-      "توليد-العملاء-المحتملين",
-      "التواصل-عبر-البريد",
-      "أعمال-تجارية"
-    ],
-    "pricing": {
-      "model": "فريميوم"
+    {
+      "id": "fareeqy",
+      "slug": "fareeqy",
+      "title": "فريقي",
+      "title_en": "Fareeqy",
+      "description": "منصة متطورة لإدارة المشاريع المصممة خصيصاً للفرق في الشرق الأوسط ",
+      "author": "عبدالله مدحت",
+      "username": "abdullahmedhat",
+      "categories": [
+        "جذب العملاء والاحتفاظ بهم",
+        "إنشاء و تطوير",
+        "إدارة الأعمال"
+      ],
+      "tags": [
+        "أدارة-المشاريع",
+        "إنتاجية",
+        "التعاون",
+        "المهام",
+        "التواصل"
+      ],
+      "pricing": {
+        "model": "تجربة مجانية"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-08-03T11:54:56.033Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1754221571/zzgujel1ci7vidihk2ib.png",
+      "toolUrl": "https://fareeqy.com"
     },
-    "softwareTypes": [
-      "تطبيق ويب"
-    ],
-    "publishDate": "2025-07-29T20:37:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://www.apollo.io"
-  },
-  {
-    "id": "tinywow",
-    "slug": "tinywow",
-    "title": "تايني واو",
-    "title_en": "TinyWow",
-    "description": "أدوات مجانية عبر الإنترنت لملفات PDF والكتابة بالذكاء الاصطناعي وتحويل الملفات",
-    "author": "وليد صادق",
-    "username": "waleed",
-    "categories": [
-      "إنشاء و تطوير",
-      "إدارة الأعمال"
-    ],
-    "tags": [
-      "محول-ملفات-PDF",
-      "تحويل-الملفات",
-      "كتابة-بالذكاء-الاصطناعي",
-      "أدوات-إنترنت",
-      "إنتاجية"
-    ],
-    "pricing": {
-      "model": "فريميوم"
+    {
+      "id": "apollo",
+      "slug": "apollo",
+      "title": "أبولو",
+      "title_en": "Apollo",
+      "description": "منصة ذكاء مبيعات وإدارة علاقات العملاء مدعومة بالذكاء الاصطناعي",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "جذب العملاء والاحتفاظ بهم",
+        "إدارة الأعمال"
+      ],
+      "tags": [
+        "مبيعات",
+        "إدارة-علاقات-العملاء",
+        "توليد-العملاء-المحتملين",
+        "التواصل-عبر-البريد",
+        "أعمال-تجارية"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-07-29T20:37:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://www.apollo.io"
     },
-    "softwareTypes": [
-      "تطبيق ويب"
-    ],
-    "publishDate": "2025-07-29T20:36:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://tinywow.com"
-  },
-  {
-    "id": "pomofocus",
-    "slug": "pomofocus",
-    "title": "بومو فوكس",
-    "title_en": "PomofocuS",
-    "description": "مؤقت بومودورو بسيط لجلسات العمل المركزة",
-    "author": "وليد صادق",
-    "username": "waleed",
-    "categories": [
-      "إدارة الأعمال",
-      "الفهم والتحسين"
-    ],
-    "tags": [
-      "بومودورو",
-      "إنتاجية",
-      "إدارة-الوقت",
-      "تركيز",
-      "مؤقت"
-    ],
-    "pricing": {
-      "model": "مجاني"
+    {
+      "id": "sai",
+      "slug": "sai",
+      "title": "ساي",
+      "title_en": "Sai",
+      "description": "منصة تعلم ذكية للطلاب مع أدوات دراسة قابلة للتخصيص",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "الفهم والتحسين",
+        "التواصل والتعاون"
+      ],
+      "tags": [
+        "تعلم",
+        "مدرس-ذكي",
+        "تعليم",
+        "مساعد-دراسة",
+        "تعلم-شخصي"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-07-29T20:37:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://trysai.com"
     },
-    "softwareTypes": [
-      "تطبيق ويب"
-    ],
-    "publishDate": "2025-07-29T20:35:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://pomofocus.io"
-  },
-{
-  "id": "sai",
-  "slug": "sai",
-  "title": "ساي",
-  "title_en": "Sai",
-  "description": "منصة تعلم ذكية للطلاب مع أدوات دراسة قابلة للتخصيص",
-  "author": "وليد صادق",
-  "username": "waleed",
-  "categories": [
-    "الفهم والتحسين",
-    "التواصل والتعاون"
-  ],
-  "tags": [
-    "تعلم",
-    "مدرس-ذكي",
-    "تعليم",
-    "مساعد-دراسة",
-    "تعلم-شخصي"
-  ],
-  "pricing": {
-    "model": "فريميوم"
-  },
-  "softwareTypes": [
-    "تطبيق ويب"
-  ],
-  "publishDate": "2025-07-29T20:37:00.317Z",
-  "heroImage": "",
-  "toolUrl": "https://trysai.com"
-},
-  {
-    "id": "slidesgo-ai",
-    "slug": "slidesgo-ai",
-    "title": "سلايدز جو إيه آي",
-    "title_en": "Slidesgo AI",
-    "description": "منشئ عروض تقديمية مدعوم بالذكاء الاصطناعي مع قوالب احترافية",
-    "author": "وليد صادق",
-    "username": "waleed",
-    "categories": [
-      "إنشاء و تطوير",
-      "التواصل والتعاون"
-    ],
-    "tags": [
-      "عروض-تقديمية",
-      "تصميم-بالذكاء-الاصطناعي",
-      "قوالب",
-      "شرائح",
-      "باوربوينت"
-    ],
-    "pricing": {
-      "model": "فريميوم"
+    {
+      "id": "tinywow",
+      "slug": "tinywow",
+      "title": "تايني واو",
+      "title_en": "TinyWow",
+      "description": "أدوات مجانية عبر الإنترنت لملفات PDF والكتابة بالذكاء الاصطناعي وتحويل الملفات",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير",
+        "إدارة الأعمال"
+      ],
+      "tags": [
+        "محول-ملفات-PDF",
+        "تحويل-الملفات",
+        "كتابة-بالذكاء-الاصطناعي",
+        "أدوات-إنترنت",
+        "إنتاجية"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-07-29T20:36:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://tinywow.com"
     },
-    "softwareTypes": [
-      "تطبيق ويب"
-    ],
-    "publishDate": "2025-07-29T20:33:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://slidesgo.com/ai-presentations"
-  },
+    {
+      "id": "pomofocus",
+      "slug": "pomofocus",
+      "title": "بومو فوكس",
+      "title_en": "PomofocuS",
+      "description": "مؤقت بومودورو بسيط لجلسات العمل المركزة",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إدارة الأعمال",
+        "الفهم والتحسين"
+      ],
+      "tags": [
+        "بومودورو",
+        "إنتاجية",
+        "إدارة-الوقت",
+        "تركيز",
+        "مؤقت"
+      ],
+      "pricing": {
+        "model": "مجاني"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-07-29T20:35:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://pomofocus.io"
+    },
+    {
+      "id": "slidesgo-ai",
+      "slug": "slidesgo-ai",
+      "title": "سلايدز جو إيه آي",
+      "title_en": "Slidesgo AI",
+      "description": "منشئ عروض تقديمية مدعوم بالذكاء الاصطناعي مع قوالب احترافية",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير",
+        "التواصل والتعاون"
+      ],
+      "tags": [
+        "عروض-تقديمية",
+        "تصميم-بالذكاء-الاصطناعي",
+        "قوالب",
+        "شرائح",
+        "باوربوينت"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-07-29T20:33:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://slidesgo.com/ai-presentations"
+    },
     {
       "id": "mortakaz",
       "slug": "mortakaz",
@@ -4081,5 +4111,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-07-23T23:44:18.436Z"
+  "lastUpdated": "2025-08-03T11:54:56.736Z"
 }
