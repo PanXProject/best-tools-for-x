@@ -31,33 +31,6 @@
     "toolUrl": "https://addy.io"
   },
   {
-    "id": "photopea",
-    "slug": "photopea",
-    "title": "Photopea",
-    "description": "Free online photo editor with Photoshop-like features",
-    "author": "Waleed Sadek",
-    "username": "waleed",
-    "categories": [
-      "Create & Build"
-    ],
-    "tags": [
-      "photo-editor",
-      "design",
-      "psd",
-      "graphics",
-      "image-editing"
-    ],
-    "pricing": {
-      "model": "free"
-    },
-    "softwareTypes": [
-      "web-app"
-    ],
-    "publishDate": "2025-08-05T12:00:00.000Z",
-    "heroImage": "",
-    "toolUrl": "https://www.photopea.com"
-  },
-  {
     "id": "pipedream",
     "slug": "pipedream",
     "title": "Pipedream",
