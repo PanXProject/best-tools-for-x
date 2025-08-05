@@ -1,5 +1,123 @@
 {
   "tools": [
+  {
+    "id": "addy-io",
+    "slug": "addy-io",
+    "title": "أدي",
+    "title_en": "addy.io",
+    "description": "إعادة توجيه البريد الإلكتروني المجهول مع عناوين غير محدودة",
+    "author": "وليد صادق",
+    "username": "waleed",
+    "categories": [
+      "جذب العملاء والاحتفاظ بهم",
+      "الأمان والنشر"
+    ],
+    "tags": [
+      "بريد-الكتروني",
+      "خصوصية",
+      "إعادة-توجيه",
+      "عناوين-بديلة",
+      "مجهول"
+    ],
+    "pricing": {
+      "model": "فريميوم"
+    },
+    "softwareTypes": [
+      "تطبيق ويب",
+      "برنامج مساعد",
+      "مستضاف ذاتيًا"
+    ],
+    "publishDate": "2025-08-05T12:00:00.000Z",
+    "heroImage": "",
+    "toolUrl": "https://addy.io"
+  },
+  {
+    "id": "pipedream",
+    "slug": "pipedream",
+    "title": "بايب دريم",
+    "title_en": "Pipedream",
+    "description": "أتمتة سير العمل للمطورين مع التحكم بالكود",
+    "author": "وليد صادق",
+    "username": "waleed",
+    "categories": [
+      "إدارة الأعمال",
+      "إنشاء و تطوير"
+    ],
+    "tags": [
+      "أتمتة",
+      "سير-العمل",
+      "api",
+      "تكامل",
+      "بدون-خادم"
+    ],
+    "pricing": {
+      "model": "فريميوم"
+    },
+    "softwareTypes": [
+      "تطبيق ويب"
+    ],
+    "publishDate": "2025-08-05T12:00:00.000Z",
+    "heroImage": "",
+    "toolUrl": "https://pipedream.com"
+  },
+  {
+    "id": "uiverse",
+    "slug": "uiverse",
+    "title": "يو آي فيرس",
+    "title_en": "Uiverse",
+    "description": "مكتبة مكونات واجهة المستخدم والرسوم المتحركة CSS للنسخ واللصق",
+    "author": "وليد صادق",
+    "username": "waleed",
+    "categories": [
+      "إنشاء و تطوير"
+    ],
+    "tags": [
+      "مكونات-واجهة",
+      "css",
+      "رسوم-متحركة",
+      "واجهة-أمامية",
+      "نظام-تصميم"
+    ],
+    "pricing": {
+      "model": "مجاني"
+    },
+    "softwareTypes": [
+      "تطبيق ويب"
+    ],
+    "publishDate": "2025-08-05T12:00:00.000Z",
+    "heroImage": "",
+    "toolUrl": "https://uiverse.io"
+  },
+  {
+    "id": "poe",
+    "slug": "poe",
+    "title": "بو",
+    "title_en": "Poe",
+    "description": "الدردشة مع نماذج ذكاء اصطناعي متعددة في منصة واحدة",
+    "author": "وليد صادق",
+    "username": "waleed",
+    "categories": [
+      "الفهم والتحسين",
+      "إنشاء و تطوير"
+    ],
+    "tags": [
+      "دردشة-ذكية",
+      "شات-بوت",
+      "gpt",
+      "claude",
+      "مساعد-ذكي"
+    ],
+    "pricing": {
+      "model": "فريميوم"
+    },
+    "softwareTypes": [
+      "تطبيق ويب",
+      "تطبيق جوال"
+    ],
+    "publishDate": "2025-08-05T12:00:00.000Z",
+    "heroImage": "",
+    "toolUrl": "https://poe.com"
+  },
     {
       "id": "fareeqy",
       "slug": "fareeqy",
