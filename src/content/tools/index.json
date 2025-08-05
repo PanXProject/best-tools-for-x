@@ -1,6 +1,147 @@
 {
   "tools": [
   {
+    "id": "addy-io",
+    "slug": "addy-io",
+    "title": "addy.io",
+    "description": "Anonymous email forwarding with unlimited aliases",
+    "author": "Waleed Sadek",
+    "username": "waleed",
+    "categories": [
+      "Get & Keep Customers",
+      "Secure & Deploy"
+    ],
+    "tags": [
+      "email",
+      "privacy",
+      "forwarding",
+      "aliases",
+      "anonymous"
+    ],
+    "pricing": {
+      "model": "freemium"
+    },
+    "softwareTypes": [
+      "web-app",
+      "extension",
+      "self-hosted"
+    ],
+    "publishDate": "2025-08-05T12:00:00.000Z",
+    "heroImage": "",
+    "toolUrl": "https://addy.io"
+  },
+  {
+    "id": "photopea",
+    "slug": "photopea",
+    "title": "Photopea",
+    "description": "Free online photo editor with Photoshop-like features",
+    "author": "Waleed Sadek",
+    "username": "waleed",
+    "categories": [
+      "Create & Build"
+    ],
+    "tags": [
+      "photo-editor",
+      "design",
+      "psd",
+      "graphics",
+      "image-editing"
+    ],
+    "pricing": {
+      "model": "free"
+    },
+    "softwareTypes": [
+      "web-app"
+    ],
+    "publishDate": "2025-08-05T12:00:00.000Z",
+    "heroImage": "",
+    "toolUrl": "https://www.photopea.com"
+  },
+  {
+    "id": "pipedream",
+    "slug": "pipedream",
+    "title": "Pipedream",
+    "description": "Developer-focused workflow automation with code control",
+    "author": "Waleed Sadek",
+    "username": "waleed",
+    "categories": [
+      "Run Business",
+      "Create & Build"
+    ],
+    "tags": [
+      "automation",
+      "workflow",
+      "api",
+      "integration",
+      "serverless"
+    ],
+    "pricing": {
+      "model": "freemium"
+    },
+    "softwareTypes": [
+      "web-app"
+    ],
+    "publishDate": "2025-08-05T12:00:00.000Z",
+    "heroImage": "",
+    "toolUrl": "https://pipedream.com"
+  },
+  {
+    "id": "uiverse",
+    "slug": "uiverse",
+    "title": "Uiverse",
+    "description": "Copy-paste UI components and CSS animations library",
+    "author": "Waleed Sadek",
+    "username": "waleed",
+    "categories": [
+      "Create & Build"
+    ],
+    "tags": [
+      "ui-components",
+      "css",
+      "animation",
+      "frontend",
+      "design-system"
+    ],
+    "pricing": {
+      "model": "free"
+    },
+    "softwareTypes": [
+      "web-app"
+    ],
+    "publishDate": "2025-08-05T12:00:00.000Z",
+    "heroImage": "",
+    "toolUrl": "https://uiverse.io"
+  },
+  {
+    "id": "poe",
+    "slug": "poe",
+    "title": "Poe",
+    "description": "Chat with multiple AI models in one platform",
+    "author": "Waleed Sadek",
+    "username": "waleed",
+    "categories": [
+      "Understand & Improve",
+      "Create & Build"
+    ],
+    "tags": [
+      "ai-chat",
+      "chatbot",
+      "gpt",
+      "claude",
+      "ai-assistant"
+    ],
+    "pricing": {
+      "model": "freemium"
+    },
+    "softwareTypes": [
+      "web-app",
+      "mobile-app"
+    ],
+    "publishDate": "2025-08-05T12:00:00.000Z",
+    "heroImage": "",
+    "toolUrl": "https://poe.com"
+  },
+  {
     "id": "apollo",
     "slug": "apollo",
     "title": "Apollo",
