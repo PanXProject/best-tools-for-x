@@ -1,259 +1,285 @@
 {
   "tools": [
-  {
-    "id": "addy-io",
-    "slug": "addy-io",
-    "title": "addy.io",
-    "description": "Anonymous email forwarding with unlimited aliases",
-    "author": "Waleed Sadek",
-    "username": "waleed",
-    "categories": [
-      "Get & Keep Customers",
-      "Secure & Deploy"
-    ],
-    "tags": [
-      "email",
-      "privacy",
-      "forwarding",
-      "aliases",
-      "anonymous"
-    ],
-    "pricing": {
-      "model": "freemium"
+    {
+      "id": "scriptivox",
+      "slug": "scriptivox",
+      "title": "Scriptivox",
+      "description": "Audio to text - fast and accurate",
+      "author": "Abhishek Chauhan",
+      "username": "abhishekchauhan",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "ai",
+        "transcription",
+        "saas",
+        "productivity"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-08-05T15:46:37.578Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1754408454/bvfvwbppcakdgbqvkbry.png",
+      "toolUrl": "https://www.scriptivox.com"
     },
-    "softwareTypes": [
-      "web-app",
-      "extension",
-      "self-hosted"
-    ],
-    "publishDate": "2025-08-05T12:00:00.000Z",
-    "heroImage": "",
-    "toolUrl": "https://addy.io"
-  },
-  {
-    "id": "pipedream",
-    "slug": "pipedream",
-    "title": "Pipedream",
-    "description": "Developer-focused workflow automation with code control",
-    "author": "Waleed Sadek",
-    "username": "waleed",
-    "categories": [
-      "Run Business",
-      "Create & Build"
-    ],
-    "tags": [
-      "automation",
-      "workflow",
-      "api",
-      "integration",
-      "serverless"
-    ],
-    "pricing": {
-      "model": "freemium"
+    {
+      "id": "addy-io",
+      "slug": "addy-io",
+      "title": "addy.io",
+      "description": "Anonymous email forwarding with unlimited aliases",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Get & Keep Customers",
+        "Secure & Deploy"
+      ],
+      "tags": [
+        "email",
+        "privacy",
+        "forwarding",
+        "aliases",
+        "anonymous"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app",
+        "extension",
+        "self-hosted"
+      ],
+      "publishDate": "2025-08-05T12:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://addy.io"
     },
-    "softwareTypes": [
-      "web-app"
-    ],
-    "publishDate": "2025-08-05T12:00:00.000Z",
-    "heroImage": "",
-    "toolUrl": "https://pipedream.com"
-  },
-  {
-    "id": "uiverse",
-    "slug": "uiverse",
-    "title": "Uiverse",
-    "description": "Copy-paste UI components and CSS animations library",
-    "author": "Waleed Sadek",
-    "username": "waleed",
-    "categories": [
-      "Create & Build"
-    ],
-    "tags": [
-      "ui-components",
-      "css",
-      "animation",
-      "frontend",
-      "design-system"
-    ],
-    "pricing": {
-      "model": "free"
+    {
+      "id": "pipedream",
+      "slug": "pipedream",
+      "title": "Pipedream",
+      "description": "Developer-focused workflow automation with code control",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Run Business",
+        "Create & Build"
+      ],
+      "tags": [
+        "automation",
+        "workflow",
+        "api",
+        "integration",
+        "serverless"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-08-05T12:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://pipedream.com"
     },
-    "softwareTypes": [
-      "web-app"
-    ],
-    "publishDate": "2025-08-05T12:00:00.000Z",
-    "heroImage": "",
-    "toolUrl": "https://uiverse.io"
-  },
-  {
-    "id": "poe",
-    "slug": "poe",
-    "title": "Poe",
-    "description": "Chat with multiple AI models in one platform",
-    "author": "Waleed Sadek",
-    "username": "waleed",
-    "categories": [
-      "Understand & Improve",
-      "Create & Build"
-    ],
-    "tags": [
-      "ai-chat",
-      "chatbot",
-      "gpt",
-      "claude",
-      "ai-assistant"
-    ],
-    "pricing": {
-      "model": "freemium"
+    {
+      "id": "uiverse",
+      "slug": "uiverse",
+      "title": "Uiverse",
+      "description": "Copy-paste UI components and CSS animations library",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ui-components",
+        "css",
+        "animation",
+        "frontend",
+        "design-system"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-08-05T12:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://uiverse.io"
     },
-    "softwareTypes": [
-      "web-app",
-      "mobile-app"
-    ],
-    "publishDate": "2025-08-05T12:00:00.000Z",
-    "heroImage": "",
-    "toolUrl": "https://poe.com"
-  },
-  {
-    "id": "apollo",
-    "slug": "apollo",
-    "title": "Apollo",
-    "description": "AI-powered sales intelligence and CRM platform",
-    "author": "Waleed Sadek",
-    "username": "waleed",
-    "categories": [
-      "Get & Keep Customers",
-      "Run Business"
-    ],
-    "tags": [
-      "sales",
-      "crm",
-      "lead-generation",
-      "email-outreach",
-      "b2b"
-    ],
-    "pricing": {
-      "model": "freemium"
+    {
+      "id": "poe",
+      "slug": "poe",
+      "title": "Poe",
+      "description": "Chat with multiple AI models in one platform",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Understand & Improve",
+        "Create & Build"
+      ],
+      "tags": [
+        "ai-chat",
+        "chatbot",
+        "gpt",
+        "claude",
+        "ai-assistant"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app"
+      ],
+      "publishDate": "2025-08-05T12:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://poe.com"
     },
-    "softwareTypes": [
-      "web-app"
-    ],
-    "publishDate": "2025-07-29T20:37:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://www.apollo.io"
-  },
-  {
-    "id": "tinywow",
-    "slug": "tinywow",
-    "title": "TinyWow",
-    "description": "Free online tools for PDF, AI writing, and file conversions",
-    "author": "Waleed Sadek",
-    "username": "waleed",
-    "categories": [
-      "Create & Build",
-      "Run Business"
-    ],
-    "tags": [
-      "pdf-converter",
-      "file-conversion",
-      "ai-writing",
-      "online-tools",
-      "productivity"
-    ],
-    "pricing": {
-      "model": "freemium"
+    {
+      "id": "apollo",
+      "slug": "apollo",
+      "title": "Apollo",
+      "description": "AI-powered sales intelligence and CRM platform",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Get & Keep Customers",
+        "Run Business"
+      ],
+      "tags": [
+        "sales",
+        "crm",
+        "lead-generation",
+        "email-outreach",
+        "b2b"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-07-29T20:37:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://www.apollo.io"
     },
-    "softwareTypes": [
-      "web-app"
-    ],
-    "publishDate": "2025-07-29T20:36:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://tinywow.com"
-  },
-  {
-    "id": "pomofocus",
-    "slug": "pomofocus",
-    "title": "PomofocuS",
-    "description": "Simple pomodoro timer for focused work sessions",
-    "author": "Waleed Sadek",
-    "username": "waleed",
-    "categories": [
-      "Run Business",
-      "Understand & Improve"
-    ],
-    "tags": [
-      "pomodoro",
-      "productivity",
-      "time-management",
-      "focus",
-      "timer"
-    ],
-    "pricing": {
-      "model": "free"
+    {
+      "id": "sai",
+      "slug": "sai",
+      "title": "Sai",
+      "description": "AI learning platform for students with customizable study tools",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Understand & Improve",
+        "Connect & Collaborate"
+      ],
+      "tags": [
+        "learning",
+        "ai-tutor",
+        "education",
+        "study-assistant",
+        "personalized-learning"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-07-29T20:37:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://trysai.com"
     },
-    "softwareTypes": [
-      "web-app"
-    ],
-    "publishDate": "2025-07-29T20:35:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://pomofocus.io"
-  },
-{
-  "id": "sai",
-  "slug": "sai",
-  "title": "Sai",
-  "description": "AI learning platform for students with customizable study tools",
-  "author": "Waleed Sadek",
-  "username": "waleed",
-  "categories": [
-    "Understand & Improve",
-    "Connect & Collaborate"
-  ],
-  "tags": [
-    "learning",
-    "ai-tutor",
-    "education",
-    "study-assistant",
-    "personalized-learning"
-  ],
-  "pricing": {
-    "model": "freemium"
-  },
-  "softwareTypes": [
-    "web-app"
-  ],
-  "publishDate": "2025-07-29T20:37:00.317Z",
-  "heroImage": "",
-  "toolUrl": "https://trysai.com"
-},
-  {
-    "id": "slidesgo-ai",
-    "slug": "slidesgo-ai",
-    "title": "Slidesgo AI",
-    "description": "AI-powered presentation maker with professional templates",
-    "author": "Waleed Sadek",
-    "username": "waleed",
-    "categories": [
-      "Create & Build",
-      "Connect & Collaborate"
-    ],
-    "tags": [
-      "presentations",
-      "ai-design",
-      "templates",
-      "slides",
-      "powerpoint"
-    ],
-    "pricing": {
-      "model": "freemium"
+    {
+      "id": "tinywow",
+      "slug": "tinywow",
+      "title": "TinyWow",
+      "description": "Free online tools for PDF, AI writing, and file conversions",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Create & Build",
+        "Run Business"
+      ],
+      "tags": [
+        "pdf-converter",
+        "file-conversion",
+        "ai-writing",
+        "online-tools",
+        "productivity"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-07-29T20:36:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://tinywow.com"
     },
-    "softwareTypes": [
-      "web-app"
-    ],
-    "publishDate": "2025-07-29T20:33:00.317Z",
-    "heroImage": "",
-    "toolUrl": "https://slidesgo.com/ai-presentations"
-  },
+    {
+      "id": "pomofocus",
+      "slug": "pomofocus",
+      "title": "PomofocuS",
+      "description": "Simple pomodoro timer for focused work sessions",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Run Business",
+        "Understand & Improve"
+      ],
+      "tags": [
+        "pomodoro",
+        "productivity",
+        "time-management",
+        "focus",
+        "timer"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-07-29T20:35:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://pomofocus.io"
+    },
+    {
+      "id": "slidesgo-ai",
+      "slug": "slidesgo-ai",
+      "title": "Slidesgo AI",
+      "description": "AI-powered presentation maker with professional templates",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Create & Build",
+        "Connect & Collaborate"
+      ],
+      "tags": [
+        "presentations",
+        "ai-design",
+        "templates",
+        "slides",
+        "powerpoint"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-07-29T20:33:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://slidesgo.com/ai-presentations"
+    },
     {
       "id": "autolocalise",
       "slug": "autolocalise",
@@ -4117,5 +4143,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-07-25T12:35:47.298Z"
+  "lastUpdated": "2025-08-05T15:46:38.565Z"
 }
