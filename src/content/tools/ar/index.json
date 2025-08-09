@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "azkar-reminder-extension",
+      "slug": "azkar-reminder-extension",
+      "title": "Azkar Reminder Extension",
+      "title_en": "Azkar Reminder Extension",
+      "description": "إضافة للمتصفح تتذكرك بالأذكار والأدعية بشكل مستمر وبها اذكار الصباح وا",
+      "author": "Ahmed El-Tabarani",
+      "username": "ahmedeltabarani",
+      "categories": [
+        "إنشاء و تطوير",
+        "الفهم والتحسين"
+      ],
+      "tags": [
+        "اضافة",
+        "اذكار",
+        "ادعية",
+        "دين",
+        "اسلام"
+      ],
+      "pricing": {
+        "model": "مجاني"
+      },
+      "softwareTypes": [
+        "برنامج مساعد"
+      ],
+      "publishDate": "2025-08-09T12:20:13.489Z",
+      "heroImage": "",
+      "toolUrl": "https://chromewebstore.google.com/detail/%D9%85%D8%B0%D9%83%D8%B1-%D8%A7%D9%84%D8%A3%D8%B0%D9%83%D8%A7%D8%B1/fcagcaikgffokonhlfbaainnaknhjkpp"
+    },
+    {
       "id": "hadith-checker-extension",
       "slug": "hadith-checker-extension",
       "title": "Hadith Checker Extension",
@@ -4287,5 +4316,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-08-09T11:53:39.751Z"
+  "lastUpdated": "2025-08-09T12:20:14.233Z"
 }
