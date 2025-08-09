@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "hadith-checker-extension",
+      "slug": "hadith-checker-extension",
+      "title": "Hadith Checker Extension",
+      "title_en": "Hadith Checker Extension",
+      "description": "إضافة للمتصفح تستطيع من خلالها أن تتفقد الأحاديث هل هي موضوعة أو صحيحة",
+      "author": "Ahmed El-Tabarani",
+      "username": "ahmedeltabarani",
+      "categories": [
+        "إنشاء و تطوير",
+        "الفهم والتحسين"
+      ],
+      "tags": [
+        "بحث",
+        "اضافة",
+        "حديث",
+        "اسلام",
+        "تحقق"
+      ],
+      "pricing": {
+        "model": "مجاني"
+      },
+      "softwareTypes": [
+        "برنامج مساعد"
+      ],
+      "publishDate": "2025-08-09T11:52:07.836Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1754740173/etyw8agirpfebjnicvym.png",
+      "toolUrl": "https://chromewebstore.google.com/detail/%D8%A7%D9%84%D8%AA%D8%AD%D9%82%D9%82-%D9%85%D9%86-%D8%A7%D9%84%D8%A3%D8%AD%D8%A7%D8%AF%D9%8A%D8%AB-hadith/cfbllcckohbiiplkigbfllfphhakanke?authuser=1&hl=ar"
+    },
+    {
       "id": "dorar-hadith-api",
       "slug": "dorar-hadith-api",
       "title": "Dorar Hadith API",
@@ -4256,5 +4285,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-08-09T11:47:06.387Z"
+  "lastUpdated": "2025-08-09T11:52:08.591Z"
 }
