@@ -1,5 +1,144 @@
 {
   "tools": [
+      {
+      "id": "supernormal",
+      "slug": "supernormal",
+      "title": "سوبرنورمال",
+      "title_en": "Supernormal",
+      "description": "ملاحظات اجتماعات آلية بالذكاء الاصطناعي مع ملخص ومهام",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "التواصل والتعاون",
+        "إدارة الأعمال"
+      ],
+      "tags": [
+        "ذكاء-اصطناعي",
+        "اجتماعات",
+        "ملاحظات",
+        "تلخيص"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-08-12T20:37:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://www.supernormal.com"
+    },
+    {
+      "id": "squoosh",
+      "slug": "squoosh",
+      "title": "سكويش",
+      "title_en": "Squoosh",
+      "description": "ضغط وتحويل الصور مباشرة في المتصفح",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير"
+      ],
+      "tags": [
+        "ضغط-صور",
+        "تحسين-الصور",
+        "webp",
+        "اداة-ويب"
+      ],
+      "pricing": {
+        "model": "مجاني"
+      },
+      "softwareTypes": [
+        "مستضاف ذاتيًا",
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-08-12T20:37:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://squoosh.app"
+    },
+    {
+      "id": "excalidraw",
+      "slug": "excalidraw",
+      "title": "إكسكالي درو",
+      "title_en": "Excalidraw",
+      "description": "سبورة افتراضية للتخطيط والرسم التعاوني",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير",
+        "التواصل والتعاون"
+      ],
+      "tags": [
+        "لوحة-بيضاء",
+        "تعاون",
+        "مخططات",
+        "رسم"
+      ],
+      "pricing": {
+        "model": "مجاني"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-08-12T20:37:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://excalidraw.com"
+    },
+    {
+      "id": "pentestgpt",
+      "slug": "pentestgpt",
+      "title": "بنتست جي بي تي",
+      "title_en": "PentestGPT",
+      "description": "مساعد اختبارات الاختراق بالذكاء الاصطناعي للمختبرين",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "الأمان والنشر",
+        "الفهم والتحسين"
+      ],
+      "tags": [
+        "اختبار-اختراق",
+        "أمن-سيبراني",
+        "ذكاء-اصطناعي",
+        "تحليل-ثغرات"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-08-12T20:37:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://pentestgpt.ai"
+    },
+    {
+      "id": "rabbitsign",
+      "slug": "rabbitsign",
+      "title": "رابت ساين",
+      "title_en": "RabbitSign",
+      "description": "أداة توقيع إلكتروني مجانية تحترم الخصوصية",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "التواصل والتعاون",
+        "إدارة الأعمال"
+      ],
+      "tags": [
+        "توقيع-إلكتروني",
+        "مستندات",
+        "خصوصية"
+      ],
+      "pricing": {
+        "model": "مجاني"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-08-12T20:37:00.317Z",
+      "heroImage": "",
+      "toolUrl": "https://rabbitsign.com"
+    },
     {
       "id": "azkar-reminder-extension",
       "slug": "azkar-reminder-extension",
