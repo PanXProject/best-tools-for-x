@@ -1,5 +1,137 @@
 {
   "tools": [
+  {
+    "id": "supernormal",
+    "slug": "supernormal",
+    "title": "Supernormal",
+    "description": "AI-powered meeting notes from Google Meet, Zoom, and Teams",
+    "author": "Waleed Sadek",
+    "username": "waleed",
+    "categories": [
+      "Connect & Collaborate",
+    ],
+    "tags": [
+      "ai",
+      "productivity",
+      "meetings",
+      "notes"
+    ],
+    "pricing": {
+      "model": "freemium"
+    },
+    "softwareTypes": [
+      "web-app"
+    ],
+    "publishDate": "2025-08-12T00:00:00.000Z",
+    "heroImage": "",
+    "toolUrl": "https://www.supernormal.com"
+  },
+  {
+    "id": "squoosh",
+    "slug": "squoosh",
+    "title": "Squoosh",
+    "description": "Compress and convert images instantly in your browser",
+    "author": "Waleed Sadek",
+    "username": "waleed",
+    "categories": [
+      "Create & Build"
+    ],
+    "tags": [
+      "images",
+      "compression",
+      "offline",
+      "utility"
+    ],
+    "pricing": {
+      "model": "free"
+    },
+    "softwareTypes": [
+      "web-app",
+      "self-hosted"
+    ],
+    "publishDate": "2025-08-12T00:00:00.000Z",
+    "heroImage": "",
+    "toolUrl": "https://squoosh.app"
+  },
+  {
+    "id": "excalidraw",
+    "slug": "excalidraw",
+    "title": "Excalidraw",
+    "description": "Collaborative whiteboard for sketching diagrams and ideas",
+    "author": "Waleed Sadek",
+    "username": "waleed",
+    "categories": [
+      "Create & Build",
+      "Connect & Collaborate"
+    ],
+    "tags": [
+      "whiteboard",
+      "collaboration",
+      "sketch",
+      "diagrams"
+    ],
+    "pricing": {
+      "model": "free"
+    },
+    "softwareTypes": [
+      "web-app"
+    ],
+    "publishDate": "2025-08-12T00:00:00.000Z",
+    "heroImage": "",
+    "toolUrl": "https://excalidraw.com"
+  },
+  {
+    "id": "pentestgpt",
+    "slug": "pentestgpt",
+    "title": "PentestGPT",
+    "description": "AI-powered penetration testing and security assessment tool",
+    "author": "Waleed Sadek",
+    "username": "waleed",
+    "categories": [
+      "Secure & Deploy"
+    ],
+    "tags": [
+      "ai",
+      "security",
+      "pentest",
+      "cybersecurity"
+    ],
+    "pricing": {
+      "model": "free"
+    },
+    "softwareTypes": [
+      "web-app"
+    ],
+    "publishDate": "2025-08-12T00:00:00.000Z",
+    "heroImage": "",
+    "toolUrl": "https://pentestgpt.ai"
+  },
+  {
+    "id": "rabbitsign",
+    "slug": "rabbitsign",
+    "title": "RabbitSign",
+    "description": "Free unlimited e-signature platform",
+    "author": "Waleed Sadek",
+    "username": "waleed",
+    "categories": [
+      "Run Business"
+    ],
+    "tags": [
+      "signatures",
+      "documents",
+      "contracts",
+      "productivity"
+    ],
+    "pricing": {
+      "model": "free"
+    },
+    "softwareTypes": [
+      "web-app"
+    ],
+    "publishDate": "2025-08-12T00:00:00.000Z",
+    "heroImage": "",
+    "toolUrl": "https://rabbitsign.com"
+  },
     {
       "id": "scriptivox",
       "slug": "scriptivox",
