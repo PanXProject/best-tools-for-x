@@ -1,5 +1,145 @@
 {
   "tools": [
+        {
+      "id": "temp-email",
+      "slug": "temp-email",
+      "title": "Temp Email",
+      "description": "Generate a disposable email address to avoid spam and protect your privacy.",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Secure & Deploy",
+        "Connect & Collaborate"
+      ],
+      "tags": [
+        "email",
+        "temporary-email",
+        "disposable-email",
+        "privacy",
+        "spam-protection"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app",
+        "extension"
+      ],
+      "publishDate": "2025-08-20T06:26:07.000Z",
+      "heroImage": "",
+      "toolUrl": "https://temp-mail.org"
+    },
+    {
+      "id": "flowcv",
+      "slug": "flowcv",
+      "title": "FlowCV",
+      "description": "Create professional, ATS-ready resumes and cover letters with ease.",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Create & Build",
+        "Manage People"
+      ],
+      "tags": [
+        "resume-builder",
+        "cv-maker",
+        "job-search",
+        "templates",
+        "cover-letter"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-08-20T06:26:07.000Z",
+      "heroImage": "",
+      "toolUrl": "https://flowcv.io"
+    },
+    {
+      "id": "bing-image-create",
+      "slug": "bing-image-create",
+      "title": "Bing Image Create",
+      "description": "Generate unique images and videos from text descriptions using AI.",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai-image-generator",
+        "ai-video-generator",
+        "dall-e",
+        "generative-ai"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app"
+      ],
+      "publishDate": "2025-08-20T06:26:07.000Z",
+      "heroImage": "",
+      "toolUrl": "https://www.bing.com/images/create"
+    },
+    {
+      "id": "react-bits",
+      "slug": "react-bits",
+      "title": "React Bits",
+      "description": "A collection of React patterns, techniques, tips, and tricks for developers.",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "react",
+        "development",
+        "javascript",
+        "best-practices",
+        "code-patterns"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-08-20T06:26:07.000Z",
+      "heroImage": "",
+      "toolUrl": "https://vasanthk.gitbooks.io/react-bits"
+    },
+    {
+      "id": "notegpt",
+      "slug": "notegpt",
+      "title": "NoteGPT",
+      "description": "AI-powered tool to summarize content from videos, articles, and documents.",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Understand & Improve",
+        "Create & Build"
+      ],
+      "tags": [
+        "ai-summarizer",
+        "note-taking",
+        "youtube-summary",
+        "productivity",
+        "ai-assistant"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app",
+        "extension"
+      ],
+      "publishDate": "2025-08-20T06:26:07.000Z",
+      "heroImage": "",
+      "toolUrl": "https://notegpt.io"
+    },
     {
       "id": "frames",
       "slug": "frames",
