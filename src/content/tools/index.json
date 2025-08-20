@@ -88,7 +88,7 @@
       "id": "react-bits",
       "slug": "react-bits",
       "title": "React Bits",
-      "description": "A collection of React patterns, techniques, tips, and tricks for developers.",
+      "description": "A collection of animated, interactive & customizable React components.",
       "author": "Waleed Sadek",
       "username": "waleed",
       "categories": [
@@ -96,10 +96,10 @@
       ],
       "tags": [
         "react",
+        "ui-components",
         "development",
-        "javascript",
-        "best-practices",
-        "code-patterns"
+        "animations",
+        "open-source"
       ],
       "pricing": {
         "model": "free"
@@ -107,9 +107,9 @@
       "softwareTypes": [
         "web-app"
       ],
-      "publishDate": "2025-08-20T06:26:07.000Z",
+      "publishDate": "2025-08-20T06:36:40.000Z",
       "heroImage": "",
-      "toolUrl": "https://vasanthk.gitbooks.io/react-bits"
+      "toolUrl": "https://reactbits.dev"
     },
     {
       "id": "notegpt",
