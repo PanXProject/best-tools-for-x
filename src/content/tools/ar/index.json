@@ -1,146 +1,147 @@
 {
   "tools": [
-      {
-        "id": "temp-email",
-        "slug": "temp-email",
-        "title": "البريد المؤقت",
-        "title_en": "Temp Email",
-        "description": "أنشئ عنوان بريد إلكتروني مؤقت لتجنب الرسائل المزعجة وحماية خصوصيتك.",
-        "author": "وليد صادق",
-        "username": "waleed",
-        "categories": [
-          "الأمان والنشر",
-          "التواصل والتعاون"
-        ],
-        "tags": [
-          "بريد-إلكتروني",
-          "بريد-مؤقت",
-          "حماية-الخصوصية",
-          "حماية-البريد"
-        ],
-        "pricing": {
-          "model": "مجاني"
-        },
-        "softwareTypes": [
-          "تطبيق ويب",
-          "برنامج مساعد"
-        ],
-        "publishDate": "2025-08-20T06:26:07.000Z",
-        "heroImage": "",
-        "toolUrl": "https://temp-mail.org"
+    {
+      "id": "temp-email",
+      "slug": "temp-email",
+      "title": "البريد المؤقت",
+      "title_en": "Temp Email",
+      "description": "أنشئ عنوان بريد إلكتروني مؤقت لتجنب الرسائل المزعجة وحماية خصوصيتك.",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "الأمان والنشر",
+        "التواصل والتعاون"
+      ],
+      "tags": [
+        "بريد-إلكتروني",
+        "بريد-مؤقت",
+        "حماية-الخصوصية",
+        "حماية-البريد"
+      ],
+      "pricing": {
+        "model": "مجاني"
       },
-      {
-        "id": "flowcv",
-        "slug": "flowcv",
-        "title": "فلو سي في",
-        "title_en": "FlowCV",
-        "description": "أنشئ سير ذاتية واحترافية جاهزة لأنظمة تتبع المتقدمين (ATS) بسهولة.",
-        "author": "وليد صادق",
-        "username": "waleed",
-        "categories": [
-          "إنشاء و تطوير",
-          "إدارة الأفراد"
-        ],
-        "tags": [
-          "صناعة-سيرة-ذاتية",
-          "قوالب-سيرة-ذاتية",
-          "بحث-عن-وظائف",
-          "رسالة-تغطية"
-        ],
-        "pricing": {
-          "model": "فريميوم"
-        },
-        "softwareTypes": [
-          "تطبيق ويب"
-        ],
-        "publishDate": "2025-08-20T06:26:07.000Z",
-        "heroImage": "",
-        "toolUrl": "https://flowcv.io"
+      "softwareTypes": [
+        "تطبيق ويب",
+        "برنامج مساعد"
+      ],
+      "publishDate": "2025-08-20T06:36:40.000Z",
+      "heroImage": "",
+      "toolUrl": "https://temp-mail.org"
+    },
+    {
+      "id": "flowcv",
+      "slug": "flowcv",
+      "title": "فلو سي في",
+      "title_en": "FlowCV",
+      "description": "أنشئ سير ذاتية واحترافية جاهزة لأنظمة تتبع المتقدمين (ATS) بسهولة.",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير",
+        "إدارة الأفراد"
+      ],
+      "tags": [
+        "صناعة-سيرة-ذاتية",
+        "قوالب-سيرة-ذاتية",
+        "بحث-عن-وظائف",
+        "رسالة-تغطية"
+      ],
+      "pricing": {
+        "model": "فريميوم"
       },
-      {
-        "id": "bing-image-create",
-        "slug": "bing-image-create",
-        "title": "بينج للصور والفيديوهات",
-        "title_en": "Bing Image Create",
-        "description": "أنشئ صورًا ومقاطع فيديو فريدة من وصف نصي باستخدام الذكاء الاصطناعي.",
-        "author": "وليد صادق",
-        "username": "waleed",
-        "categories": [
-          "إنشاء و تطوير"
-        ],
-        "tags": [
-          "انشاء-صور-بالذكاء-الاصطناعي",
-          "انشاء-فيديو-بالذكاء-الاصطناعي",
-          "توليد-الذكاء-الاصطناعي"
-        ],
-        "pricing": {
-          "model": "مجاني"
-        },
-        "softwareTypes": [
-          "تطبيق ويب",
-          "تطبيق جوال"
-        ],
-        "publishDate": "2025-08-20T06:26:07.000Z",
-        "heroImage": "",
-        "toolUrl": "https://www.bing.com/images/create"
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-08-20T06:36:40.000Z",
+      "heroImage": "",
+      "toolUrl": "https://flowcv.io"
+    },
+    {
+      "id": "bing-image-create",
+      "slug": "bing-image-create",
+      "title": "بينج للصور والفيديوهات",
+      "title_en": "Bing Image Create",
+      "description": "أنشئ صورًا ومقاطع فيديو فريدة من وصف نصي باستخدام الذكاء الاصطناعي.",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير"
+      ],
+      "tags": [
+        "انشاء-صور-بالذكاء-الاصطناعي",
+        "انشاء-فيديو-بالذكاء-الاصطناعي",
+        "توليد-الذكاء-الاصطناعي"
+      ],
+      "pricing": {
+        "model": "مجاني"
       },
-      {
-        "id": "react-bits",
-        "slug": "react-bits",
-        "title": "رياكت بتس",
-        "title_en": "React Bits",
-        "description": "مجموعة من الأنماط والتقنيات والنصائح والحيل لمطوري رياكت.",
-        "author": "وليد صادق",
-        "username": "waleed",
-        "categories": [
-          "إنشاء و تطوير"
-        ],
-        "tags": [
-          "رياكت",
-          "تطوير",
-          "جافا-سكريبت",
-          "مطورين"
-        ],
-        "pricing": {
-          "model": "مجاني"
-        },
-        "softwareTypes": [
-          "تطبيق ويب"
-        ],
-        "publishDate": "2025-08-20T06:26:07.000Z",
-        "heroImage": "",
-        "toolUrl": "https://vasanthk.gitbooks.io/react-bits"
+      "softwareTypes": [
+        "تطبيق ويب",
+        "تطبيق جوال"
+      ],
+      "publishDate": "2025-08-20T06:36:40.000Z",
+      "heroImage": "",
+      "toolUrl": "https://www.bing.com/images/create"
+    },
+    {
+      "id": "react-bits",
+      "slug": "react-bits",
+      "title": "رياكت بتس",
+      "title_en": "React Bits",
+      "description": "مجموعة من مكونات رياكت المتحركة والتفاعلية والقابلة للتخصيص.",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير"
+      ],
+      "tags": [
+        "رياكت",
+        "تطوير",
+        "مكونات-واجهة-المستخدم",
+        "رسوم-متحركة",
+        "مفتوح-المصدر"
+      ],
+      "pricing": {
+        "model": "مجاني"
       },
-      {
-        "id": "notegpt",
-        "slug": "notegpt",
-        "title": "نوت جي بي تي",
-        "title_en": "NoteGPT",
-        "description": "أداة تعمل بالذكاء الاصطناعي لتلخيص المحتوى من الفيديوهات والمقالات والمستندات.",
-        "author": "وليد صادق",
-        "username": "waleed",
-        "categories": [
-          "الفهم والتحسين",
-          "إنشاء و تطوير"
-        ],
-        "tags": [
-          "تلخيص-بالذكاء-الاصطناعي",
-          "تدوين-ملاحظات",
-          "ملخص-يوتيوب",
-          "إنتاجية"
-        ],
-        "pricing": {
-          "model": "فريميوم"
-        },
-        "softwareTypes": [
-          "تطبيق ويب",
-          "برنامج مساعد"
-        ],
-        "publishDate": "2025-08-20T06:26:07.000Z",
-        "heroImage": "",
-        "toolUrl": "https://notegpt.io"
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-08-20T06:36:40.000Z",
+      "heroImage": "",
+      "toolUrl": "https://reactbits.dev"
+    },
+    {
+      "id": "notegpt",
+      "slug": "notegpt",
+      "title": "نوت جي بي تي",
+      "title_en": "NoteGPT",
+      "description": "أداة تعمل بالذكاء الاصطناعي لتلخيص المحتوى من الفيديوهات والمقالات والمستندات.",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "الفهم والتحسين",
+        "إنشاء و تطوير"
+      ],
+      "tags": [
+        "تلخيص-بالذكاء-الاصطناعي",
+        "تدوين-ملاحظات",
+        "ملخص-يوتيوب",
+        "إنتاجية"
+      ],
+      "pricing": {
+        "model": "فريميوم"
       },
-      {
+      "softwareTypes": [
+        "تطبيق ويب",
+        "برنامج مساعد"
+      ],
+      "publishDate": "2025-08-20T06:36:40.000Z",
+      "heroImage": "",
+      "toolUrl": "https://notegpt.io"
+    },
+    {
       "id": "supernormal",
       "slug": "supernormal",
       "title": "سوبرنورمال",
