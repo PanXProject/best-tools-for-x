@@ -1,6 +1,61 @@
 {
   "tools": [
-      {
+    {
+      "id": "fiddl-art",
+      "slug": "fiddl-art",
+      "title": "Fiddl.art",
+      "description": "Create and Earn with Fiddl.art",
+      "author": "Myla Estolloso",
+      "username": "myla_fiddlart",
+      "categories": [
+        "Create & Build",
+        "Understand & Improve",
+        "Connect & Collaborate"
+      ],
+      "tags": [
+        "ai",
+        "images",
+        "videos",
+        "ai-art"
+      ],
+      "pricing": {
+        "model": "free-trial"
+      },
+      "softwareTypes": [
+        "self-hosted"
+      ],
+      "publishDate": "2025-08-20T10:59:14.002Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1755687435/kizr40gy1hwl6vu6ousc.jpg",
+      "toolUrl": "https://fiddl.art"
+    },
+    {
+      "id": "react-bits",
+      "slug": "react-bits",
+      "title": "React Bits",
+      "description": "A collection of animated, interactive & customizable React components.",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "react",
+        "ui-components",
+        "development",
+        "animations",
+        "open-source"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-08-20T06:36:40.000Z",
+      "heroImage": "",
+      "toolUrl": "https://reactbits.dev"
+    },
+    {
       "id": "temp-email",
       "slug": "temp-email",
       "title": "Temp Email",
@@ -83,33 +138,6 @@
       "publishDate": "2025-08-20T06:26:07.000Z",
       "heroImage": "",
       "toolUrl": "https://www.bing.com/images/create"
-    },
-    {
-      "id": "react-bits",
-      "slug": "react-bits",
-      "title": "React Bits",
-      "description": "A collection of animated, interactive & customizable React components.",
-      "author": "Waleed Sadek",
-      "username": "waleed",
-      "categories": [
-        "Create & Build"
-      ],
-      "tags": [
-        "react",
-        "ui-components",
-        "development",
-        "animations",
-        "open-source"
-      ],
-      "pricing": {
-        "model": "free"
-      },
-      "softwareTypes": [
-        "web-app"
-      ],
-      "publishDate": "2025-08-20T06:36:40.000Z",
-      "heroImage": "",
-      "toolUrl": "https://reactbits.dev"
     },
     {
       "id": "notegpt",
@@ -4444,5 +4472,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-08-17T12:24:41.546Z"
+  "lastUpdated": "2025-08-20T10:59:14.859Z"
 }
