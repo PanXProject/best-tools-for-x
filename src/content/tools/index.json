@@ -1,6 +1,6 @@
 {
   "tools": [
-        {
+      {
       "id": "temp-email",
       "slug": "temp-email",
       "title": "Temp Email",
