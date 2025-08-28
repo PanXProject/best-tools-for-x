@@ -1,5 +1,155 @@
 {
   "tools": [
+      {
+      "id": "descript",
+      "slug": "descript",
+      "title": "ديسكريبت",
+      "title_en": "Descript",
+      "description": "حرر الفيديوهات والبودكاست كمستند نصي باستخدام أدوات الذكاء الاصطناعي",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير",
+        "التواصل والتعاون",
+        "الفهم والتحسين"
+      ],
+      "tags": [
+        "تحرير-الفيديو",
+        "بودكاست",
+        "تفريغ-صوتي",
+        "ذكاء-اصطناعي",
+        "تعاون"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب",
+        "تطبيق سطح المكتب"
+      ],
+      "publishDate": "2025-08-28T10:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://www.descript.com"
+    },
+    {
+      "id": "whimsical",
+      "slug": "whimsical",
+      "title": "وميسيكال",
+      "title_en": "Whimsical",
+      "description": "أنشئ مخططات التدفق والخرائط الذهنية والإطارات الشبكية بمساعدة الذكاء الاصطناعي",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير",
+        "التواصل والتعاون",
+        "الفهم والتحسين"
+      ],
+      "tags": [
+        "مخطط-تدفق",
+        "خريطة-ذهنية",
+        "إطار-شبكي",
+        "ذكاء-اصطناعي",
+        "مخططات"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-08-28T10:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://whimsical.com"
+    },
+    {
+      "id": "speechify",
+      "slug": "speechify",
+      "title": "سبيتشفاي",
+      "title_en": "Speechify",
+      "description": "تحويل النص إلى كلام بالذكاء الاصطناعي مع أصوات طبيعية وتحكم بالسرعة",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "الفهم والتحسين",
+        "إنشاء و تطوير"
+      ],
+      "tags": [
+        "نص-إلى-كلام",
+        "صوت-ذكي",
+        "إمكانية-وصول",
+        "قراءة",
+        "إنتاجية"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب",
+        "تطبيق جوال",
+        "برنامج مساعد"
+      ],
+      "publishDate": "2025-08-28T10:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://speechify.com"
+    },
+    {
+      "id": "beacons-ai",
+      "slug": "beacons-ai",
+      "title": "بيكونز إيه آي",
+      "title_en": "Beacons.ai",
+      "description": "منصة شاملة للمبدعين مع أدوات الرابط الموحد وتحقيق الدخل",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "جذب العملاء والاحتفاظ بهم",
+        "إدارة الأعمال",
+        "إنشاء و تطوير"
+      ],
+      "tags": [
+        "رابط-موحد",
+        "أدوات-المبدعين",
+        "تحقيق-دخل",
+        "وسائل-التواصل",
+        "تحليلات"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-08-28T10:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://beacons.ai"
+    },
+    {
+      "id": "magic-pattern",
+      "slug": "magic-pattern",
+      "title": "ماجيك باترن",
+      "title_en": "MagicPattern",
+      "description": "أنشئ أنماط SVG جميلة وخلفيات بإنتاج الذكاء الاصطناعي",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير"
+      ],
+      "tags": [
+        "أنماط-svg",
+        "خلفيات",
+        "تصميم",
+        "إنتاج-ذكي",
+        "رسومات"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-08-28T10:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://www.magicpattern.design"
+    },
     {
       "id": "temp-email",
       "slug": "temp-email",
