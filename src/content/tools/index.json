@@ -1,5 +1,150 @@
 {
   "tools": [
+      {
+      "id": "descript",
+      "slug": "descript",
+      "title": "Descript",
+      "description": "Edit videos and podcasts like a document with AI-powered tools",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Create & Build",
+        "Connect & Collaborate",
+        "Understand & Improve"
+      ],
+      "tags": [
+        "video-editing",
+        "podcast",
+        "transcription",
+        "ai",
+        "collaboration"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app",
+        "desktop-app"
+      ],
+      "publishDate": "2025-08-28T10:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://www.descript.com"
+    },
+    {
+      "id": "whimsical",
+      "slug": "whimsical",
+      "title": "Whimsical",
+      "description": "Create flowcharts, mind maps, and wireframes with AI assistance",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Create & Build",
+        "Connect & Collaborate",
+        "Understand & Improve"
+      ],
+      "tags": [
+        "flowchart",
+        "mind-map",
+        "wireframe",
+        "ai",
+        "diagram"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-08-28T10:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://whimsical.com"
+    },
+    {
+      "id": "speechify",
+      "slug": "speechify",
+      "title": "Speechify",
+      "description": "AI-powered text-to-speech with natural voices and speed control",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Understand & Improve",
+        "Create & Build"
+      ],
+      "tags": [
+        "text-to-speech",
+        "ai-voice",
+        "accessibility",
+        "reading",
+        "productivity"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app",
+        "extension"
+      ],
+      "publishDate": "2025-08-28T10:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://speechify.com"
+    },
+    {
+      "id": "beacons-ai",
+      "slug": "beacons-ai",
+      "title": "Beacons.ai",
+      "description": "All-in-one creator platform for link-in-bio and monetization tools",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Get & Keep Customers",
+        "Run Business",
+        "Create & Build"
+      ],
+      "tags": [
+        "link-in-bio",
+        "creator-tools",
+        "monetization",
+        "social-media",
+        "analytics"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-08-28T10:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://beacons.ai"
+    },
+    {
+      "id": "magic-pattern",
+      "slug": "magic-pattern",
+      "title": "MagicPattern",
+      "description": "Create beautiful SVG patterns and backgrounds with AI generation",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "svg-patterns",
+        "backgrounds",
+        "design",
+        "ai-generation",
+        "graphics"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-08-28T10:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://www.magicpattern.design"
+    },
     {
       "id": "fiddl-art",
       "slug": "fiddl-art",
