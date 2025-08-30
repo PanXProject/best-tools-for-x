@@ -24,7 +24,9 @@
       ],
       "publishDate": "2025-08-30T08:17:44.921Z",
       "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1756541836/ioiupxieqkwkamp751iv.png",
-      "toolUrl": "https://greenmormail.com"
+      "toolUrl": "https://greenmormail.com",
+      "featured": false,
+      "featuredPosition": null
     },
     {
       "id": "descript",
@@ -4643,5 +4645,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-08-30T08:17:45.685Z"
+  "lastUpdated": "2025-08-30T08:20:38.483Z"
 }
