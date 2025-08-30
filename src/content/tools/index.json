@@ -1,6 +1,32 @@
 {
   "tools": [
-      {
+    {
+      "id": "greenmor-mail",
+      "slug": "greenmor-mail",
+      "title": "Greenmor Mail",
+      "description": "Custom email for your domain",
+      "author": "Niyati Sethia",
+      "username": "greenmor",
+      "categories": [
+        "Run Business",
+        "Connect & Collaborate"
+      ],
+      "tags": [
+        "productivity",
+        "email",
+        "business-email"
+      ],
+      "pricing": {
+        "model": "subscription"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-08-30T08:17:44.921Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1756541836/ioiupxieqkwkamp751iv.png",
+      "toolUrl": "https://greenmormail.com"
+    },
+    {
       "id": "descript",
       "slug": "descript",
       "title": "Descript",
@@ -4617,5 +4643,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-08-20T10:59:14.859Z"
+  "lastUpdated": "2025-08-30T08:17:45.685Z"
 }
