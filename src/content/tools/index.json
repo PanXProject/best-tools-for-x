@@ -74,10 +74,10 @@
         ],
         "tags": [
           "tools",
-          "discovery",
-          "resources",
-          "development",
-          "toolkit"
+          "ai",
+          "writing",
+          "seo",
+          "math"
         ],
         "pricing": {
           "model": "free"
@@ -121,18 +121,18 @@
         "id": "effect-app",
         "slug": "effect-app",
         "title": "Effect",
-        "description": "Functional TypeScript framework for building reliable applications",
+        "description": "Online visual effects generator for images and videos",
         "author": "Waleed Sadek",
         "username": "waleed",
         "categories": [
           "Create & Build"
         ],
         "tags": [
-          "typescript",
-          "functional",
-          "framework",
-          "development",
-          "reliability"
+          "visual-effects",
+          "images",
+          "videos",
+          "filters",
+          "editing"
         ],
         "pricing": {
           "model": "free"
