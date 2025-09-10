@@ -1,6 +1,155 @@
 {
   "tools": [
-          {
+        {
+        "id": "lumo-ai",
+        "slug": "lumo-ai",
+        "title": "لومو",
+        "title_en": "Lumo",
+        "description": "مساعد ذكي يحمي الخصوصية مع تشفير منعدم الوصول",
+        "author": "وليد صادق",
+        "username": "waleed",
+        "categories": [
+          "الأمان والنشر",
+          "التواصل والتعاون",
+          "إنشاء و تطوير"
+        ],
+        "tags": [
+          "ذكاء-اصطناعي",
+          "خصوصية",
+          "مساعد",
+          "تشفير",
+          "دردشة"
+        ],
+        "pricing": {
+          "model": "فريميوم"
+        },
+        "softwareTypes": [
+          "تطبيق ويب",
+          "تطبيق جوال",
+          "تطبيق سطح المكتب"
+        ],
+        "publishDate": "2025-09-10T12:00:00.000Z",
+        "heroImage": "",
+        "toolUrl": "https://lumo.proton.me"
+      },
+      {
+        "id": "httpie",
+        "slug": "httpie",
+        "title": "إتش تي تي بي آي",
+        "title_en": "HTTPie",
+        "description": "عميل HTTP حديث لاختبار وت  صحيح واجهات برمجة التطبيقات",
+        "author": "وليد صادق",
+        "username": "waleed",
+        "categories": [
+          "إنشاء و تطوير",
+          "الفهم والتحسين"
+        ],
+        "tags": [
+          "واجهة-برمجية",
+          "api",
+          "اختبار",
+          "سطر-الأوامر",
+          "json"
+        ],
+        "pricing": {
+          "model": "فريميوم"
+        },
+        "softwareTypes": [
+          "واجهة سطر الأوامر",
+          "تطبيق ويب",
+          "تطبيق سطح المكتب"
+        ],
+        "publishDate": "2025-09-10T12:00:00.000Z",
+        "heroImage": "",
+        "toolUrl": "https://httpie.io"
+      },
+      {
+        "id": "toolsaday-toolkit",
+        "slug": "toolsaday-toolkit",
+        "title": "مستكشف أدوات تولزداي",
+        "title_en": "Toolsday Toolkit",
+        "description": "مجموعة من أدوات الكتابة، تحسين محركات البحث، النصوص، والعديد من الأدوات الأخرى المجانية",
+        "author": "وليد صادق",
+        "username": "waleed",
+        "categories": [
+          "الفهم والتحسين",
+          "إنشاء و تطوير"
+        ],
+        "tags": [
+          "أدوات",
+          "ذكاء اصطناعي",
+          "كتابة",
+          "سيو",
+          "رياضيات"
+        ],
+        "pricing": {
+          "model": "مجاني"
+        },
+        "softwareTypes": [
+          "تطبيق ويب"
+        ],
+        "publishDate": "2025-09-10T12:00:00.000Z",
+        "heroImage": "",
+        "toolUrl": "https://toolsaday.com/toolkit-explorer"
+      },
+      {
+        "id": "json-crack",
+        "slug": "json-crack",
+        "title": "جيسون كراك",
+        "title_en": "JSON Crack",
+        "description": "صوّر وحلل بيانات JSON بالرسوم البيانية التفاعلية",
+        "author": "وليد صادق",
+        "username": "waleed",
+        "categories": [
+          "إنشاء و تطوير",
+          "الفهم والتحسين"
+        ],
+        "tags": [
+          "جيسون",
+          "تصور-البيانات",
+          "بيانات",
+          "رسوم-بيانية",
+          "تحليل"
+        ],
+        "pricing": {
+          "model": "مجاني"
+        },
+        "softwareTypes": [
+          "تطبيق ويب"
+        ],
+        "publishDate": "2025-09-10T12:00:00.000Z",
+        "heroImage": "",
+        "toolUrl": "https://jsoncrack.com"
+      },
+      {
+        "id": "effect-app",
+        "slug": "effect-app",
+        "title": "إفكت",
+        "title_en": "Effect",
+        "description": "مولد تأثيرات بصرية أونلاين للصور ومقاطع الفيديو",
+        "author": "وليد صادق",
+        "username": "waleed",
+        "categories": [
+          "إنشاء و تطوير"
+        ],
+        "tags": [
+          "تأثيرات-بصرية",
+          "صور",
+          "فيديو",
+          "فلاتر",
+          "تحرير"
+        ],
+        "pricing": {
+          "model": "مجاني"
+        },
+        "softwareTypes": [
+          "تطبيق ويب"
+        ],
+        "publishDate": "2025-09-10T12:00:00.000Z",
+        "heroImage": "",
+        "toolUrl": "https://effect.app"
+      },
+      {
         "id": "cleanup-pictures",
         "slug": "cleanup-pictures",
         "title": "كلين أب بيكتشرز",
