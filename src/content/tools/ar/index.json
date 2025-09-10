@@ -37,7 +37,7 @@
         "slug": "httpie",
         "title": "إتش تي تي بي آي",
         "title_en": "HTTPie",
-        "description": "عميل HTTP حديث لاختبار وت  صحيح واجهات برمجة التطبيقات",
+        "description": "عميل HTTP حديث لاختبار وتصحيح واجهات برمجة التطبيقات",
         "author": "وليد صادق",
         "username": "waleed",
         "categories": [
@@ -66,7 +66,7 @@
       {
         "id": "toolsaday-toolkit",
         "slug": "toolsaday-toolkit",
-        "title": "مستكشف أدوات تولزداي",
+        "title": "أدوات تولزداي",
         "title_en": "Toolsday Toolkit",
         "description": "مجموعة من أدوات الكتابة، تحسين محركات البحث، النصوص، والعديد من الأدوات الأخرى المجانية",
         "author": "وليد صادق",
