@@ -1,150 +1,177 @@
 {
   "tools": [
-      {
-        "id": "lumo-ai",
-        "slug": "lumo-ai",
-        "title": "Lumo",
-        "description": "Privacy-first AI assistant with zero-access encryption",
-        "author": "Waleed Sadek",
-        "username": "waleed",
-        "categories": [
-          "Secure & Deploy",
-          "Connect & Collaborate",
-          "Create & Build"
-        ],
-        "tags": [
-          "ai",
-          "privacy",
-          "assistant",
-          "encryption",
-          "chat"
-        ],
-        "pricing": {
-          "model": "freemium"
-        },
-        "softwareTypes": [
-          "web-app",
-          "mobile-app",
-          "desktop-app"
-        ],
-        "publishDate": "2025-09-10T12:00:00.000Z",
-        "heroImage": "",
-        "toolUrl": "https://lumo.proton.me"
+    {
+      "id": "nexnotes-ai",
+      "slug": "nexnotes-ai",
+      "title": "NexNotes AI",
+      "description": "one stop AI powered study solution",
+      "author": "Arush Sharma",
+      "username": "arush1234sharma",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "ai",
+        "productivity",
+        "study",
+        "time-saving",
+        "more"
+      ],
+      "pricing": {
+        "model": "free"
       },
-      {
-        "id": "httpie",
-        "slug": "httpie",
-        "title": "HTTPie",
-        "description": "Modern HTTP client for API testing and debugging",
-        "author": "Waleed Sadek",
-        "username": "waleed",
-        "categories": [
-          "Create & Build",
-          "Understand & Improve"
-        ],
-        "tags": [
-          "api",
-          "http",
-          "testing",
-          "cli",
-          "debugging"
-        ],
-        "pricing": {
-          "model": "freemium"
-        },
-        "softwareTypes": [
-          "cli",
-          "web-app",
-          "desktop-app"
-        ],
-        "publishDate": "2025-09-10T12:00:00.000Z",
-        "heroImage": "",
-        "toolUrl": "https://httpie.io"
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-09-12T13:24:44.092Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1757683160/oddmxyrazeiky5huxemh.png",
+      "toolUrl": "https://nexnotes-ai.pages.dev"
+    },
+    {
+      "id": "lumo-ai",
+      "slug": "lumo-ai",
+      "title": "Lumo",
+      "description": "Privacy-first AI assistant with zero-access encryption",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Secure & Deploy",
+        "Connect & Collaborate",
+        "Create & Build"
+      ],
+      "tags": [
+        "ai",
+        "privacy",
+        "assistant",
+        "encryption",
+        "chat"
+      ],
+      "pricing": {
+        "model": "freemium"
       },
-      {
-        "id": "toolsaday-toolkit",
-        "slug": "toolsaday-toolkit",
-        "title": "Toolsday Toolkit",
-        "description": "Collection of free writing, SEO, text and many other tools",
-        "author": "Waleed Sadek",
-        "username": "waleed",
-        "categories": [
-          "Understand & Improve",
-          "Create & Build"
-        ],
-        "tags": [
-          "tools",
-          "ai",
-          "writing",
-          "seo",
-          "math"
-        ],
-        "pricing": {
-          "model": "free"
-        },
-        "softwareTypes": [
-          "web-app"
-        ],
-        "publishDate": "2025-09-10T12:00:00.000Z",
-        "heroImage": "",
-        "toolUrl": "https://toolsaday.com/toolkit-explorer"
+      "softwareTypes": [
+        "web-app",
+        "mobile-app",
+        "desktop-app"
+      ],
+      "publishDate": "2025-09-10T12:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://lumo.proton.me"
+    },
+    {
+      "id": "httpie",
+      "slug": "httpie",
+      "title": "HTTPie",
+      "description": "Modern HTTP client for API testing and debugging",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Create & Build",
+        "Understand & Improve"
+      ],
+      "tags": [
+        "api",
+        "http",
+        "testing",
+        "cli",
+        "debugging"
+      ],
+      "pricing": {
+        "model": "freemium"
       },
-      {
-        "id": "json-crack",
-        "slug": "json-crack",
-        "title": "JSON Crack",
-        "description": "Visualize and analyze JSON data with interactive graphs",
-        "author": "Waleed Sadek",
-        "username": "waleed",
-        "categories": [
-          "Create & Build",
-          "Understand & Improve"
-        ],
-        "tags": [
-          "json",
-          "visualization",
-          "data",
-          "graphs",
-          "analysis"
-        ],
-        "pricing": {
-          "model": "free"
-        },
-        "softwareTypes": [
-          "web-app"
-        ],
-        "publishDate": "2025-09-10T12:00:00.000Z",
-        "heroImage": "",
-        "toolUrl": "https://jsoncrack.com"
+      "softwareTypes": [
+        "cli",
+        "web-app",
+        "desktop-app"
+      ],
+      "publishDate": "2025-09-10T12:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://httpie.io"
+    },
+    {
+      "id": "toolsaday-toolkit",
+      "slug": "toolsaday-toolkit",
+      "title": "Toolsday Toolkit",
+      "description": "Collection of free writing, SEO, text and many other tools",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Understand & Improve",
+        "Create & Build"
+      ],
+      "tags": [
+        "tools",
+        "ai",
+        "writing",
+        "seo",
+        "math"
+      ],
+      "pricing": {
+        "model": "free"
       },
-      {
-        "id": "effect-app",
-        "slug": "effect-app",
-        "title": "Effect",
-        "description": "Online visual effects generator for images and videos",
-        "author": "Waleed Sadek",
-        "username": "waleed",
-        "categories": [
-          "Create & Build"
-        ],
-        "tags": [
-          "visual-effects",
-          "images",
-          "videos",
-          "filters",
-          "editing"
-        ],
-        "pricing": {
-          "model": "free"
-        },
-        "softwareTypes": [
-          "web-app"
-        ],
-        "publishDate": "2025-09-10T12:00:00.000Z",
-        "heroImage": "",
-        "toolUrl": "https://effect.app"
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-09-10T12:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://toolsaday.com/toolkit-explorer"
+    },
+    {
+      "id": "json-crack",
+      "slug": "json-crack",
+      "title": "JSON Crack",
+      "description": "Visualize and analyze JSON data with interactive graphs",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Create & Build",
+        "Understand & Improve"
+      ],
+      "tags": [
+        "json",
+        "visualization",
+        "data",
+        "graphs",
+        "analysis"
+      ],
+      "pricing": {
+        "model": "free"
       },
-      {
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-09-10T12:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://jsoncrack.com"
+    },
+    {
+      "id": "effect-app",
+      "slug": "effect-app",
+      "title": "Effect",
+      "description": "Online visual effects generator for images and videos",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "visual-effects",
+        "images",
+        "videos",
+        "filters",
+        "editing"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-09-10T12:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://effect.app"
+    },
+    {
       "id": "cleanup-pictures",
       "slug": "cleanup-pictures",
       "title": "Cleanup.pictures",
@@ -152,10 +179,23 @@
       "slogan": "Effortlessly clean images with AI object removal",
       "author": "Waleed Sadek",
       "username": "waleed",
-      "categories": ["Create & Build","Understand & Improve"],
-      "tags": ["ai","images","editing","cleanup","photo‑editing"],
-      "pricing": {"model": "freemium"},
-      "softwareTypes": ["web-app"],
+      "categories": [
+        "Create & Build",
+        "Understand & Improve"
+      ],
+      "tags": [
+        "ai",
+        "images",
+        "editing",
+        "cleanup",
+        "photo‑editing"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
       "publishDate": "2025-09-02T00:00:00.000Z",
       "heroImage": "",
       "toolUrl": "https://cleanup.pictures"
@@ -168,10 +208,23 @@
       "slogan": "Instant science‑backed answers with AI",
       "author": "Waleed Sadek",
       "username": "waleed",
-      "categories": ["Understand & Improve","Run Business"],
-      "tags": ["ai","research","knowledge","science","search"],
-      "pricing": {"model": "subscription"},
-      "softwareTypes": ["web-app"],
+      "categories": [
+        "Understand & Improve",
+        "Run Business"
+      ],
+      "tags": [
+        "ai",
+        "research",
+        "knowledge",
+        "science",
+        "search"
+      ],
+      "pricing": {
+        "model": "subscription"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
       "publishDate": "2025-09-02T00:00:00.000Z",
       "heroImage": "",
       "toolUrl": "https://consensus.app"
@@ -184,10 +237,24 @@
       "slogan": "Turn websites into structured data effortlessly",
       "author": "Waleed Sadek",
       "username": "waleed",
-      "categories": ["Create & Build","Understand & Improve"],
-      "tags": ["ai","web","data‑extraction","structure","scraping"],
-      "pricing": {"model": "subscription"},
-      "softwareTypes": ["web-app","self-hosted"],
+      "categories": [
+        "Create & Build",
+        "Understand & Improve"
+      ],
+      "tags": [
+        "ai",
+        "web",
+        "data‑extraction",
+        "structure",
+        "scraping"
+      ],
+      "pricing": {
+        "model": "subscription"
+      },
+      "softwareTypes": [
+        "web-app",
+        "self-hosted"
+      ],
       "publishDate": "2025-09-02T00:00:00.000Z",
       "heroImage": "",
       "toolUrl": "https://diffbot.com"
@@ -200,10 +267,23 @@
       "slogan": "Create and transform images with AI instantly",
       "author": "Waleed Sadek",
       "username": "waleed",
-      "categories": ["Create & Build","Understand & Improve"],
-      "tags": ["ai","images","generation","editing","visual‑content"],
-      "pricing": {"model": "freemium"},
-      "softwareTypes": ["web-app"],
+      "categories": [
+        "Create & Build",
+        "Understand & Improve"
+      ],
+      "tags": [
+        "ai",
+        "images",
+        "generation",
+        "editing",
+        "visual‑content"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
       "publishDate": "2025-09-02T00:00:00.000Z",
       "heroImage": "",
       "toolUrl": "https://getimg.ai"
@@ -216,10 +296,23 @@
       "slogan": "Automate workflows visually—no code required",
       "author": "Waleed Sadek",
       "username": "waleed",
-      "categories": ["Run Business","Create & Build"],
-      "tags": ["automation","workflow","no‑code","integration","productivity"],
-      "pricing": {"model": "freemium"},
-      "softwareTypes": ["web-app"],
+      "categories": [
+        "Run Business",
+        "Create & Build"
+      ],
+      "tags": [
+        "automation",
+        "workflow",
+        "no‑code",
+        "integration",
+        "productivity"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
       "publishDate": "2025-09-02T00:00:00.000Z",
       "heroImage": "",
       "toolUrl": "https://make.com"
@@ -4869,5 +4962,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-08-30T08:20:38.483Z"
+  "lastUpdated": "2025-09-12T13:24:44.914Z"
 }
