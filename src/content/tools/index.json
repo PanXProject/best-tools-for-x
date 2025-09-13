@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "examsprint",
+      "slug": "examsprint",
+      "title": "Examsprint",
+      "description": "One stop study solution",
+      "author": "Aadarsh Pandey",
+      "username": "examsprint",
+      "categories": [
+        "Get & Keep Customers",
+        "Understand & Improve"
+      ],
+      "tags": [
+        "ai",
+        "productivity",
+        "time-saver",
+        "saas",
+        "edtech"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-09-13T17:36:19.833Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1757784930/zn3w90iuhzwyfoslyjjr.png",
+      "toolUrl": "https://examsprint.pages.dev"
+    },
+    {
       "id": "nexnotes-ai",
       "slug": "nexnotes-ai",
       "title": "NexNotes AI",
@@ -4962,5 +4990,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-09-12T13:24:44.914Z"
+  "lastUpdated": "2025-09-13T17:36:20.575Z"
 }
