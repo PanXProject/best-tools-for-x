@@ -1,5 +1,153 @@
 {
   "tools": [
+          {
+          "id": "zamzar",
+          "slug": "zamzar",
+          "title": "زامزار",
+          "title_en": "Zamzar",
+          "description": "تحويل الملفات بين أكثر من 1200 تنسيق بسهولة عبر الإنترنت",
+          "author": "وليد صادق",
+          "username": "waleed",
+          "categories": [
+            "إنشاء و تطوير",
+            "التواصل والتعاون"
+          ],
+          "tags": [
+            "تحويل-الملفات",
+            "مستندات",
+            "صور",
+            "صوت",
+            "فيديو"
+          ],
+          "pricing": {
+            "model": "فريميوم"
+          },
+          "softwareTypes": [
+            "تطبيق ويب"
+          ],
+          "publishDate": "2025-09-17T10:59:14.002Z",
+          "heroImage": "",
+          "toolUrl": "https://zamzar.com"
+        },
+        {
+          "id": "pdf24",
+          "slug": "pdf24",
+          "title": "أدوات PDF24",
+          "title_en": "PDF24 Tools",
+          "description": "أدوات مجانية عبر الإنترنت لجميع احتياجات PDF",
+          "author": "وليد صادق",
+          "username": "waleed",
+          "categories": [
+            "إنشاء و تطوير",
+            "التواصل والتعاون"
+          ],
+          "tags": [
+            "pdf",
+            "مستندات",
+            "دمج",
+            "تحويل",
+            "ضغط"
+          ],
+          "pricing": {
+            "model": "مجاني"
+          },
+          "softwareTypes": [
+            "تطبيق ويب",
+            "تطبيق سطح المكتب"
+          ],
+          "publishDate": "2025-09-17T10:59:14.002Z",
+          "heroImage": "",
+          "toolUrl": "https://tools.pdf24.org/ar/"
+        },
+        {
+          "id": "typeracer",
+          "slug": "typeracer", 
+          "title": "تايب ريسر",
+          "title_en": "TypeRacer",
+          "description": "لعبة كتابة تنافسية لتحسين السرعة والدقة",
+          "author": "وليد صادق",
+          "username": "waleed",
+          "categories": [
+            "التواصل والتعاون",
+            "الفهم والتحسين"
+          ],
+          "tags": [
+            "كتابة",
+            "ألعاب",
+            "منافسة",
+            "تطوير-المهارات",
+            "متعدد-اللاعبين"
+          ],
+          "pricing": {
+            "model": "مجاني"
+          },
+          "softwareTypes": [
+            "تطبيق ويب"
+          ],
+          "publishDate": "2025-09-17T10:59:14.002Z",
+          "heroImage": "",
+          "toolUrl": "https://play.typeracer.com/?universe=lang_ar"
+        },
+        {
+          "id": "suno-ai",
+          "slug": "suno-ai",
+          "title": "سونو AI",
+          "title_en": "Suno AI", 
+          "description": "إنتاج الموسيقى والأغاني باستخدام الذكاء الاصطناعي",
+          "author": "وليد صادق",
+          "username": "waleed",
+          "categories": [
+            "إنشاء و تطوير",
+            "التواصل والتعاون"
+          ],
+          "tags": [
+            "ذكاء-اصطناعي",
+            "موسيقى",
+            "صوت",
+            "إنتاج",
+            "إبداع"
+          ],
+          "pricing": {
+            "model": "فريميوم"
+          },
+          "softwareTypes": [
+            "تطبيق ويب"
+          ],
+          "publishDate": "2025-09-17T10:59:14.002Z",
+          "heroImage": "",
+          "toolUrl": "https://suno.com"
+        },
+        {
+          "id": "neon-tech",
+          "slug": "neon-tech",
+          "title": "نيون",
+          "title_en": "Neon",
+          "description": "قاعدة بيانات PostgreSQL بدون خادم مع تفريع وتوسيع",
+          "author": "وليد صادق",
+          "username": "waleed",
+          "categories": [
+            "إنشاء و تطوير", 
+            "إدارة الأعمال",
+            "الأمان والنشر"
+          ],
+          "tags": [
+            "قاعدة-بيانات",
+            "postgres",
+            "بدون-خادم",
+            "سحابة",
+            "توسيع"
+          ],
+          "pricing": {
+            "model": "فريميوم"
+          },
+          "softwareTypes": [
+            "تطبيق ويب",
+            "واجهة سطر الأوامر"
+          ],
+          "publishDate": "2025-09-17T10:59:14.002Z",
+          "heroImage": "",
+          "toolUrl": "https://neon.tech"
+        },
         {
         "id": "lumo-ai",
         "slug": "lumo-ai",
