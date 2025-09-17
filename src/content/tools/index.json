@@ -1,5 +1,148 @@
 {
   "tools": [
+      {
+      "id": "zamzar",
+      "slug": "zamzar",
+      "title": "Zamzar",
+      "description": "Convert files between 1200+ formats instantly online",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Create & Build",
+        "Connect & Collaborate"
+      ],
+      "tags": [
+        "file-conversion",
+        "documents",
+        "images",
+        "audio",
+        "video"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-09-17T10:59:14.002Z",
+      "heroImage": "",
+      "toolUrl": "https://zamzar.com"
+    },
+    {
+      "id": "pdf24",
+      "slug": "pdf24",
+      "title": "PDF24 Tools",
+      "description": "Free online PDF tools for all your PDF needs",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Create & Build",
+        "Connect & Collaborate"
+      ],
+      "tags": [
+        "pdf",
+        "documents",
+        "merge",
+        "convert",
+        "compress"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app",
+        "desktop-app"
+      ],
+      "publishDate": "2025-09-17T10:59:14.002Z",
+      "heroImage": "",
+      "toolUrl": "https://tools.pdf24.org"
+    },
+    {
+      "id": "typeracer",
+      "slug": "typeracer",
+      "title": "TypeRacer",
+      "description": "Competitive typing game to improve speed and accuracy",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Connect & Collaborate",
+        "Understand & Improve"
+      ],
+      "tags": [
+        "typing",
+        "games",
+        "competition",
+        "skill-building",
+        "multiplayer"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-09-17T10:59:14.002Z",
+      "heroImage": "",
+      "toolUrl": "https://play.typeracer.com"
+    },
+    {
+      "id": "suno-ai",
+      "slug": "suno-ai", 
+      "title": "Suno AI",
+      "description": "Generate music and songs using artificial intelligence",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Create & Build",
+        "Connect & Collaborate"
+      ],
+      "tags": [
+        "ai",
+        "music",
+        "audio",
+        "generation",
+        "creativity"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-09-17T10:59:14.002Z",
+      "heroImage": "",
+      "toolUrl": "https://suno.com"
+    },
+    {
+      "id": "neon-tech",
+      "slug": "neon-tech",
+      "title": "Neon",
+      "description": "Serverless Postgres database with branching and scaling",
+      "author": "Waleed Sadek", 
+      "username": "waleed",
+      "categories": [
+        "Create & Build",
+        "Run Business",
+        "Secure & Deploy"
+      ],
+      "tags": [
+        "database",
+        "postgres",
+        "serverless",
+        "cloud",
+        "scaling"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app",
+        "cli"
+      ],
+      "publishDate": "2025-09-17T10:59:14.002Z",
+      "heroImage": "",
+      "toolUrl": "https://neon.tech"
+    },
     {
       "id": "examsprint",
       "slug": "examsprint",
