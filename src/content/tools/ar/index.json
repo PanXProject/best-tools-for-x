@@ -1,5 +1,159 @@
 {
   "tools": [
+      {
+            "id": "shahbandr",
+            "slug": "shahbandr",
+            "title": "شهبندر",
+            "title_en": "Shahbandr",
+            "description": "منصة رقمية شاملة لإدارة الأعمال والخدمات التجارية",
+            "author": "وليد صادق",
+            "username": "waleed",
+            "categories": [
+              "إدارة الأعمال",
+              "التواصل والتعاون",
+              "جذب العملاء والاحتفاظ بهم"
+            ],
+            "tags": [
+              "إدارة-أعمال",
+              "خدمات-تجارية",
+              "منصة-رقمية",
+              "أتمتة",
+              "إدارة-عملاء"
+            ],
+            "pricing": {
+              "model": "فريميوم"
+            },
+            "softwareTypes": [
+              "تطبيق ويب",
+              "تطبيق جوال"
+            ],
+            "publishDate": "2025-09-24T10:00:00.000Z",
+            "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1755687435/shahbandr-hero.jpg",
+            "toolUrl": "https://shahbandr.com"
+          },
+          {
+            "id": "costimate",
+            "slug": "costimate",
+            "title": "كوستيمت",
+            "title_en": "Costimate",
+            "description": "أداة تقدير التكاليف والميزانيات للمشاريع والأعمال",
+            "author": "وليد صادق",
+            "username": "waleed",
+            "categories": [
+              "إدارة الأموال",
+              "إدارة الأعمال",
+              "الفهم والتحسين"
+            ],
+            "tags": [
+              "تقدير-تكاليف",
+              "ميزانية",
+              "إدارة-مشاريع",
+              "تخطيط-مالي",
+              "تحليل-تكاليف"
+            ],
+            "pricing": {
+              "model": "اشتراك"
+            },
+            "softwareTypes": [
+              "تطبيق ويب"
+            ],
+            "publishDate": "2025-09-24T10:00:00.000Z",
+            "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1755687435/costimate-hero.jpg",
+            "toolUrl": "https://costimate.net"
+          },
+          {
+            "id": "sindbad-tech",
+            "slug": "sindbad-tech",
+            "title": "سندباد تك",
+            "title_en": "Sindbad Tech",
+            "description": "حلول تقنية متقدمة للشركات والمؤسسات العربية",
+            "author": "وليد صادق",
+            "username": "waleed",
+            "categories": [
+              "إنشاء و تطوير",
+              "الأمان والنشر",
+              "إدارة الأعمال"
+            ],
+            "tags": [
+              "حلول-تقنية",
+              "تطوير-برمجيات",
+              "استشارات-تقنية",
+              "خدمات-رقمية",
+              "تحول-رقمي"
+            ],
+            "pricing": {
+              "model": "تسعير مخصص"
+            },
+            "softwareTypes": [
+              "تطبيق ويب",
+              "مستضاف ذاتيًا"
+            ],
+            "publishDate": "2025-09-24T10:00:00.000Z",
+            "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1755687435/sindbad-hero.jpg",
+            "toolUrl": "https://sindbad.tech"
+          },
+          {
+            "id": "naqood",
+            "slug": "naqood",
+            "title": "نقود",
+            "title_en": "Naqood",
+            "description": "منصة مالية رقمية لإدارة المدفوعات والخدمات المصرفية",
+            "author": "وليد صادق",
+            "username": "waleed",
+            "categories": [
+              "إدارة الأموال",
+              "إدارة الأعمال",
+              "الأمان والنشر"
+            ],
+            "tags": [
+              "مدفوعات-رقمية",
+              "خدمات-مصرفية",
+              "محفظة-رقمية",
+              "تحويلات-مالية",
+              "تقنية-مالية"
+            ],
+            "pricing": {
+              "model": "مجاني"
+            },
+            "softwareTypes": [
+              "تطبيق ويب",
+              "تطبيق جوال"
+            ],
+            "publishDate": "2025-09-24T10:00:00.000Z",
+            "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1755687435/naqood-hero.jpg",
+            "toolUrl": "https://naqood.ae"
+          },
+          {
+            "id": "userq",
+            "slug": "userq",
+            "title": "يوزر كيو",
+            "title_en": "UserQ",
+            "description": "منصة لجمع آراء وتعليقات المستخدمين وتحليل تجربة العملاء",
+            "author": "وليد صادق",
+            "username": "waleed",
+            "categories": [
+              "الفهم والتحسين",
+              "جذب العملاء والاحتفاظ بهم",
+              "التواصل والتعاون"
+            ],
+            "tags": [
+              "آراء-مستخدمين",
+              "تجربة-عملاء",
+              "استبيانات",
+              "تحليلات",
+              "تحسين-منتج"
+            ],
+            "pricing": {
+              "model": "فريميوم"
+            },
+            "softwareTypes": [
+              "تطبيق ويب",
+              "برنامج مساعد"
+            ],
+            "publishDate": "2025-09-24T10:00:00.000Z",
+            "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1755687435/userq-hero.jpg",
+            "toolUrl": "https://userq.com"
+          },
           {
           "id": "zamzar",
           "slug": "zamzar",
