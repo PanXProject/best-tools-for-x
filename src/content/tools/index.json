@@ -1,6 +1,34 @@
 {
   "tools": [
-      {
+    {
+      "id": "examsprint-ai",
+      "slug": "examsprint-ai",
+      "title": "Examsprint AI",
+      "description": "One Stop AI Study Solution",
+      "author": "Aadarsh Pandey",
+      "username": "examsprint",
+      "categories": [
+        "Get & Keep Customers",
+        "Create & Build",
+        "Understand & Improve"
+      ],
+      "tags": [
+        "ai",
+        "productivity",
+        "edtech",
+        "timesaver"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-09-24T16:37:36.531Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1758731627/yrunosjkepqljophzcaz.png",
+      "toolUrl": "https://examsprint-ai.pages.dev"
+    },
+    {
       "id": "zamzar",
       "slug": "zamzar",
       "title": "Zamzar",
@@ -87,7 +115,7 @@
     },
     {
       "id": "suno-ai",
-      "slug": "suno-ai", 
+      "slug": "suno-ai",
       "title": "Suno AI",
       "description": "Generate music and songs using artificial intelligence",
       "author": "Waleed Sadek",
@@ -118,7 +146,7 @@
       "slug": "neon-tech",
       "title": "Neon",
       "description": "Serverless Postgres database with branching and scaling",
-      "author": "Waleed Sadek", 
+      "author": "Waleed Sadek",
       "username": "waleed",
       "categories": [
         "Create & Build",
@@ -5133,5 +5161,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-09-13T17:36:20.575Z"
+  "lastUpdated": "2025-09-24T16:37:38.030Z"
 }
