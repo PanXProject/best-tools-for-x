@@ -1,5 +1,153 @@
 {
   "tools": [
+      {
+      "id": "toggl-track",
+      "slug": "toggl-track",
+      "title": "Toggl Track",
+      "description": "Simple time tracking for teams and individuals",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Run Business",
+        "Understand & Improve",
+        "Manage People"
+      ],
+      "tags": [
+        "time-tracking",
+        "productivity",
+        "project-management",
+        "reporting",
+        "team-collaboration"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app",
+        "desktop-app"
+      ],
+      "publishDate": "2025-09-24T10:00:00.000Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1755687435/toggl-hero.jpg",
+      "toolUrl": "https://toggl.com"
+    },
+    {
+      "id": "postingcat",
+      "slug": "postingcat",
+      "title": "PostingCat",
+      "description": "AI-powered social media scheduling and management",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Get & Keep Customers",
+        "Create & Build",
+        "Connect & Collaborate"
+      ],
+      "tags": [
+        "social-media",
+        "scheduling",
+        "content-creation",
+        "ai-assistant",
+        "analytics"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-09-24T10:00:00.000Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1755687435/postingcat-hero.jpg",
+      "toolUrl": "https://postingcat.com"
+    },
+    {
+      "id": "answerthepublic",
+      "slug": "answerthepublic",
+      "title": "AnswerThePublic",
+      "description": "Discover what people are searching for online",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Get & Keep Customers",
+        "Create & Build",
+        "Understand & Improve"
+      ],
+      "tags": [
+        "keyword-research",
+        "content-ideas",
+        "seo",
+        "market-research",
+        "search-insights"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-09-24T10:00:00.000Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1755687435/atp-hero.jpg",
+      "toolUrl": "https://answerthepublic.com"
+    },
+    {
+      "id": "loops-so",
+      "slug": "loops-so",
+      "title": "Loops",
+      "description": "Email marketing platform for modern SaaS companies",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Get & Keep Customers",
+        "Connect & Collaborate",
+        "Run Business"
+      ],
+      "tags": [
+        "email-marketing",
+        "automation",
+        "newsletters",
+        "saas",
+        "customer-engagement"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-09-24T10:00:00.000Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1755687435/loops-hero.jpg",
+      "toolUrl": "https://loops.so"
+    },
+    {
+      "id": "spend-net",
+      "slug": "spend-net",
+      "title": "Spend.net",
+      "description": "Track and analyze your business expenses efficiently",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Manage Money",
+        "Run Business",
+        "Understand & Improve"
+      ],
+      "tags": [
+        "expense-tracking",
+        "financial-management",
+        "budgeting",
+        "reporting",
+        "business-finance"
+      ],
+      "pricing": {
+        "model": "subscription"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app"
+      ],
+      "publishDate": "2025-09-24T10:00:00.000Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1755687435/spend-hero.jpg",
+      "toolUrl": "https://spend.net"
+    },
     {
       "id": "zamzar",
       "slug": "zamzar",
