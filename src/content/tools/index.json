@@ -1,6 +1,6 @@
 {
   "tools": [
-      {
+    {
       "id": "toggl-track",
       "slug": "toggl-track",
       "title": "Toggl Track",
@@ -294,7 +294,7 @@
     {
       "id": "examsprint",
       "slug": "examsprint",
-      "title": "Examsprint",
+      "title": "Examsprint AI",
       "description": "One stop study solution",
       "author": "Aadarsh Pandey",
       "username": "examsprint",
@@ -317,7 +317,9 @@
       ],
       "publishDate": "2025-09-13T17:36:19.833Z",
       "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1757784930/zn3w90iuhzwyfoslyjjr.png",
-      "toolUrl": "https://examsprint.pages.dev"
+      "toolUrl": "https://examsprint.pages.dev",
+      "featured": false,
+      "featuredPosition": null
     },
     {
       "id": "nexnotes-ai",
@@ -5281,5 +5283,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-09-24T16:37:38.030Z"
+  "lastUpdated": "2025-09-29T14:36:30.605Z"
 }
