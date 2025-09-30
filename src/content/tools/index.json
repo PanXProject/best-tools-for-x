@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "reechee",
+      "slug": "reechee",
+      "title": "Reechee",
+      "description": "Frustration-led Growth for B2B SaaS",
+      "author": "Noam Dorr",
+      "username": "noamreechee",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "ai",
+        "saas",
+        "sales",
+        "marketing",
+        "growth"
+      ],
+      "pricing": {
+        "model": "free-trial"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-09-30T09:24:07.098Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1759224085/clofyx6vwofphik31hyk.png",
+      "toolUrl": "https://www.reechee.io"
+    },
+    {
       "id": "toggl-track",
       "slug": "toggl-track",
       "title": "Toggl Track",
@@ -5283,5 +5310,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-09-29T14:36:30.605Z"
+  "lastUpdated": "2025-09-30T09:24:07.859Z"
 }
