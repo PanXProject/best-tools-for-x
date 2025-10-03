@@ -1,6 +1,30 @@
 {
   "tools": [
     {
+      "id": "banana-ai",
+      "slug": "banana-ai",
+      "title": "Banana AI",
+      "description": "Nano Banana AI Image Editor｜Edit Images via Text",
+      "author": "james",
+      "username": "jamesu",
+      "categories": [
+        "Create & Build",
+        "Manage Money"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "pricing": {
+        "model": "free-trial"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-10-03T12:01:59.046Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1759492678/ogfzs1mgwde0wi3s6qf7.png",
+      "toolUrl": "https://bananaai.io/"
+    },
+    {
       "id": "reechee",
       "slug": "reechee",
       "title": "Reechee",
@@ -5310,5 +5334,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-09-30T09:24:07.859Z"
+  "lastUpdated": "2025-10-03T12:01:59.762Z"
 }
