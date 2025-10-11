@@ -1,6 +1,31 @@
 {
   "tools": [
     {
+      "id": "nano-banana-ai",
+      "slug": "nano-banana-ai",
+      "title": "Nano Banana AI",
+      "description": "Nano Banana AI: Effortless image generation and editing from text",
+      "author": "Veo 3 AI ",
+      "username": "veo3",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai",
+        "ai-image-editor",
+        "image-generator"
+      ],
+      "pricing": {
+        "model": "one-time-payment"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-10-11T06:31:27.721Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1760164152/oqshdhjnzakhzh2ccurr.png",
+      "toolUrl": "https://www.nano-banana-ai.net/"
+    },
+    {
       "id": "veo-3-ai",
       "slug": "veo-3-ai",
       "title": "Veo 3 AI ",
@@ -5358,5 +5383,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-10-11T06:23:44.940Z"
+  "lastUpdated": "2025-10-11T06:31:28.403Z"
 }
