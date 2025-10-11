@@ -1,6 +1,30 @@
 {
   "tools": [
     {
+      "id": "veo-3-ai",
+      "slug": "veo-3-ai",
+      "title": "Veo 3 AI ",
+      "description": "Veo 3 AI Vdeo Generator with Realistic Sound",
+      "author": "Veo 3 AI ",
+      "username": "veo3",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai",
+        "video-generator"
+      ],
+      "pricing": {
+        "model": "one-time-payment"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-10-11T06:23:44.202Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1760163721/tky8mvjoobaeu1zpiam4.jpg",
+      "toolUrl": "https://www.vidveo3.com/"
+    },
+    {
       "id": "banana-ai",
       "slug": "banana-ai",
       "title": "Banana AI",
@@ -5334,5 +5358,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-10-03T12:01:59.762Z"
+  "lastUpdated": "2025-10-11T06:23:44.940Z"
 }
