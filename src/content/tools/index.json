@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "hailuo-ai",
+      "slug": "hailuo-ai",
+      "title": "Hailuo AI ",
+      "description": "Hailuo AI: Create stunning videos with advanced AI-driven technolog",
+      "author": "Veo 3 AI ",
+      "username": "veo3",
+      "categories": [
+        "Create & Build",
+        "Run Business"
+      ],
+      "tags": [
+        "ai",
+        "video-generator",
+        "text-to-video",
+        "image-to-video"
+      ],
+      "pricing": {
+        "model": "pay-per-use"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-10-11T06:42:47.659Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1760164824/wwcqhx89j2dey5nsuibo.png",
+      "toolUrl": "https://www.hailuo2.com/"
+    },
+    {
       "id": "nano-banana-ai",
       "slug": "nano-banana-ai",
       "title": "Nano Banana AI",
@@ -5383,5 +5410,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-10-11T06:31:28.403Z"
+  "lastUpdated": "2025-10-11T06:42:48.431Z"
 }
