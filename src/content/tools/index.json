@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "sora2-ai",
+      "slug": "sora2-ai",
+      "title": "Sora2 AI",
+      "description": "Create Cinematic Videos with Realistic Sound — Powered by Sora2 AI",
+      "author": "Veo 3 AI ",
+      "username": "veo3",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai",
+        "saas",
+        "ai-video-generator",
+        "image-to-video",
+        "text-to-video"
+      ],
+      "pricing": {
+        "model": "one-time-payment"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-10-16T09:08:34.330Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1760605612/jtnehvd6dyygjkckglyr.png",
+      "toolUrl": "https://www.soraisai.com"
+    },
+    {
       "id": "ovi-ai",
       "slug": "ovi-ai",
       "title": "Ovi AI",
@@ -5436,5 +5463,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-10-16T03:26:20.278Z"
+  "lastUpdated": "2025-10-16T09:08:35.076Z"
 }
