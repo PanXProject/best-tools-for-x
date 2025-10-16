@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ovi-ai",
+      "slug": "ovi-ai",
+      "title": "Ovi AI",
+      "description": "Voice. Motion. Storytelling — powered by Ovi AI",
+      "author": "Veo 3 AI ",
+      "username": "veo3",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai",
+        "saas",
+        "ai-video-generator",
+        "audio-video-creation"
+      ],
+      "pricing": {
+        "model": "one-time-payment"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-10-16T03:26:19.575Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1760584828/t1v3hckxciclou1e2k25.webp",
+      "toolUrl": "https://www.oviaivideo.com/"
+    },
+    {
       "id": "hailuo-ai",
       "slug": "hailuo-ai",
       "title": "Hailuo AI ",
@@ -5410,5 +5436,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-10-11T06:42:48.431Z"
+  "lastUpdated": "2025-10-16T03:26:20.278Z"
 }
