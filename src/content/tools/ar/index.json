@@ -1,6 +1,130 @@
 {
   "tools": [
       {
+    "id": "firecrawl-dev",
+    "slug": "firecrawl-dev",
+    "title": "Firecrawl",
+    "title_en": "Firecrawl",
+    "description": "خدمة زحف و استخراج مواقع تُحوّل صفحات الويب إلى بيانات منظمة جاهزة للاستخدام مع نماذج اللغة وعمليات البحث.",
+    "author": "وليد صادق",
+    "username": "waleed",
+    "categories": [
+      "الفهم والتحسين",
+      "إنشاء و تطوير",
+      "إدارة الأعمال"
+    ],
+    "tags": [
+      "زحف-الويب",
+      "استخراج-البيانات",
+      "بيانات-للـLLM",
+      "api",
+      "بحث"
+    ],
+    "pricing": {
+      "model": "الدفع-حسب-الاستخدام"
+    },
+    "softwareTypes": [
+      "تطبيق ويب",
+      "مستضاف ذاتيًا"
+    ],
+    "publishDate": "2025-10-22T08:00:00.000Z",
+    "heroImage": "",
+    "toolUrl": "https://www.firecrawl.dev"
+  },
+  {
+    "id": "operate-solution",
+    "slug": "operate-solution",
+    "title": "Operate Solution",
+    "title_en": "Operate Solution",
+    "description": "نظام لإدارة المهام والشيكليست وعمليات الفرق الميدانية (خاصة المطاعم والضيافة) لتقليل عبء العمليات اليدوية.",
+    "author": "وليد صادق",
+    "username": "waleed",
+    "categories": [
+      "إدارة الأعمال",
+      "إدارة الأفراد",
+      "التواصل والتعاون"
+    ],
+    "tags": [
+      "العمليات",
+      "قوائم-التحقق",
+      "الضيافة",
+      "ادارة-المهام",
+      "إجراءات-تشغيلية"
+    ],
+    "pricing": {
+      "model": "اشتراك"
+    },
+    "softwareTypes": [
+      "تطبيق ويب",
+      "تطبيق جوال"
+    ],
+    "publishDate": "2025-10-22T08:00:00.000Z",
+    "heroImage": "",
+    "toolUrl": "https://www.operate-solution.com"
+  },
+  {
+    "id": "soho-erp",
+    "slug": "soho-erp",
+    "title": "SOHO ERP",
+    "title_en": "SOHO ERP",
+    "description": "نظام تخطيط موارد المؤسسات سحابي للشركات الصغيرة يتضمن المحاسبة، المخزون، المبيعات وإضافات خاصة بالصناعة.",
+    "author": "وليد صادق",
+    "username": "waleed",
+    "categories": [
+      "إدارة الأعمال",
+      "إدارة الأموال",
+      "إدارة الأفراد"
+    ],
+    "tags": [
+      "إي-ار-بي",
+      "محاسبة",
+      "مخزون",
+      "فواتير",
+      "شركات-صغيرة"
+    ],
+    "pricing": {
+      "model": "تسعير-مخصص"
+    },
+    "softwareTypes": [
+      "تطبيق ويب",
+      "مستضاف ذاتيًا"
+    ],
+    "publishDate": "2025-10-22T08:00:00.000Z",
+    "heroImage": "",
+    "toolUrl": "https://sohoerp.com/pricing/plans"
+  },
+  {
+    "id": "tkana",
+    "slug": "tkana",
+    "title": "تِكانة",
+    "title_en": "Tkana",
+    "description": "منصة مؤتمتة للأعمال تعتمد على وكلاء ذكاء اصطناعي للتعامل عبر واتساب وقنوات متعددة — للحجوزات، المبيعات ودعم العملاء.",
+    "author": "وليد صادق",
+    "username": "waleed",
+    "categories": [
+      "التواصل والتعاون",
+      "إدارة الأعمال",
+      "جذب العملاء والاحتفاظ بهم"
+    ],
+    "tags": [
+      "واتساب",
+      "روبوت-دردشة",
+      "أتمتة",
+      "وكلاء-ذكاء-اصطناعي",
+      "دعم-العملاء"
+    ],
+    "pricing": {
+      "model": "اشتراك"
+    },
+    "softwareTypes": [
+      "تطبيق ويب",
+      "تطبيق جوال"
+    ],
+    "publishDate": "2025-10-22T08:00:00.000Z",
+    "heroImage": "",
+    "toolUrl": "https://www.tkana.sa/en/pricing"
+  },
+      {
             "id": "shahbandr",
             "slug": "shahbandr",
             "title": "شهبندر",
