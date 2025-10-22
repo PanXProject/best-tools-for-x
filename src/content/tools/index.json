@@ -1,5 +1,122 @@
 {
   "tools": [
+      {
+        "id": "firecrawl-dev",
+        "slug": "firecrawl-dev",
+        "title": "Firecrawl",
+        "description": "Crawl websites and convert pages into clean, LLM-ready structured outputs (markdown/JSON/screenshots) for research and automation.",
+        "author": "Waleed Sadek",
+        "username": "waleed",
+        "categories": [
+          "Understand & Improve",
+          "Create & Build",
+          "Run Business"
+        ],
+        "tags": [
+          "web-crawler",
+          "data-extraction",
+          "llm-data",
+          "api",
+          "research"
+        ],
+        "pricing": {
+          "model": "pay-per-use"
+        },
+        "softwareTypes": [
+          "web-app",
+          "self-hosted"
+        ],
+        "publishDate": "2025-10-22T08:00:00.000Z",
+        "heroImage": "",
+        "toolUrl": "https://www.firecrawl.dev"
+      },
+      {
+        "id": "paperanimator",
+        "slug": "paperanimator",
+        "title": "PaperAnimator",
+        "description": "Simple timeline and frame animation tool for creating short animated clips and illustrations for social and product demos.",
+        "author": "Waleed Sadek",
+        "username": "waleed",
+        "categories": [
+          "Create & Build",
+          "Get & Keep Customers",
+          "Connect & Collaborate"
+        ],
+        "tags": [
+          "animation",
+          "motion-design",
+          "content-creation",
+          "social"
+        ],
+        "pricing": {
+          "model": "freemium"
+        },
+        "softwareTypes": [
+          "web-app"
+        ],
+        "publishDate": "2025-10-22T08:00:00.000Z",
+        "heroImage": "",
+        "toolUrl": "https://paperanimator.com"
+      },
+      {
+        "id": "spend-net",
+        "slug": "spend-net",
+        "title": "Spend",
+        "description": "Expense and spend management designed to help small teams control card spending, approvals and reconciliation.",
+        "author": "Waleed Sadek",
+        "username": "waleed",
+        "categories": [
+          "Manage Money",
+          "Run Business",
+          "Understand & Improve"
+        ],
+        "tags": [
+          "expenses",
+          "corporate-cards",
+          "finance",
+          "reconciliation",
+          "approval-workflow"
+        ],
+        "pricing": {
+          "model": "subscription"
+        },
+        "softwareTypes": [
+          "web-app",
+          "mobile-app"
+        ],
+        "publishDate": "2025-10-22T08:00:00.000Z",
+        "heroImage": "",
+        "toolUrl": "https://spend.net"
+      },
+      {
+        "id": "answerthepublic",
+        "slug": "answerthepublic",
+        "title": "AnswerThePublic",
+        "description": "Generate search-intent and question-based keyword ideas from search engine autocomplete data.",
+        "author": "Waleed Sadek",
+        "username": "waleed",
+        "categories": [
+          "Get & Keep Customers",
+          "Understand & Improve",
+          "Create & Build"
+        ],
+        "tags": [
+          "seo",
+          "keywords",
+          "content-ideas",
+          "research",
+          "search-intent"
+        ],
+        "pricing": {
+          "model": "freemium"
+        },
+        "softwareTypes": [
+          "web-app"
+        ],
+        "publishDate": "2025-10-22T08:00:00.000Z",
+        "heroImage": "",
+        "toolUrl": "https://answerthepublic.com"
+      },
     {
       "id": "sora2-ai",
       "slug": "sora2-ai",
