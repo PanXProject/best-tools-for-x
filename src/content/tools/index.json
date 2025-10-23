@@ -1,63 +1,87 @@
 {
   "tools": [
-      {
-        "id": "firecrawl-dev",
-        "slug": "firecrawl-dev",
-        "title": "Firecrawl",
-        "description": "Crawl websites and convert pages into clean, LLM-ready structured outputs (markdown/JSON/screenshots) for research and automation.",
-        "author": "Waleed Sadek",
-        "username": "waleed",
-        "categories": [
-          "Understand & Improve",
-          "Create & Build",
-          "Run Business"
-        ],
-        "tags": [
-          "web-crawler",
-          "data-extraction",
-          "llm-data",
-          "api",
-          "research"
-        ],
-        "pricing": {
-          "model": "pay-per-use"
-        },
-        "softwareTypes": [
-          "web-app",
-          "self-hosted"
-        ],
-        "publishDate": "2025-10-22T08:00:00.000Z",
-        "heroImage": "",
-        "toolUrl": "https://www.firecrawl.dev"
+    {
+      "id": "ai-asmr",
+      "slug": "ai-asmr",
+      "title": "AI ASMR",
+      "description": "Craft soothing ASMR videos in minutes",
+      "author": "james",
+      "username": "jamesu",
+      "categories": [
+        "Create & Build",
+        "Run Business"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "pricing": {
+        "model": "subscription"
       },
-      {
-        "id": "paperanimator",
-        "slug": "paperanimator",
-        "title": "PaperAnimator",
-        "description": "Simple timeline and frame animation tool for creating short animated clips and illustrations for social and product demos.",
-        "author": "Waleed Sadek",
-        "username": "waleed",
-        "categories": [
-          "Create & Build",
-          "Get & Keep Customers",
-          "Connect & Collaborate"
-        ],
-        "tags": [
-          "animation",
-          "motion-design",
-          "content-creation",
-          "social"
-        ],
-        "pricing": {
-          "model": "freemium"
-        },
-        "softwareTypes": [
-          "web-app"
-        ],
-        "publishDate": "2025-10-22T08:00:00.000Z",
-        "heroImage": "",
-        "toolUrl": "https://paperanimator.com"
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-10-23T06:48:47.842Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1761201967/sl31gpgn6wdsqgj1i12l.png",
+      "toolUrl": "https://ai-asmr.io/"
+    },
+    {
+      "id": "firecrawl-dev",
+      "slug": "firecrawl-dev",
+      "title": "Firecrawl",
+      "description": "Crawl websites and convert pages into clean, LLM-ready structured outputs (markdown/JSON/screenshots) for research and automation.",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Understand & Improve",
+        "Create & Build",
+        "Run Business"
+      ],
+      "tags": [
+        "web-crawler",
+        "data-extraction",
+        "llm-data",
+        "api",
+        "research"
+      ],
+      "pricing": {
+        "model": "pay-per-use"
       },
+      "softwareTypes": [
+        "web-app",
+        "self-hosted"
+      ],
+      "publishDate": "2025-10-22T08:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://www.firecrawl.dev"
+    },
+    {
+      "id": "paperanimator",
+      "slug": "paperanimator",
+      "title": "PaperAnimator",
+      "description": "Simple timeline and frame animation tool for creating short animated clips and illustrations for social and product demos.",
+      "author": "Waleed Sadek",
+      "username": "waleed",
+      "categories": [
+        "Create & Build",
+        "Get & Keep Customers",
+        "Connect & Collaborate"
+      ],
+      "tags": [
+        "animation",
+        "motion-design",
+        "content-creation",
+        "social"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-10-22T08:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://paperanimator.com"
+    },
     {
       "id": "sora2-ai",
       "slug": "sora2-ai",
@@ -5521,5 +5545,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-10-16T09:08:35.076Z"
+  "lastUpdated": "2025-10-23T06:48:48.551Z"
 }
