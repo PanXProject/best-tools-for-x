@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "mai-image-1",
+      "slug": "mai-image-1",
+      "title": "MAI-Image-1",
+      "description": "MAI-Image-1: Photorealistic Image Generator",
+      "author": "Veo 3 AI ",
+      "username": "veo3",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai",
+        "productivity",
+        "saas",
+        "ai-image-generator"
+      ],
+      "pricing": {
+        "model": "one-time-payment"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-10-23T08:55:01.665Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1761209646/nqfhcxmkt6exh5l6djmv.png",
+      "toolUrl": "https://www.maiimages.com/"
+    },
+    {
       "id": "ai-asmr",
       "slug": "ai-asmr",
       "title": "AI ASMR",
@@ -5545,5 +5571,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-10-23T06:48:48.551Z"
+  "lastUpdated": "2025-10-23T08:55:02.488Z"
 }
