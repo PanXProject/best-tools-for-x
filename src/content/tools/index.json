@@ -1,6 +1,29 @@
 {
   "tools": [
     {
+      "id": "ai-couple-photo",
+      "slug": "ai-couple-photo",
+      "title": "AI Couple Photo",
+      "description": "Turn two photos into a photoreal couple portrait with AI Couple Photo—",
+      "author": "james",
+      "username": "jamesu",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "pricing": {
+        "model": "free-trial"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-10-31T06:38:58.838Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1761892693/il6iikm4ryjrcsimhkno.png",
+      "toolUrl": "https://ai-couple-photo.com/"
+    },
+    {
       "id": "mai-image-1",
       "slug": "mai-image-1",
       "title": "MAI-Image-1",
@@ -5571,5 +5594,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-10-23T08:55:02.488Z"
+  "lastUpdated": "2025-10-31T06:38:59.563Z"
 }
