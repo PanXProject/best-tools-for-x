@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "genbounty",
+      "slug": "genbounty",
+      "title": "Genbounty",
+      "description": "Genbounty is a product-level AI safety testing platform",
+      "author": "Genbounty",
+      "username": "genbounty",
+      "categories": [
+        "Run Business",
+        "Understand & Improve",
+        "Secure & Deploy"
+      ],
+      "tags": [
+        "testing",
+        "security",
+        "compliance",
+        "aisafety",
+        "ai"
+      ],
+      "pricing": {
+        "model": "pay-per-use"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-11-10T18:45:43.962Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1762799911/u6nrlxtprl5oxutkoue3.png",
+      "toolUrl": "https://genbounty.com"
+    },
+    {
       "id": "image-to-image-ai",
       "slug": "image-to-image-ai",
       "title": "Image to Image AI",
@@ -5617,5 +5646,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-11-07T09:31:29.613Z"
+  "lastUpdated": "2025-11-10T18:45:44.766Z"
 }
