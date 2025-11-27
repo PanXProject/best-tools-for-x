@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "stack-online-tools",
+      "slug": "stack-online-tools",
+      "title": "Stack Online Tools",
+      "description": "Fast, free all-in-one utilities for text, code, SEO and more",
+      "author": "Joseph Twumasi",
+      "username": "sotonline",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "online-tools",
+        "developer-tools",
+        "productivity",
+        "utilities",
+        "web-tools"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-11-27T23:25:36.870Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1764285874/dpzwimphyi2ofv7glfho.png",
+      "toolUrl": "https://stackonlinetools.com"
+    },
+    {
       "id": "genbounty",
       "slug": "genbounty",
       "title": "Genbounty",
@@ -5646,5 +5673,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-11-10T18:45:44.766Z"
+  "lastUpdated": "2025-11-27T23:25:37.522Z"
 }
