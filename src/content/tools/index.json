@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "hubvanta-ai",
+      "slug": "hubvanta-ai",
+      "title": "HubVanta AI",
+      "description": "Your Free All-In-One AI Assistant for Study, Work & Creativity.",
+      "author": "vanta",
+      "username": "hub",
+      "categories": [
+        "Create & Build",
+        "Run Business",
+        "Connect & Collaborate"
+      ],
+      "tags": [
+        "ai",
+        "productivity",
+        "creator"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app",
+        "desktop-app"
+      ],
+      "publishDate": "2025-12-01T10:49:07.554Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1764585710/jqkbnmpw226utp7gglcm.png",
+      "toolUrl": "https://hubvanta.com/"
+    },
+    {
       "id": "stack-online-tools",
       "slug": "stack-online-tools",
       "title": "Stack Online Tools",
@@ -5673,5 +5702,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-11-27T23:25:37.522Z"
+  "lastUpdated": "2025-12-01T10:49:08.321Z"
 }
