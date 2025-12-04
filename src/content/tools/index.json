@@ -1,6 +1,31 @@
 {
   "tools": [
     {
+      "id": "vgenie",
+      "slug": "vgenie",
+      "title": "VGenie",
+      "description": "Ultimate AI Art Platform: Video & Image Creator | VGenie",
+      "author": "Rainie Zhou",
+      "username": "rainie",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai",
+        "saas",
+        "ai-video"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-12-04T02:51:58.158Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1764813285/yjt0qyragyegtrimp0fp.png",
+      "toolUrl": "https://vgenie.ai/"
+    },
+    {
       "id": "flux-2",
       "slug": "flux-2",
       "title": "Flux 2",
@@ -5725,5 +5750,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-12-02T11:37:37.344Z"
+  "lastUpdated": "2025-12-04T02:51:58.882Z"
 }
