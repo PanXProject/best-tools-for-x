@@ -1,6 +1,29 @@
 {
   "tools": [
     {
+      "id": "z-image",
+      "slug": "z-image",
+      "title": "Z-Image",
+      "description": "Free Z-Image AI Image Generator & Editor | Z-Img",
+      "author": "james",
+      "username": "jamesu",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "pricing": {
+        "model": "free-trial"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-12-06T12:22:42.624Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1765023666/ejgghlhtx6niee4hta0y.png",
+      "toolUrl": "https://z-img.org/"
+    },
+    {
       "id": "vgenie",
       "slug": "vgenie",
       "title": "VGenie",
@@ -5750,5 +5773,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-12-04T02:51:58.882Z"
+  "lastUpdated": "2025-12-06T12:22:43.272Z"
 }
