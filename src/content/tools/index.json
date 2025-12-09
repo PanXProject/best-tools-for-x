@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "promptgather",
+      "slug": "promptgather",
+      "title": "PromptGather",
+      "description": "Your All-in-One AI Prompt Library and Content Generator",
+      "author": "Jim K",
+      "username": "jimk",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai",
+        "prompt",
+        "ai-image-generator",
+        "ai-video-generator"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-12-09T19:05:14.401Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1765306972/cit5xbo4wwvetmgwwtla.png",
+      "toolUrl": "https://promptgather.io/"
+    },
+    {
       "id": "z-image",
       "slug": "z-image",
       "title": "Z-Image",
@@ -5773,5 +5799,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-12-06T12:22:43.272Z"
+  "lastUpdated": "2025-12-09T19:05:15.226Z"
 }
