@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "sheetfy",
+      "slug": "sheetfy",
+      "title": "Sheetfy",
+      "description": "Turn a Google Spreadsheet into a JSON API",
+      "author": "Edu",
+      "username": "edu",
+      "categories": [
+        "Create & Build",
+        "Run Business"
+      ],
+      "tags": [
+        "spreadsheet",
+        "sheet-to-json",
+        "automation",
+        "spreadsheet-to-api",
+        "turn-your-google-sheet-into-an-api"
+      ],
+      "pricing": {
+        "model": "subscription"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-12-12T22:32:43.343Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1765578426/q0zzbsdidsek9jobyinx.png",
+      "toolUrl": "https://sheetfy.fun/"
+    },
+    {
       "id": "ai-excel-translator",
       "slug": "ai-excel-translator",
       "title": "AI Excel Translator",
@@ -5852,5 +5880,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-12-09T19:13:33.845Z"
+  "lastUpdated": "2025-12-12T22:32:44.443Z"
 }
