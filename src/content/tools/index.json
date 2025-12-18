@@ -1,6 +1,31 @@
 {
   "tools": [
     {
+      "id": "goyasites",
+      "slug": "goyasites",
+      "title": "Goyasites",
+      "description": "Brands & sites people remember",
+      "author": "Ebtessam Zoheir",
+      "username": "goyasites",
+      "categories": [
+        "Get & Keep Customers",
+        "Create & Build"
+      ],
+      "tags": [
+        "website",
+        "website-builder"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-12-18T15:17:45.534Z",
+      "heroImage": "",
+      "toolUrl": "https://goyasites.com"
+    },
+    {
       "id": "sheetfy",
       "slug": "sheetfy",
       "title": "Sheetfy",
@@ -5880,5 +5905,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-12-12T22:32:44.443Z"
+  "lastUpdated": "2025-12-18T15:17:46.439Z"
 }
