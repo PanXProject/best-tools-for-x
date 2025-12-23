@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "dither-effect-generator",
+      "slug": "dither-effect-generator",
+      "title": "Dither Effect Generator",
+      "description": "DitherImage.online: Real-time, private image dithering in your browser",
+      "author": "lesliekai",
+      "username": "lesliekai",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "design-tools",
+        "developer-tools",
+        "graphics",
+        "photography",
+        "art"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-12-23T09:31:48.109Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1766482132/vb9guwpe197rewdkzkkx.png",
+      "toolUrl": "https://ditherimage.online/"
+    },
+    {
       "id": "goyasites",
       "slug": "goyasites",
       "title": "Goyasites",
@@ -5907,5 +5934,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-12-18T15:19:56.608Z"
+  "lastUpdated": "2025-12-23T09:31:48.868Z"
 }
