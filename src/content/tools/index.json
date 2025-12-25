@@ -1,6 +1,31 @@
 {
   "tools": [
     {
+      "id": "seedance-1-5",
+      "slug": "seedance-1-5",
+      "title": "Seedance 1.5",
+      "description": "Creativity With No Boundaries",
+      "author": "ZachHE",
+      "username": "zachhe",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai",
+        "ai-video",
+        "ai-video-generation"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2025-12-25T07:50:41.514Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1766648894/lbhhramfu5i1kkitwte1.jpg",
+      "toolUrl": "https://www.seedance15.org/"
+    },
+    {
       "id": "dither-effect-generator",
       "slug": "dither-effect-generator",
       "title": "Dither Effect Generator",
@@ -5934,5 +5959,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-12-23T09:31:48.868Z"
+  "lastUpdated": "2025-12-25T07:50:42.034Z"
 }
