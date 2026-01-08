@@ -1,6 +1,30 @@
 {
   "tools": [
     {
+      "id": "patternaly",
+      "slug": "patternaly",
+      "title": "Patternaly",
+      "description": "Free AI Pattern Generator for Seamless Designs",
+      "author": "lijinhui293",
+      "username": "lijinhui293",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai-tools",
+        "design"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-01-08T09:08:14.314Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1767863254/bvmyelpnygrpk2fngz1c.png",
+      "toolUrl": "https://patternaly.com"
+    },
+    {
       "id": "graspeo",
       "slug": "graspeo",
       "title": "Graspeo",
@@ -6031,5 +6055,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-01-08T09:07:07.633Z"
+  "lastUpdated": "2026-01-08T09:08:15.959Z"
 }
