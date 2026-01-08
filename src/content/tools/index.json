@@ -1,6 +1,30 @@
 {
   "tools": [
     {
+      "id": "graspeo",
+      "slug": "graspeo",
+      "title": "Graspeo",
+      "description": "Free AI Quiz Generator from PDF, Text & YouTube",
+      "author": "lijinhui293",
+      "username": "lijinhui293",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai",
+        "productivity"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-01-08T09:07:07.020Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1767863121/uco6nyphazcpfz6gl5ml.png",
+      "toolUrl": "https://graspeo.com"
+    },
+    {
       "id": "free-mp3-to-text-online-converter",
       "slug": "free-mp3-to-text-online-converter",
       "title": "Free MP3 to Text Online Converter",
@@ -6007,5 +6031,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-01-08T06:29:45.227Z"
+  "lastUpdated": "2026-01-08T09:07:07.633Z"
 }
