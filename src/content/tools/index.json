@@ -1,6 +1,29 @@
 {
   "tools": [
     {
+      "id": "free-mp3-to-text-online-converter",
+      "slug": "free-mp3-to-text-online-converter",
+      "title": "Free MP3 to Text Online Converter",
+      "description": "Free AI-powered MP3 to text converter for lectures and podcasts.",
+      "author": "Richard Feng",
+      "username": "richard2a10",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "free-mp3-to-text-online-converter"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-01-08T06:29:44.448Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1767853480/zj99hol70l4fcrvykkkt.jpg",
+      "toolUrl": "https://mp3totext.net"
+    },
+    {
       "id": "ai-jingle-maker",
       "slug": "ai-jingle-maker",
       "title": "AI Jingle Maker",
@@ -5984,5 +6007,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-01-07T14:31:35.612Z"
+  "lastUpdated": "2026-01-08T06:29:45.227Z"
 }
