@@ -436,7 +436,9 @@
       ],
       "publishDate": "2025-11-10T18:45:43.962Z",
       "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1762799911/u6nrlxtprl5oxutkoue3.png",
-      "toolUrl": "https://genbounty.com"
+      "toolUrl": "https://genbounty.com",
+      "featured": true,
+      "featuredPosition": 1
     },
     {
       "id": "image-to-image-ai",
