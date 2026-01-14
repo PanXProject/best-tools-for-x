@@ -3363,32 +3363,6 @@
       "toolUrl": "https://rybbit.io/"
     },
     {
-      "id": "pointlessai",
-      "slug": "pointlessai",
-      "title": "PointlessAI",
-      "description": "AI safety testing in production",
-      "author": "PointlessAI",
-      "username": "pointlessai",
-      "categories": [
-        "Create & Build",
-        "Secure & Deploy"
-      ],
-      "tags": [
-        "ai",
-        "vibe-code",
-        "security"
-      ],
-      "pricing": {
-        "model": "free"
-      },
-      "softwareTypes": [
-        "web-app"
-      ],
-      "publishDate": "2025-05-09T13:30:50.764Z",
-      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1746797368/s4ftrhzugw78dqz1trpp.png",
-      "toolUrl": "https://pointlessai.com"
-    },
-    {
       "id": "actual-budget",
       "slug": "actual-budget",
       "title": "Actual Budget",
