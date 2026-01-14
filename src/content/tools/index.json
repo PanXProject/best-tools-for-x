@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "promoat",
+      "slug": "promoat",
+      "title": "ProMoat",
+      "description": "Generate AI clone videos of yourself in 3 mins.",
+      "author": "Ebtessam Zoheir",
+      "username": "goyasites",
+      "categories": [
+        "Get & Keep Customers",
+        "Create & Build"
+      ],
+      "tags": [
+        "ai",
+        "video-creation",
+        "ai-video-clone",
+        "marketing",
+        "automation"
+      ],
+      "pricing": {
+        "model": "subscription"
+      },
+      "softwareTypes": [
+        "mobile-app"
+      ],
+      "publishDate": "2026-01-14T13:27:33.371Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1768396874/glojjdbslgdo2pqtdxme.png",
+      "toolUrl": "https://promoat.ai"
+    },
+    {
       "id": "patternaly",
       "slug": "patternaly",
       "title": "Patternaly",
@@ -6031,5 +6059,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-01-08T09:08:30.200Z"
+  "lastUpdated": "2026-01-14T13:27:34.086Z"
 }
