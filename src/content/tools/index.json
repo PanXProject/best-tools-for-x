@@ -26,7 +26,9 @@
       ],
       "publishDate": "2026-01-14T13:27:33.371Z",
       "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1768396874/glojjdbslgdo2pqtdxme.png",
-      "toolUrl": "https://promoat.ai"
+      "toolUrl": "https://promoat.ai",
+      "featured": true,
+      "featuredPosition": 2
     },
     {
       "id": "patternaly",
