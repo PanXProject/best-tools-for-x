@@ -1,6 +1,29 @@
 {
   "tools": [
     {
+      "id": "unicaselab",
+      "slug": "unicaselab",
+      "title": "unicaselab",
+      "description": "Your Vision, AI Perfected:Transform Photos into Art-Grade Custom Case",
+      "author": "unicaselab",
+      "username": "unicaselab",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "pricing": {
+        "model": "pay-per-use"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-01-17T14:30:37.740Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1768659910/hjjhtshoefylz4w32ltn.jpg",
+      "toolUrl": "https://unicaselab.com/pages/ai-pet-anime-phone-case"
+    },
+    {
       "id": "promoat",
       "slug": "promoat",
       "title": "ProMoat",
@@ -6061,5 +6084,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-01-14T13:27:34.086Z"
+  "lastUpdated": "2026-01-17T14:30:38.400Z"
 }
