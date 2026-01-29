@@ -8,20 +8,27 @@
       "author": "toolseekr.com",
       "username": "toolseekr",
       "categories": [
-        "Get & Keep Customers"
+        "Get & Keep Customers",
+        "Create & Build",
+        "Run Business"
       ],
       "tags": [
-        "sdfsdfsd"
+        "sdfsdfsd",
+        "ai"
       ],
       "pricing": {
-        "model": "free"
+        "model": "free-trial"
       },
       "softwareTypes": [
-        "web-app"
+        "web-app",
+        "mobile-app",
+        "desktop-app"
       ],
       "publishDate": "2026-01-29T17:07:39.504Z",
-      "heroImage": "",
-      "toolUrl": "https://google.com"
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1769706514/y5lihzbd8vqkpre6r2xa.png",
+      "toolUrl": "https://google.com",
+      "featured": false,
+      "featuredPosition": null
     },
     {
       "id": "unicaselab",
@@ -6107,5 +6114,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-01-29T17:07:41.491Z"
+  "lastUpdated": "2026-01-29T17:10:28.510Z"
 }
