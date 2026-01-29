@@ -1,6 +1,29 @@
 {
   "tools": [
     {
+      "id": "sadfgasdgsgsadgasgd",
+      "slug": "sadfgasdgsgsadgasgd",
+      "title": "sadfgasdgsgsadgasgd",
+      "description": "sagasgsagasfgfasgasfg",
+      "author": "toolseekr.com",
+      "username": "toolseekr",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "sdfsdfsd"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-01-29T17:07:39.504Z",
+      "heroImage": "",
+      "toolUrl": "https://google.com"
+    },
+    {
       "id": "unicaselab",
       "slug": "unicaselab",
       "title": "unicaselab",
@@ -6084,5 +6107,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-01-17T14:30:38.400Z"
+  "lastUpdated": "2026-01-29T17:07:41.491Z"
 }
