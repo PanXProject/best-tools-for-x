@@ -1,6 +1,29 @@
 {
   "tools": [
     {
+      "id": "ai-dog-dancing",
+      "slug": "ai-dog-dancing",
+      "title": "AI Dog Dancing",
+      "description": "Turn a dog photo into a dancing video in minutes.",
+      "author": "lijinhui293",
+      "username": "lijinhui293",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-01-30T15:59:51.816Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1769788666/of1epvbxi8a4g85qohqc.png",
+      "toolUrl": "https://aidogdancing.app"
+    },
+    {
       "id": "unicaselab",
       "slug": "unicaselab",
       "title": "unicaselab",
@@ -6084,5 +6107,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-01-29T17:16:03.424Z"
+  "lastUpdated": "2026-01-30T15:59:52.594Z"
 }
