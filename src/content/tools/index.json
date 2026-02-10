@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "pixexact",
+      "slug": "pixexact",
+      "title": "PixExact",
+      "description": "Create AI Images in Exact Pixel Dimensions",
+      "author": "PixExact",
+      "username": "pixexact",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai",
+        "ai-image-generator",
+        "ai-image-editor",
+        "image-to-image"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-02-10T09:56:24.081Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1770716836/fcqfk8maxcygeuunvdxr.jpg",
+      "toolUrl": "https://www.pixexact.com/"
+    },
+    {
       "id": "ai-dog-dancing",
       "slug": "ai-dog-dancing",
       "title": "AI Dog Dancing",
@@ -6107,5 +6133,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-01-30T15:59:52.594Z"
+  "lastUpdated": "2026-02-10T09:56:25.096Z"
 }
