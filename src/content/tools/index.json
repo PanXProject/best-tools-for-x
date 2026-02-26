@@ -1,6 +1,29 @@
 {
   "tools": [
     {
+      "id": "ai-subtitle-translator",
+      "slug": "ai-subtitle-translator",
+      "title": "AI Subtitle Translator",
+      "description": "AI Subtitle Translator for SRT, VTT, ASS, SSA, SUB",
+      "author": "lijinhui293",
+      "username": "lijinhui293",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-02-26T13:17:53.470Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1772111058/wyitbcqcyi1mwqtyeenf.png",
+      "toolUrl": "https://aisubtitletranslator.net"
+    },
+    {
       "id": "prime-teams-project-management-and-time-tracking-software",
       "slug": "prime-teams-project-management-and-time-tracking-software",
       "title": "Prime Teams – Project Management and Time Tracking Software",
@@ -6164,5 +6187,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-02-18T07:07:11.511Z"
+  "lastUpdated": "2026-02-26T13:17:54.481Z"
 }
