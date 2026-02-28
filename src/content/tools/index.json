@@ -1,6 +1,29 @@
 {
   "tools": [
     {
+      "id": "ai-flowchart",
+      "slug": "ai-flowchart",
+      "title": "AI Flowchart",
+      "description": "Free AI Flowchart Generator from Text",
+      "author": "lijinhui293",
+      "username": "lijinhui293",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-02-28T08:07:09.043Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1772265746/gffydgcjsqxrhbopyiaj.png",
+      "toolUrl": "https://aiflowchart.org"
+    },
+    {
       "id": "ai-subtitle-translator",
       "slug": "ai-subtitle-translator",
       "title": "AI Subtitle Translator",
@@ -6187,5 +6210,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-02-26T13:17:54.481Z"
+  "lastUpdated": "2026-02-28T08:07:09.624Z"
 }
