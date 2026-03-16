@@ -1,6 +1,37 @@
 {
   "tools": [
     {
+      "id": "bonnard-dev",
+      "slug": "bonnard-dev",
+      "title": "Bonnard.dev",
+      "description": "Semantic layer for AI agents and embedded analytics",
+      "author": "Max Mealing",
+      "username": "maxmealing",
+      "categories": [
+        "Create & Build",
+        "Run Business",
+        "Secure & Deploy"
+      ],
+      "tags": [
+        "embedded-analytics",
+        "semantic-layer",
+        "ai",
+        "analytics",
+        "agents"
+      ],
+      "pricing": {
+        "model": "pay-per-use"
+      },
+      "softwareTypes": [
+        "web-app",
+        "cli",
+        "self-hosted"
+      ],
+      "publishDate": "2026-03-16T15:37:43.826Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1773675188/h0xsxg8t3y6yhx34conq.png",
+      "toolUrl": "https://www.bonnard.dev/"
+    },
+    {
       "id": "ai-flowchart",
       "slug": "ai-flowchart",
       "title": "AI Flowchart",
@@ -6210,5 +6241,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-02-28T08:07:09.624Z"
+  "lastUpdated": "2026-03-16T15:37:44.853Z"
 }
