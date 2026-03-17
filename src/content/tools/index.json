@@ -1,6 +1,31 @@
 {
   "tools": [
     {
+      "id": "bulkbgremove",
+      "slug": "bulkbgremove",
+      "title": "BulkBgRemove",
+      "description": "AI-powered bulk background remover. ",
+      "author": "Jim K",
+      "username": "jimk",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "batch-background-removal",
+        "ai-image-editor",
+        "remove-bg"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-03-17T16:56:51.786Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1773766515/zbywvvyi2cryr3y5worz.png",
+      "toolUrl": "https://bulkbgremove.com/"
+    },
+    {
       "id": "bonnard-dev",
       "slug": "bonnard-dev",
       "title": "Bonnard.dev",
@@ -6241,5 +6266,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-03-16T15:37:44.853Z"
+  "lastUpdated": "2026-03-17T16:56:52.689Z"
 }
