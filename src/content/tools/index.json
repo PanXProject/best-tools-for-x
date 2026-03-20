@@ -1,6 +1,29 @@
 {
   "tools": [
     {
+      "id": "image-to-3d-model",
+      "slug": "image-to-3d-model",
+      "title": "image to 3d model",
+      "description": "AI-powered platform for fast textured 3D model creation.",
+      "author": "lijinhui293",
+      "username": "lijinhui293",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "3d-modeling"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-03-20T05:49:13.725Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1773985669/hplf2vjs3fvgtv4b3p0c.jpg",
+      "toolUrl": "https://fastin3d.com"
+    },
+    {
       "id": "bulkbgremove",
       "slug": "bulkbgremove",
       "title": "BulkBgRemove",
@@ -6266,5 +6289,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-03-17T16:56:52.689Z"
+  "lastUpdated": "2026-03-20T05:49:14.438Z"
 }
