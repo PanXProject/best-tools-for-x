@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "brainstorm-ai",
+      "slug": "brainstorm-ai",
+      "title": "BrainStorm AI",
+      "description": "The All-in-One Productivity Platform",
+      "author": "Matthew Mcnaughton",
+      "username": "braindev",
+      "categories": [
+        "Manage People",
+        "Connect & Collaborate"
+      ],
+      "tags": [
+        "ai",
+        "productivity",
+        "collaboration",
+        "app"
+      ],
+      "pricing": {
+        "model": "free-trial"
+      },
+      "softwareTypes": [
+        "mobile-app"
+      ],
+      "publishDate": "2026-03-22T21:14:58.437Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1774213854/ujqgsmuxc4pglrpfo0pf.jpg",
+      "toolUrl": "https://brainstormai.online/"
+    },
+    {
       "id": "image-to-3d-model",
       "slug": "image-to-3d-model",
       "title": "image to 3d model",
@@ -6289,5 +6316,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-03-20T05:49:14.438Z"
+  "lastUpdated": "2026-03-22T21:14:59.157Z"
 }
