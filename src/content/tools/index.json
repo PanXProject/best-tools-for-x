@@ -25,7 +25,9 @@
       ],
       "publishDate": "2026-03-22T21:14:58.437Z",
       "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1774213854/ujqgsmuxc4pglrpfo0pf.jpg",
-      "toolUrl": "https://brainstormai.online/"
+      "toolUrl": "https://brainstormai.online/",
+      "featured": false,
+      "featuredPosition": null
     },
     {
       "id": "image-to-3d-model",
@@ -6316,5 +6318,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-03-22T21:14:59.157Z"
+  "lastUpdated": "2026-03-22T21:15:40.298Z"
 }
