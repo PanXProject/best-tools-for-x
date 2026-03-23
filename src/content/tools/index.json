@@ -1,6 +1,29 @@
 {
   "tools": [
     {
+      "id": "ltx-2-3-ai",
+      "slug": "ltx-2-3-ai",
+      "title": "LTX 2.3 AI ",
+      "description": "LTX 2.3 enables native audio-video sync for HD AI video generation.",
+      "author": "Humo AI",
+      "username": "poppy",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "pricing": {
+        "model": "one-time-payment"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-03-23T06:23:41.009Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1774247001/a3m6qbbuipjr95keukk8.png",
+      "toolUrl": "https://ltx23.net"
+    },
+    {
       "id": "brainstorm-ai",
       "slug": "brainstorm-ai",
       "title": "BrainStorm AI",
@@ -6318,5 +6341,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-03-22T21:18:23.372Z"
+  "lastUpdated": "2026-03-23T06:23:41.734Z"
 }
