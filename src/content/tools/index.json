@@ -1,6 +1,29 @@
 {
   "tools": [
     {
+      "id": "kling-3-0-motion-control",
+      "slug": "kling-3-0-motion-control",
+      "title": "Kling 3.0 Motion Control",
+      "description": "Kling 3.0 enables precise motion control for stable, natural character",
+      "author": "Humo AI",
+      "username": "poppy",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "pricing": {
+        "model": "pay-per-use"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-03-26T07:12:11.401Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1774509082/ja0gr9adykagths2nx5f.png",
+      "toolUrl": "https://www.klingmotion.net/kling-3-0-motion-control"
+    },
+    {
       "id": "seedream-5-0-ai",
       "slug": "seedream-5-0-ai",
       "title": "Seedream 5.0 AI ",
@@ -6364,5 +6387,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-03-23T06:28:31.656Z"
+  "lastUpdated": "2026-03-26T07:12:12.232Z"
 }
