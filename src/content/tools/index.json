@@ -1,6 +1,29 @@
 {
   "tools": [
     {
+      "id": "wan-ai",
+      "slug": "wan-ai",
+      "title": "Wan AI ",
+      "description": "Wan 2.7 AI Video Generator ",
+      "author": "Humo AI",
+      "username": "poppy",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "pricing": {
+        "model": "one-time-payment"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-03-27T05:50:52.208Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1774590552/lopwkefztbcn2k3otttm.png",
+      "toolUrl": "https://wan2-7.net"
+    },
+    {
       "id": "wan-2-7-ai",
       "slug": "wan-2-7-ai",
       "title": "Wan 2.7 AI ",
@@ -6410,5 +6433,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-03-26T07:15:47.158Z"
+  "lastUpdated": "2026-03-27T05:50:52.777Z"
 }
