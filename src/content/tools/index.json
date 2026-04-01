@@ -1,6 +1,29 @@
 {
   "tools": [
     {
+      "id": "firered-image-ai",
+      "slug": "firered-image-ai",
+      "title": "Firered Image AI",
+      "description": "FireRed Image Edit: precise, high-fidelity AI image editing.",
+      "author": "Humo AI",
+      "username": "poppy",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "pricing": {
+        "model": "one-time-payment"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-04-01T05:13:27.644Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1775020328/ioixcogv0qweciqug7en.png",
+      "toolUrl": "https://fireredimage.me"
+    },
+    {
       "id": "wan-ai",
       "slug": "wan-ai",
       "title": "Wan AI ",
@@ -6433,5 +6456,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-03-27T05:50:52.777Z"
+  "lastUpdated": "2026-04-01T05:13:28.315Z"
 }
