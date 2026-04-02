@@ -1,6 +1,29 @@
 {
   "tools": [
     {
+      "id": "floor-plan-ai",
+      "slug": "floor-plan-ai",
+      "title": "floor Plan ai",
+      "description": "Create review-ready floor plans from text",
+      "author": "lijinhui293",
+      "username": "lijinhui293",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-04-02T04:37:19.903Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1775104536/gu6anle6fwyu8ysyz85z.jpg",
+      "toolUrl": "https://buildfloorplan.com"
+    },
+    {
       "id": "firered-image-ai",
       "slug": "firered-image-ai",
       "title": "Firered Image AI",
@@ -6456,5 +6479,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-04-01T05:13:28.315Z"
+  "lastUpdated": "2026-04-02T04:37:20.603Z"
 }
