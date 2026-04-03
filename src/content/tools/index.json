@@ -1,6 +1,29 @@
 {
   "tools": [
     {
+      "id": "wan-2-6",
+      "slug": "wan-2-6",
+      "title": "Wan 2.6",
+      "description": "Wan 2.6 AI Video Generator ",
+      "author": "Humo AI",
+      "username": "poppy",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "pricing": {
+        "model": "one-time-payment"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-04-03T02:59:10.300Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1775185109/wkhxzi9imikm4njjszvr.png",
+      "toolUrl": "https://www.wan2video.com"
+    },
+    {
       "id": "floor-plan-ai",
       "slug": "floor-plan-ai",
       "title": "floor Plan ai",
@@ -6479,5 +6502,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-04-02T04:37:20.603Z"
+  "lastUpdated": "2026-04-03T02:59:11.058Z"
 }
