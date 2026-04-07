@@ -364,8 +364,8 @@
     {
       "id": "prime-teams-project-management-and-time-tracking-software",
       "slug": "prime-teams-project-management-and-time-tracking-software",
-      "title": "Prime Teams – Project Management and Time Tracking Software",
-      "description": "Manage teams smarter with Prime Teams — live screen tracking, time tra",
+      "title": "Time Tracking Software | Prime Teams  ",
+      "description": "Time Tracking Software ",
       "author": "Prime Teams",
       "username": "primeteams",
       "categories": [
@@ -390,7 +390,9 @@
       ],
       "publishDate": "2026-02-18T07:07:10.709Z",
       "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1771398151/bpyrd3ayp7i6o3taikcd.png",
-      "toolUrl": "https://primeteams.ai/"
+      "toolUrl": "https://primeteams.ai/",
+      "featured": false,
+      "featuredPosition": null
     },
     {
       "id": "pixexact",
@@ -6525,5 +6527,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-04-07T07:40:30.411Z"
+  "lastUpdated": "2026-04-07T12:36:46.750Z"
 }
