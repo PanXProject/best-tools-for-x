@@ -1,6 +1,29 @@
 {
   "tools": [
     {
+      "id": "hailuo-3-0-ai-video-generator",
+      "slug": "hailuo-3-0-ai-video-generator",
+      "title": "Hailuo 3.0 AI Video Generator",
+      "description": "Hailuo 3.0: 4K/60fps cinematic AI video generation tool",
+      "author": "Humo AI",
+      "username": "poppy",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-04-07T07:40:29.505Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1775547557/lshmnqbjejrzc1hjnfro.png",
+      "toolUrl": "https://hailuo30.net"
+    },
+    {
       "id": "wan-2-6",
       "slug": "wan-2-6",
       "title": "Wan 2.6",
@@ -6502,5 +6525,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-04-03T02:59:11.058Z"
+  "lastUpdated": "2026-04-07T07:40:30.411Z"
 }
