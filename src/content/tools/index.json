@@ -1,6 +1,29 @@
 {
   "tools": [
     {
+      "id": "omnihuman-ai",
+      "slug": "omnihuman-ai",
+      "title": "Omnihuman AI ",
+      "description": "Create digital humans from one image with audio-video sync",
+      "author": "Humo AI",
+      "username": "poppy",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-04-08T02:54:18.717Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1775616511/fvmozkxsnhyvmljcqeib.png",
+      "toolUrl": "https://www.omnihuman-15.com"
+    },
+    {
       "id": "hailuo-3-0-ai-video-generator",
       "slug": "hailuo-3-0-ai-video-generator",
       "title": "Hailuo 3.0 AI Video Generator",
@@ -6527,5 +6550,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-04-07T12:36:46.750Z"
+  "lastUpdated": "2026-04-08T02:54:19.370Z"
 }
