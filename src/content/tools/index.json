@@ -1,6 +1,29 @@
 {
   "tools": [
     {
+      "id": "gpt-image-2",
+      "slug": "gpt-image-2",
+      "title": "GPT Image 2",
+      "description": "GPT Image 2 generates high-definition images with precise text and det",
+      "author": "Humo AI",
+      "username": "poppy",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "pricing": {
+        "model": "one-time-payment"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-04-13T06:58:17.046Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1776063455/gwqj2wdx0j7ueoce7ull.png",
+      "toolUrl": "https://gptimg2ai.net"
+    },
+    {
       "id": "omnihuman-ai",
       "slug": "omnihuman-ai",
       "title": "Omnihuman AI ",
@@ -6550,5 +6573,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-04-08T02:54:19.370Z"
+  "lastUpdated": "2026-04-13T06:58:17.758Z"
 }
