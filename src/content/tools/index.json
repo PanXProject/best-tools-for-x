@@ -1,6 +1,29 @@
 {
   "tools": [
     {
+      "id": "wan-2-7-ai-video-generator",
+      "slug": "wan-2-7-ai-video-generator",
+      "title": "Wan 2.7 AI Video Generator",
+      "description": "Wan 2.7 is a multi-modal AI video model for HD & long creation",
+      "author": "Humo AI",
+      "username": "poppy",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "pricing": {
+        "model": "subscription"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-04-14T03:13:27.244Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1776136333/biboaprukgkvwlpjwb0q.png",
+      "toolUrl": "https://www.wan2video.com/wan/wan-2-7"
+    },
+    {
       "id": "gpt-image-2",
       "slug": "gpt-image-2",
       "title": "GPT Image 2",
@@ -6573,5 +6596,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-04-13T06:58:17.758Z"
+  "lastUpdated": "2026-04-14T03:13:28.031Z"
 }
