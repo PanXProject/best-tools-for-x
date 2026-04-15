@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "image-color-inverter",
+      "slug": "image-color-inverter",
+      "title": "Image Color Inverter",
+      "description": "Instantly invert image colors online—free, fast, no sign‑up.",
+      "author": "Ghostern",
+      "username": "ghostern",
+      "categories": [
+        "Create & Build",
+        "Connect & Collaborate"
+      ],
+      "tags": [
+        "image-color-inverter",
+        "negative-effect",
+        "photo-editor",
+        "image-inverter",
+        "online-tool"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-04-15T11:23:51.895Z",
+      "heroImage": "",
+      "toolUrl": "https://ghostern.com/tool/image-color-inverter/"
+    },
+    {
       "id": "davinci-magihuman-ai",
       "slug": "davinci-magihuman-ai",
       "title": "Davinci MagiHuman AI",
@@ -6619,5 +6647,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-04-14T05:26:46.553Z"
+  "lastUpdated": "2026-04-15T11:23:52.740Z"
 }
