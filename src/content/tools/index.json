@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "seedance-2-0",
+      "slug": "seedance-2-0",
+      "title": "Seedance 2.0",
+      "description": "AI video generator for 1080p text-to-video and image-to-video",
+      "author": "Thi?n Pii",
+      "username": "thienpii",
+      "categories": [
+        "Create & Build",
+        "Connect & Collaborate"
+      ],
+      "tags": [
+        "ai",
+        "video-generation",
+        "text-to-video",
+        "image-to-video",
+        "cinematic-video"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-04-18T08:37:10.662Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1776501425/qxxoxdy1z2swtynxa6po.png",
+      "toolUrl": "https://www.seedance2ai.app/"
+    },
+    {
       "id": "image-color-inverter",
       "slug": "image-color-inverter",
       "title": "Image Color Inverter",
@@ -6647,5 +6675,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-04-15T11:23:52.740Z"
+  "lastUpdated": "2026-04-18T08:37:11.614Z"
 }
