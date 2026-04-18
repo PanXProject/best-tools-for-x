@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "gpt-image-2-ai-image-generator",
+      "slug": "gpt-image-2-ai-image-generator",
+      "title": "GPT Image 2 AI Image Generator",
+      "description": "AI image generator and editor for fast text-to-image workflows",
+      "author": "Thi?n Pii",
+      "username": "thienpii",
+      "categories": [
+        "Create & Build",
+        "Connect & Collaborate"
+      ],
+      "tags": [
+        "ai",
+        "image-generation",
+        "image-editing",
+        "text-to-image",
+        "gpt-image"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-04-18T09:12:36.281Z",
+      "heroImage": "",
+      "toolUrl": "https://www.gpt-image-2.dev/"
+    },
+    {
       "id": "seedance-2-0",
       "slug": "seedance-2-0",
       "title": "Seedance 2.0",
@@ -6675,5 +6703,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-04-18T08:37:11.614Z"
+  "lastUpdated": "2026-04-18T09:12:37.054Z"
 }
