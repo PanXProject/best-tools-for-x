@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "ai-music-generator",
+      "slug": "ai-music-generator",
+      "title": "AI Music Generator",
+      "description": "Generate studio-quality songs from text in minutes",
+      "author": "chenhai",
+      "username": "flowers",
+      "categories": [
+        "Create & Build",
+        "Connect & Collaborate"
+      ],
+      "tags": [
+        "ai-music",
+        "text-to-music",
+        "suno-ai",
+        "music-generator"
+      ],
+      "pricing": {
+        "model": "subscription"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-04-20T23:28:58.119Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1776727242/m8hcbtogec5ns94tqn4t.png",
+      "toolUrl": "https://aimusicagent.org/"
+    },
+    {
       "id": "pixverse-c1",
       "slug": "pixverse-c1",
       "title": "PixVerse C1",
@@ -6726,5 +6753,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-04-20T06:43:36.213Z"
+  "lastUpdated": "2026-04-20T23:28:59.010Z"
 }
