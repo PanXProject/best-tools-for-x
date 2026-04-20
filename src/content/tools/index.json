@@ -1,6 +1,29 @@
 {
   "tools": [
     {
+      "id": "pixverse-c1",
+      "slug": "pixverse-c1",
+      "title": "PixVerse C1",
+      "description": "PixVerse C1 is a professional AI video model supporting text-to-video",
+      "author": "Humo AI",
+      "username": "poppy",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-04-20T06:43:35.371Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1776667305/xqunheic6b7712pi3w5o.png",
+      "toolUrl": "https://pixversec1.app/"
+    },
+    {
       "id": "gpt-image-2-ai-image-generator",
       "slug": "gpt-image-2-ai-image-generator",
       "title": "GPT Image 2 AI Image Generator",
@@ -6703,5 +6726,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-04-18T09:12:37.054Z"
+  "lastUpdated": "2026-04-20T06:43:36.213Z"
 }
