@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "batchremover",
+      "slug": "batchremover",
+      "title": "BatchRemover",
+      "description": "Free AI background remover - remove, change & resize backgrounds",
+      "author": "BatchRemover",
+      "username": "wills",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai",
+        "background",
+        "remover",
+        "free"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-04-21T06:35:12.925Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1776752908/xfiiswr7ivjqxn5qb6h3.jpg",
+      "toolUrl": "https://www.batchremover.com/"
+    },
+    {
       "id": "ai-music-generator",
       "slug": "ai-music-generator",
       "title": "AI Music Generator",
@@ -6753,5 +6779,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-04-20T23:28:59.010Z"
+  "lastUpdated": "2026-04-21T06:35:14.193Z"
 }
