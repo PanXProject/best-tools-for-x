@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "text-to-song-ai",
+      "slug": "text-to-song-ai",
+      "title": "Text to Song AI",
+      "description": "Transform your text into professional songs with advanced AI.",
+      "author": "Text to Song AI",
+      "username": "texttosongai",
+      "categories": [
+        "Get & Keep Customers",
+        "Understand & Improve",
+        "Connect & Collaborate"
+      ],
+      "tags": [
+        "ai",
+        "music-generation",
+        "creative-tools",
+        "audio"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-04-22T04:06:33.778Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1776830752/m7zfdzjddhvdmrisrndi.jpg",
+      "toolUrl": "https://texttosong.ai/"
+    },
+    {
       "id": "gpt-image-2-ai",
       "slug": "gpt-image-2-ai",
       "title": "GPT Image 2 AI ",
@@ -6802,5 +6830,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-04-22T02:52:08.757Z"
+  "lastUpdated": "2026-04-22T04:06:34.647Z"
 }
