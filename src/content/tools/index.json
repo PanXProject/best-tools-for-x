@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "pregnancy-calculator",
+      "slug": "pregnancy-calculator",
+      "title": "Pregnancy calculator",
+      "description": "Know exactly how many days until your deadline.",
+      "author": "Marius",
+      "username": "mariusclaassen",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "date-calculator",
+        "days-between-dates",
+        "due-date-tracker"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app",
+        "desktop-app"
+      ],
+      "publishDate": "2026-04-22T07:43:45.981Z",
+      "heroImage": "",
+      "toolUrl": "https://duedatecalc.online/"
+    },
+    {
       "id": "casepost",
       "slug": "casepost",
       "title": "CasePost",
@@ -6859,5 +6886,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-04-22T05:02:20.480Z"
+  "lastUpdated": "2026-04-22T07:43:46.850Z"
 }
