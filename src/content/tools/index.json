@@ -1,6 +1,29 @@
 {
   "tools": [
     {
+      "id": "gpt-image-2-ai",
+      "slug": "gpt-image-2-ai",
+      "title": "GPT Image 2 AI ",
+      "description": "GPT Image 2 supports high-definition image generation",
+      "author": "Humo AI",
+      "username": "poppy",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-04-22T02:52:07.959Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1776826252/xeyhyyvy2yfgker16zgj.png",
+      "toolUrl": "https://gptimg2ai.net"
+    },
+    {
       "id": "batchremover",
       "slug": "batchremover",
       "title": "BatchRemover",
@@ -6779,5 +6802,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-04-21T06:35:14.193Z"
+  "lastUpdated": "2026-04-22T02:52:08.757Z"
 }
