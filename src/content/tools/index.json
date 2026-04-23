@@ -1,6 +1,29 @@
 {
   "tools": [
     {
+      "id": "ernie-image-ai",
+      "slug": "ernie-image-ai",
+      "title": "Ernie Image AI",
+      "description": "ERNIE-Image: Lightweight text-to-image model",
+      "author": "Humo AI",
+      "username": "poppy",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-04-23T01:42:03.689Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1776908462/f5epdzxljd9xik9d9lmh.png",
+      "toolUrl": "https://www.ernieimage.app"
+    },
+    {
       "id": "ernie-image",
       "slug": "ernie-image",
       "title": "Ernie Image",
@@ -6909,5 +6932,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-04-23T01:27:09.931Z"
+  "lastUpdated": "2026-04-23T01:42:04.519Z"
 }
