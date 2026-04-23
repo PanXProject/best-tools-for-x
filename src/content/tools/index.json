@@ -1,6 +1,29 @@
 {
   "tools": [
     {
+      "id": "ernie-image",
+      "slug": "ernie-image",
+      "title": "Ernie Image",
+      "description": "ERNIE-Image generates images",
+      "author": "Humo AI",
+      "username": "poppy",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-04-23T01:27:08.927Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1776907555/m46o8p0ozvo5mi5euf9t.png",
+      "toolUrl": "https://ernie-image.net"
+    },
+    {
       "id": "pregnancy-calculator",
       "slug": "pregnancy-calculator",
       "title": "Pregnancy calculator",
@@ -6886,5 +6909,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-04-22T07:43:46.850Z"
+  "lastUpdated": "2026-04-23T01:27:09.931Z"
 }
