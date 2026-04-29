@@ -1,6 +1,29 @@
 {
   "tools": [
     {
+      "id": "happyhorse-1-0",
+      "slug": "happyhorse-1-0",
+      "title": "happyhorse 1.0 ",
+      "description": "HappyHorse AI generates HD videos ",
+      "author": "Humo AI",
+      "username": "poppy",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-04-29T02:43:53.650Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1777430512/xo75dxvg0yf5ibjklppr.png",
+      "toolUrl": "https://www.runhappyhorse.net"
+    },
+    {
       "id": "image-2",
       "slug": "image-2",
       "title": "Image 2",
@@ -6955,5 +6978,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-04-25T06:30:46.110Z"
+  "lastUpdated": "2026-04-29T02:43:54.528Z"
 }
