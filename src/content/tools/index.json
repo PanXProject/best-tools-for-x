@@ -1,6 +1,29 @@
 {
   "tools": [
     {
+      "id": "wan-2-7-ai-video",
+      "slug": "wan-2-7-ai-video",
+      "title": "Wan 2.7 AI Video ",
+      "description": "Wan 2.7 AI Video Generator",
+      "author": "Humo AI",
+      "username": "poppy",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-04-29T02:47:19.976Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1777430741/ipmqazc0bgpr4ybofjvy.png",
+      "toolUrl": "https://www.wan2video.com/wan/wan-2-7"
+    },
+    {
       "id": "happyhorse-1-0",
       "slug": "happyhorse-1-0",
       "title": "happyhorse 1.0 ",
@@ -6978,5 +7001,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-04-29T02:43:54.528Z"
+  "lastUpdated": "2026-04-29T02:47:20.882Z"
 }
