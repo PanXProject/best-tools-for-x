@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "veo-4-ai-video-generator",
+      "slug": "veo-4-ai-video-generator",
+      "title": "Veo 4 AI Video Generator",
+      "description": "Free online AI video generator with text to video and audio sync",
+      "author": "Thomas",
+      "username": "thomaszx85531",
+      "categories": [
+        "Create & Build",
+        "Understand & Improve"
+      ],
+      "tags": [
+        "ai",
+        "video-generation",
+        "creative"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-05-02T23:13:58.026Z",
+      "heroImage": "",
+      "toolUrl": "https://veo4free.net/"
+    },
+    {
       "id": "wan-2-7-ai-video",
       "slug": "wan-2-7-ai-video",
       "title": "Wan 2.7 AI Video ",
@@ -7001,5 +7027,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-04-29T02:47:20.882Z"
+  "lastUpdated": "2026-05-02T23:13:58.840Z"
 }
