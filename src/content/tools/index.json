@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "pterocos",
+      "slug": "pterocos",
+      "title": "Pterocos",
+      "description": "HTML CSS JS Editor with AI chat and ability to share codes",
+      "author": "Amine khd",
+      "username": "amine",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai",
+        "product",
+        "productivity",
+        "developer-tools",
+        "code-editorn"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-05-05T08:08:47.052Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1777968370/qnukwbummuap8exkyx1l.png",
+      "toolUrl": "https://pterocos.eu.org/app/"
+    },
+    {
       "id": "veo-4-ai-video-generator",
       "slug": "veo-4-ai-video-generator",
       "title": "Veo 4 AI Video Generator",
@@ -7027,5 +7054,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-05-02T23:13:58.840Z"
+  "lastUpdated": "2026-05-05T08:08:48.135Z"
 }
