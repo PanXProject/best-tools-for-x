@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "wan-3-0",
+      "slug": "wan-3-0",
+      "title": "Wan 3.0",
+      "description": "AI video generation for fast creative production",
+      "author": "Thomas",
+      "username": "thomaszx85531",
+      "categories": [
+        "Create & Build",
+        "Understand & Improve"
+      ],
+      "tags": [
+        "ai-video",
+        "video-generator",
+        "creative-tools"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-05-06T23:41:33.962Z",
+      "heroImage": "",
+      "toolUrl": "https://wan30ai.com"
+    },
+    {
       "id": "pterocos",
       "slug": "pterocos",
       "title": "Pterocos",
@@ -7054,5 +7080,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-05-05T08:08:48.135Z"
+  "lastUpdated": "2026-05-06T23:41:34.878Z"
 }
