@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "debuggix",
+      "slug": "debuggix",
+      "title": "Debuggix",
+      "description": "Runs 9 security engines plus AI against your code zero retention",
+      "author": "Lucky Maina",
+      "username": "lucky3mc",
+      "categories": [
+        "Get & Keep Customers",
+        "Understand & Improve",
+        "Secure & Deploy"
+      ],
+      "tags": [
+        "ai",
+        "productivity",
+        "coding-tools",
+        "security-and-vulnerability",
+        "fast-shpping"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-05-08T09:00:13.341Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1778230720/byc4heb6touptb69j4x7.png",
+      "toolUrl": "https://debuggix.space"
+    },
+    {
       "id": "wan-3-0",
       "slug": "wan-3-0",
       "title": "Wan 3.0",
@@ -7080,5 +7109,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-05-06T23:41:34.878Z"
+  "lastUpdated": "2026-05-08T09:00:14.442Z"
 }
