@@ -1,6 +1,29 @@
 {
   "tools": [
     {
+      "id": "hailuo-3-0",
+      "slug": "hailuo-3-0",
+      "title": "Hailuo 3.0",
+      "description": "AI-Powered Text-to-Video Platform for Creators and Developers",
+      "author": "Hailuo 3.0 Team",
+      "username": "hailuo30ai",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-05-09T08:33:56.568Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1778315131/q8twfbjccbd9cstremon.png",
+      "toolUrl": "https://hailuo30.net"
+    },
+    {
       "id": "debuggix",
       "slug": "debuggix",
       "title": "Debuggix",
@@ -7109,5 +7132,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-05-08T09:00:14.442Z"
+  "lastUpdated": "2026-05-09T08:33:57.417Z"
 }
