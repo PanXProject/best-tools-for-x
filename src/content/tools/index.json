@@ -1,6 +1,29 @@
 {
   "tools": [
     {
+      "id": "wan-3-0-ai-video-generator",
+      "slug": "wan-3-0-ai-video-generator",
+      "title": "Wan 3.0 AI Video Generator",
+      "description": "Wan 3.0 AI Video Generator",
+      "author": "Humo AI",
+      "username": "poppy",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-05-15T03:05:45.563Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1778814281/r46qsjswyfw7zn2nxjem.png",
+      "toolUrl": "https://wan30.net/"
+    },
+    {
       "id": "gemini-omni",
       "slug": "gemini-omni",
       "title": "Gemini Omni",
@@ -7160,5 +7183,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-05-15T00:44:21.238Z"
+  "lastUpdated": "2026-05-15T03:05:46.423Z"
 }
