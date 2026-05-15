@@ -1,6 +1,29 @@
 {
   "tools": [
     {
+      "id": "wan-3-0-ai",
+      "slug": "wan-3-0-ai",
+      "title": "Wan 3.0 AI ",
+      "description": "Wan 3.0 AI Video Generator",
+      "author": "Humo AI",
+      "username": "poppy",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-05-15T03:06:05.438Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1778814281/r46qsjswyfw7zn2nxjem.png",
+      "toolUrl": "https://wan30.net/"
+    },
+    {
       "id": "wan-3-0-ai-video-generator",
       "slug": "wan-3-0-ai-video-generator",
       "title": "Wan 3.0 AI Video Generator",
@@ -7183,5 +7206,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-05-15T03:05:46.423Z"
+  "lastUpdated": "2026-05-15T03:06:06.261Z"
 }
