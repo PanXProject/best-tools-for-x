@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "gemini-omni",
+      "slug": "gemini-omni",
+      "title": "Gemini Omni",
+      "description": "Multimodal AI workflows for text, image, and video creation",
+      "author": "Thomas",
+      "username": "thomaszx85531",
+      "categories": [
+        "Create & Build",
+        "Understand & Improve"
+      ],
+      "tags": [
+        "ai",
+        "multimodal",
+        "video",
+        "image",
+        "productivity"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-05-15T00:44:20.353Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1778805857/sc9f6suavwl6fdsdckdg.png",
+      "toolUrl": "https://geminiomniai.co/"
+    },
+    {
       "id": "hailuo-3-0",
       "slug": "hailuo-3-0",
       "title": "Hailuo 3.0",
@@ -7132,5 +7160,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-05-09T08:33:57.417Z"
+  "lastUpdated": "2026-05-15T00:44:21.238Z"
 }
