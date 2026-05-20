@@ -1,6 +1,29 @@
 {
   "tools": [
     {
+      "id": "peanut-ai",
+      "slug": "peanut-ai",
+      "title": "Peanut AI",
+      "description": "Peanut AI generates videos from text with one-click production for div",
+      "author": "Humo AI",
+      "username": "poppy",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-05-20T01:52:28.683Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1779241857/niuozj0xpjmcl0ih58py.png",
+      "toolUrl": "https://peanutai.net"
+    },
+    {
       "id": "wan-3-0-ai",
       "slug": "wan-3-0-ai",
       "title": "Wan 3.0 AI ",
@@ -7206,5 +7229,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-05-15T03:06:06.261Z"
+  "lastUpdated": "2026-05-20T01:52:29.589Z"
 }
