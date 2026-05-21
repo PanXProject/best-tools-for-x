@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "chatgpt-image",
+      "slug": "chatgpt-image",
+      "title": "ChatGPT Image",
+      "description": "ChatGPT Image helps teams create practical AI visuals and content fast",
+      "author": "Thomas",
+      "username": "thomaszx85531",
+      "categories": [
+        "Get & Keep Customers",
+        "Create & Build",
+        "Run Business"
+      ],
+      "tags": [
+        "ai",
+        "image",
+        "productivity",
+        "creative",
+        "generator"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-05-21T00:19:10.530Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1779322741/dnlsh3bdxmnpbmvgc7yf.png",
+      "toolUrl": "https://chatgptimages.co/"
+    },
+    {
       "id": "peanut-ai",
       "slug": "peanut-ai",
       "title": "Peanut AI",
@@ -7229,5 +7258,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-05-20T01:52:29.589Z"
+  "lastUpdated": "2026-05-21T00:19:11.684Z"
 }
