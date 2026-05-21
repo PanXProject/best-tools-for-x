@@ -1,6 +1,29 @@
 {
   "tools": [
     {
+      "id": "editany-ai",
+      "slug": "editany-ai",
+      "title": "EditAny AI",
+      "description": "AI Image Editor & AI Image Tools | EditAny AI",
+      "author": "james",
+      "username": "jamesu",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "pricing": {
+        "model": "free-trial"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-05-21T08:54:37.182Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1779353602/itncepebflucujzkxvox.png",
+      "toolUrl": "https://editany.ai/"
+    },
+    {
       "id": "gemini-omni-hub",
       "slug": "gemini-omni-hub",
       "title": "Gemini Omni Hub",
@@ -7283,5 +7306,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-05-21T07:26:36.499Z"
+  "lastUpdated": "2026-05-21T08:54:38.328Z"
 }
