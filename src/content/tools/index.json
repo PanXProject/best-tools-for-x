@@ -1,6 +1,31 @@
 {
   "tools": [
     {
+      "id": "bananaproai",
+      "slug": "bananaproai",
+      "title": "BananaProAI",
+      "description": "Banana AI: The Best Free AI Image Generator & Video Maker",
+      "author": "pi pi",
+      "username": "pipiba",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai",
+        "image",
+        "video"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-05-23T15:02:12.086Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1779548165/jiga7jmmykomwx5fzwbe.png",
+      "toolUrl": "https://bananaai.dev/"
+    },
+    {
       "id": "editany-ai",
       "slug": "editany-ai",
       "title": "EditAny AI",
@@ -7306,5 +7331,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-05-21T08:54:38.328Z"
+  "lastUpdated": "2026-05-23T15:02:13.110Z"
 }
