@@ -1,6 +1,29 @@
 {
   "tools": [
     {
+      "id": "traducir-imagen",
+      "slug": "traducir-imagen",
+      "title": "Traducir Imagen",
+      "description": "Traductor de imágenes rápido y preciso | Traducir Imagen",
+      "author": "james",
+      "username": "jamesu",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "pricing": {
+        "model": "free-trial"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-05-26T08:03:15.162Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1779782558/jphfgelf0emycqknt016.png",
+      "toolUrl": "https://traducirimagen.com/"
+    },
+    {
       "id": "copyweb",
       "slug": "copyweb",
       "title": "Copyweb",
@@ -7357,5 +7380,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-05-23T15:08:56.512Z"
+  "lastUpdated": "2026-05-26T08:03:16.388Z"
 }
