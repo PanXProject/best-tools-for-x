@@ -1,6 +1,29 @@
 {
   "tools": [
     {
+      "id": "sulphur-2",
+      "slug": "sulphur-2",
+      "title": "Sulphur 2",
+      "description": "Sulphur 2 generates realistic videos locally via text and images.",
+      "author": "Humo AI",
+      "username": "poppy",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "pricing": {
+        "model": "free-trial"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-06-01T06:28:39.585Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1780295288/fqee2qhl19bvgcjdyzie.png",
+      "toolUrl": "https://sulphur2ai.com/"
+    },
+    {
       "id": "pixal3d-ai",
       "slug": "pixal3d-ai",
       "title": "Pixal3d AI ",
@@ -7403,5 +7426,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-06-01T06:25:35.472Z"
+  "lastUpdated": "2026-06-01T06:28:40.520Z"
 }
