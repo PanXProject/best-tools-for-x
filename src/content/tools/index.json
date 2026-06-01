@@ -1,6 +1,29 @@
 {
   "tools": [
     {
+      "id": "pixal3d-ai",
+      "slug": "pixal3d-ai",
+      "title": "Pixal3d AI ",
+      "description": "Pixal3D AI generates high-precision 3D models with textures from a sin",
+      "author": "Humo AI",
+      "username": "poppy",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-06-01T06:25:34.511Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1780295045/sm3l4zjp2dvztlvtpeit.png",
+      "toolUrl": "https://www.seed3dai.com/pixal3d-ai"
+    },
+    {
       "id": "traducir-imagen",
       "slug": "traducir-imagen",
       "title": "Traducir Imagen",
@@ -7380,5 +7403,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-05-26T08:03:16.388Z"
+  "lastUpdated": "2026-06-01T06:25:35.472Z"
 }
