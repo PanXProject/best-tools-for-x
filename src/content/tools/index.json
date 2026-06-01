@@ -13,10 +13,10 @@
         "Secure & Deploy"
       ],
       "tags": [
-        "film-scheduling",
-        "movie-production",
-        "ai-filmmaking",
-        "production-management",
+        "ai",
+        "productivity",
+        "collaboration",
+        "project-management",
         "film-production-software"
       ],
       "pricing": {
@@ -29,7 +29,9 @@
       ],
       "publishDate": "2026-06-01T12:35:22.778Z",
       "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1780317085/ghh0lyfysqumaesietxx.jpg",
-      "toolUrl": "https://studiovity.com/video-tv-film-scheduling-software/"
+      "toolUrl": "https://studiovity.com/video-tv-film-scheduling-software/",
+      "featured": false,
+      "featuredPosition": null
     },
     {
       "id": "hidream",
@@ -7503,5 +7505,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-06-01T12:35:23.662Z"
+  "lastUpdated": "2026-06-01T12:39:19.356Z"
 }
