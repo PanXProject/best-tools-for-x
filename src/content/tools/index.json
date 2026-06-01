@@ -1,6 +1,29 @@
 {
   "tools": [
     {
+      "id": "hidream",
+      "slug": "hidream",
+      "title": "Hidream ",
+      "description": "HiDream AI realizes full visual creation, generates images and videos ",
+      "author": "Humo AI",
+      "username": "poppy",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-06-01T06:53:06.945Z",
+      "heroImage": "",
+      "toolUrl": "https://www.hidreamai.app/"
+    },
+    {
       "id": "hidream-ai",
       "slug": "hidream-ai",
       "title": "Hidream AI",
@@ -7449,5 +7472,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-06-01T06:52:36.694Z"
+  "lastUpdated": "2026-06-01T06:53:08.056Z"
 }
