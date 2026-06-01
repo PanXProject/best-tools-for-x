@@ -1,6 +1,36 @@
 {
   "tools": [
     {
+      "id": "ai-movie-budgeting-software-studiovity",
+      "slug": "ai-movie-budgeting-software-studiovity",
+      "title": "AI Movie Budgeting Software | Studiovity",
+      "description": "AI-Powered Movie Budgeting Made Simple",
+      "author": "Studiovity",
+      "username": "studiovity_films",
+      "categories": [
+        "Manage Money",
+        "Understand & Improve",
+        "Connect & Collaborate"
+      ],
+      "tags": [
+        "ai",
+        "productivity",
+        "budgeting",
+        "film-production"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app",
+        "desktop-app"
+      ],
+      "publishDate": "2026-06-01T13:16:56.694Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1780319606/ykkl6jwwakuufoivk98m.jpg",
+      "toolUrl": "https://studiovity.com/movie-budgeting-software/"
+    },
+    {
       "id": "ai-pre-production-software-studiovity",
       "slug": "ai-pre-production-software-studiovity",
       "title": "AI Pre Production Software | Studiovity",
@@ -7629,5 +7659,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-06-01T13:09:47.896Z"
+  "lastUpdated": "2026-06-01T13:16:58.163Z"
 }
