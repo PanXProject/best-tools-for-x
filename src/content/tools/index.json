@@ -1,6 +1,29 @@
 {
   "tools": [
     {
+      "id": "hidream-ai",
+      "slug": "hidream-ai",
+      "title": "Hidream AI",
+      "description": "HiDream AI realizes full visual creation, generates images and videos ",
+      "author": "Humo AI",
+      "username": "poppy",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-06-01T06:52:35.721Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1780296723/jmjzj8mtvdhqzz2cqyzt.png",
+      "toolUrl": "https://www.hidreamai.app/"
+    },
+    {
       "id": "sulphur-2",
       "slug": "sulphur-2",
       "title": "Sulphur 2",
@@ -7426,5 +7449,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-06-01T06:28:40.520Z"
+  "lastUpdated": "2026-06-01T06:52:36.694Z"
 }
