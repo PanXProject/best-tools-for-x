@@ -1,6 +1,29 @@
 {
   "tools": [
     {
+      "id": "gptimage-2",
+      "slug": "gptimage-2",
+      "title": "GPTImage 2",
+      "description": "GPT Image 2: Create Stunning AI Images in Seconds",
+      "author": "Yy Lee",
+      "username": "noom1",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "image-generation"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-06-25T02:49:28.575Z",
+      "heroImage": "",
+      "toolUrl": "https://genimageai.app/"
+    },
+    {
       "id": "imageto-image-ai",
       "slug": "imageto-image-ai",
       "title": "Imageto Image AI",
@@ -7773,5 +7796,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-06-24T02:49:44.157Z"
+  "lastUpdated": "2026-06-25T02:49:29.427Z"
 }
