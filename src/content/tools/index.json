@@ -1,6 +1,29 @@
 {
   "tools": [
     {
+      "id": "seedance-2-5",
+      "slug": "seedance-2-5",
+      "title": "Seedance 2.5",
+      "description": "Seedance 2.5 AI Video Generator",
+      "author": "Humo AI",
+      "username": "poppy",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-07-01T00:59:26.210Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1782867467/uglnscjchmaycu3jiydj.png",
+      "toolUrl": "https://seedance25ai.cc/"
+    },
+    {
       "id": "gptimage-2",
       "slug": "gptimage-2",
       "title": "GPTImage 2",
@@ -7796,5 +7819,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-06-25T02:49:29.427Z"
+  "lastUpdated": "2026-07-01T00:59:27.083Z"
 }
