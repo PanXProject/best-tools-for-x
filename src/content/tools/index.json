@@ -1,6 +1,29 @@
 {
   "tools": [
     {
+      "id": "seedream-5-0-pro",
+      "slug": "seedream-5-0-pro",
+      "title": "Seedream 5.0 Pro",
+      "description": "Seedream 5.0 Pro AI Image Generator",
+      "author": "Humo AI",
+      "username": "poppy",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-07-01T01:38:39.693Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1782869870/ozv5zinjyw9zxygevg2x.png",
+      "toolUrl": "https://seedream50pro.com/"
+    },
+    {
       "id": "seedance-2-5",
       "slug": "seedance-2-5",
       "title": "Seedance 2.5",
@@ -7819,5 +7842,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-07-01T00:59:27.083Z"
+  "lastUpdated": "2026-07-01T01:38:40.661Z"
 }
