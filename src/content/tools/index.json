@@ -1,6 +1,31 @@
 {
   "tools": [
     {
+      "id": "claude-test-tool",
+      "slug": "claude-test-tool",
+      "title": "Claude Test Tool",
+      "description": "A sample tool submitted by Claude to verify the flow.",
+      "author": "Claude AI",
+      "username": "claudeai",
+      "user_id": "efe47de1-04c4-4b41-8c60-4f97b170af44",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "testing",
+        "automation"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-07-05T15:15:57.452Z",
+      "heroImage": "",
+      "toolUrl": "https://claude-test-tool.example.com/"
+    },
+    {
       "id": "seedream-5-0-pro",
       "slug": "seedream-5-0-pro",
       "title": "Seedream 5.0 Pro",
@@ -7842,5 +7867,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-07-01T01:38:40.661Z"
+  "lastUpdated": "2026-07-05T15:15:59.373Z"
 }
