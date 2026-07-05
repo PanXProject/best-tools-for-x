@@ -1,33 +1,6 @@
 {
   "tools": [
     {
-      "id": "claude-test-tool",
-      "slug": "claude-test-tool",
-      "title": "Claude Test Tool",
-      "description": "Edited by Claude to verify the edit flow works.",
-      "author": "Claude AI",
-      "username": "claudeai",
-      "user_id": "efe47de1-04c4-4b41-8c60-4f97b170af44",
-      "categories": [
-        "Create & Build"
-      ],
-      "tags": [
-        "testing",
-        "automation"
-      ],
-      "pricing": {
-        "model": "free"
-      },
-      "softwareTypes": [
-        "web-app"
-      ],
-      "publishDate": "2026-07-05T15:15:57.452Z",
-      "heroImage": "",
-      "toolUrl": "https://claude-test-tool.example.com/",
-      "featured": false,
-      "featuredPosition": null
-    },
-    {
       "id": "seedream-5-0-pro",
       "slug": "seedream-5-0-pro",
       "title": "Seedream 5.0 Pro",
@@ -7869,5 +7842,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-07-05T15:19:56.063Z"
+  "lastUpdated": "2026-07-05T15:20:59.107Z"
 }
