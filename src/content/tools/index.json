@@ -1,6 +1,36 @@
 {
   "tools": [
     {
+      "id": "memoforge",
+      "slug": "memoforge",
+      "title": "MemoForge",
+      "description": "Create memes instantly. Free, no watermarks.",
+      "author": "Jenni Tyler",
+      "username": "jennityler",
+      "user_id": "55f64534-dc79-4ddd-b682-92515f048695",
+      "categories": [
+        "Get & Keep Customers",
+        "Create & Build",
+        "Understand & Improve"
+      ],
+      "tags": [
+        "memes",
+        "design-tools",
+        "image-editing",
+        "free-tools",
+        "meme-generator"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-07-21T07:32:53.999Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1784618244/byygo0hfdcw8jcep1u7u.png",
+      "toolUrl": "https://se.o-pro.online/2025/05/memeforge.html"
+    },
+    {
       "id": "seedream-5-0-pro-ai-image-generator",
       "slug": "seedream-5-0-pro-ai-image-generator",
       "title": "Seedream 5.0 Pro AI Image Generator",
@@ -7865,5 +7895,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-07-15T02:08:44.541Z"
+  "lastUpdated": "2026-07-21T07:32:55.027Z"
 }
