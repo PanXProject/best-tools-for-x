@@ -2,8 +2,14 @@ name: Update Tool Awards
 
 on:
   schedule:
-    # Daily at midnight UTC
+    # Daily at midnight UTC (award for the previous day)
     - cron: '0 0 * * *'
+    # Weekly on Sundays 00:15 UTC (award for the Sun-Sat week that just ended)
+    - cron: '15 0 * * 0'
+    # Monthly on the 1st 00:30 UTC (award for the previous month)
+    - cron: '30 0 1 * *'
+    # Yearly on Jan 1st 00:45 UTC (award for the previous year)
+    - cron: '45 0 1 1 *'
   workflow_dispatch:
     inputs:
       award_type:
@@ -17,25 +23,47 @@ on:
           - monthly
           - yearly
 
+# Never run two award jobs at the same time: later runs wait for earlier ones,
+# so overlapping schedules (Jan 1 = daily + monthly + yearly, maybe weekly)
+# each start from the previous run's pushed commit.
+concurrency:
+  group: update-tool-awards
+  cancel-in-progress: false
+
 jobs:
   update-awards:
     runs-on: ubuntu-latest
     environment: Supabase
-    
+
     steps:
+      - name: Resolve award type
+        id: award
+        run: |
+          if [ "$GITHUB_EVENT_NAME" = "workflow_dispatch" ]; then
+            echo "type=${{ github.event.inputs.award_type }}" >> "$GITHUB_OUTPUT"
+          else
+            case "${{ github.event.schedule }}" in
+              '15 0 * * 0') echo "type=weekly"  >> "$GITHUB_OUTPUT" ;;
+              '30 0 1 * *') echo "type=monthly" >> "$GITHUB_OUTPUT" ;;
+              '45 0 1 1 *') echo "type=yearly"  >> "$GITHUB_OUTPUT" ;;
+              *)            echo "type=daily"   >> "$GITHUB_OUTPUT" ;;
+            esac
+          fi
+          echo "Resolved award type from event: $GITHUB_EVENT_NAME / '${{ github.event.schedule }}'"
+
       - uses: actions/checkout@v3
         with:
           fetch-depth: 0
-      
+
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
           node-version: '18'
-          
+
       - name: Install dependencies
         run: |
           npm install @supabase/supabase-js dayjs gray-matter
-          
+
       - name: Create awards script
         run: |
           mkdir -p .github/scripts
@@ -50,24 +78,24 @@ jobs:
           import { join } from 'path';
           import matter from 'gray-matter';
           import { existsSync } from 'fs';
-          
+
           dayjs.extend(utc);
           dayjs.extend(timezone);
           dayjs.extend(isSameOrAfter);
           dayjs.extend(isSameOrBefore);
-          
+
           const TIMEZONE = 'UTC';
           const TOOLS_DIR = 'src/content/tools';
           const AR_TOOLS_DIR = 'src/content/tools/ar';
-          
+
           // Get the award type from environment variable
           const AWARD_TYPE = process.env.AWARD_TYPE || 'daily';
-          
+
           console.log('Starting script with award type:', AWARD_TYPE);
           console.log('Environment check at start of script:');
           console.log('SUPABASE_URL:', process.env.SUPABASE_URL ? 'exists' : 'not set');
           console.log('SUPABASE_ANON_KEY:', process.env.SUPABASE_ANON_KEY ? 'exists' : 'not set');
-          
+
           const supabase = createClient(
             process.env.SUPABASE_URL,
             process.env.SUPABASE_ANON_KEY, // Note: For profile lookups, ANON_KEY is usually sufficient.
@@ -80,7 +108,7 @@ jobs:
               }
             }
           );
-          
+
           /**
            * Reads the username from the MDX frontmatter of a given tool slug.
            * Assumes MDX files are located in 'src/content/tools' or 'src/content/tools/ar'.
@@ -104,7 +132,7 @@ jobs:
                           return null;
                       }
                   }
-          
+
                   const fileContent = await readFile(filePath, 'utf8');
                   const { data } = matter(fileContent);
                   if (data.username) {
@@ -118,7 +146,7 @@ jobs:
                   return null;
               }
           }
-          
+
           /**
            * Retrieves the user ID from the profiles table given a username.
            * @param {string} username - The username to look up.
@@ -134,7 +162,7 @@ jobs:
                   .select('id')
                   .eq('username', username)
                   .single();
-          
+
               if (error) {
                   // If no row found, data will be null and error.message will be 'PGRST116: The result contains 0 rows'
                   if (error.code === 'PGRST116') {
@@ -146,7 +174,7 @@ jobs:
               }
               return data ? data.id : null;
           }
-          
+
           /**
            * Inserts award records into the Supabase awards table using upsert.
            * Prevents duplicate awards for the same slug/award_type/award_date.
@@ -155,20 +183,20 @@ jobs:
            */
           async function insertAwardsToSupabase(winners, awardType) {
               const awardsToInsert = [];
-          
+
               for (const winner of winners) {
                   const username = await getToolUsername(winner.slug); // Await this call
                   if (!username) {
                       console.warn(`Skipping award for slug "${winner.slug}": Username not found in MDX or MDX file missing.`);
                       continue;
                   }
-          
+
                   const userId = await getUserIdFromUsername(username); // Await this call
                   if (!userId) {
                       console.warn(`Skipping award for slug "${winner.slug}": User ID not found for username "${username}".`);
                       continue;
                   }
-          
+
                   awardsToInsert.push({
                       slug: winner.slug,
                       user_id: userId,
@@ -178,12 +206,12 @@ jobs:
                       notified: false, // Will be updated to true by the Edge Function
                   });
               }
-          
+
               if (awardsToInsert.length === 0) {
                   console.log('No valid awards to insert into Supabase.');
                   return;
               }
-          
+
               console.log(`Attempting to insert/upsert ${awardsToInsert.length} awards into Supabase...`);
               // Upsert logic: on conflict (slug, award_type, award_date), do nothing.
               // This prevents re-inserting the same award if the action runs multiple times for the same day.
@@ -193,7 +221,7 @@ jobs:
                       onConflict: 'slug, award_type, award_date',
                       ignoreDuplicates: true, // This is the key for "do nothing" on conflict
                   });
-          
+
               if (error) {
                   console.error('Error inserting awards to Supabase:', error.message);
               } else {
@@ -205,17 +233,17 @@ jobs:
                   }
               }
           }
-          
+
           async function getToolUpvotes() {
             console.log('Fetching tool upvotes...');
             const { data: pages, error } = await supabase
               .from('pages')
               .select('id, total_upvotes');
-          
+
             if (error) throw error;
-          
+
             const tools = [];
-            
+
             // Process each tool to include its publishDate from MDX
             for (const page of pages) {
               const id = page.id.replace(/^tool?\//, '');
@@ -223,14 +251,14 @@ jobs:
                 // First try to find the tool in the English directory
                 const englishMdxPath = join(TOOLS_DIR, `${id}.mdx`);
                 let content, publishDate;
-                
+
                 try {
                   content = await readFile(englishMdxPath, 'utf-8');
                   const { data } = matter(content);
                   publishDate = data.publishDate;
                 } catch (error) {
                   console.log(`Could not find tool in English directory: ${id}`);
-                  
+
                   // If not found in English, try Arabic directory
                   try {
                     const arabicMdxPath = join(AR_TOOLS_DIR, `${id}.mdx`);
@@ -243,7 +271,7 @@ jobs:
                     continue;
                   }
                 }
-                
+
                 tools.push({
                   ...page,
                   id,
@@ -253,14 +281,14 @@ jobs:
                 console.log(`Could not process ${id}: ${error.message}`);
               }
             }
-            
+
             console.log('Retrieved tools:', tools.map(t => `${t.id} - Upvotes: ${t.total_upvotes} - Published: ${t.publishDate}`)); // More detailed log
             return tools;
           }
-          
+
           function getPeriodDates(periodType, now) {
             console.log(`Getting period dates for ${periodType} at ${now.format()}`);
-            
+
             switch (periodType) {
               case 'daily': {
                 // For daily at midnight, look at previous day
@@ -300,17 +328,17 @@ jobs:
               }
             }
           }
-                        
+
           async function determineWinners(tools, periodType, now) {
             const { start, end, awardDate } = getPeriodDates(periodType, now);
-            
+
             console.log(`\nDetermining winners for ${periodType}`);
-            console.log('Period:', { 
-              start: start.format(), 
+            console.log('Period:', {
+              start: start.format(),
               end: end.format(),
               awardDate: awardDate
             });
-            
+
             // Filter eligible tools
             const eligibleTools = tools
               .filter(tool => {
@@ -318,16 +346,16 @@ jobs:
                 return publishDate.isSameOrAfter(start) && publishDate.isSameOrBefore(end);
               })
               .filter(tool => tool.total_upvotes > 0); // Remove 0 upvote tools
-            
+
             // Sort by upvotes descending
             eligibleTools.sort((a, b) => b.total_upvotes - a.total_upvotes);
-            
+
             // Get unique upvote counts
             const uniqueUpvotes = [...new Set(eligibleTools.map(tool => tool.total_upvotes))];
             console.log('Unique upvote counts:', uniqueUpvotes);
-            
+
             const winners = [];
-            
+
             // Assign ranks based on unique upvote values
             uniqueUpvotes.forEach((upvoteCount, index) => {
               const rank = index + 1;
@@ -335,7 +363,7 @@ jobs:
                 const toolsWithThisUpvoteCount = eligibleTools.filter(
                   tool => tool.total_upvotes === upvoteCount
                 );
-                
+
                 toolsWithThisUpvoteCount.forEach(tool => {
                   winners.push({
                     slug: tool.id,
@@ -346,11 +374,11 @@ jobs:
                 });
               }
             });
-            
-            console.log('Final winners:', winners.map(w => 
+
+            console.log('Final winners:', winners.map(w =>
               `${w.slug}: ${w.total_upvotes} upvotes, rank ${w.rank}, Award Date: ${w.awardDate}`
             )); // More detailed log
-            
+
             return winners;
           }
 
@@ -359,17 +387,17 @@ jobs:
               console.log(`Updating ${toolPath} with award:`, newAward);
               const content = await readFile(toolPath, 'utf-8');
               const { data, content: body } = matter(content);
-            
+
               // Get existing awards or initialize empty array
               const existingAwards = data.awards || [];
-              
+
               // Add new award if it doesn't exist
               if (!existingAwards.includes(newAward)) {
                 const updatedData = {
                   ...data,
                   awards: [...existingAwards, newAward]
                 };
-            
+
                 const updatedContent = matter.stringify(body, updatedData);
                 await writeFile(toolPath, updatedContent);
                 console.log(`Updated awards for ${toolPath}`);
@@ -380,34 +408,34 @@ jobs:
               console.log(`Could not update ${toolPath}: ${error.message}`);
             }
           }
-          
+
           async function main() {
             try {
               console.log('Starting main execution...');
               const now = dayjs().tz(TIMEZONE);
               const tools = await getToolUpvotes();
-            
+
               // Only process the specified award type
               console.log(`Processing ${AWARD_TYPE} awards only`);
               const winners = await determineWinners(tools, AWARD_TYPE, now);
-            
+
               // --- NEW: Insert awards to Supabase ---
               await insertAwardsToSupabase(winners, AWARD_TYPE);
               // --- END NEW ---
-          
+
               // Update files for winners
               for (const winner of winners) {
                 const awardId = `${AWARD_TYPE}-award-${winner.rank}-${winner.awardDate}`; // Use winner.awardDate
                 const englishMdxPath = join(TOOLS_DIR, `${winner.slug}.mdx`);
                 const arabicMdxPath = join(AR_TOOLS_DIR, `${winner.slug}.mdx`);
-                
+
                 // Update English MDX if it exists
                 if (existsSync(englishMdxPath)) {
                   await updateToolMdx(englishMdxPath, awardId);
                 } else {
                   console.log(`English MDX not found for ${winner.slug}`);
                 }
-                
+
                 // Update Arabic MDX if it exists
                 if (existsSync(arabicMdxPath)) {
                   await updateToolMdx(arabicMdxPath, awardId);
@@ -415,14 +443,14 @@ jobs:
                   console.log(`Arabic MDX not found for ${winner.slug}`);
                 }
               }
-            
+
               console.log(`${AWARD_TYPE} awards updated successfully`);
             } catch (error) {
               console.error('Error in main execution:', error);
               process.exit(1);
             }
           }
-          
+
           main().catch(error => {
             console.error('Unhandled error in main:', error);
             process.exit(1);
@@ -436,35 +464,35 @@ jobs:
           echo "Contents of src/content/tools/ar:"
           ls -la src/content/tools/ar || echo "Directory not found"
           echo "GITHUB_EVENT_NAME: $GITHUB_EVENT_NAME"
-          echo "AWARD_TYPE: ${{ github.event.inputs.award_type || 'daily' }}"
-          
+          echo "AWARD_TYPE: ${{ steps.award.outputs.type }}"
+
       - name: Run awards script
         run: |
           export SUPABASE_URL="${SUPABASE_URL}"
           export SUPABASE_ANON_KEY="${SUPABASE_ANON_KEY}"
-          export AWARD_TYPE="${{ github.event.inputs.award_type || 'daily' }}"
+          export AWARD_TYPE="${{ steps.award.outputs.type }}"
           # Run with Node.js in debug mode
           NODE_DEBUG=* node --trace-warnings .github/scripts/updateAwards.mjs 2>&1 | tee awards.log
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
-          
+
       - name: Show script output
         if: always()
         run: |
           echo "=== Script Output ==="
           cat awards.log || echo "No log file found"
-          
+
       - name: Show git status
         if: always()
         run: |
           echo "=== Git Status ==="
           git status
-          
+
       - name: Commit and push changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add src/content/tools/
           git add src/content/tools/ar/
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update ${{ github.event.inputs.award_type || 'daily' }} awards [skip ci]" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update ${{ steps.award.outputs.type }} awards [skip ci]" && git pull --rebase origin main && git push)
