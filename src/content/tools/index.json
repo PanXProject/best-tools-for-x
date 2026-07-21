@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "magic-eraser",
+      "slug": "magic-eraser",
+      "title": "Magic Eraser",
+      "description": "AI photo editing for effortless object removal and enhancement",
+      "author": "Giang Nguyen",
+      "username": "magiceraserapp",
+      "user_id": "1a8ee560-1f33-4b11-8191-02cd770f8df8",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai",
+        "photo-editing",
+        "images",
+        "design"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "mobile-app"
+      ],
+      "publishDate": "2026-07-21T09:23:37.581Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1784625715/hadlbgr6m7fymd65cwed.png",
+      "toolUrl": "https://magiceraser.live/"
+    },
+    {
       "id": "memoforge",
       "slug": "memoforge",
       "title": "MemoForge",
@@ -7895,5 +7922,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-07-21T07:32:55.027Z"
+  "lastUpdated": "2026-07-21T09:23:39.052Z"
 }
