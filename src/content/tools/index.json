@@ -2304,9 +2304,10 @@
       "id": "genbounty",
       "slug": "genbounty",
       "title": "Genbounty",
-      "description": "Genbounty is a product-level AI safety testing platform",
+      "description": "The AI Bug Bounty Platform - Independent adversarial testing for AI",
       "author": "Genbounty",
       "username": "genbounty",
+      "user_id": "956daf18-87ef-42ce-bd06-ef10a45f0605",
       "categories": [
         "Run Business",
         "Understand & Improve",
@@ -2326,8 +2327,10 @@
         "web-app"
       ],
       "publishDate": "2025-11-10T18:45:43.962Z",
-      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1762799911/u6nrlxtprl5oxutkoue3.png",
-      "toolUrl": "https://genbounty.com",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1784674801/krzysv5xfxdpneuaztl1.png",
+      "toolUrl": "https://genbounty.com/",
+      "dealCode": "TOOLSEEKR20",
+      "dealText": "20% OFF YOUR FIRST FIRST BUDGET",
       "featured": true,
       "featuredPosition": 1
     },
@@ -7922,5 +7925,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-07-21T09:23:39.052Z"
+  "lastUpdated": "2026-07-21T23:04:34.370Z"
 }
