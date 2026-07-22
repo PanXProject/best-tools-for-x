@@ -1,6 +1,30 @@
 {
   "tools": [
     {
+      "id": "seedance-2-5-online",
+      "slug": "seedance-2-5-online",
+      "title": "Seedance 2.5 Online ",
+      "description": "Seedance 2.5 Online - Free AI Video Generator for 30-Second 4K Clips",
+      "author": "emily jones",
+      "username": "emilyjones1217",
+      "user_id": "2d9fde1b-edcf-46c9-99e2-8f51773d738c",
+      "categories": [
+        "Connect & Collaborate"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-07-22T02:08:08.109Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1784686034/ahtr9ep3gzdxmhxuap53.png",
+      "toolUrl": "https://seedance25.tools/"
+    },
+    {
       "id": "magic-eraser",
       "slug": "magic-eraser",
       "title": "Magic Eraser",
@@ -7925,5 +7949,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-07-21T23:04:34.370Z"
+  "lastUpdated": "2026-07-22T02:08:09.187Z"
 }
