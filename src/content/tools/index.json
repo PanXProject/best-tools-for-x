@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "fuzen",
+      "slug": "fuzen",
+      "title": "Fuzen",
+      "description": "Custom business software, done for you in 4–6 weeks",
+      "author": "Pushkar Gaikwad",
+      "username": "fuzen",
+      "user_id": "50b66796-4713-4bcc-8f29-c571f0eb6f93",
+      "categories": [
+        "Create & Build",
+        "Connect & Collaborate"
+      ],
+      "tags": [
+        "custom-software-development",
+        "custom-crm",
+        "custom-erp",
+        "hrms-software",
+        "ai-app-builder"
+      ],
+      "pricing": {
+        "model": "free-trial"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-07-24T04:13:10.791Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1784865674/ysugzmxvtyqoen440zaj.jpg",
+      "toolUrl": "https://www.fuzen.io/"
+    },
+    {
       "id": "seedance-2-5-online",
       "slug": "seedance-2-5-online",
       "title": "Seedance 2.5 Online ",
@@ -7949,5 +7978,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-07-22T02:08:09.187Z"
+  "lastUpdated": "2026-07-24T04:13:12.056Z"
 }
