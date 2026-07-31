@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "ai-image-editor",
+      "slug": "ai-image-editor",
+      "title": "AI Image Editor",
+      "description": "Free AI image editor for fast, creative photo transformations",
+      "author": "Image 2",
+      "username": "image2",
+      "user_id": "54607cfe-0f21-433a-bdfd-a9ddeb8071d3",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai",
+        "image-editing",
+        "photo-editing",
+        "design",
+        "productivity"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-07-31T08:00:28.815Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1785484672/ehfd4blxzfmg2ohklpkt.png",
+      "toolUrl": "https://ai-img-editor.com/"
+    },
+    {
       "id": "fuzen",
       "slug": "fuzen",
       "title": "Fuzen",
@@ -7978,5 +8006,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-07-24T04:13:12.056Z"
+  "lastUpdated": "2026-07-31T08:00:30.457Z"
 }
