@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "havi",
+      "slug": "havi",
+      "title": "Havi",
+      "description": "AI design partner for effortless creation",
+      "author": "Havi Team",
+      "username": "havi_team",
+      "user_id": "69c48b68-4c58-46b0-8199-08af4cdf36a6",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai",
+        "presentations",
+        "productivity",
+        "design"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-08-03T06:37:29.794Z",
+      "heroImage": "",
+      "toolUrl": "https://www.havi.ai/"
+    },
+    {
       "id": "ai-image-editor",
       "slug": "ai-image-editor",
       "title": "AI Image Editor",
@@ -8006,5 +8033,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-07-31T08:00:30.457Z"
+  "lastUpdated": "2026-08-03T06:37:30.893Z"
 }
