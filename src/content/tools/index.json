@@ -1,6 +1,39 @@
 {
   "tools": [
     {
+      "id": "mirrorfly",
+      "slug": "mirrorfly",
+      "title": "Mirrorfly",
+      "description": "The #1 Custom Chat API & SDK For Any Web or App",
+      "author": "Siva Raman",
+      "username": "siva",
+      "user_id": "0f593f97-0b70-4963-9bc4-e95bacbc73ec",
+      "categories": [
+        "Create & Build",
+        "Connect & Collaborate",
+        "Secure & Deploy"
+      ],
+      "tags": [
+        "chat",
+        "chat-api",
+        "communication",
+        "chat-sdk",
+        "messaging-api"
+      ],
+      "pricing": {
+        "model": "one-time-payment"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app",
+        "desktop-app",
+        "self-hosted"
+      ],
+      "publishDate": "2026-08-04T13:04:34.738Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1785848423/axo9ky8yb1r6cbxzzwka.png",
+      "toolUrl": "https://www.mirrorfly.com/chat/"
+    },
+    {
       "id": "havi",
       "slug": "havi",
       "title": "Havi",
@@ -8033,5 +8066,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-08-03T06:37:30.893Z"
+  "lastUpdated": "2026-08-04T13:04:36.125Z"
 }
