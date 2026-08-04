@@ -31,7 +31,9 @@
       ],
       "publishDate": "2026-08-04T13:04:34.738Z",
       "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1785848423/axo9ky8yb1r6cbxzzwka.png",
-      "toolUrl": "https://www.mirrorfly.com/chat/"
+      "toolUrl": "https://www.mirrorfly.com/chat/",
+      "featured": false,
+      "featuredPosition": null
     },
     {
       "id": "havi",
@@ -8066,5 +8068,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-08-04T13:04:36.125Z"
+  "lastUpdated": "2026-08-04T13:07:47.589Z"
 }
