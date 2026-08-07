@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "banglatools",
+      "slug": "banglatools",
+      "title": "BanglaTools",
+      "description": "Free Bengali language and productivity tools for everyone",
+      "author": "Pier Jordane",
+      "username": "pierjordane7845",
+      "user_id": "1937a50c-38b9-4a9c-8f6b-67c56aae589c",
+      "categories": [
+        "Create & Build",
+        "Understand & Improve"
+      ],
+      "tags": [
+        "bengali",
+        "writing",
+        "translation"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-08-07T12:18:34.946Z",
+      "heroImage": "",
+      "toolUrl": "https://banglatools.com/"
+    },
+    {
       "id": "mirrorfly",
       "slug": "mirrorfly",
       "title": "Mirrorfly",
@@ -8068,5 +8095,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-08-04T13:07:47.589Z"
+  "lastUpdated": "2026-08-07T12:18:36.090Z"
 }
