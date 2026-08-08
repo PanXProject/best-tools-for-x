@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "seed-audio",
+      "slug": "seed-audio",
+      "title": "Seed Audio",
+      "description": "One prompt for voice, music, and sound effects",
+      "author": "林锐",
+      "username": "rlin65536",
+      "user_id": "52f60850-ef7f-4eac-b9e8-7d14fa63360a",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai-audio",
+        "voice-generation",
+        "music-generation",
+        "sound-effects"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-08-08T09:12:29.295Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1786180336/oahxgkrodmklcndoslbm.jpg",
+      "toolUrl": "https://seedaudioai.app/"
+    },
+    {
       "id": "banglatools",
       "slug": "banglatools",
       "title": "BanglaTools",
@@ -8095,5 +8122,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-08-07T12:18:36.090Z"
+  "lastUpdated": "2026-08-08T09:12:30.409Z"
 }
