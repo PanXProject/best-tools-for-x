@@ -1,6 +1,30 @@
 {
   "tools": [
     {
+      "id": "flux-3-video",
+      "slug": "flux-3-video",
+      "title": "Flux 3 Video",
+      "description": "Flux 3 creates images, videos and matched audio as an all-in-one multi",
+      "author": "Humo AI",
+      "username": "poppy",
+      "user_id": "4809bcea-d0f2-4f2f-b55a-581f988ffa62",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "flux-3-ai-video-generator"
+      ],
+      "pricing": {
+        "model": "one-time-payment"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-08-10T07:13:42.261Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1786345946/nfzjjptxxyzkk36htf41.png",
+      "toolUrl": "https://flux3-ai.co/"
+    },
+    {
       "id": "seed-audio",
       "slug": "seed-audio",
       "title": "Seed Audio",
@@ -8122,5 +8146,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-08-08T09:12:30.409Z"
+  "lastUpdated": "2026-08-10T07:13:43.387Z"
 }
