@@ -1,6 +1,6 @@
 ---
 title: Bonnard.dev
-description: Semantic layer for AI agents and embedded analytics
+description: Interactive charts for your MCP server, plus a governed MCP platform for customer data
 author: Max Mealing
 username: maxmealing
 categories:
@@ -8,16 +8,16 @@ categories:
   - Run Business
   - Secure & Deploy
 tags:
-  - embedded-analytics
-  - semantic-layer
-  - ai
+  - mcp
+  - mcp-server
+  - charts
+  - data-visualization
+  - ai-agents
   - analytics
-  - agents
 pricing:
   model: pay-per-use
 softwareTypes:
   - web-app
-  - cli
   - self-hosted
 publishDate: '2026-03-16T15:37:43.826Z'
 heroImage: >-
@@ -29,16 +29,16 @@ awards:
   - monthly-award-1-2026-03-31
 ---
 ## About
-  Bonnard is an open-source semantic layer for AI agents and embedded
-  analytics. Define business metrics in YAML, deploy as an API, and let AI
-  agents query governed data via MCP or REST. Built-in multi-tenant row-level
-  security and pre-aggregation for sub-second responses.
+  Bonnard adds interactive, agent-ready charts to your MCP server in a few lines. The
+  `@bonnard/mcp-charts` package renders charts inside Claude, ChatGPT, Cursor, and any
+  MCP Apps host, generated from your real query data with no frontend work. Bonnard
+  also offers a governed MCP platform: secure, multi-tenant MCP access to your
+  customers' data over your warehouse, dbt, or semantic layer.
 
   ## Features
-  - Define metrics in YAML and version in Git
-  - AI agents query via MCP (Model Context Protocol)
-  - Multi-tenant row-level security on every query
-  - Pre-aggregation engine for sub-second responses
-  - REST API and SDK for embedded analytics
-  - Supports Snowflake, BigQuery, Databricks, PostgreSQL, ClickHouse, DuckDB,
-  Redshift
+  - Add interactive charts to an MCP server with one function call
+  - Renders natively in Claude, ChatGPT, Cursor, Gemini, and any MCP Apps host
+  - Charts generated from real query data, not agent guesses
+  - Governed, multi-tenant MCP access to customer data (auth, tenancy, RBAC)
+  - Deploy managed, in your VPC, on-prem, or air-gapped
+  - Connects Snowflake, BigQuery, Databricks, PostgreSQL, ClickHouse, DuckDB, Redshift
