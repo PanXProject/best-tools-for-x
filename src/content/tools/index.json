@@ -1,6 +1,31 @@
 {
   "tools": [
     {
+      "id": "mnimax-h3",
+      "slug": "mnimax-h3",
+      "title": "Mnimax H3 ",
+      "description": "MiniMax H3 generates 2K stereo videos via mixed text, image, video and",
+      "author": "Humo AI",
+      "username": "poppy",
+      "user_id": "4809bcea-d0f2-4f2f-b55a-581f988ffa62",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "ai",
+        "aivideo"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-08-18T02:12:34.349Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1787019096/xgqbq6hs7mr0j3q4uvcq.png",
+      "toolUrl": "https://minimax-h3.com/"
+    },
+    {
       "id": "hailuo-h3",
       "slug": "hailuo-h3",
       "title": "Hailuo H3",
@@ -8170,5 +8195,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-08-18T02:08:55.133Z"
+  "lastUpdated": "2026-08-18T02:12:35.210Z"
 }
