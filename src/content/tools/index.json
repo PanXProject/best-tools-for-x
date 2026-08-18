@@ -1,6 +1,30 @@
 {
   "tools": [
     {
+      "id": "hailuo-h3",
+      "slug": "hailuo-h3",
+      "title": "Hailuo H3",
+      "description": "Hailuo H3 is a multimodal AI video tool that creates high‑quality inte",
+      "author": "Humo AI",
+      "username": "poppy",
+      "user_id": "4809bcea-d0f2-4f2f-b55a-581f988ffa62",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-08-18T02:08:54.199Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1787018886/e31fwsiv6y5y0v2gqog2.png",
+      "toolUrl": "https://hailuo30.net/"
+    },
+    {
       "id": "flux-3-video",
       "slug": "flux-3-video",
       "title": "Flux 3 Video",
@@ -8146,5 +8170,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-08-10T07:13:43.387Z"
+  "lastUpdated": "2026-08-18T02:08:55.133Z"
 }
