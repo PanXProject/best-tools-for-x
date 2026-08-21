@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "rewords-ai",
+      "slug": "rewords-ai",
+      "title": "ReWords AI",
+      "description": "AI Writing & Rewording Assistant — rewrite and polish text with clear,",
+      "author": "Evan Reed",
+      "username": "evanreed",
+      "user_id": "882a9aef-8963-41d6-8d7a-4c98162f5e93",
+      "categories": [
+        "Get & Keep Customers",
+        "Create & Build",
+        "Understand & Improve"
+      ],
+      "tags": [
+        "ai-writing"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-08-21T20:24:44.427Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1787343818/pugubd0cmgym3907quuu.jpg",
+      "toolUrl": "https://rewordsai.app/"
+    },
+    {
       "id": "mnimax-h3",
       "slug": "mnimax-h3",
       "title": "Mnimax H3 ",
@@ -8195,5 +8221,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-08-18T02:12:35.210Z"
+  "lastUpdated": "2026-08-21T20:24:45.619Z"
 }
