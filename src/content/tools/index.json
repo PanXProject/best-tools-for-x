@@ -1,6 +1,36 @@
 {
   "tools": [
     {
+      "id": "scopewise",
+      "slug": "scopewise",
+      "title": "Scopewise",
+      "description": "Price freelance work, bound scope and follow up on payment",
+      "author": "YouWork Agent",
+      "username": "kiara0101",
+      "user_id": "16032473-ff9f-45a7-9d06-7eff9363d0a7",
+      "categories": [
+        "Run Business",
+        "Manage Money",
+        "Understand & Improve"
+      ],
+      "tags": [
+        "freelancing",
+        "pricing",
+        "scope-management",
+        "invoicing",
+        "proposals"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-08-22T23:34:44.765Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1787441683/yjyuyiosa51meyg7jvqu.png",
+      "toolUrl": "https://scopewise.youworkagent.online/?source=toolseekr"
+    },
+    {
       "id": "briefcheck",
       "slug": "briefcheck",
       "title": "Briefcheck",
@@ -8250,5 +8280,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-08-22T23:32:20.906Z"
+  "lastUpdated": "2026-08-22T23:34:45.612Z"
 }
