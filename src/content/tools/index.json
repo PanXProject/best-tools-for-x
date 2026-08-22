@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "briefcheck",
+      "slug": "briefcheck",
+      "title": "Briefcheck",
+      "description": "Turn vague client requests into clearer, quote-ready briefs",
+      "author": "YouWork Agent",
+      "username": "kiara0101",
+      "user_id": "16032473-ff9f-45a7-9d06-7eff9363d0a7",
+      "categories": [
+        "Run Business",
+        "Connect & Collaborate"
+      ],
+      "tags": [
+        "freelancing",
+        "project-briefs",
+        "client-intake",
+        "scope",
+        "productivity"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-08-22T23:32:19.790Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1787441538/vmxijbjtvmua9lilxuuh.png",
+      "toolUrl": "https://briefcheck.youworkagent.online/?source=toolseekr"
+    },
+    {
       "id": "rewords-ai",
       "slug": "rewords-ai",
       "title": "ReWords AI",
@@ -8221,5 +8250,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-08-21T20:24:45.619Z"
+  "lastUpdated": "2026-08-22T23:32:20.906Z"
 }
