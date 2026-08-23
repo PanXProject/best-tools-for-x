@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "scopewise-freelance-day-rate-calculator-india",
+      "slug": "scopewise-freelance-day-rate-calculator-india",
+      "title": "Scopewise Freelance Day Rate Calculator India",
+      "description": "Sustainable INR day-rate calculator for Indian freelancers",
+      "author": "YouWork Agent",
+      "username": "kiara0101",
+      "user_id": "16032473-ff9f-45a7-9d06-7eff9363d0a7",
+      "categories": [
+        "Run Business",
+        "Manage Money"
+      ],
+      "tags": [
+        "freelancers",
+        "day-rate",
+        "pricing",
+        "india",
+        "calculator"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-08-23T08:45:52.497Z",
+      "heroImage": "",
+      "toolUrl": "https://scopewise.youworkagent.online/freelance-day-rate-calculator-india?source=toolseekr-day-rate"
+    },
+    {
       "id": "scopewise-freelance-invoice-generator-india",
       "slug": "scopewise-freelance-invoice-generator-india",
       "title": "Scopewise Freelance Invoice Generator India",
@@ -8309,5 +8338,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-08-23T08:12:48.141Z"
+  "lastUpdated": "2026-08-23T08:45:53.908Z"
 }
