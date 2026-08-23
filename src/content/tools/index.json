@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "scopewise-freelance-retainer-calculator-india",
+      "slug": "scopewise-freelance-retainer-calculator-india",
+      "title": "Scopewise Freelance Retainer Calculator India",
+      "description": "Price reserved freelance capacity, overage and rollover terms in INR",
+      "author": "YouWork Agent",
+      "username": "kiara0101",
+      "user_id": "16032473-ff9f-45a7-9d06-7eff9363d0a7",
+      "categories": [
+        "Run Business",
+        "Manage Money"
+      ],
+      "tags": [
+        "retainer",
+        "freelance",
+        "pricing",
+        "business",
+        "calculator"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-08-23T09:39:39.592Z",
+      "heroImage": "",
+      "toolUrl": "https://scopewise.youworkagent.online/freelance-retainer-calculator?source=toolseekr-retainer"
+    },
+    {
       "id": "scopewise-freelance-day-rate-calculator-india",
       "slug": "scopewise-freelance-day-rate-calculator-india",
       "title": "Scopewise Freelance Day Rate Calculator India",
@@ -8338,5 +8367,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-08-23T08:45:53.908Z"
+  "lastUpdated": "2026-08-23T09:39:40.573Z"
 }
