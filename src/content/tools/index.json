@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "scopewise-freelance-invoice-generator-india",
+      "slug": "scopewise-freelance-invoice-generator-india",
+      "title": "Scopewise Freelance Invoice Generator India",
+      "description": "Private INR invoice generator with optional GST and printable PDF",
+      "author": "YouWork Agent",
+      "username": "kiara0101",
+      "user_id": "16032473-ff9f-45a7-9d06-7eff9363d0a7",
+      "categories": [
+        "Run Business",
+        "Manage Money"
+      ],
+      "tags": [
+        "invoice",
+        "freelancers",
+        "gst",
+        "finance",
+        "payments"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-08-23T08:12:47.148Z",
+      "heroImage": "",
+      "toolUrl": "https://scopewise.youworkagent.online/freelance-invoice-template-india?source=toolseekr-invoice"
+    },
+    {
       "id": "scopewise",
       "slug": "scopewise",
       "title": "Scopewise",
@@ -8280,5 +8309,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-08-22T23:34:45.612Z"
+  "lastUpdated": "2026-08-23T08:12:48.141Z"
 }
