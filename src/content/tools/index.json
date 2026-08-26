@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "chemistry-ai",
+      "slug": "chemistry-ai",
+      "title": "Chemistry AI",
+      "description": "Solve chemistry problems with clear step-by-step AI guidance",
+      "author": "Alex Morgan",
+      "username": "physicsai",
+      "user_id": "93079244-ad9d-418d-860e-e18d8cb66462",
+      "categories": [
+        "Create & Build",
+        "Understand & Improve"
+      ],
+      "tags": [
+        "chemistry",
+        "ai-solver",
+        "education"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-08-26T15:18:33.581Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1787757447/ntiase25iu31bmzxoweg.png",
+      "toolUrl": "https://chemistryai.chat/"
+    },
+    {
       "id": "realistic-ai-image-generator",
       "slug": "realistic-ai-image-generator",
       "title": "Realistic AI Image Generator",
@@ -8450,5 +8477,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-08-26T11:02:31.279Z"
+  "lastUpdated": "2026-08-26T15:18:35.980Z"
 }
