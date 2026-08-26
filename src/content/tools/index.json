@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "realistic-ai-image-generator",
+      "slug": "realistic-ai-image-generator",
+      "title": "Realistic AI Image Generator",
+      "description": "Create photorealistic images from text prompts online",
+      "author": "Alex Morgan",
+      "username": "physicsai",
+      "user_id": "93079244-ad9d-418d-860e-e18d8cb66462",
+      "categories": [
+        "Get & Keep Customers",
+        "Create & Build"
+      ],
+      "tags": [
+        "ai",
+        "image-generator",
+        "design"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-08-26T11:02:28.277Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1787742080/lkwukdmokrytra32g3v0.png",
+      "toolUrl": "https://realisticaiimagegenerator.online/"
+    },
+    {
       "id": "physics-ai",
       "slug": "physics-ai",
       "title": "Physics AI",
@@ -8423,5 +8450,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-08-26T10:50:11.876Z"
+  "lastUpdated": "2026-08-26T11:02:31.279Z"
 }
