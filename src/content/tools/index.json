@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "physics-ai",
+      "slug": "physics-ai",
+      "title": "Physics AI",
+      "description": "Step-by-step AI physics tutor from text or images",
+      "author": "Alex Morgan",
+      "username": "physicsai",
+      "user_id": "93079244-ad9d-418d-860e-e18d8cb66462",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "ai",
+        "physics",
+        "education",
+        "tutoring",
+        "problem-solving"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-08-26T10:50:10.637Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1787741011/fdsgjxdnw3lppy0meuh6.jpg",
+      "toolUrl": "https://physicsai.chat/"
+    },
+    {
       "id": "image-to-video-ai",
       "slug": "image-to-video-ai",
       "title": "Image To Video AI",
@@ -8395,5 +8423,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-08-24T07:45:56.299Z"
+  "lastUpdated": "2026-08-26T10:50:11.876Z"
 }
