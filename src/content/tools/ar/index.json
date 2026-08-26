@@ -1,660 +1,755 @@
 {
   "tools": [
-      {
-    "id": "firecrawl-dev",
-    "slug": "firecrawl-dev",
-    "title": "Firecrawl",
-    "title_en": "Firecrawl",
-    "description": "خدمة زحف و استخراج مواقع تُحوّل صفحات الويب إلى بيانات منظمة جاهزة للاستخدام مع نماذج اللغة وعمليات البحث.",
-    "author": "وليد صادق",
-    "username": "waleed",
-    "categories": [
-      "الفهم والتحسين",
-      "إنشاء و تطوير",
-      "إدارة الأعمال"
-    ],
-    "tags": [
-      "زحف-الويب",
-      "استخراج-البيانات",
-      "بيانات-للـLLM",
-      "api",
-      "بحث"
-    ],
-    "pricing": {
-      "model": "الدفع-حسب-الاستخدام"
+    {
+      "id": "iban-accounting-tools",
+      "slug": "iban-accounting-tools",
+      "title": "حاسبات إيبان المحاسبية",
+      "title_en": "IBAN Accounting Tools",
+      "description": "15 حاسبة وأداة مالية مجانية للأعمال والأفراد في السعودية",
+      "author": "iban_erpnext",
+      "username": "iban_erpnext",
+      "user_id": "3ea63a16-1703-42ea-a2b9-b4601ad00ee1",
+      "categories": [
+        "إدارة الأعمال"
+      ],
+      "tags": [
+        "محاسبة",
+        "زكاة",
+        "ضريبة",
+        "السعودية",
+        "حاسبات-مالية"
+      ],
+      "pricing": {
+        "model": "مجاني"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2026-08-26T15:54:04.795Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1787759428/lbwjcnwrzft5qgxnzejs.png",
+      "toolUrl": "https://ibansa.com/tools/"
     },
-    "softwareTypes": [
-      "تطبيق ويب",
-      "مستضاف ذاتيًا"
-    ],
-    "publishDate": "2025-10-22T08:00:00.000Z",
-    "heroImage": "",
-    "toolUrl": "https://www.firecrawl.dev"
-  },
-  {
-    "id": "operate-solution",
-    "slug": "operate-solution",
-    "title": "Operate Solution",
-    "title_en": "Operate Solution",
-    "description": "نظام لإدارة المهام والشيكليست وعمليات الفرق الميدانية (خاصة المطاعم والضيافة) لتقليل عبء العمليات اليدوية.",
-    "author": "وليد صادق",
-    "username": "waleed",
-    "categories": [
-      "إدارة الأعمال",
-      "إدارة الأفراد",
-      "التواصل والتعاون"
-    ],
-    "tags": [
-      "العمليات",
-      "قوائم-التحقق",
-      "الضيافة",
-      "ادارة-المهام",
-      "إجراءات-تشغيلية"
-    ],
-    "pricing": {
-      "model": "اشتراك"
+    {
+      "id": "firecrawl-dev",
+      "slug": "firecrawl-dev",
+      "title": "Firecrawl",
+      "title_en": "Firecrawl",
+      "description": "خدمة زحف و استخراج مواقع تُحوّل صفحات الويب إلى بيانات منظمة جاهزة للاستخدام مع نماذج اللغة وعمليات البحث.",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "الفهم والتحسين",
+        "إنشاء و تطوير",
+        "إدارة الأعمال"
+      ],
+      "tags": [
+        "زحف-الويب",
+        "استخراج-البيانات",
+        "بيانات-للـLLM",
+        "api",
+        "بحث"
+      ],
+      "pricing": {
+        "model": "الدفع-حسب-الاستخدام"
+      },
+      "softwareTypes": [
+        "تطبيق ويب",
+        "مستضاف ذاتيًا"
+      ],
+      "publishDate": "2025-10-22T08:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://www.firecrawl.dev"
     },
-    "softwareTypes": [
-      "تطبيق ويب",
-      "تطبيق جوال"
-    ],
-    "publishDate": "2025-10-22T08:00:00.000Z",
-    "heroImage": "",
-    "toolUrl": "https://www.operate-solution.com"
-  },
-  {
-    "id": "soho-erp",
-    "slug": "soho-erp",
-    "title": "SOHO ERP",
-    "title_en": "SOHO ERP",
-    "description": "نظام تخطيط موارد المؤسسات سحابي للشركات الصغيرة يتضمن المحاسبة، المخزون، المبيعات وإضافات خاصة بالصناعة.",
-    "author": "وليد صادق",
-    "username": "waleed",
-    "categories": [
-      "إدارة الأعمال",
-      "إدارة الأموال",
-      "إدارة الأفراد"
-    ],
-    "tags": [
-      "إي-ار-بي",
-      "محاسبة",
-      "مخزون",
-      "فواتير",
-      "شركات-صغيرة"
-    ],
-    "pricing": {
-      "model": "تسعير-مخصص"
+    {
+      "id": "operate-solution",
+      "slug": "operate-solution",
+      "title": "Operate Solution",
+      "title_en": "Operate Solution",
+      "description": "نظام لإدارة المهام والشيكليست وعمليات الفرق الميدانية (خاصة المطاعم والضيافة) لتقليل عبء العمليات اليدوية.",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إدارة الأعمال",
+        "إدارة الأفراد",
+        "التواصل والتعاون"
+      ],
+      "tags": [
+        "العمليات",
+        "قوائم-التحقق",
+        "الضيافة",
+        "ادارة-المهام",
+        "إجراءات-تشغيلية"
+      ],
+      "pricing": {
+        "model": "اشتراك"
+      },
+      "softwareTypes": [
+        "تطبيق ويب",
+        "تطبيق جوال"
+      ],
+      "publishDate": "2025-10-22T08:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://www.operate-solution.com"
     },
-    "softwareTypes": [
-      "تطبيق ويب",
-      "مستضاف ذاتيًا"
-    ],
-    "publishDate": "2025-10-22T08:00:00.000Z",
-    "heroImage": "",
-    "toolUrl": "https://sohoerp.com/pricing/plans"
-  },
-  {
-    "id": "tkana",
-    "slug": "tkana",
-    "title": "تِكانة",
-    "title_en": "Tkana",
-    "description": "منصة مؤتمتة للأعمال تعتمد على وكلاء ذكاء اصطناعي للتعامل عبر واتساب وقنوات متعددة — للحجوزات، المبيعات ودعم العملاء.",
-    "author": "وليد صادق",
-    "username": "waleed",
-    "categories": [
-      "التواصل والتعاون",
-      "إدارة الأعمال",
-      "جذب العملاء والاحتفاظ بهم"
-    ],
-    "tags": [
-      "واتساب",
-      "روبوت-دردشة",
-      "أتمتة",
-      "وكلاء-ذكاء-اصطناعي",
-      "دعم-العملاء"
-    ],
-    "pricing": {
-      "model": "اشتراك"
+    {
+      "id": "soho-erp",
+      "slug": "soho-erp",
+      "title": "SOHO ERP",
+      "title_en": "SOHO ERP",
+      "description": "نظام تخطيط موارد المؤسسات سحابي للشركات الصغيرة يتضمن المحاسبة، المخزون، المبيعات وإضافات خاصة بالصناعة.",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إدارة الأعمال",
+        "إدارة الأموال",
+        "إدارة الأفراد"
+      ],
+      "tags": [
+        "إي-ار-بي",
+        "محاسبة",
+        "مخزون",
+        "فواتير",
+        "شركات-صغيرة"
+      ],
+      "pricing": {
+        "model": "تسعير-مخصص"
+      },
+      "softwareTypes": [
+        "تطبيق ويب",
+        "مستضاف ذاتيًا"
+      ],
+      "publishDate": "2025-10-22T08:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://sohoerp.com/pricing/plans"
     },
-    "softwareTypes": [
-      "تطبيق ويب",
-      "تطبيق جوال"
-    ],
-    "publishDate": "2025-10-22T08:00:00.000Z",
-    "heroImage": "",
-    "toolUrl": "https://www.tkana.sa/en/pricing"
-  },
-      {
-            "id": "shahbandr",
-            "slug": "shahbandr",
-            "title": "شهبندر",
-            "title_en": "Shahbandr",
-            "description": "منصة رقمية شاملة لإدارة الأعمال والخدمات التجارية",
-            "author": "وليد صادق",
-            "username": "waleed",
-            "categories": [
-              "إدارة الأعمال",
-              "التواصل والتعاون",
-              "جذب العملاء والاحتفاظ بهم"
-            ],
-            "tags": [
-              "إدارة-أعمال",
-              "خدمات-تجارية",
-              "منصة-رقمية",
-              "أتمتة",
-              "إدارة-عملاء"
-            ],
-            "pricing": {
-              "model": "فريميوم"
-            },
-            "softwareTypes": [
-              "تطبيق ويب",
-              "تطبيق جوال"
-            ],
-            "publishDate": "2025-09-24T10:00:00.000Z",
-            "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1755687435/shahbandr-hero.jpg",
-            "toolUrl": "https://shahbandr.com"
-          },
-          {
-            "id": "costimate",
-            "slug": "costimate",
-            "title": "كوستيمت",
-            "title_en": "Costimate",
-            "description": "أداة تقدير التكاليف والميزانيات للمشاريع والأعمال",
-            "author": "وليد صادق",
-            "username": "waleed",
-            "categories": [
-              "إدارة الأموال",
-              "إدارة الأعمال",
-              "الفهم والتحسين"
-            ],
-            "tags": [
-              "تقدير-تكاليف",
-              "ميزانية",
-              "إدارة-مشاريع",
-              "تخطيط-مالي",
-              "تحليل-تكاليف"
-            ],
-            "pricing": {
-              "model": "اشتراك"
-            },
-            "softwareTypes": [
-              "تطبيق ويب"
-            ],
-            "publishDate": "2025-09-24T10:00:00.000Z",
-            "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1755687435/costimate-hero.jpg",
-            "toolUrl": "https://costimate.net"
-          },
-          {
-            "id": "sindbad-tech",
-            "slug": "sindbad-tech",
-            "title": "سندباد تك",
-            "title_en": "Sindbad Tech",
-            "description": "منصة تداول آلي وإدارة استثمارات بالذكاء الاصطناعي",
-            "author": "وليد صادق",
-            "username": "waleed",
-            "categories": [
-              "إدارة الأموال",
-              "الفهم والتحسين",
-              "إنشاء و تطوير"
-            ],
-            "tags": [
-              "تداول-آلي",
-              "ذكاء-اصطناعي",
-              "إدارة-استثمارات",
-              "بوتات-تداول",
-              "تقنية-مالية"
-            ],
-            "pricing": {
-              "model": "اشتراك"
-            },
-            "softwareTypes": [
-              "تطبيق ويب"
-            ],
-            "publishDate": "2025-09-24T10:00:00.000Z",
-            "heroImage": "",
-            "toolUrl": "https://sindbad.tech"
-          },
-          {
-            "id": "naqood",
-            "slug": "naqood",
-            "title": "نقود",
-            "title_en": "Naqood",
-            "description": "منصة مالية رقمية لإدارة المدفوعات والخدمات المصرفية",
-            "author": "وليد صادق",
-            "username": "waleed",
-            "categories": [
-              "إدارة الأموال",
-              "إدارة الأعمال",
-              "الأمان والنشر"
-            ],
-            "tags": [
-              "مدفوعات-رقمية",
-              "خدمات-مصرفية",
-              "محفظة-رقمية",
-              "تحويلات-مالية",
-              "تقنية-مالية"
-            ],
-            "pricing": {
-              "model": "مجاني"
-            },
-            "softwareTypes": [
-              "تطبيق ويب",
-              "تطبيق جوال"
-            ],
-            "publishDate": "2025-09-24T10:00:00.000Z",
-            "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1755687435/naqood-hero.jpg",
-            "toolUrl": "https://naqood.ae"
-          },
-          {
-            "id": "userq",
-            "slug": "userq",
-            "title": "يوزر كيو",
-            "title_en": "UserQ",
-            "description": "منصة لجمع آراء وتعليقات المستخدمين وتحليل تجربة العملاء",
-            "author": "وليد صادق",
-            "username": "waleed",
-            "categories": [
-              "الفهم والتحسين",
-              "جذب العملاء والاحتفاظ بهم",
-              "التواصل والتعاون"
-            ],
-            "tags": [
-              "آراء-مستخدمين",
-              "تجربة-عملاء",
-              "استبيانات",
-              "تحليلات",
-              "تحسين-منتج"
-            ],
-            "pricing": {
-              "model": "فريميوم"
-            },
-            "softwareTypes": [
-              "تطبيق ويب",
-              "برنامج مساعد"
-            ],
-            "publishDate": "2025-09-24T10:00:00.000Z",
-            "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1755687435/userq-hero.jpg",
-            "toolUrl": "https://userq.com"
-          },
-          {
-          "id": "zamzar",
-          "slug": "zamzar",
-          "title": "زامزار",
-          "title_en": "Zamzar",
-          "description": "تحويل الملفات بين أكثر من 1200 تنسيق بسهولة عبر الإنترنت",
-          "author": "وليد صادق",
-          "username": "waleed",
-          "categories": [
-            "إنشاء و تطوير",
-            "التواصل والتعاون"
-          ],
-          "tags": [
-            "تحويل-الملفات",
-            "مستندات",
-            "صور",
-            "صوت",
-            "فيديو"
-          ],
-          "pricing": {
-            "model": "فريميوم"
-          },
-          "softwareTypes": [
-            "تطبيق ويب"
-          ],
-          "publishDate": "2025-09-17T10:59:14.002Z",
-          "heroImage": "",
-          "toolUrl": "https://zamzar.com"
-        },
-        {
-          "id": "pdf24",
-          "slug": "pdf24",
-          "title": "أدوات PDF24",
-          "title_en": "PDF24 Tools",
-          "description": "أدوات مجانية عبر الإنترنت لجميع احتياجات PDF",
-          "author": "وليد صادق",
-          "username": "waleed",
-          "categories": [
-            "إنشاء و تطوير",
-            "التواصل والتعاون"
-          ],
-          "tags": [
-            "pdf",
-            "مستندات",
-            "دمج",
-            "تحويل",
-            "ضغط"
-          ],
-          "pricing": {
-            "model": "مجاني"
-          },
-          "softwareTypes": [
-            "تطبيق ويب",
-            "تطبيق سطح المكتب"
-          ],
-          "publishDate": "2025-09-17T10:59:14.002Z",
-          "heroImage": "",
-          "toolUrl": "https://tools.pdf24.org/ar/"
-        },
-        {
-          "id": "typeracer",
-          "slug": "typeracer", 
-          "title": "تايب ريسر",
-          "title_en": "TypeRacer",
-          "description": "لعبة كتابة تنافسية لتحسين السرعة والدقة",
-          "author": "وليد صادق",
-          "username": "waleed",
-          "categories": [
-            "التواصل والتعاون",
-            "الفهم والتحسين"
-          ],
-          "tags": [
-            "كتابة",
-            "ألعاب",
-            "منافسة",
-            "تطوير-المهارات",
-            "متعدد-اللاعبين"
-          ],
-          "pricing": {
-            "model": "مجاني"
-          },
-          "softwareTypes": [
-            "تطبيق ويب"
-          ],
-          "publishDate": "2025-09-17T10:59:14.002Z",
-          "heroImage": "",
-          "toolUrl": "https://play.typeracer.com/?universe=lang_ar&"
-        },
-        {
-          "id": "suno-ai",
-          "slug": "suno-ai",
-          "title": "سونو AI",
-          "title_en": "Suno AI", 
-          "description": "إنتاج الموسيقى والأغاني باستخدام الذكاء الاصطناعي",
-          "author": "وليد صادق",
-          "username": "waleed",
-          "categories": [
-            "إنشاء و تطوير",
-            "التواصل والتعاون"
-          ],
-          "tags": [
-            "ذكاء-اصطناعي",
-            "موسيقى",
-            "صوت",
-            "إنتاج",
-            "إبداع"
-          ],
-          "pricing": {
-            "model": "فريميوم"
-          },
-          "softwareTypes": [
-            "تطبيق ويب"
-          ],
-          "publishDate": "2025-09-17T10:59:14.002Z",
-          "heroImage": "",
-          "toolUrl": "https://suno.com"
-        },
-        {
-          "id": "neon-tech",
-          "slug": "neon-tech",
-          "title": "نيون",
-          "title_en": "Neon",
-          "description": "قاعدة بيانات PostgreSQL بدون خادم مع تفريع وتوسيع",
-          "author": "وليد صادق",
-          "username": "waleed",
-          "categories": [
-            "إنشاء و تطوير", 
-            "إدارة الأعمال",
-            "الأمان والنشر"
-          ],
-          "tags": [
-            "قاعدة-بيانات",
-            "postgres",
-            "بدون-خادم",
-            "سحابة",
-            "توسيع"
-          ],
-          "pricing": {
-            "model": "فريميوم"
-          },
-          "softwareTypes": [
-            "تطبيق ويب",
-            "واجهة سطر الأوامر"
-          ],
-          "publishDate": "2025-09-17T10:59:14.002Z",
-          "heroImage": "",
-          "toolUrl": "https://neon.tech"
-        },
-        {
-        "id": "lumo-ai",
-        "slug": "lumo-ai",
-        "title": "لومو",
-        "title_en": "Lumo",
-        "description": "مساعد ذكي يحمي الخصوصية مع تشفير منعدم الوصول",
-        "author": "وليد صادق",
-        "username": "waleed",
-        "categories": [
-          "الأمان والنشر",
-          "التواصل والتعاون",
-          "إنشاء و تطوير"
-        ],
-        "tags": [
-          "ذكاء-اصطناعي",
-          "خصوصية",
-          "مساعد",
-          "تشفير",
-          "دردشة"
-        ],
-        "pricing": {
-          "model": "فريميوم"
-        },
-        "softwareTypes": [
-          "تطبيق ويب",
-          "تطبيق جوال",
-          "تطبيق سطح المكتب"
-        ],
-        "publishDate": "2025-09-10T12:00:00.000Z",
-        "heroImage": "",
-        "toolUrl": "https://lumo.proton.me"
+    {
+      "id": "tkana",
+      "slug": "tkana",
+      "title": "تِكانة",
+      "title_en": "Tkana",
+      "description": "منصة مؤتمتة للأعمال تعتمد على وكلاء ذكاء اصطناعي للتعامل عبر واتساب وقنوات متعددة — للحجوزات، المبيعات ودعم العملاء.",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "التواصل والتعاون",
+        "إدارة الأعمال",
+        "جذب العملاء والاحتفاظ بهم"
+      ],
+      "tags": [
+        "واتساب",
+        "روبوت-دردشة",
+        "أتمتة",
+        "وكلاء-ذكاء-اصطناعي",
+        "دعم-العملاء"
+      ],
+      "pricing": {
+        "model": "اشتراك"
       },
-      {
-        "id": "httpie",
-        "slug": "httpie",
-        "title": "إتش تي تي بي آي",
-        "title_en": "HTTPie",
-        "description": "عميل HTTP حديث لاختبار وتصحيح واجهات برمجة التطبيقات",
-        "author": "وليد صادق",
-        "username": "waleed",
-        "categories": [
-          "إنشاء و تطوير",
-          "الفهم والتحسين"
-        ],
-        "tags": [
-          "واجهة-برمجية",
-          "api",
-          "اختبار",
-          "سطر-الأوامر",
-          "json"
-        ],
-        "pricing": {
-          "model": "فريميوم"
-        },
-        "softwareTypes": [
-          "واجهة سطر الأوامر",
-          "تطبيق ويب",
-          "تطبيق سطح المكتب"
-        ],
-        "publishDate": "2025-09-10T12:00:00.000Z",
-        "heroImage": "",
-        "toolUrl": "https://httpie.io"
+      "softwareTypes": [
+        "تطبيق ويب",
+        "تطبيق جوال"
+      ],
+      "publishDate": "2025-10-22T08:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://www.tkana.sa/en/pricing"
+    },
+    {
+      "id": "shahbandr",
+      "slug": "shahbandr",
+      "title": "شهبندر",
+      "title_en": "Shahbandr",
+      "description": "منصة رقمية شاملة لإدارة الأعمال والخدمات التجارية",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إدارة الأعمال",
+        "التواصل والتعاون",
+        "جذب العملاء والاحتفاظ بهم"
+      ],
+      "tags": [
+        "إدارة-أعمال",
+        "خدمات-تجارية",
+        "منصة-رقمية",
+        "أتمتة",
+        "إدارة-عملاء"
+      ],
+      "pricing": {
+        "model": "فريميوم"
       },
-      {
-        "id": "toolsaday-toolkit",
-        "slug": "toolsaday-toolkit",
-        "title": "أدوات تولزداي",
-        "title_en": "Toolsday Toolkit",
-        "description": "مجموعة من أدوات الكتابة، تحسين محركات البحث، النصوص، والعديد من الأدوات الأخرى المجانية",
-        "author": "وليد صادق",
-        "username": "waleed",
-        "categories": [
-          "الفهم والتحسين",
-          "إنشاء و تطوير"
-        ],
-        "tags": [
-          "أدوات",
-          "ذكاء اصطناعي",
-          "كتابة",
-          "سيو",
-          "رياضيات"
-        ],
-        "pricing": {
-          "model": "مجاني"
-        },
-        "softwareTypes": [
-          "تطبيق ويب"
-        ],
-        "publishDate": "2025-09-10T12:00:00.000Z",
-        "heroImage": "",
-        "toolUrl": "https://toolsaday.com/toolkit-explorer"
+      "softwareTypes": [
+        "تطبيق ويب",
+        "تطبيق جوال"
+      ],
+      "publishDate": "2025-09-24T10:00:00.000Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1755687435/shahbandr-hero.jpg",
+      "toolUrl": "https://shahbandr.com"
+    },
+    {
+      "id": "costimate",
+      "slug": "costimate",
+      "title": "كوستيمت",
+      "title_en": "Costimate",
+      "description": "أداة تقدير التكاليف والميزانيات للمشاريع والأعمال",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إدارة الأموال",
+        "إدارة الأعمال",
+        "الفهم والتحسين"
+      ],
+      "tags": [
+        "تقدير-تكاليف",
+        "ميزانية",
+        "إدارة-مشاريع",
+        "تخطيط-مالي",
+        "تحليل-تكاليف"
+      ],
+      "pricing": {
+        "model": "اشتراك"
       },
-      {
-        "id": "json-crack",
-        "slug": "json-crack",
-        "title": "جيسون كراك",
-        "title_en": "JSON Crack",
-        "description": "صوّر وحلل بيانات JSON بالرسوم البيانية التفاعلية",
-        "author": "وليد صادق",
-        "username": "waleed",
-        "categories": [
-          "إنشاء و تطوير",
-          "الفهم والتحسين"
-        ],
-        "tags": [
-          "جيسون",
-          "تصور-البيانات",
-          "بيانات",
-          "رسوم-بيانية",
-          "تحليل"
-        ],
-        "pricing": {
-          "model": "مجاني"
-        },
-        "softwareTypes": [
-          "تطبيق ويب"
-        ],
-        "publishDate": "2025-09-10T12:00:00.000Z",
-        "heroImage": "",
-        "toolUrl": "https://jsoncrack.com"
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-09-24T10:00:00.000Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1755687435/costimate-hero.jpg",
+      "toolUrl": "https://costimate.net"
+    },
+    {
+      "id": "sindbad-tech",
+      "slug": "sindbad-tech",
+      "title": "سندباد تك",
+      "title_en": "Sindbad Tech",
+      "description": "منصة تداول آلي وإدارة استثمارات بالذكاء الاصطناعي",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إدارة الأموال",
+        "الفهم والتحسين",
+        "إنشاء و تطوير"
+      ],
+      "tags": [
+        "تداول-آلي",
+        "ذكاء-اصطناعي",
+        "إدارة-استثمارات",
+        "بوتات-تداول",
+        "تقنية-مالية"
+      ],
+      "pricing": {
+        "model": "اشتراك"
       },
-      {
-        "id": "effect-app",
-        "slug": "effect-app",
-        "title": "إفكت",
-        "title_en": "Effect",
-        "description": "مولد تأثيرات بصرية أونلاين للصور ومقاطع الفيديو",
-        "author": "وليد صادق",
-        "username": "waleed",
-        "categories": [
-          "إنشاء و تطوير"
-        ],
-        "tags": [
-          "تأثيرات-بصرية",
-          "صور",
-          "فيديو",
-          "فلاتر",
-          "تحرير"
-        ],
-        "pricing": {
-          "model": "مجاني"
-        },
-        "softwareTypes": [
-          "تطبيق ويب"
-        ],
-        "publishDate": "2025-09-10T12:00:00.000Z",
-        "heroImage": "",
-        "toolUrl": "https://effect.app"
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-09-24T10:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://sindbad.tech"
+    },
+    {
+      "id": "naqood",
+      "slug": "naqood",
+      "title": "نقود",
+      "title_en": "Naqood",
+      "description": "منصة مالية رقمية لإدارة المدفوعات والخدمات المصرفية",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إدارة الأموال",
+        "إدارة الأعمال",
+        "الأمان والنشر"
+      ],
+      "tags": [
+        "مدفوعات-رقمية",
+        "خدمات-مصرفية",
+        "محفظة-رقمية",
+        "تحويلات-مالية",
+        "تقنية-مالية"
+      ],
+      "pricing": {
+        "model": "مجاني"
       },
-      {
-        "id": "cleanup-pictures",
-        "slug": "cleanup-pictures",
-        "title": "كلين أب بيكتشرز",
-        "title_en": "Cleanup.pictures",
-        "description": "أزل العناصر غير المرغوب فيها والشوائب من الصور باستخدام الذكاء الاصطناعي.",
-        "author": "وليد صادق",
-        "username": "waleed",
-        "categories": ["إنشاء و تطوير","الفهم والتحسين"],
-        "tags": ["ذكاء-اصطناعي","صور","تحرير","تنظيف","تعديل‑الصور"],
-        "pricing": {"model": "فريميوم"},
-        "softwareTypes": ["تطبيق ويب"],
-        "publishDate": "2025-09-02T00:00:00.000Z",
-        "heroImage": "",
-        "toolUrl": "https://cleanup.pictures"
+      "softwareTypes": [
+        "تطبيق ويب",
+        "تطبيق جوال"
+      ],
+      "publishDate": "2025-09-24T10:00:00.000Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1755687435/naqood-hero.jpg",
+      "toolUrl": "https://naqood.ae"
+    },
+    {
+      "id": "userq",
+      "slug": "userq",
+      "title": "يوزر كيو",
+      "title_en": "UserQ",
+      "description": "منصة لجمع آراء وتعليقات المستخدمين وتحليل تجربة العملاء",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "الفهم والتحسين",
+        "جذب العملاء والاحتفاظ بهم",
+        "التواصل والتعاون"
+      ],
+      "tags": [
+        "آراء-مستخدمين",
+        "تجربة-عملاء",
+        "استبيانات",
+        "تحليلات",
+        "تحسين-منتج"
+      ],
+      "pricing": {
+        "model": "فريميوم"
       },
-      {
-        "id": "consensus-ai",
-        "slug": "consensus-ai",
-        "title": "كونسنسس إيه آي",
-        "title_en": "Consensus – AI",
-        "description": "محرك بحث ذكي للأدبيات العلمية يعرض إجابات مدعومة بالأدلة بسرعة.",
-        "author": "وليد صادق",
-        "username": "waleed",
-        "categories": ["الفهم والتحسين","إدارة الأعمال"],
-        "tags": ["ذكاء-اصطناعي","بحث","معرفة","علم","بحث‑علمي"],
-        "pricing": {"model": "اشتراك"},
-        "softwareTypes": ["تطبيق ويب"],
-        "publishDate": "2025-09-02T00:00:00.000Z",
-        "heroImage": "",
-        "toolUrl": "https://consensus.app"
+      "softwareTypes": [
+        "تطبيق ويب",
+        "برنامج مساعد"
+      ],
+      "publishDate": "2025-09-24T10:00:00.000Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1755687435/userq-hero.jpg",
+      "toolUrl": "https://userq.com"
+    },
+    {
+      "id": "zamzar",
+      "slug": "zamzar",
+      "title": "زامزار",
+      "title_en": "Zamzar",
+      "description": "تحويل الملفات بين أكثر من 1200 تنسيق بسهولة عبر الإنترنت",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير",
+        "التواصل والتعاون"
+      ],
+      "tags": [
+        "تحويل-الملفات",
+        "مستندات",
+        "صور",
+        "صوت",
+        "فيديو"
+      ],
+      "pricing": {
+        "model": "فريميوم"
       },
-      {
-        "id": "diffbot",
-        "slug": "diffbot",
-        "title": "ديف بوت",
-        "title_en": "Diffbot",
-        "description": "واجهات API ذكية لاستخراج بيانات منظمة من صفحات الويب إلى JSON أو مخططات معرفة.",
-        "author": "وليد صادق",
-        "username": "waleed",
-        "categories": ["إنشاء و تطوير","الفهم والتحسين"],
-        "tags": ["ذكاء-اصطناعي","ويب","استخراج‑بيانات","البيانات‑المنظمة","الويب"],
-        "pricing": {"model": "اشتراك"},
-        "softwareTypes": ["تطبيق ويب","مستضاف ذاتيًا"],
-        "publishDate": "2025-09-02T00:00:00.000Z",
-        "heroImage": "",
-        "toolUrl": "https://diffbot.com"
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-09-17T10:59:14.002Z",
+      "heroImage": "",
+      "toolUrl": "https://zamzar.com"
+    },
+    {
+      "id": "pdf24",
+      "slug": "pdf24",
+      "title": "أدوات PDF24",
+      "title_en": "PDF24 Tools",
+      "description": "أدوات مجانية عبر الإنترنت لجميع احتياجات PDF",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير",
+        "التواصل والتعاون"
+      ],
+      "tags": [
+        "pdf",
+        "مستندات",
+        "دمج",
+        "تحويل",
+        "ضغط"
+      ],
+      "pricing": {
+        "model": "مجاني"
       },
-      {
-        "id": "getimg-ai",
-        "slug": "getimg-ai",
-        "title": "جيت إيمج إيه آي",
-        "title_en": "Getimg.ai",
-        "description": "أنشئ وعدّل ووسّع الصور باستخدام الذكاء الاصطناعي—من النص إلى الصورة، والتعديل، والتوسعة، وحتى تحويل الفيديو.",
-        "author": "وليد صادق",
-        "username": "waleed",
-        "categories": ["إنشاء و تطوير","الفهم والتحسين"],
-        "tags": ["ذكاء-اصطناعي","صور","توليد","تحرير","محتوى‑مرئي"],
-        "pricing": {"model": "فريميوم"},
-        "softwareTypes": ["تطبيق ويب"],
-        "publishDate": "2025-09-02T00:00:00.000Z",
-        "heroImage": "",
-        "toolUrl": "https://getimg.ai"
+      "softwareTypes": [
+        "تطبيق ويب",
+        "تطبيق سطح المكتب"
+      ],
+      "publishDate": "2025-09-17T10:59:14.002Z",
+      "heroImage": "",
+      "toolUrl": "https://tools.pdf24.org/ar/"
+    },
+    {
+      "id": "typeracer",
+      "slug": "typeracer",
+      "title": "تايب ريسر",
+      "title_en": "TypeRacer",
+      "description": "لعبة كتابة تنافسية لتحسين السرعة والدقة",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "التواصل والتعاون",
+        "الفهم والتحسين"
+      ],
+      "tags": [
+        "كتابة",
+        "ألعاب",
+        "منافسة",
+        "تطوير-المهارات",
+        "متعدد-اللاعبين"
+      ],
+      "pricing": {
+        "model": "مجاني"
       },
-      {
-        "id": "make-com",
-        "slug": "make-com",
-        "title": "ميك دوت كوم",
-        "title_en": "Make.com",
-        "description": "منصة أتمتة بدون كود لتوصيل التطبيقات وتصميم سير العمل وتنفيذ المهام باستخدام المنطق الشرطي والتكاملات.",
-        "author": "وليد صادق",
-        "username": "waleed",
-        "categories": ["إدارة الأعمال","إنشاء و تطوير"],
-        "tags": ["أتمتة","سير‑العمل","بدون‑كود","تكامل","إنتاجية"],
-        "pricing": {"model": "فريميوم"},
-        "softwareTypes": ["تطبيق ويب"],
-        "publishDate": "2025-09-02T00:00:00.000Z",
-        "heroImage": "",
-        "toolUrl": "https://make.com"
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-09-17T10:59:14.002Z",
+      "heroImage": "",
+      "toolUrl": "https://play.typeracer.com/?universe=lang_ar&"
+    },
+    {
+      "id": "suno-ai",
+      "slug": "suno-ai",
+      "title": "سونو AI",
+      "title_en": "Suno AI",
+      "description": "إنتاج الموسيقى والأغاني باستخدام الذكاء الاصطناعي",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير",
+        "التواصل والتعاون"
+      ],
+      "tags": [
+        "ذكاء-اصطناعي",
+        "موسيقى",
+        "صوت",
+        "إنتاج",
+        "إبداع"
+      ],
+      "pricing": {
+        "model": "فريميوم"
       },
-      {
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-09-17T10:59:14.002Z",
+      "heroImage": "",
+      "toolUrl": "https://suno.com"
+    },
+    {
+      "id": "neon-tech",
+      "slug": "neon-tech",
+      "title": "نيون",
+      "title_en": "Neon",
+      "description": "قاعدة بيانات PostgreSQL بدون خادم مع تفريع وتوسيع",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير",
+        "إدارة الأعمال",
+        "الأمان والنشر"
+      ],
+      "tags": [
+        "قاعدة-بيانات",
+        "postgres",
+        "بدون-خادم",
+        "سحابة",
+        "توسيع"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب",
+        "واجهة سطر الأوامر"
+      ],
+      "publishDate": "2025-09-17T10:59:14.002Z",
+      "heroImage": "",
+      "toolUrl": "https://neon.tech"
+    },
+    {
+      "id": "lumo-ai",
+      "slug": "lumo-ai",
+      "title": "لومو",
+      "title_en": "Lumo",
+      "description": "مساعد ذكي يحمي الخصوصية مع تشفير منعدم الوصول",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "الأمان والنشر",
+        "التواصل والتعاون",
+        "إنشاء و تطوير"
+      ],
+      "tags": [
+        "ذكاء-اصطناعي",
+        "خصوصية",
+        "مساعد",
+        "تشفير",
+        "دردشة"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب",
+        "تطبيق جوال",
+        "تطبيق سطح المكتب"
+      ],
+      "publishDate": "2025-09-10T12:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://lumo.proton.me"
+    },
+    {
+      "id": "httpie",
+      "slug": "httpie",
+      "title": "إتش تي تي بي آي",
+      "title_en": "HTTPie",
+      "description": "عميل HTTP حديث لاختبار وتصحيح واجهات برمجة التطبيقات",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير",
+        "الفهم والتحسين"
+      ],
+      "tags": [
+        "واجهة-برمجية",
+        "api",
+        "اختبار",
+        "سطر-الأوامر",
+        "json"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "واجهة سطر الأوامر",
+        "تطبيق ويب",
+        "تطبيق سطح المكتب"
+      ],
+      "publishDate": "2025-09-10T12:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://httpie.io"
+    },
+    {
+      "id": "toolsaday-toolkit",
+      "slug": "toolsaday-toolkit",
+      "title": "أدوات تولزداي",
+      "title_en": "Toolsday Toolkit",
+      "description": "مجموعة من أدوات الكتابة، تحسين محركات البحث، النصوص، والعديد من الأدوات الأخرى المجانية",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "الفهم والتحسين",
+        "إنشاء و تطوير"
+      ],
+      "tags": [
+        "أدوات",
+        "ذكاء اصطناعي",
+        "كتابة",
+        "سيو",
+        "رياضيات"
+      ],
+      "pricing": {
+        "model": "مجاني"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-09-10T12:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://toolsaday.com/toolkit-explorer"
+    },
+    {
+      "id": "json-crack",
+      "slug": "json-crack",
+      "title": "جيسون كراك",
+      "title_en": "JSON Crack",
+      "description": "صوّر وحلل بيانات JSON بالرسوم البيانية التفاعلية",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير",
+        "الفهم والتحسين"
+      ],
+      "tags": [
+        "جيسون",
+        "تصور-البيانات",
+        "بيانات",
+        "رسوم-بيانية",
+        "تحليل"
+      ],
+      "pricing": {
+        "model": "مجاني"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-09-10T12:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://jsoncrack.com"
+    },
+    {
+      "id": "effect-app",
+      "slug": "effect-app",
+      "title": "إفكت",
+      "title_en": "Effect",
+      "description": "مولد تأثيرات بصرية أونلاين للصور ومقاطع الفيديو",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير"
+      ],
+      "tags": [
+        "تأثيرات-بصرية",
+        "صور",
+        "فيديو",
+        "فلاتر",
+        "تحرير"
+      ],
+      "pricing": {
+        "model": "مجاني"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-09-10T12:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://effect.app"
+    },
+    {
+      "id": "cleanup-pictures",
+      "slug": "cleanup-pictures",
+      "title": "كلين أب بيكتشرز",
+      "title_en": "Cleanup.pictures",
+      "description": "أزل العناصر غير المرغوب فيها والشوائب من الصور باستخدام الذكاء الاصطناعي.",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير",
+        "الفهم والتحسين"
+      ],
+      "tags": [
+        "ذكاء-اصطناعي",
+        "صور",
+        "تحرير",
+        "تنظيف",
+        "تعديل‑الصور"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-09-02T00:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://cleanup.pictures"
+    },
+    {
+      "id": "consensus-ai",
+      "slug": "consensus-ai",
+      "title": "كونسنسس إيه آي",
+      "title_en": "Consensus – AI",
+      "description": "محرك بحث ذكي للأدبيات العلمية يعرض إجابات مدعومة بالأدلة بسرعة.",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "الفهم والتحسين",
+        "إدارة الأعمال"
+      ],
+      "tags": [
+        "ذكاء-اصطناعي",
+        "بحث",
+        "معرفة",
+        "علم",
+        "بحث‑علمي"
+      ],
+      "pricing": {
+        "model": "اشتراك"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-09-02T00:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://consensus.app"
+    },
+    {
+      "id": "diffbot",
+      "slug": "diffbot",
+      "title": "ديف بوت",
+      "title_en": "Diffbot",
+      "description": "واجهات API ذكية لاستخراج بيانات منظمة من صفحات الويب إلى JSON أو مخططات معرفة.",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير",
+        "الفهم والتحسين"
+      ],
+      "tags": [
+        "ذكاء-اصطناعي",
+        "ويب",
+        "استخراج‑بيانات",
+        "البيانات‑المنظمة",
+        "الويب"
+      ],
+      "pricing": {
+        "model": "اشتراك"
+      },
+      "softwareTypes": [
+        "تطبيق ويب",
+        "مستضاف ذاتيًا"
+      ],
+      "publishDate": "2025-09-02T00:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://diffbot.com"
+    },
+    {
+      "id": "getimg-ai",
+      "slug": "getimg-ai",
+      "title": "جيت إيمج إيه آي",
+      "title_en": "Getimg.ai",
+      "description": "أنشئ وعدّل ووسّع الصور باستخدام الذكاء الاصطناعي—من النص إلى الصورة، والتعديل، والتوسعة، وحتى تحويل الفيديو.",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إنشاء و تطوير",
+        "الفهم والتحسين"
+      ],
+      "tags": [
+        "ذكاء-اصطناعي",
+        "صور",
+        "توليد",
+        "تحرير",
+        "محتوى‑مرئي"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-09-02T00:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://getimg.ai"
+    },
+    {
+      "id": "make-com",
+      "slug": "make-com",
+      "title": "ميك دوت كوم",
+      "title_en": "Make.com",
+      "description": "منصة أتمتة بدون كود لتوصيل التطبيقات وتصميم سير العمل وتنفيذ المهام باستخدام المنطق الشرطي والتكاملات.",
+      "author": "وليد صادق",
+      "username": "waleed",
+      "categories": [
+        "إدارة الأعمال",
+        "إنشاء و تطوير"
+      ],
+      "tags": [
+        "أتمتة",
+        "سير‑العمل",
+        "بدون‑كود",
+        "تكامل",
+        "إنتاجية"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2025-09-02T00:00:00.000Z",
+      "heroImage": "",
+      "toolUrl": "https://make.com"
+    },
+    {
       "id": "descript",
       "slug": "descript",
       "title": "ديسكريبت",
@@ -5400,5 +5495,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2025-08-09T12:20:14.233Z"
+  "lastUpdated": "2026-08-26T15:54:05.804Z"
 }
