@@ -5,7 +5,7 @@
       "slug": "social-browser",
       "title": "متصفح سوشيال براوزر",
       "title_en": "Social Browser",
-      "description": "Manage Multiple Profiles and Do More in One Browser",
+      "description": "كل حساباتك في متصفح واحد.",
       "author": "Amr Barakat",
       "username": "absunstar",
       "user_id": "fc5fbfbc-6aec-4a32-826e-4b85bde1484f",
@@ -27,7 +27,9 @@
       "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1787923639/iyxkhboph0ubfbawmhzg.png",
       "toolUrl": "https://social-browser.com/",
       "dealCode": "TOOLSEEKR-25",
-      "dealText": "خصم 25% على كل الخطط والاشتراكات والاداوات"
+      "dealText": "خصم 25% على كل الخطط والاشتراكات والاداوات",
+      "featured": false,
+      "featuredPosition": null
     },
     {
       "id": "iban-accounting-tools",
@@ -5524,5 +5526,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-08-28T13:35:16.944Z"
+  "lastUpdated": "2026-08-28T13:41:24.825Z"
 }
