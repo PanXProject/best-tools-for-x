@@ -1,6 +1,31 @@
 {
   "tools": [
     {
+      "id": "kuca",
+      "slug": "kuca",
+      "title": "Kuca",
+      "description": "Direct AI video scene by scene for films, short dramas and shorts",
+      "author": "chenhai",
+      "username": "flowers",
+      "user_id": "86e3bae1-0d83-4438-8744-4e4d59222819",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "video",
+        "ai"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-08-28T06:32:08.141Z",
+      "heroImage": "",
+      "toolUrl": "https://kuca.ai/"
+    },
+    {
       "id": "chemistry-ai",
       "slug": "chemistry-ai",
       "title": "Chemistry AI",
@@ -8477,5 +8502,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-08-26T15:18:35.980Z"
+  "lastUpdated": "2026-08-28T06:32:09.654Z"
 }
