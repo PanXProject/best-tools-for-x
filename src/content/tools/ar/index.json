@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "social-browser",
+      "slug": "social-browser",
+      "title": "متصفح سوشيال براوزر",
+      "title_en": "Social Browser",
+      "description": "Manage Multiple Profiles and Do More in One Browser",
+      "author": "Amr Barakat",
+      "username": "absunstar",
+      "user_id": "fc5fbfbc-6aec-4a32-826e-4b85bde1484f",
+      "categories": [
+        "جذب العملاء والاحتفاظ بهم",
+        "إدارة الأعمال",
+        "التواصل والتعاون"
+      ],
+      "tags": [
+        "متصفح"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق سطح المكتب"
+      ],
+      "publishDate": "2026-08-28T13:35:15.821Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1787923639/iyxkhboph0ubfbawmhzg.png",
+      "toolUrl": "https://social-browser.com/",
+      "dealCode": "TOOLSEEKR-25",
+      "dealText": "خصم 25% على كل الخطط والاشتراكات والاداوات"
+    },
+    {
       "id": "iban-accounting-tools",
       "slug": "iban-accounting-tools",
       "title": "حاسبات إيبان المحاسبية",
@@ -5495,5 +5524,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-08-26T15:54:05.804Z"
+  "lastUpdated": "2026-08-28T13:35:16.944Z"
 }
