@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "pdfzus",
+      "slug": "pdfzus",
+      "title": "pdfzus",
+      "description": "Merge, reorder and compress PDFs locally in your browser",
+      "author": "Yuxiang Chen",
+      "username": "pdfzus",
+      "user_id": "d9718a7d-9b91-4039-a94c-451b7b1761b2",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "pdf",
+        "productivity",
+        "privacy"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-08-29T14:22:11.378Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1788013256/wyqtdtoelc0qnqeoxbgw.png",
+      "toolUrl": "https://pdfzus.de/"
+    },
+    {
       "id": "kuca",
       "slug": "kuca",
       "title": "Kuca",
@@ -8502,5 +8528,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-08-28T06:32:09.654Z"
+  "lastUpdated": "2026-08-29T14:22:12.377Z"
 }
