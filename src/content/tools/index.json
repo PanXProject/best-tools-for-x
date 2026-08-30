@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "ai-interior-design-generator",
+      "slug": "ai-interior-design-generator",
+      "title": "AI Interior Design Generator",
+      "description": "Generate realistic room redesign concepts from any photo",
+      "author": "Alex Morgan",
+      "username": "physicsai",
+      "user_id": "93079244-ad9d-418d-860e-e18d8cb66462",
+      "categories": [
+        "Create & Build",
+        "Understand & Improve"
+      ],
+      "tags": [
+        "interior-design",
+        "ai-design",
+        "room-planning"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-08-30T04:48:23.256Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1788065202/qacqksmod9op4obqyhhk.png",
+      "toolUrl": "https://ai-interior-design.online/"
+    },
+    {
       "id": "raads-r-test-online",
       "slug": "raads-r-test-online",
       "title": "RAADS-R Test Online",
@@ -8612,5 +8639,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-08-30T03:57:43.997Z"
+  "lastUpdated": "2026-08-30T04:48:24.304Z"
 }
