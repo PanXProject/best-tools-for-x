@@ -15,7 +15,11 @@
         "التواصل والتعاون"
       ],
       "tags": [
-        "متصفح"
+        "متصفح-متعدد-الحسابات",
+        "أتمتة",
+        "خصوصية",
+        "إنتاجية",
+        "إدارة-حسابات"
       ],
       "pricing": {
         "model": "فريميوم"
@@ -25,9 +29,9 @@
       ],
       "publishDate": "2026-08-28T13:35:15.821Z",
       "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1787923639/iyxkhboph0ubfbawmhzg.png",
-      "toolUrl": "https://social-browser.com/",
+      "toolUrl": "https://social-browser.com/download/toolseekr",
       "dealCode": "TOOLSEEKR-25",
-      "dealText": "خصم 25% على كل الخطط والاشتراكات والاداوات",
+      "dealText": "خصم 25% على جميع خطط Social Browser المدفوعة",
       "featured": false,
       "featuredPosition": null
     },
@@ -5526,5 +5530,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-08-28T13:41:24.825Z"
+  "lastUpdated": "2026-08-30T01:19:54.172Z"
 }
