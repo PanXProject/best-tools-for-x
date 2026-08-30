@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "raads-r-test-online",
+      "slug": "raads-r-test-online",
+      "title": "RAADS-R Test Online",
+      "description": "Private adult autism self-assessment with domain insights",
+      "author": "Alex Morgan",
+      "username": "physicsai",
+      "user_id": "93079244-ad9d-418d-860e-e18d8cb66462",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "autism",
+        "self-assessment",
+        "mental-wellness"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-08-30T03:57:43.043Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1788062180/lj7xslfoaxjscgwd0omx.jpg",
+      "toolUrl": "https://raads-rtest.online/"
+    },
+    {
       "id": "math-ai-solver",
       "slug": "math-ai-solver",
       "title": "Math AI Solver",
@@ -8586,5 +8612,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-08-29T16:36:36.447Z"
+  "lastUpdated": "2026-08-30T03:57:43.997Z"
 }
