@@ -1,6 +1,31 @@
 {
   "tools": [
     {
+      "id": "wan-3-0-video-generatorn",
+      "slug": "wan-3-0-video-generatorn",
+      "title": "Wan 3.0  Video Generatorn",
+      "description": "Wan 3.0  Video Generatorn",
+      "author": "Hailuo 3.0 Team",
+      "username": "hailuo30ai",
+      "user_id": "854cef68-563a-4398-bffa-4fdb836b8262",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "pricing": {
+        "model": "one-time-payment"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app"
+      ],
+      "publishDate": "2026-09-01T05:52:39.867Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1788241857/xe1zfz88kadzvokcpnys.png",
+      "toolUrl": "https://wan-30.com/"
+    },
+    {
       "id": "ai-interior-design-generator",
       "slug": "ai-interior-design-generator",
       "title": "AI Interior Design Generator",
@@ -8639,5 +8664,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-08-30T04:48:24.304Z"
+  "lastUpdated": "2026-09-01T05:52:40.871Z"
 }
