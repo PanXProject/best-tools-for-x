@@ -1,6 +1,31 @@
 {
   "tools": [
     {
+      "id": "random-topic-generator",
+      "slug": "random-topic-generator",
+      "title": "Random Topic Generator",
+      "description": "Generate topics. Practice speech. Improve fast.",
+      "author": "curateclick",
+      "username": "curateclick",
+      "user_id": "85983173-a70e-41ad-b12d-df21cc616513",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "education",
+        "speech"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-04T02:57:31.301Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1788490622/mehtnxqp5vdxqqd2gyel.jpg",
+      "toolUrl": "https://randomtopicgenerator.net/"
+    },
+    {
       "id": "longruay",
       "slug": "longruay",
       "title": "LongRuay",
@@ -8745,5 +8770,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-04T02:49:14.057Z"
+  "lastUpdated": "2026-09-04T02:57:32.255Z"
 }
