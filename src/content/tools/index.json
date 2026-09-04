@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "imagelayered",
+      "slug": "imagelayered",
+      "title": "ImageLayered",
+      "description": "Turn Any Image into Editable Layers",
+      "author": "curateclick",
+      "username": "curateclick",
+      "user_id": "85983173-a70e-41ad-b12d-df21cc616513",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai",
+        "image",
+        "image-edit"
+      ],
+      "pricing": {
+        "model": "one-time-payment"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-04T02:40:44.990Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1788489363/xgmtigz6fm0xzsgfe7zg.jpg",
+      "toolUrl": "https://imagelayered.com/"
+    },
+    {
       "id": "recall",
       "slug": "recall",
       "title": "Recall",
@@ -8694,5 +8720,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-03T13:34:00.982Z"
+  "lastUpdated": "2026-09-04T02:40:46.052Z"
 }
