@@ -1,6 +1,31 @@
 {
   "tools": [
     {
+      "id": "longruay",
+      "slug": "longruay",
+      "title": "LongRuay",
+      "description": "A 30-Day AI Millionaire Life Simulator",
+      "author": "curateclick",
+      "username": "curateclick",
+      "user_id": "85983173-a70e-41ad-b12d-df21cc616513",
+      "categories": [
+        "Manage Money"
+      ],
+      "tags": [
+        "ai",
+        "gaming"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-04T02:49:12.989Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1788489921/dkcqjlh4fhllfbns12ov.jpg",
+      "toolUrl": "https://longruay.com/"
+    },
+    {
       "id": "imagelayered",
       "slug": "imagelayered",
       "title": "ImageLayered",
@@ -8720,5 +8745,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-04T02:40:46.052Z"
+  "lastUpdated": "2026-09-04T02:49:14.057Z"
 }
