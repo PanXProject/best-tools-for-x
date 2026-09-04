@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "safe-privacy-gate",
+      "slug": "safe-privacy-gate",
+      "title": "Safe Privacy Gate",
+      "description": "A lightweight browser check before sensitive information is sent",
+      "author": "Legacy Tools",
+      "username": "legacytools",
+      "user_id": "720eb57c-639f-4873-b006-26401491ad15",
+      "categories": [
+        "Secure & Deploy"
+      ],
+      "tags": [
+        "privacy",
+        "security",
+        "productivity",
+        "small-business"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "extension"
+      ],
+      "publishDate": "2026-09-04T11:45:07.315Z",
+      "heroImage": "",
+      "toolUrl": "https://chromewebstore.google.com/detail/safe-privacy-gate/gkijldmjfionpkhkjdgacbjkploomddp?hl=en"
+    },
+    {
       "id": "random-topic-generator",
       "slug": "random-topic-generator",
       "title": "Random Topic Generator",
@@ -8770,5 +8797,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-04T02:57:32.255Z"
+  "lastUpdated": "2026-09-04T11:45:08.434Z"
 }
