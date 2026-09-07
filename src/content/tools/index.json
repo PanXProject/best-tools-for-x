@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "white-screen",
+      "slug": "white-screen",
+      "title": "White Screen",
+      "description": "Free white screen for monitor cleaning and testing",
+      "author": "Mat Orkkatteri",
+      "username": "matorkkatteri",
+      "user_id": "3c420873-155d-4d19-8011-1fe251e22c77",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "screen",
+        "monitor",
+        "utility"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-07T18:11:03.838Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1788804641/f34vjyneo6bbxjvltdat.png",
+      "toolUrl": "https://whitescreen.im/"
+    },
+    {
       "id": "split-image",
       "slug": "split-image",
       "title": "Split Image",
@@ -8880,5 +8906,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-07T18:09:16.186Z"
+  "lastUpdated": "2026-09-07T18:11:04.864Z"
 }
