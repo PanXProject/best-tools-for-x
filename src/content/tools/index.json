@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "image-to-stl",
+      "slug": "image-to-stl",
+      "title": "Image to STL",
+      "description": "Convert PNG or JPG images to 3D-printable STL",
+      "author": "Mat Orkkatteri",
+      "username": "matorkkatteri",
+      "user_id": "3c420873-155d-4d19-8011-1fe251e22c77",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "3d",
+        "stl",
+        "image"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-07T18:11:44.077Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1788804702/vjsa9gxhjyqqknuj4tkd.png",
+      "toolUrl": "https://imagetostl.im/"
+    },
+    {
       "id": "white-screen",
       "slug": "white-screen",
       "title": "White Screen",
@@ -8906,5 +8932,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-07T18:11:04.864Z"
+  "lastUpdated": "2026-09-07T18:11:45.089Z"
 }
