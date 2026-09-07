@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "makify-ai-ai-creative-platform",
+      "slug": "makify-ai-ai-creative-platform",
+      "title": "Makify AI - AI Creative Platform",
+      "description": "Multi-model AI platform for images, edits, and video concepts",
+      "author": "Jacky Peng",
+      "username": "jacky-peng-ai",
+      "user_id": "041941ed-dd14-4827-9c82-b803ce3b2b7c",
+      "categories": [
+        "Create & Build",
+        "Run Business"
+      ],
+      "tags": [
+        "ai",
+        "image-generation",
+        "image-editor",
+        "video",
+        "design-tools"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-07T09:54:25.852Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1788774631/sud5idwoe0dnjqsgte1s.png",
+      "toolUrl": "https://makifyai.com/"
+    },
+    {
       "id": "safe-privacy-gate",
       "slug": "safe-privacy-gate",
       "title": "Safe Privacy Gate",
@@ -8799,5 +8828,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-04T11:46:14.272Z"
+  "lastUpdated": "2026-09-07T09:54:26.973Z"
 }
