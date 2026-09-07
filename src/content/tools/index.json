@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "split-image",
+      "slug": "split-image",
+      "title": "Split Image",
+      "description": "Split one picture into a grid, download as ZIP",
+      "author": "Mat Orkkatteri",
+      "username": "matorkkatteri",
+      "user_id": "3c420873-155d-4d19-8011-1fe251e22c77",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "image",
+        "photo",
+        "grid"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-07T18:09:15.227Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1788804554/bxqhafqmj6w95ombims0.png",
+      "toolUrl": "https://splitimage.im/"
+    },
+    {
       "id": "transcribe-text",
       "slug": "transcribe-text",
       "title": "Transcribe Text",
@@ -8854,5 +8880,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-07T17:41:50.083Z"
+  "lastUpdated": "2026-09-07T18:09:16.186Z"
 }
