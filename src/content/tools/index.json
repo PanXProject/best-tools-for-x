@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "transcribe-text",
+      "slug": "transcribe-text",
+      "title": "Transcribe Text",
+      "description": "Free AI transcription for audio and video with captions.",
+      "author": "Joe",
+      "username": "joeaki1983",
+      "user_id": "8de72c02-5eb8-4642-a4bd-ab87cf46f92e",
+      "categories": [
+        "Create & Build",
+        "Understand & Improve",
+        "Connect & Collaborate"
+      ],
+      "tags": [
+        "transcription"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-07T17:41:48.908Z",
+      "heroImage": "",
+      "toolUrl": "https://transcribetext.com/"
+    },
+    {
       "id": "makify-ai-ai-creative-platform",
       "slug": "makify-ai-ai-creative-platform",
       "title": "Makify AI - AI Creative Platform",
@@ -8828,5 +8854,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-07T09:54:26.973Z"
+  "lastUpdated": "2026-09-07T17:41:50.083Z"
 }
