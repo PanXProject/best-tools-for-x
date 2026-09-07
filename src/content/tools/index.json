@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "vynaris",
+      "slug": "vynaris",
+      "title": "Vynaris",
+      "description": "Powerful hosted uncensored models for security research",
+      "author": "Dhrumil Barot",
+      "username": "bdhrumil",
+      "user_id": "be2d01b6-dfd0-4e56-ba34-a4522f495684",
+      "categories": [
+        "Create & Build",
+        "Secure & Deploy"
+      ],
+      "tags": [
+        "ai-infrastructure",
+        "llm-gateway",
+        "api",
+        "security-research",
+        "model-routing"
+      ],
+      "pricing": {
+        "model": "pay-per-use"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-07T18:47:06.656Z",
+      "heroImage": "",
+      "toolUrl": "https://vynaris.com/"
+    },
+    {
       "id": "ai-photo-editor",
       "slug": "ai-photo-editor",
       "title": "AI Photo Editor",
@@ -8958,5 +8987,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-07T18:12:39.788Z"
+  "lastUpdated": "2026-09-07T18:47:07.843Z"
 }
