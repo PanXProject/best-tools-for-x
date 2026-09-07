@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ai-photo-editor",
+      "slug": "ai-photo-editor",
+      "title": "AI Photo Editor",
+      "description": "Upload a photo, write a prompt, edit in browser",
+      "author": "Mat Orkkatteri",
+      "username": "matorkkatteri",
+      "user_id": "3c420873-155d-4d19-8011-1fe251e22c77",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "photo",
+        "editor",
+        "ai"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-07T18:12:38.853Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1788804757/hbqkjirtdu8t5msg8wq2.png",
+      "toolUrl": "https://aiphotoreditor.com/"
+    },
+    {
       "id": "image-to-stl",
       "slug": "image-to-stl",
       "title": "Image to STL",
@@ -8932,5 +8958,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-07T18:11:45.089Z"
+  "lastUpdated": "2026-09-07T18:12:39.788Z"
 }
