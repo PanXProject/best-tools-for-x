@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "ai-for-database",
+      "slug": "ai-for-database",
+      "title": "AI for Database",
+      "description": "Ask your database. Build dashboards. Trigger workflows.",
+      "author": "Dhrumil Barot",
+      "username": "aifordatabase",
+      "user_id": "6e34f4ba-f618-4d7f-81bc-4cb41a200f07",
+      "categories": [
+        "Run Business",
+        "Understand & Improve"
+      ],
+      "tags": [
+        "database",
+        "analytics",
+        "dashboards",
+        "workflows",
+        "ai"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-08T11:15:01.654Z",
+      "heroImage": "",
+      "toolUrl": "https://aifordatabase.com/"
+    },
+    {
       "id": "visibilitystack",
       "slug": "visibilitystack",
       "title": "VisibilityStack",
@@ -9047,5 +9076,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-08T08:14:24.325Z"
+  "lastUpdated": "2026-09-08T11:15:03.036Z"
 }
