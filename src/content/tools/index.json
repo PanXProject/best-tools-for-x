@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "visibilitystack",
+      "slug": "visibilitystack",
+      "title": "VisibilityStack",
+      "description": "Make AI Search Your Best Salesperson",
+      "author": "Ameet Mehta",
+      "username": "ameetm",
+      "user_id": "26f02ba6-2874-44f7-9af1-8da49bb5d37d",
+      "categories": [
+        "Run Business",
+        "Understand & Improve"
+      ],
+      "tags": [
+        "ai",
+        "seo",
+        "marketing",
+        "aiso",
+        "geo"
+      ],
+      "pricing": {
+        "model": "subscription"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-08T08:13:31.683Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1788854719/iqpqs53fgzivspw6sryf.jpg",
+      "toolUrl": "https://www.visibilitystack.ai/"
+    },
+    {
       "id": "minimax-h3-max",
       "slug": "minimax-h3-max",
       "title": "Minimax H3 Max",
@@ -9016,5 +9045,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-08T07:25:35.221Z"
+  "lastUpdated": "2026-09-08T08:13:32.836Z"
 }
