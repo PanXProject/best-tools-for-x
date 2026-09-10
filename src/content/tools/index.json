@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "dola-ai-video-generator",
+      "slug": "dola-ai-video-generator",
+      "title": "Dola AI Video Generator",
+      "description": "Free text & image to video AI tool",
+      "author": "trellis2",
+      "username": "trellis2",
+      "user_id": "ca4037c8-f55c-4bf5-9a82-5482a9aebd6c",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai",
+        "video",
+        "text-to-video"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-10T02:24:56.658Z",
+      "heroImage": "",
+      "toolUrl": "https://dolai.video/"
+    },
+    {
       "id": "whisk-ai",
       "slug": "whisk-ai",
       "title": "Whisk AI",
@@ -9102,5 +9128,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-10T02:13:10.083Z"
+  "lastUpdated": "2026-09-10T02:24:57.604Z"
 }
