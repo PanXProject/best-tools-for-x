@@ -1,6 +1,31 @@
 {
   "tools": [
     {
+      "id": "loretypes",
+      "slug": "loretypes",
+      "title": "Loretypes",
+      "description": "Free self-discovery quizzes for a clearer view of your energy.",
+      "author": "Owen",
+      "username": "loretypes",
+      "user_id": "dd078fdd-04a1-4ece-869d-9954985fc0b4",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "personality-quiz",
+        "aura"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-10T11:14:15.452Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1789038714/lgmnsljzp3zkbwlwkerh.png",
+      "toolUrl": "https://loretypes.com/"
+    },
+    {
       "id": "remove-bg",
       "slug": "remove-bg",
       "title": "Remove Bg",
@@ -9323,5 +9348,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-10T04:19:34.653Z"
+  "lastUpdated": "2026-09-10T11:14:16.734Z"
 }
