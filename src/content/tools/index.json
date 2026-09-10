@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "flow-ai-video",
+      "slug": "flow-ai-video",
+      "title": "Flow AI Video",
+      "description": "4K AI video from text or images in your browser",
+      "author": "trellis2",
+      "username": "trellis2",
+      "user_id": "ca4037c8-f55c-4bf5-9a82-5482a9aebd6c",
+      "categories": [
+        "Get & Keep Customers",
+        "Create & Build"
+      ],
+      "tags": [
+        "ai",
+        "video",
+        "text-to-video"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-10T03:00:03.577Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1789009065/r9ziatqknlmjzcmzwiec.png",
+      "toolUrl": "https://flowaivideo.org/"
+    },
+    {
       "id": "luma-dream-machine",
       "slug": "luma-dream-machine",
       "title": "Luma Dream Machine",
@@ -9209,5 +9236,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-10T02:57:57.563Z"
+  "lastUpdated": "2026-09-10T03:00:04.784Z"
 }
