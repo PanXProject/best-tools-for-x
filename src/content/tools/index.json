@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "whisk-ai",
+      "slug": "whisk-ai",
+      "title": "Whisk AI",
+      "description": "Create AI images from subject, scene, and style references",
+      "author": "trellis2",
+      "username": "trellis2",
+      "user_id": "ca4037c8-f55c-4bf5-9a82-5482a9aebd6c",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai",
+        "image-generation",
+        "image-editing"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-10T02:13:08.848Z",
+      "heroImage": "",
+      "toolUrl": "https://www.whisk-ai.co/"
+    },
+    {
       "id": "ai-for-database",
       "slug": "ai-for-database",
       "title": "AI for Database",
@@ -9076,5 +9102,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-09T07:33:13.470Z"
+  "lastUpdated": "2026-09-10T02:13:10.083Z"
 }
