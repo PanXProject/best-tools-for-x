@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "remove-bg",
+      "slug": "remove-bg",
+      "title": "Remove Bg",
+      "description": "AI background remover for clean transparent PNG cutouts",
+      "author": "trellis2",
+      "username": "trellis2",
+      "user_id": "ca4037c8-f55c-4bf5-9a82-5482a9aebd6c",
+      "categories": [
+        "Get & Keep Customers",
+        "Create & Build"
+      ],
+      "tags": [
+        "ai",
+        "background-removal",
+        "transparent-png",
+        "photo-editing",
+        "generative-ai"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-10T04:19:33.649Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1789013967/bl8kry0jqczrd5fkzimw.png",
+      "toolUrl": "https://remove-bg.dev/"
+    },
+    {
       "id": "upscale-image",
       "slug": "upscale-image",
       "title": "Upscale Image",
@@ -9294,5 +9323,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-10T04:19:14.523Z"
+  "lastUpdated": "2026-09-10T04:19:34.653Z"
 }
