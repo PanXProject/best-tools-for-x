@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "upscale-image",
+      "slug": "upscale-image",
+      "title": "Upscale Image",
+      "description": "AI image upscaler to enhance and unblur photos online",
+      "author": "trellis2",
+      "username": "trellis2",
+      "user_id": "ca4037c8-f55c-4bf5-9a82-5482a9aebd6c",
+      "categories": [
+        "Get & Keep Customers",
+        "Create & Build"
+      ],
+      "tags": [
+        "ai",
+        "upscaler",
+        "image-enhancement",
+        "photo-editing",
+        "generative-ai"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-10T04:19:13.257Z",
+      "heroImage": "",
+      "toolUrl": "https://upscaleimg.org/"
+    },
+    {
       "id": "flow-music",
       "slug": "flow-music",
       "title": "Flow Music",
@@ -9265,5 +9294,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-10T03:01:07.953Z"
+  "lastUpdated": "2026-09-10T04:19:14.523Z"
 }
