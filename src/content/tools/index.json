@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "video-background-remover",
+      "slug": "video-background-remover",
+      "title": "Video Background Remover",
+      "description": "Remove video backgrounds online without a green screen",
+      "author": "trellis2",
+      "username": "trellis2",
+      "user_id": "ca4037c8-f55c-4bf5-9a82-5482a9aebd6c",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai",
+        "video-editing",
+        "background-removal"
+      ],
+      "pricing": {
+        "model": "subscription"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-10T02:26:13.884Z",
+      "heroImage": "",
+      "toolUrl": "https://videobgremover.org/"
+    },
+    {
       "id": "dola-ai-video-generator",
       "slug": "dola-ai-video-generator",
       "title": "Dola AI Video Generator",
@@ -9128,5 +9154,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-10T02:24:57.604Z"
+  "lastUpdated": "2026-09-10T02:26:14.787Z"
 }
