@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "upscayl-ai-image-upscaler",
+      "slug": "upscayl-ai-image-upscaler",
+      "title": "Upscayl AI Image Upscaler",
+      "description": "Free AI image upscaler to 4K online",
+      "author": "trellis2",
+      "username": "trellis2",
+      "user_id": "ca4037c8-f55c-4bf5-9a82-5482a9aebd6c",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai",
+        "upscaler",
+        "photo",
+        "4k"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-10T02:38:54.354Z",
+      "heroImage": "",
+      "toolUrl": "https://upscayl.app/"
+    },
+    {
       "id": "video-background-remover",
       "slug": "video-background-remover",
       "title": "Video Background Remover",
@@ -9154,5 +9181,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-10T02:26:14.787Z"
+  "lastUpdated": "2026-09-10T02:38:55.386Z"
 }
