@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "luma-dream-machine",
+      "slug": "luma-dream-machine",
+      "title": "Luma Dream Machine",
+      "description": "Create cinematic AI videos from text prompts or images",
+      "author": "trellis2",
+      "username": "trellis2",
+      "user_id": "ca4037c8-f55c-4bf5-9a82-5482a9aebd6c",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai-video",
+        "text-to-video",
+        "image-to-video",
+        "video-generator",
+        "creative-tools"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-10T02:57:56.606Z",
+      "heroImage": "",
+      "toolUrl": "https://lumadreammachine.app/"
+    },
+    {
       "id": "upscayl-ai-image-upscaler",
       "slug": "upscayl-ai-image-upscaler",
       "title": "Upscayl AI Image Upscaler",
@@ -9181,5 +9209,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-10T02:38:55.386Z"
+  "lastUpdated": "2026-09-10T02:57:57.563Z"
 }
