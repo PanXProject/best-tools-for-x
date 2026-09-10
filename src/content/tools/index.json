@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "flow-music",
+      "slug": "flow-music",
+      "title": "Flow Music",
+      "description": "AI music generator: text or lyrics to full songs",
+      "author": "trellis2",
+      "username": "trellis2",
+      "user_id": "ca4037c8-f55c-4bf5-9a82-5482a9aebd6c",
+      "categories": [
+        "Get & Keep Customers",
+        "Create & Build"
+      ],
+      "tags": [
+        "ai",
+        "music",
+        "text-to-song",
+        "generative-ai",
+        "audio"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-10T03:01:06.947Z",
+      "heroImage": "",
+      "toolUrl": "https://flow-music.app/"
+    },
+    {
       "id": "flow-ai-video",
       "slug": "flow-ai-video",
       "title": "Flow AI Video",
@@ -9236,5 +9265,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-10T03:00:04.784Z"
+  "lastUpdated": "2026-09-10T03:01:07.953Z"
 }
