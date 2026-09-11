@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "valrequest",
+      "slug": "valrequest",
+      "title": "ValRequest",
+      "description": "Turn your feelings into words",
+      "author": "curateclick",
+      "username": "curateclick",
+      "user_id": "85983173-a70e-41ad-b12d-df21cc616513",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai-writing",
+        "greeting-generator",
+        "love-message"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-11T03:08:26.796Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1789095936/zhx1hmwmfrhs0w94qme0.jpg",
+      "toolUrl": "https://valrequest.net/"
+    },
+    {
       "id": "codex-reset-radar",
       "slug": "codex-reset-radar",
       "title": "Codex Reset Radar",
@@ -9377,5 +9403,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-11T02:53:25.861Z"
+  "lastUpdated": "2026-09-11T03:08:27.964Z"
 }
