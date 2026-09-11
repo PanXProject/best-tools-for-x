@@ -1,6 +1,31 @@
 {
   "tools": [
     {
+      "id": "love-meter",
+      "slug": "love-meter",
+      "title": "Love Meter",
+      "description": "Free love tests and playful compatibility readings",
+      "author": "curateclick",
+      "username": "curateclick",
+      "user_id": "85983173-a70e-41ad-b12d-df21cc616513",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "love-test",
+        "name-match"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-11T03:13:28.615Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1789096339/i0ry6accj0uagtq3084v.jpg",
+      "toolUrl": "https://lovemeter.xyz/"
+    },
+    {
       "id": "qwq-ai",
       "slug": "qwq-ai",
       "title": "QwQ AI",
@@ -9429,5 +9454,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-11T03:11:41.101Z"
+  "lastUpdated": "2026-09-11T03:13:29.741Z"
 }
