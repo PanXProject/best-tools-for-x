@@ -1,6 +1,31 @@
 {
   "tools": [
     {
+      "id": "magic-layers",
+      "slug": "magic-layers",
+      "title": "Magic Layers",
+      "description": "Turn any flat image into editable named layers",
+      "author": "curateclick",
+      "username": "curateclick",
+      "user_id": "85983173-a70e-41ad-b12d-df21cc616513",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "image-layers",
+        "ai-image-editing"
+      ],
+      "pricing": {
+        "model": "one-time-payment"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-11T03:18:16.532Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1789096609/avplbmudznbqpsimdzox.jpg",
+      "toolUrl": "https://magiclayers.net/"
+    },
+    {
       "id": "psl-rating",
       "slug": "psl-rating",
       "title": "PSL Rating",
@@ -9481,5 +9506,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-11T03:15:43.318Z"
+  "lastUpdated": "2026-09-11T03:18:17.661Z"
 }
