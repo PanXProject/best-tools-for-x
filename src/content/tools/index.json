@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "codex-reset-radar",
+      "slug": "codex-reset-radar",
+      "title": "Codex Reset Radar",
+      "description": "Track Codex reset windows and usage history",
+      "author": "Alex Morgan",
+      "username": "physicsai",
+      "user_id": "93079244-ad9d-418d-860e-e18d8cb66462",
+      "categories": [
+        "Create & Build",
+        "Understand & Improve"
+      ],
+      "tags": [
+        "ai",
+        "coding",
+        "productivity",
+        "usage-tracking",
+        "developer-tools"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-11T02:53:24.719Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1789094887/o77xbrighbciz3fj5edz.png",
+      "toolUrl": "https://quickresetai.online/"
+    },
+    {
       "id": "loretypes",
       "slug": "loretypes",
       "title": "Loretypes",
@@ -9348,5 +9377,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-10T11:14:16.734Z"
+  "lastUpdated": "2026-09-11T02:53:25.861Z"
 }
