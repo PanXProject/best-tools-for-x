@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "psl-rating",
+      "slug": "psl-rating",
+      "title": "PSL Rating",
+      "description": "AI facial attractiveness score on the PSL scale",
+      "author": "curateclick",
+      "username": "curateclick",
+      "user_id": "85983173-a70e-41ad-b12d-df21cc616513",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "face-rating",
+        "psl-score",
+        "attractiveness",
+        "facial-analysis"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-11T03:15:42.275Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1789096447/j8zxdzxqv2qyr0jp9uwl.jpg",
+      "toolUrl": "https://pslscale.com/"
+    },
+    {
       "id": "love-meter",
       "slug": "love-meter",
       "title": "Love Meter",
@@ -9454,5 +9481,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-11T03:13:29.741Z"
+  "lastUpdated": "2026-09-11T03:15:43.318Z"
 }
