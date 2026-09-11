@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "qwq-ai",
+      "slug": "qwq-ai",
+      "title": "QwQ AI",
+      "description": "Ask anything. QwQ AI searches the web.",
+      "author": "curateclick",
+      "username": "curateclick",
+      "user_id": "85983173-a70e-41ad-b12d-df21cc616513",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "ai-qa",
+        "real-time-search",
+        "ai-assistant"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-11T03:11:40.140Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1789096204/vyyfwliankkrpnx4gphw.jpg",
+      "toolUrl": "https://qwq32.com/"
+    },
+    {
       "id": "valrequest",
       "slug": "valrequest",
       "title": "ValRequest",
@@ -9403,5 +9429,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-11T03:08:27.964Z"
+  "lastUpdated": "2026-09-11T03:11:41.101Z"
 }
