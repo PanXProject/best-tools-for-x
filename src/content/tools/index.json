@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "icyzip",
+      "slug": "icyzip",
+      "title": "IcyZip",
+      "description": "Encrypted browser-to-browser text and single-file transfer",
+      "author": "IcyZip",
+      "username": "icyzip",
+      "user_id": "281665b2-df0b-4978-a08d-287852c75012",
+      "categories": [
+        "Connect & Collaborate",
+        "Secure & Deploy"
+      ],
+      "tags": [
+        "file-transfer",
+        "encrypted-sharing",
+        "browser-app",
+        "no-signup",
+        "cross-device"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-12T07:47:35.534Z",
+      "heroImage": "",
+      "toolUrl": "https://icyzip.com/"
+    },
+    {
       "id": "magic-layers",
       "slug": "magic-layers",
       "title": "Magic Layers",
@@ -9506,5 +9535,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-11T03:18:17.661Z"
+  "lastUpdated": "2026-09-12T07:47:36.627Z"
 }
