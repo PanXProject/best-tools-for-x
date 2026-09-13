@@ -1,6 +1,31 @@
 {
   "tools": [
     {
+      "id": "personwise",
+      "slug": "personwise",
+      "title": "PersonWise",
+      "description": "Turn your slides into AI courses that present themselves.",
+      "author": "PersonWise",
+      "username": "personwise",
+      "user_id": "0c58c622-aa98-474e-89bd-9b32504ef494",
+      "categories": [
+        "Create & Build",
+        "Manage People"
+      ],
+      "tags": [
+        "education"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-13T10:44:48.246Z",
+      "heroImage": "",
+      "toolUrl": "https://personwise.ai/"
+    },
+    {
       "id": "raphael-ai",
       "slug": "raphael-ai",
       "title": "Raphael AI",
@@ -9562,5 +9587,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-13T01:07:15.706Z"
+  "lastUpdated": "2026-09-13T10:44:49.250Z"
 }
