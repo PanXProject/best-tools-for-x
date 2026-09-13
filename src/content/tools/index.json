@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "raphael-ai",
+      "slug": "raphael-ai",
+      "title": "Raphael AI",
+      "description": "Free AI image generator",
+      "author": "Raphael AI",
+      "username": "raphaelai",
+      "user_id": "7d2c2a2b-bb34-4954-8fad-2c490bf354d2",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "image",
+        "ai-image-generator",
+        "design",
+        "creative"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-13T01:07:14.647Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1789261464/f5xm5nlubepvvjolsa26.png",
+      "toolUrl": "https://raphael.app/"
+    },
+    {
       "id": "icyzip",
       "slug": "icyzip",
       "title": "IcyZip",
@@ -9535,5 +9562,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-12T07:47:36.627Z"
+  "lastUpdated": "2026-09-13T01:07:15.706Z"
 }
