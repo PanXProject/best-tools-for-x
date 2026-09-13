@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "ai-cv-coach",
+      "slug": "ai-cv-coach",
+      "title": "AI CV Coach",
+      "description": "Write a 6-figure CV - Personalzie CV per job with your AI Coach",
+      "author": "ALIEN",
+      "username": "alien-me",
+      "user_id": "d7fd4b23-c0f8-4eb2-90bc-fe10f268630b",
+      "categories": [
+        "Create & Build",
+        "Understand & Improve"
+      ],
+      "tags": [
+        "cv"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app"
+      ],
+      "publishDate": "2026-09-13T15:06:26.993Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1789311644/tb76gbq2nhnmzyyhb45o.png",
+      "toolUrl": "https://alien-me.com/cv",
+      "dealCode": "TOOLSEEK",
+      "dealText": "25% discount on any plan"
+    },
+    {
       "id": "personwise",
       "slug": "personwise",
       "title": "PersonWise",
@@ -9587,5 +9615,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-13T10:44:49.250Z"
+  "lastUpdated": "2026-09-13T15:06:28.533Z"
 }
