@@ -28,8 +28,10 @@
         "تطبيق ويب"
       ],
       "publishDate": "2026-09-14T14:02:16.413Z",
-      "heroImage": "",
-      "toolUrl": "https://hamesh.fandees.tech/"
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1789394632/yzrgui2pqel8ohm1bns5.png",
+      "toolUrl": "https://hamesh.fandees.tech/",
+      "featured": false,
+      "featuredPosition": null
     },
     {
       "id": "social-browser",
@@ -5561,5 +5563,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-14T14:02:17.987Z"
+  "lastUpdated": "2026-09-14T14:04:02.528Z"
 }
