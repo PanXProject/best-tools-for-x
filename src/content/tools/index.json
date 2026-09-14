@@ -1,6 +1,36 @@
 {
   "tools": [
     {
+      "id": "freighttotals",
+      "slug": "freighttotals",
+      "title": "FreightTotals",
+      "description": "Free freight calculators and source-backed company research",
+      "author": "FreightTotals Team",
+      "username": "freighttotals",
+      "user_id": "6da1f52b-bc12-4f3a-888b-c1e14486b564",
+      "categories": [
+        "Run Business",
+        "Manage Money",
+        "Understand & Improve"
+      ],
+      "tags": [
+        "freight",
+        "logistics",
+        "shipping",
+        "calculators",
+        "directory"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-14T13:59:45.378Z",
+      "heroImage": "",
+      "toolUrl": "https://freighttotals.com/"
+    },
+    {
       "id": "seedance-2-5-ai",
       "slug": "seedance-2-5-ai",
       "title": "Seedance 2.5 AI",
@@ -9640,5 +9670,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-14T07:57:08.802Z"
+  "lastUpdated": "2026-09-14T13:59:46.609Z"
 }
