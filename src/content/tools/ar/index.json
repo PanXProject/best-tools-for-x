@@ -1,6 +1,37 @@
 {
   "tools": [
     {
+      "id": "hamesh",
+      "slug": "hamesh",
+      "title": "هامش",
+      "title_en": "Hamesh",
+      "description": "اترك أفكارك حيثُما أنارت",
+      "author": "Mohammed Fandees",
+      "username": "mohammed-fandees",
+      "user_id": "39bebf2a-fd9e-4d4b-a500-06074592a78b",
+      "categories": [
+        "جذب العملاء والاحتفاظ بهم",
+        "إدارة الأعمال",
+        "التواصل والتعاون"
+      ],
+      "tags": [
+        "إنتاجية",
+        "أفكار",
+        "تعاون",
+        "ملحوظات",
+        "مكتبة"
+      ],
+      "pricing": {
+        "model": "مجاني"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2026-09-14T14:02:16.413Z",
+      "heroImage": "",
+      "toolUrl": "https://hamesh.fandees.tech/"
+    },
+    {
       "id": "social-browser",
       "slug": "social-browser",
       "title": "متصفح سوشيال براوزر",
@@ -5530,5 +5561,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-08-30T01:24:21.120Z"
+  "lastUpdated": "2026-09-14T14:02:17.987Z"
 }
