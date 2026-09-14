@@ -1,6 +1,31 @@
 {
   "tools": [
     {
+      "id": "seedance-2-5-ai",
+      "slug": "seedance-2-5-ai",
+      "title": "Seedance 2.5 AI",
+      "description": "Seedance 2.5 creates 30s native 4K videos with multi-material upload a",
+      "author": "Humo AI",
+      "username": "poppy",
+      "user_id": "4809bcea-d0f2-4f2f-b55a-581f988ffa62",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "pricing": {
+        "model": "one-time-payment"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app"
+      ],
+      "publishDate": "2026-09-14T07:57:07.746Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1789372554/hrfz2r2vryuiqxix31gs.png",
+      "toolUrl": "https://www.pwz.com/models/seedance-2-5"
+    },
+    {
       "id": "ai-cv-coach",
       "slug": "ai-cv-coach",
       "title": "AI CV Coach",
@@ -9615,5 +9640,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-13T15:06:28.533Z"
+  "lastUpdated": "2026-09-14T07:57:08.802Z"
 }
