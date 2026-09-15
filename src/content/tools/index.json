@@ -1,6 +1,31 @@
 {
   "tools": [
     {
+      "id": "gpt-image-2-5",
+      "slug": "gpt-image-2-5",
+      "title": "GPT Image 2.5",
+      "description": "GPT Image 2.5 AI image generator",
+      "author": "Humo AI",
+      "username": "poppy",
+      "user_id": "4809bcea-d0f2-4f2f-b55a-581f988ffa62",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "pricing": {
+        "model": "one-time-payment"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app"
+      ],
+      "publishDate": "2026-09-15T02:10:18.791Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1789438131/q00hpxqrdvv03cfdzjkh.png",
+      "toolUrl": "https://gptimage2-5ai.com/"
+    },
+    {
       "id": "gpt-image-2-5-ai",
       "slug": "gpt-image-2-5-ai",
       "title": "GPT Image 2.5 AI",
@@ -9724,5 +9749,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-15T02:10:07.601Z"
+  "lastUpdated": "2026-09-15T02:10:19.961Z"
 }
