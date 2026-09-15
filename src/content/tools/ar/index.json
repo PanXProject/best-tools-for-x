@@ -1,6 +1,38 @@
 {
   "tools": [
     {
+      "id": "vip-temp-mails",
+      "slug": "vip-temp-mails",
+      "title": "VIP Temp Mails",
+      "title_en": "VIP Temp Mails",
+      "description": "بريد مؤقت سريع لحماية بريدك الحقيقي وخصوصيتك",
+      "author": "Amr Barakat",
+      "username": "absunstar",
+      "user_id": "fc5fbfbc-6aec-4a32-826e-4b85bde1484f",
+      "categories": [
+        "إدارة الأعمال",
+        "التواصل والتعاون",
+        "الأمان والنشر"
+      ],
+      "tags": [
+        "بريد-مؤقت",
+        "بريد-إلكتروني",
+        "خصوصية",
+        "حماية-البريد",
+        "مكافحة-السبام"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب",
+        "تطبيق جوال"
+      ],
+      "publishDate": "2026-09-15T19:11:51.829Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1789499431/upzifi2vn0ke76id45lz.png",
+      "toolUrl": "https://emails.egytag.com/"
+    },
+    {
       "id": "revoplyai",
       "slug": "revoplyai",
       "title": "ريفوبلاي",
@@ -5596,5 +5628,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-14T19:48:47.338Z"
+  "lastUpdated": "2026-09-15T19:11:52.929Z"
 }
