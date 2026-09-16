@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "luma-dream-machine-lumadreammachine-app",
+      "slug": "luma-dream-machine-lumadreammachine-app",
+      "title": "Luma Dream Machine (lumadreammachine.app)",
+      "description": "Turn text and images into AI video clips",
+      "author": "xzmowei",
+      "username": "xzmowei",
+      "user_id": "df59840d-ef90-4a31-bc92-2873e3547f70",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai",
+        "video-generation",
+        "text-to-video",
+        "image-to-video"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app"
+      ],
+      "publishDate": "2026-09-16T13:16:04.216Z",
+      "heroImage": "",
+      "toolUrl": "https://lumadreammachine.app/"
+    },
+    {
       "id": "dola-ai",
       "slug": "dola-ai",
       "title": "Dola AI",
@@ -9801,5 +9829,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-16T13:14:26.662Z"
+  "lastUpdated": "2026-09-16T13:16:05.690Z"
 }
