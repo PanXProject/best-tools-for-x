@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "video-background-remover-videobgremover-org",
+      "slug": "video-background-remover-videobgremover-org",
+      "title": "Video Background Remover (videobgremover.org)",
+      "description": "Remove video backgrounds without a green screen",
+      "author": "xzmowei",
+      "username": "xzmowei",
+      "user_id": "df59840d-ef90-4a31-bc92-2873e3547f70",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai",
+        "video-editing",
+        "background-removal"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app",
+        "desktop-app"
+      ],
+      "publishDate": "2026-09-16T13:21:32.950Z",
+      "heroImage": "",
+      "toolUrl": "https://videobgremover.org/"
+    },
+    {
       "id": "whisk-ai-whisk-ai-co",
       "slug": "whisk-ai-whisk-ai-co",
       "title": "Whisk AI (whisk-ai.co)",
@@ -9885,5 +9913,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-16T13:19:51.171Z"
+  "lastUpdated": "2026-09-16T13:21:33.933Z"
 }
