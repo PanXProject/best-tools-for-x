@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "upscale-image-upscaleimg-org",
+      "slug": "upscale-image-upscaleimg-org",
+      "title": "Upscale Image (upscaleimg.org)",
+      "description": "Upscale and enhance images online",
+      "author": "xzmowei",
+      "username": "xzmowei",
+      "user_id": "df59840d-ef90-4a31-bc92-2873e3547f70",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai",
+        "image-upscaling",
+        "photo-enhancement",
+        "batch-processing"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "mobile-app",
+        "desktop-app"
+      ],
+      "publishDate": "2026-09-16T13:18:17.871Z",
+      "heroImage": "",
+      "toolUrl": "https://upscaleimg.org/"
+    },
+    {
       "id": "luma-dream-machine-lumadreammachine-app",
       "slug": "luma-dream-machine-lumadreammachine-app",
       "title": "Luma Dream Machine (lumadreammachine.app)",
@@ -9829,5 +9857,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-16T13:16:05.690Z"
+  "lastUpdated": "2026-09-16T13:18:19.130Z"
 }
