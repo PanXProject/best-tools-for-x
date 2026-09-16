@@ -1,6 +1,30 @@
 {
   "tools": [
     {
+      "id": "pixwit",
+      "slug": "pixwit",
+      "title": "Pixwit",
+      "description": "Invent Reality. Pixwit is an all-in-one AI video studio: text-to-video",
+      "author": "Pixwit",
+      "username": "maysunyoung",
+      "user_id": "0ad2ca64-346a-4c61-b9ee-2d7dae6c35fa",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "video-generator"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-16T04:01:59.719Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1789530994/pmjvwpd43uwjykiahnut.jpg",
+      "toolUrl": "https://pixwit.ai/"
+    },
+    {
       "id": "gpt-image-2-5",
       "slug": "gpt-image-2-5",
       "title": "GPT Image 2.5",
@@ -9749,5 +9773,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-15T02:10:19.961Z"
+  "lastUpdated": "2026-09-16T04:02:00.705Z"
 }
