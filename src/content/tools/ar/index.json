@@ -1,6 +1,38 @@
 {
   "tools": [
     {
+      "id": "snapenv",
+      "slug": "snapenv",
+      "title": "سناب إنف",
+      "title_en": "snapenv",
+      "description": "إدارة متغيرات البيئة والأسرار البرمجية بأعلى معايير الأمان",
+      "author": "Mohammed Tayeh",
+      "username": "tayeh",
+      "user_id": "375dc9ab-2744-49e2-a411-b654163a7247",
+      "categories": [
+        "إدارة الأفراد",
+        "الأمان والنشر"
+      ],
+      "tags": [
+        "انتاجية",
+        "devops",
+        "secrets"
+      ],
+      "pricing": {
+        "model": "مجاني"
+      },
+      "softwareTypes": [
+        "تطبيق ويب",
+        "برنامج مساعد",
+        "واجهة سطر الأوامر"
+      ],
+      "publishDate": "2026-09-17T10:22:06.134Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1789640231/cnc6jvskq9ladlrajkwu.jpg",
+      "toolUrl": "https://snapenv.io/",
+      "dealCode": "HELLOSNAP",
+      "dealText": "خصم 100% لمدة 3 شهور على الخطة PRO"
+    },
+    {
       "id": "vip-temp-mails",
       "slug": "vip-temp-mails",
       "title": "VIP Temp Mails",
@@ -5628,5 +5660,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-15T19:11:52.929Z"
+  "lastUpdated": "2026-09-17T10:22:07.193Z"
 }
