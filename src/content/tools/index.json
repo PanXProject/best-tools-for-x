@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "kadi",
+      "slug": "kadi",
+      "title": "Kadi",
+      "description": "Your links, your brand, zero noise. One page for your links",
+      "author": "Abhishek C",
+      "username": "abhishekcnaik95",
+      "user_id": "8b9b118a-d641-44dc-9999-dff6bdef1d1c",
+      "categories": [
+        "Get & Keep Customers",
+        "Understand & Improve",
+        "Connect & Collaborate"
+      ],
+      "tags": [
+        "link-in-bio",
+        "link-sharing",
+        "link-management"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-17T22:41:42.647Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1789684508/oeqswnoooxfaeguzkgta.jpg",
+      "toolUrl": "https://go.kadi.bio/"
+    },
+    {
       "id": "video-to-video-ai",
       "slug": "video-to-video-ai",
       "title": "Video to Video AI",
@@ -9967,5 +9995,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-17T08:30:42.622Z"
+  "lastUpdated": "2026-09-17T22:41:43.693Z"
 }
