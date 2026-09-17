@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "convertor-macha",
+      "slug": "convertor-macha",
+      "title": "Convertor Macha",
+      "description": "Free PDF, image & file tools. No signup, no watermark.",
+      "author": "Abhishek C",
+      "username": "abhishekcnaik95",
+      "user_id": "8b9b118a-d641-44dc-9999-dff6bdef1d1c",
+      "categories": [
+        "Get & Keep Customers",
+        "Manage Money",
+        "Understand & Improve"
+      ],
+      "tags": [
+        "pdf-converter",
+        "pdf-tools",
+        "image-converter",
+        "online-tools"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-17T22:47:13.251Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1789685017/vt4dogyrnzkoxurkdxu1.png",
+      "toolUrl": "https://convertormacha.com/"
+    },
+    {
       "id": "kadi",
       "slug": "kadi",
       "title": "Kadi",
@@ -9995,5 +10024,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-17T22:41:43.693Z"
+  "lastUpdated": "2026-09-17T22:47:14.335Z"
 }
