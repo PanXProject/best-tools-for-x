@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "video-to-video-ai",
+      "slug": "video-to-video-ai",
+      "title": "Video to Video AI",
+      "description": "Transform short clips into new AI videos with prompts",
+      "author": "Alex Morgan",
+      "username": "physicsai",
+      "user_id": "93079244-ad9d-418d-860e-e18d8cb66462",
+      "categories": [
+        "Create & Build",
+        "Understand & Improve"
+      ],
+      "tags": [
+        "ai-video-tools",
+        "video-editing"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-17T08:30:41.513Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1789633809/a279e4oowowbymakvkor.jpg",
+      "toolUrl": "https://videotovideoai.online/"
+    },
+    {
       "id": "video-watermark-remover",
       "slug": "video-watermark-remover",
       "title": "Video Watermark Remover",
@@ -9941,5 +9967,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-16T13:22:47.208Z"
+  "lastUpdated": "2026-09-17T08:30:42.622Z"
 }
