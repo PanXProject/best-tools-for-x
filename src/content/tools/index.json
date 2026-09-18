@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "ai-image-extender",
+      "slug": "ai-image-extender",
+      "title": "AI Image Extender",
+      "description": "Extend photos beyond their borders with AI",
+      "author": "xzmowei",
+      "username": "xzmowei",
+      "user_id": "df59840d-ef90-4a31-bc92-2873e3547f70",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai",
+        "image-editing",
+        "outpainting",
+        "photo-editing",
+        "design"
+      ],
+      "pricing": {
+        "model": "free-trial"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-18T08:57:16.936Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1789721706/qhzodgkd58zg1xeso1hr.png",
+      "toolUrl": "https://www.ai-image-extender.app/"
+    },
+    {
       "id": "convertor-macha",
       "slug": "convertor-macha",
       "title": "Convertor Macha",
@@ -10024,5 +10052,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-17T22:47:14.335Z"
+  "lastUpdated": "2026-09-18T08:57:18.235Z"
 }
