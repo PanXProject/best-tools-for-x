@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "ai-image-blender",
+      "slug": "ai-image-blender",
+      "title": "AI Image Blender",
+      "description": "Blend two to five photos into one image with AI",
+      "author": "xzmowei",
+      "username": "xzmowei",
+      "user_id": "df59840d-ef90-4a31-bc92-2873e3547f70",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai",
+        "image-editing",
+        "image-blending",
+        "photo-editing",
+        "creative-tools"
+      ],
+      "pricing": {
+        "model": "free-trial"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-18T09:00:10.749Z",
+      "heroImage": "",
+      "toolUrl": "https://www.imageblender.app/"
+    },
+    {
       "id": "ai-image-extender",
       "slug": "ai-image-extender",
       "title": "AI Image Extender",
@@ -10052,5 +10080,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-18T08:57:18.235Z"
+  "lastUpdated": "2026-09-18T09:00:11.857Z"
 }
