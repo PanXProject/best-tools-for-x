@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "wavexml",
+      "slug": "wavexml",
+      "title": "WaveXML",
+      "description": "Auto-sync dual-system audio to cameras via XML for Resolve, Premiere, ",
+      "author": "WaveXML",
+      "username": "wavexml",
+      "user_id": "44e05dfd-95f4-4daa-beae-d127faf14da4",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "video",
+        "audio",
+        "productivity"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "desktop-app"
+      ],
+      "publishDate": "2026-09-19T13:18:19.974Z",
+      "heroImage": "",
+      "toolUrl": "https://wavexml.com/"
+    },
+    {
       "id": "ai-image-blender",
       "slug": "ai-image-blender",
       "title": "AI Image Blender",
@@ -10080,5 +10106,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-18T09:00:11.857Z"
+  "lastUpdated": "2026-09-19T13:18:20.998Z"
 }
