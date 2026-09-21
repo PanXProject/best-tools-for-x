@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "gpt-image-2-5-studio",
+      "slug": "gpt-image-2-5-studio",
+      "title": "GPT Image 2.5 Studio",
+      "description": "Generate and edit AI images with simple text prompts",
+      "author": "Lunabella",
+      "username": "lunabella",
+      "user_id": "7ce31af0-1e0e-4421-b53f-bd893d8f32a6",
+      "categories": [
+        "Get & Keep Customers",
+        "Create & Build"
+      ],
+      "tags": [
+        "ai-image-generator",
+        "ai-image-editor",
+        "text-to-image",
+        "image-editing",
+        "generative-ai"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-21T08:43:57.406Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1789979918/xlzrwlshcejgboapkmah.jpg",
+      "toolUrl": "https://gptimage-25.com/"
+    },
+    {
       "id": "nano-banana",
       "slug": "nano-banana",
       "title": "Nano Banana",
@@ -10188,5 +10217,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-21T08:25:57.389Z"
+  "lastUpdated": "2026-09-21T08:43:58.525Z"
 }
