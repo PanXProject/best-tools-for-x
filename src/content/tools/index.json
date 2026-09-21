@@ -1,6 +1,30 @@
 {
   "tools": [
     {
+      "id": "nano-banana",
+      "slug": "nano-banana",
+      "title": "Nano Banana",
+      "description": "Edit photos and generate images with AI text prompts",
+      "author": "xzmowei",
+      "username": "xzmowei",
+      "user_id": "df59840d-ef90-4a31-bc92-2873e3547f70",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-21T08:25:56.140Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1789979116/enc21exskrqxaxzdde6d.png",
+      "toolUrl": "https://www.nanobanana-ai.org/"
+    },
+    {
       "id": "ai-anime-generator",
       "slug": "ai-anime-generator",
       "title": "AI Anime Generator",
@@ -10164,5 +10188,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-21T02:45:34.675Z"
+  "lastUpdated": "2026-09-21T08:25:57.389Z"
 }
