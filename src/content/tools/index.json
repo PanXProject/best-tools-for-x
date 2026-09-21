@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "ai-anime-generator",
+      "slug": "ai-anime-generator",
+      "title": "AI Anime Generator",
+      "description": "Create consistent anime characters and scenes from text prompts",
+      "author": "Alex Morgan",
+      "username": "physicsai",
+      "user_id": "93079244-ad9d-418d-860e-e18d8cb66462",
+      "categories": [
+        "Create & Build",
+        "Understand & Improve"
+      ],
+      "tags": [
+        "ai",
+        "anime",
+        "image-generation",
+        "creative-tools",
+        "art"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-21T02:45:33.677Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1789958538/v9mngg3en3yua90ic082.png",
+      "toolUrl": "https://ai-anime.io/"
+    },
+    {
       "id": "faceless-reels-ai",
       "slug": "faceless-reels-ai",
       "title": "Faceless Reels AI",
@@ -10135,5 +10164,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-19T16:01:06.230Z"
+  "lastUpdated": "2026-09-21T02:45:34.675Z"
 }
