@@ -1,6 +1,30 @@
 {
   "tools": [
     {
+      "id": "nano-banana-3",
+      "slug": "nano-banana-3",
+      "title": "Nano Banana 3",
+      "description": "Generate and edit images with text prompts and references.",
+      "author": "xzmowei",
+      "username": "xzmowei",
+      "user_id": "df59840d-ef90-4a31-bc92-2873e3547f70",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-21T10:53:02.946Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1789987824/f0izxvtcbumtmxugiufz.png",
+      "toolUrl": "https://www.nano-banana-3.org/"
+    },
+    {
       "id": "gpt-image-2-5-studio",
       "slug": "gpt-image-2-5-studio",
       "title": "GPT Image 2.5 Studio",
@@ -10217,5 +10241,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-21T08:43:58.525Z"
+  "lastUpdated": "2026-09-21T10:53:03.979Z"
 }
