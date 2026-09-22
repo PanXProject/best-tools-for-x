@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "mangatranslate",
+      "slug": "mangatranslate",
+      "title": "مترجم مانجا بالذكاء الاصطناعي",
+      "title_en": "MangaTranslate",
+      "description": "قارئ مانجا يترجم الصفحات ويحررها للأفراد والاستوديوهات",
+      "author": "Ficory LLC",
+      "username": "mangatranslate",
+      "user_id": "8b2f7a88-4607-4332-bac7-365961dfd7fc",
+      "categories": [
+        "إنشاء و تطوير"
+      ],
+      "tags": [
+        "ai",
+        "translation",
+        "manga"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2026-09-22T15:58:16.922Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1790092561/nb6s0o4coc0ajp5k3ov5.png",
+      "toolUrl": "https://www.mangatranslate.com/ar/ai-manga-translator/"
+    },
+    {
       "id": "snapenv",
       "slug": "snapenv",
       "title": "سناب إنف",
@@ -5660,5 +5687,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-17T10:22:07.193Z"
+  "lastUpdated": "2026-09-22T15:58:18.193Z"
 }
