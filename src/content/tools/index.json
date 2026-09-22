@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "wan-2-6-wan30",
+      "slug": "wan-2-6-wan30",
+      "title": "Wan 2.6 - Wan30",
+      "description": "Explore multi-shot videos from text, images and reference clips",
+      "author": "heheda",
+      "username": "heheda",
+      "user_id": "aee0aab4-e71c-482a-994b-265bc9889b1c",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai",
+        "video-generation",
+        "multi-shot"
+      ],
+      "pricing": {
+        "model": "pay-per-use"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-22T06:38:53.161Z",
+      "heroImage": "",
+      "toolUrl": "https://wan30.net/wan-2-6"
+    },
+    {
       "id": "gpt-image-2-gptimage2-5ai",
       "slug": "gpt-image-2-gptimage2-5ai",
       "title": "GPT Image 2 - GPTImage2-5AI",
@@ -10267,5 +10293,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-22T06:37:25.513Z"
+  "lastUpdated": "2026-09-22T06:38:54.366Z"
 }
