@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "wan-2-5-wan30",
+      "slug": "wan-2-5-wan30",
+      "title": "Wan 2.5 - Wan30",
+      "description": "Create 5- or 10-second videos from prompts or images with audio",
+      "author": "heheda",
+      "username": "heheda",
+      "user_id": "aee0aab4-e71c-482a-994b-265bc9889b1c",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai",
+        "video-generation",
+        "image-to-video"
+      ],
+      "pricing": {
+        "model": "pay-per-use"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-22T06:40:18.983Z",
+      "heroImage": "",
+      "toolUrl": "https://wan30.net/wan-2-5"
+    },
+    {
       "id": "wan-2-6-wan30",
       "slug": "wan-2-6-wan30",
       "title": "Wan 2.6 - Wan30",
@@ -10293,5 +10319,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-22T06:38:54.366Z"
+  "lastUpdated": "2026-09-22T06:40:19.985Z"
 }
