@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "gpt-image-2-gptimage2-5ai",
+      "slug": "gpt-image-2-gptimage2-5ai",
+      "title": "GPT Image 2 - GPTImage2-5AI",
+      "description": "Create images from prompts and edit with reference photos",
+      "author": "heheda",
+      "username": "heheda",
+      "user_id": "aee0aab4-e71c-482a-994b-265bc9889b1c",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai",
+        "image-generation",
+        "photo-editing"
+      ],
+      "pricing": {
+        "model": "pay-per-use"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-22T06:37:24.501Z",
+      "heroImage": "",
+      "toolUrl": "https://gptimage2-5ai.com/gpt-image-2"
+    },
+    {
       "id": "nano-banana-3",
       "slug": "nano-banana-3",
       "title": "Nano Banana 3",
@@ -10241,5 +10267,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-21T10:53:03.979Z"
+  "lastUpdated": "2026-09-22T06:37:25.513Z"
 }
