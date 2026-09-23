@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "yue2-ai-music-generator",
+      "slug": "yue2-ai-music-generator",
+      "title": "YuE2 AI Music Generator",
+      "description": "Turn lyrics and ideas into complete AI songs with vocals",
+      "author": "Lunabella",
+      "username": "lunabella",
+      "user_id": "7ce31af0-1e0e-4421-b53f-bd893d8f32a6",
+      "categories": [
+        "Create & Build",
+        "Understand & Improve"
+      ],
+      "tags": [
+        "ai-music",
+        "music-generation",
+        "songwriting",
+        "ai-vocals",
+        "audio"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-23T09:16:34.246Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1790154715/uqm1cjvxs1arx9fpqdti.png",
+      "toolUrl": "https://yue2ai.app/"
+    },
+    {
       "id": "wan-2-7-wan30",
       "slug": "wan-2-7-wan30",
       "title": "Wan 2.7 - Wan30",
@@ -10345,5 +10374,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-22T06:41:55.025Z"
+  "lastUpdated": "2026-09-23T09:16:35.838Z"
 }
