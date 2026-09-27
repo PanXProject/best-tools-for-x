@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "motion-control-ai",
+      "slug": "motion-control-ai",
+      "title": "Motion Control AI",
+      "description": "Create consistent character videos with motion references",
+      "author": "Alex Morgan",
+      "username": "physicsai",
+      "user_id": "93079244-ad9d-418d-860e-e18d8cb66462",
+      "categories": [
+        "Create & Build",
+        "Understand & Improve"
+      ],
+      "tags": [
+        "ai-video",
+        "motion-control",
+        "character-animation",
+        "video-generator",
+        "creator-tools"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-27T10:28:33.009Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1790504831/g6hbd76kaeicmevmflkv.png",
+      "toolUrl": "https://motioncontrolai.online/"
+    },
+    {
       "id": "cuta",
       "slug": "cuta",
       "title": "Cuta",
@@ -10402,5 +10431,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-23T17:00:09.732Z"
+  "lastUpdated": "2026-09-27T10:28:34.236Z"
 }
