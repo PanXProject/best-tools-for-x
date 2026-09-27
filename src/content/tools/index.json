@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "roomdesigngpt",
+      "slug": "roomdesigngpt",
+      "title": "RoomDesignGPT",
+      "description": "AI-powered room redesign from a single photo",
+      "author": "Shakoor Baba",
+      "username": "shakoorbaba",
+      "user_id": "103bb299-b0ba-46c8-8a4b-5c056897d8e6",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai-design",
+        "interior-design",
+        "room-design"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-27T15:38:13.725Z",
+      "heroImage": "",
+      "toolUrl": "https://roomdesigngpt.ai/"
+    },
+    {
       "id": "motion-control-ai",
       "slug": "motion-control-ai",
       "title": "Motion Control AI",
@@ -10431,5 +10457,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-27T10:28:34.236Z"
+  "lastUpdated": "2026-09-27T15:38:14.791Z"
 }
