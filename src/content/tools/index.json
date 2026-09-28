@@ -1,6 +1,30 @@
 {
   "tools": [
     {
+      "id": "gpt-image-2-5-image-editor",
+      "slug": "gpt-image-2-5-image-editor",
+      "title": "GPT Image 2.5 image editor",
+      "description": "GPT Image 2.5 AI Image Generator",
+      "author": "Humo AI",
+      "username": "poppy",
+      "user_id": "4809bcea-d0f2-4f2f-b55a-581f988ffa62",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "i-image-editor"
+      ],
+      "pricing": {
+        "model": "one-time-payment"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-28T07:07:06.084Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1790579185/nmu1rl7relvwebm8ivcc.png",
+      "toolUrl": "https://gptimage2-5.io/"
+    },
+    {
       "id": "doujin-translator",
       "slug": "doujin-translator",
       "title": "Doujin Translator",
@@ -10571,5 +10595,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-28T06:45:35.760Z"
+  "lastUpdated": "2026-09-28T07:07:07.293Z"
 }
