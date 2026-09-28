@@ -4,7 +4,7 @@
       "id": "blootrue",
       "slug": "blootrue",
       "title": "BlooTrue",
-      "description": "No-code website widgets, starting with review feeds",
+      "description": "Free review widgets for any website, no code needed",
       "author": "Mike Ragimov",
       "username": "blootrue",
       "user_id": "39c44115-d352-4e5d-9798-470174671e69",
@@ -27,7 +27,9 @@
       ],
       "publishDate": "2026-09-28T18:01:10.428Z",
       "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1790618363/muwjsjey796xznj8upf1.jpg",
-      "toolUrl": "https://www.blootrue.com/"
+      "toolUrl": "https://www.blootrue.com/",
+      "featured": false,
+      "featuredPosition": null
     },
     {
       "id": "manhwa-translator",
@@ -10702,5 +10704,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-28T18:01:12.083Z"
+  "lastUpdated": "2026-09-28T19:32:00.092Z"
 }
