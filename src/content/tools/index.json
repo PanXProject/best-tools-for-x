@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "hotel-lobby-ai-video",
+      "slug": "hotel-lobby-ai-video",
+      "title": "Hotel Lobby AI Video",
+      "description": "Two photos in, a synced two-person AI video out, in your browser.",
+      "author": "Alex Morgan",
+      "username": "physicsai",
+      "user_id": "93079244-ad9d-418d-860e-e18d8cb66462",
+      "categories": [
+        "Create & Build",
+        "Understand & Improve"
+      ],
+      "tags": [
+        "ai-video",
+        "image-to-video",
+        "two-photo-animation",
+        "video-generator",
+        "motion-presets"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-28T00:05:23.925Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1790553888/kfxmrf7fo7wikad9fivd.png",
+      "toolUrl": "https://hotellobbyaivideo.online/"
+    },
+    {
       "id": "tradutor-de-mang-com-ia",
       "slug": "tradutor-de-mang-com-ia",
       "title": "tradutor de mangá com IA",
@@ -10486,5 +10515,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-27T18:57:34.656Z"
+  "lastUpdated": "2026-09-28T00:05:25.041Z"
 }
