@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "photo-tea",
+      "slug": "photo-tea",
+      "title": "Photo Tea",
+      "description": "Edit and create images with written prompts",
+      "author": "xzmowei",
+      "username": "xzmowei",
+      "user_id": "df59840d-ef90-4a31-bc92-2873e3547f70",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai",
+        "photo-editing",
+        "image-generation"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-28T07:37:27.688Z",
+      "heroImage": "",
+      "toolUrl": "https://phototea.art/"
+    },
+    {
       "id": "gpt-image-2-5-image-editor",
       "slug": "gpt-image-2-5-image-editor",
       "title": "GPT Image 2.5 image editor",
@@ -10595,5 +10621,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-28T07:07:07.293Z"
+  "lastUpdated": "2026-09-28T07:37:29.128Z"
 }
