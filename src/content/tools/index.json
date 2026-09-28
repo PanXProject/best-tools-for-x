@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "manhwa-translator",
+      "slug": "manhwa-translator",
+      "title": "Manhwa Translator",
+      "description": "Translate manga in batches and edit pages online with AI",
+      "author": "Ficory LLC",
+      "username": "mangatranslate",
+      "user_id": "8b2f7a88-4607-4332-bac7-365961dfd7fc",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "manga-translation",
+        "ai-translation",
+        "comic-reader"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-28T07:45:39.317Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1790581428/fjn4skbexmc74ajywnsu.webp",
+      "toolUrl": "https://www.mangatranslate.com/ai-manga-translator/"
+    },
+    {
       "id": "cleanup-pictures-pro-cleanuppictures-pro",
       "slug": "cleanup-pictures-pro-cleanuppictures-pro",
       "title": "Cleanup Pictures Pro (cleanuppictures.pro)",
@@ -10647,5 +10673,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-28T07:38:59.191Z"
+  "lastUpdated": "2026-09-28T07:45:40.704Z"
 }
