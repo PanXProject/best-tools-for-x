@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "cleanup-pictures-pro-cleanuppictures-pro",
+      "slug": "cleanup-pictures-pro-cleanuppictures-pro",
+      "title": "Cleanup Pictures Pro (cleanuppictures.pro)",
+      "description": "Remove unwanted objects and text from photos",
+      "author": "xzmowei",
+      "username": "xzmowei",
+      "user_id": "df59840d-ef90-4a31-bc92-2873e3547f70",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai",
+        "photo-editing",
+        "object-removal"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-28T07:38:58.163Z",
+      "heroImage": "",
+      "toolUrl": "https://cleanuppictures.pro/"
+    },
+    {
       "id": "photo-tea",
       "slug": "photo-tea",
       "title": "Photo Tea",
@@ -10621,5 +10647,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-28T07:37:29.128Z"
+  "lastUpdated": "2026-09-28T07:38:59.191Z"
 }
