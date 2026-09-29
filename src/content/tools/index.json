@@ -1,6 +1,31 @@
 {
   "tools": [
     {
+      "id": "toolsift",
+      "slug": "toolsift",
+      "title": "ToolSift",
+      "description": "Discover AI tools and useful software in one directory",
+      "author": "Peng Kun",
+      "username": "toolsift",
+      "user_id": "b134fb52-90d8-4f03-94f8-2ad2fafed361",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "directory",
+        "software-discovery"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-29T03:35:30.780Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1790652882/x8cilxbcmlvwxprvt1uv.png",
+      "toolUrl": "https://toolsift.net/"
+    },
+    {
       "id": "blootrue",
       "slug": "blootrue",
       "title": "BlooTrue",
@@ -10704,5 +10729,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-28T19:55:15.545Z"
+  "lastUpdated": "2026-09-29T03:35:31.803Z"
 }
