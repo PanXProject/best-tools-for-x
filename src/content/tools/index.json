@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "expiry-manager",
+      "slug": "expiry-manager",
+      "title": "Expiry Manager",
+      "description": "Made for dates that carry consequences.",
+      "author": "Shamik Waris",
+      "username": "expirymanager",
+      "user_id": "08cc2eeb-0f08-4aaa-b0e4-69d8f37a7d99",
+      "categories": [
+        "Run Business",
+        "Understand & Improve"
+      ],
+      "tags": [
+        "expiry-tracking",
+        "productivity",
+        "saas",
+        "reminders"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-29T10:49:00.700Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1790678858/gediutsbvq55tvdaorst.png",
+      "toolUrl": "https://expirymanager.com/"
+    },
+    {
       "id": "toolsift",
       "slug": "toolsift",
       "title": "ToolSift",
@@ -10729,5 +10757,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-29T03:35:31.803Z"
+  "lastUpdated": "2026-09-29T10:49:01.820Z"
 }
