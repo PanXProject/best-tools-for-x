@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "sceneflare",
+      "slug": "sceneflare",
+      "title": "SceneFlare",
+      "description": "Create AI images and videos with guided model workflows",
+      "author": "Image 2",
+      "username": "image2",
+      "user_id": "54607cfe-0f21-433a-bdfd-a9ddeb8071d3",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai-image-generator",
+        "ai-video-generator",
+        "ai-image-editor",
+        "ai-video-editor",
+        "text-to-image"
+      ],
+      "pricing": {
+        "model": "subscription"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-29T12:54:34.391Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1790685798/wnhwhbxcpbjopiqg9kjt.png",
+      "toolUrl": "https://sceneflare.com/"
+    },
+    {
       "id": "expiry-manager",
       "slug": "expiry-manager",
       "title": "Expiry Manager",
@@ -10757,5 +10785,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-29T10:49:01.820Z"
+  "lastUpdated": "2026-09-29T12:54:36.061Z"
 }
