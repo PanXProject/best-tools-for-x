@@ -1,6 +1,30 @@
 {
   "tools": [
     {
+      "id": "apipass",
+      "slug": "apipass",
+      "title": "ApiPass",
+      "description": "Same AI models for 30%-70% less.",
+      "author": "Liao MaoWen",
+      "username": "apipass",
+      "user_id": "5d1c350b-def3-4191-bccb-ad62b566e2d8",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-29T15:25:09.400Z",
+      "heroImage": "",
+      "toolUrl": "https://apipass.dev/"
+    },
+    {
       "id": "archlet",
       "slug": "archlet",
       "title": "ArchLet",
@@ -10812,5 +10836,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-29T14:36:20.658Z"
+  "lastUpdated": "2026-09-29T15:25:10.703Z"
 }
