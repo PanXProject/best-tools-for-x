@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "archlet",
+      "slug": "archlet",
+      "title": "ArchLet",
+      "description": "Free planning tools and guides for UK railway arch tenants",
+      "author": "ArchLet",
+      "username": "archlet",
+      "user_id": "36dd27e1-5323-4fd6-9001-58e1481d0a2d",
+      "categories": [
+        "Run Business",
+        "Manage Money"
+      ],
+      "tags": [
+        "property",
+        "small-business",
+        "calculator"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-29T14:36:19.353Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1790692359/bfgxlntlgz6j7acbwllu.png",
+      "toolUrl": "https://archlet.co.uk/"
+    },
+    {
       "id": "sceneflare",
       "slug": "sceneflare",
       "title": "SceneFlare",
@@ -10785,5 +10812,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-29T12:54:36.061Z"
+  "lastUpdated": "2026-09-29T14:36:20.658Z"
 }
