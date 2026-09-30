@@ -1,6 +1,30 @@
 {
   "tools": [
     {
+      "id": "removetext",
+      "slug": "removetext",
+      "title": "RemoveText",
+      "description": "Remove text from images with AI",
+      "author": "Peng Kun",
+      "username": "toolsift",
+      "user_id": "b134fb52-90d8-4f03-94f8-2ad2fafed361",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-30T04:14:36.701Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1790741673/pfcedgax1a3zp3l0hdwp.jpg",
+      "toolUrl": "https://removetext.co/"
+    },
+    {
       "id": "kling-4-0",
       "slug": "kling-4-0",
       "title": "Kling 4.0",
@@ -10862,5 +10886,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-30T03:15:29.690Z"
+  "lastUpdated": "2026-09-30T04:14:37.892Z"
 }
