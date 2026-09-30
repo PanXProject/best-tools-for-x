@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "bank-statement-converter",
+      "slug": "bank-statement-converter",
+      "title": "Bank Statement Converter",
+      "description": "Convert bank statement PDFs and photos into clean Excel, CSV or JSON r",
+      "author": "Bank Statement Converter",
+      "username": "bankstmt",
+      "user_id": "462d77a9-48f3-46ed-89f9-3c44991d1a29",
+      "categories": [
+        "Manage Money"
+      ],
+      "tags": [
+        "accounting",
+        "bookkeeping",
+        "pdf-to-excel"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-30T18:45:16.559Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1790793790/dls2fcb42ffh1wqdnhwr.png",
+      "toolUrl": "https://bank-statement-converter.online/"
+    },
+    {
       "id": "fix-overexposed-photos",
       "slug": "fix-overexposed-photos",
       "title": "Fix Overexposed Photos",
@@ -10910,5 +10936,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-30T09:24:15.059Z"
+  "lastUpdated": "2026-09-30T18:45:17.929Z"
 }
