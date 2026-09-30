@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "kling-4-0",
+      "slug": "kling-4-0",
+      "title": "Kling 4.0",
+      "description": "Create AI videos from text, images, and visual references",
+      "author": "Lunabella",
+      "username": "lunabella",
+      "user_id": "7ce31af0-1e0e-4421-b53f-bd893d8f32a6",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "kling-40",
+        "ai-video",
+        "video-generation"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-30T03:15:28.626Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1790737926/wdo4crwalrplwjozspt8.png",
+      "toolUrl": "https://www.klingmotion.com/kling-4"
+    },
+    {
       "id": "apipass",
       "slug": "apipass",
       "title": "ApiPass",
@@ -10836,5 +10862,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-29T15:25:10.703Z"
+  "lastUpdated": "2026-09-30T03:15:29.690Z"
 }
