@@ -1,6 +1,30 @@
 {
   "tools": [
     {
+      "id": "fix-overexposed-photos",
+      "slug": "fix-overexposed-photos",
+      "title": "Fix Overexposed Photos",
+      "description": "Correct overexposed photos with AI",
+      "author": "Peng Kun",
+      "username": "toolsift",
+      "user_id": "b134fb52-90d8-4f03-94f8-2ad2fafed361",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-09-30T04:16:04.664Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1790741762/dn1x0f88cxtc10e2ovy2.jpg",
+      "toolUrl": "https://fixoverexposedphotos.net/"
+    },
+    {
       "id": "removetext",
       "slug": "removetext",
       "title": "RemoveText",
@@ -10886,5 +10910,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-30T04:14:37.892Z"
+  "lastUpdated": "2026-09-30T04:16:05.718Z"
 }
