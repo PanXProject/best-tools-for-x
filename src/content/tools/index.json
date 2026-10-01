@@ -1,6 +1,30 @@
 {
   "tools": [
     {
+      "id": "consistent-character-ai-org",
+      "slug": "consistent-character-ai-org",
+      "title": "Consistent Character AI ORG",
+      "description": "ORG edition — consistent AI characters for creators",
+      "author": "Alex Chen",
+      "username": "alex-chen",
+      "user_id": "6bf742b7-3b9c-4c72-8581-1a80cd3d5d0e",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-01T15:46:45.579Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1790869553/b2b50wywkmu1c2s8fnf4.png",
+      "toolUrl": "https://consistentcharacterai.org/"
+    },
+    {
       "id": "bank-statement-converter",
       "slug": "bank-statement-converter",
       "title": "Bank Statement Converter",
@@ -10936,5 +10960,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-30T18:45:17.929Z"
+  "lastUpdated": "2026-10-01T15:46:46.892Z"
 }
