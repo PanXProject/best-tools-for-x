@@ -1,6 +1,30 @@
 {
   "tools": [
     {
+      "id": "tryh3-minimax-h3-video-generator",
+      "slug": "tryh3-minimax-h3-video-generator",
+      "title": "TryH3 — MiniMax H3 Video Generator",
+      "description": "Native 2K AI video generation with synchronized audio",
+      "author": "Alex Chen",
+      "username": "alex-chen",
+      "user_id": "6bf742b7-3b9c-4c72-8581-1a80cd3d5d0e",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai-video"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-01T16:09:40.949Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1790870927/uqqspkjgkfjmc43mbcxj.png",
+      "toolUrl": "https://tryh3.com/"
+    },
+    {
       "id": "image-to-layers-ai",
       "slug": "image-to-layers-ai",
       "title": "Image to Layers AI",
@@ -11008,5 +11032,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-01T16:02:46.663Z"
+  "lastUpdated": "2026-10-01T16:09:42.655Z"
 }
