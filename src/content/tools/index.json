@@ -1,6 +1,30 @@
 {
   "tools": [
     {
+      "id": "consistent-character-ai",
+      "slug": "consistent-character-ai",
+      "title": "Consistent-Character-AI",
+      "description": "Create consistent AI characters across every image and video",
+      "author": "Alex Chen",
+      "username": "alex-chen",
+      "user_id": "6bf742b7-3b9c-4c72-8581-1a80cd3d5d0e",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai-image-generator"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-01T15:55:28.560Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1790870087/lyffa65b30evhvq0lcor.png",
+      "toolUrl": "https://consistent-character-ai.com/"
+    },
+    {
       "id": "consistent-character-ai-org",
       "slug": "consistent-character-ai-org",
       "title": "Consistent Character AI ORG",
@@ -10960,5 +10984,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-01T15:46:46.892Z"
+  "lastUpdated": "2026-10-01T15:55:29.858Z"
 }
