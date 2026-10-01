@@ -1,6 +1,30 @@
 {
   "tools": [
     {
+      "id": "image-to-layers-ai",
+      "slug": "image-to-layers-ai",
+      "title": "Image to Layers AI",
+      "description": "Turn flat images into editable transparent layers with AI",
+      "author": "Alex Chen",
+      "username": "alex-chen",
+      "user_id": "6bf742b7-3b9c-4c72-8581-1a80cd3d5d0e",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai-image-editing"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-01T16:02:45.415Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1790870531/zf37yjudqycstiijgl0c.webp",
+      "toolUrl": "https://imagetolayers.org/"
+    },
+    {
       "id": "consistent-character-ai",
       "slug": "consistent-character-ai",
       "title": "Consistent-Character-AI",
@@ -10984,5 +11008,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-01T15:55:29.858Z"
+  "lastUpdated": "2026-10-01T16:02:46.663Z"
 }
