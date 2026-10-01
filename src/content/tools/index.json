@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "remove-text",
+      "slug": "remove-text",
+      "title": "Remove Text",
+      "description": "AI-powered image cleanup that removes unwanted text, watermarks, and c",
+      "author": "Alex Chen",
+      "username": "alex-chen",
+      "user_id": "6bf742b7-3b9c-4c72-8581-1a80cd3d5d0e",
+      "categories": [
+        "Create & Build",
+        "Understand & Improve"
+      ],
+      "tags": [
+        "ai",
+        "image-editing",
+        "photo-cleanup"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-01T16:15:27.397Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1790871285/fklqeq5l7rlzx17dhli3.webp",
+      "toolUrl": "https://remove-text.com/"
+    },
+    {
       "id": "tryh3-minimax-h3-video-generator",
       "slug": "tryh3-minimax-h3-video-generator",
       "title": "TryH3 — MiniMax H3 Video Generator",
@@ -11032,5 +11059,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-01T16:09:42.655Z"
+  "lastUpdated": "2026-10-01T16:15:28.680Z"
 }
