@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "receiptedit-invoice-generator",
+      "slug": "receiptedit-invoice-generator",
+      "title": "ReceiptEdit Invoice Generator",
+      "description": "Create invoice documents with live preview and PDF or PNG exports",
+      "author": "ReceiptEdit Team",
+      "username": "receipteditteam",
+      "user_id": "78fcb05a-5251-45c4-af0d-735b4e93dd05",
+      "categories": [
+        "Manage Money"
+      ],
+      "tags": [
+        "invoicing",
+        "documents",
+        "pdf"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-02T01:55:47.339Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1790906117/na2n2ye1zncwbgc0rqur.png",
+      "toolUrl": "https://receiptedit.com/invoice-generator"
+    },
+    {
       "id": "remove-text",
       "slug": "remove-text",
       "title": "Remove Text",
@@ -11059,5 +11085,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-01T16:15:28.680Z"
+  "lastUpdated": "2026-10-02T01:55:48.624Z"
 }
