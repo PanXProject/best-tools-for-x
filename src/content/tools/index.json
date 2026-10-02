@@ -1,6 +1,31 @@
 {
   "tools": [
     {
+      "id": "rayopix",
+      "slug": "rayopix",
+      "title": "Rayopix",
+      "description": "Restore natural color after TikTok matcha filters",
+      "author": "Alex Chen",
+      "username": "alex-chen",
+      "user_id": "6bf742b7-3b9c-4c72-8581-1a80cd3d5d0e",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "photo-restoration",
+        "ai-tools"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-02T04:56:41.367Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1790916861/ihxrtyqaapuekmohpeu3.png",
+      "toolUrl": "https://rayopix.com/"
+    },
+    {
       "id": "tryh3-minimax-h3-video-generator-tool",
       "slug": "tryh3-minimax-h3-video-generator-tool",
       "title": "TryH3 — MiniMax H3 Video Generator Tool",
@@ -11159,5 +11184,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-02T04:37:15.236Z"
+  "lastUpdated": "2026-10-02T04:56:42.598Z"
 }
