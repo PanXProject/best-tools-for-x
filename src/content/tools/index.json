@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ai-manga-translator",
+      "slug": "ai-manga-translator",
+      "title": "AI Manga Translator",
+      "description": "Translate manga pages with AI while preserving the original layout",
+      "author": "Alex Chen",
+      "username": "alex-chen",
+      "user_id": "6bf742b7-3b9c-4c72-8581-1a80cd3d5d0e",
+      "categories": [
+        "Create & Build",
+        "Understand & Improve"
+      ],
+      "tags": [
+        "manga",
+        "translation"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-02T05:13:21.924Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1790917952/qut7jlokjflcw0l50rfz.png",
+      "toolUrl": "https://aimangatranslate.org/"
+    },
+    {
       "id": "rayopix",
       "slug": "rayopix",
       "title": "Rayopix",
@@ -11184,5 +11210,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-02T04:56:42.598Z"
+  "lastUpdated": "2026-10-02T05:13:23.081Z"
 }
