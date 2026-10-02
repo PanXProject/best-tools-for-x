@@ -1,6 +1,31 @@
 {
   "tools": [
     {
+      "id": "tryh3-minimax-h3-video-generator-tool",
+      "slug": "tryh3-minimax-h3-video-generator-tool",
+      "title": "TryH3 — MiniMax H3 Video Generator Tool",
+      "description": "Browser video creation with MiniMax H3",
+      "author": "Alex Chen",
+      "username": "alex-chen",
+      "user_id": "6bf742b7-3b9c-4c72-8581-1a80cd3d5d0e",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai-video",
+        "minimax-h3"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-02T04:37:14.181Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1790915684/prb6d2mwziaslaq7ywwi.png",
+      "toolUrl": "https://tryh3.com/"
+    },
+    {
       "id": "image-to-layers-ai-studio",
       "slug": "image-to-layers-ai-studio",
       "title": "Image to Layers AI Studio",
@@ -11134,5 +11159,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-02T04:29:42.728Z"
+  "lastUpdated": "2026-10-02T04:37:15.236Z"
 }
