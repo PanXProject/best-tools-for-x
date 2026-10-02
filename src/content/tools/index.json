@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "hotel-lobby-ai-video-generator",
+      "slug": "hotel-lobby-ai-video-generator",
+      "title": "Hotel Lobby AI Video Generator",
+      "description": "Turn two photos into a dance or booth video with AI",
+      "author": "Alex Chen",
+      "username": "alex-chen",
+      "user_id": "6bf742b7-3b9c-4c72-8581-1a80cd3d5d0e",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai-video",
+        "image-to-video",
+        "dance-video",
+        "social-video",
+        "photo-animation"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-02T06:53:16.306Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1790923883/wavgpmxa305jom9p9lxz.png",
+      "toolUrl": "https://aihotellobby.net/"
+    },
+    {
       "id": "ai-object-remover",
       "slug": "ai-object-remover",
       "title": "AI Object Remover",
@@ -11237,5 +11265,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-02T06:37:38.535Z"
+  "lastUpdated": "2026-10-02T06:53:17.558Z"
 }
