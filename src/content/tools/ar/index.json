@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "ardak-simple-quotes",
+      "slug": "ardak-simple-quotes",
+      "title": "عرضك ببساطة",
+      "title_en": "Ardak Simple Quotes",
+      "description": "عرض سعر عربي وإنجليزي مجاني للمستقلين دون حساب",
+      "author": "عرضك ببساطة",
+      "username": "ardak_quotes",
+      "user_id": "99d98ec4-ea1d-40c0-b9a4-62ced16789a6",
+      "categories": [
+        "إدارة الأعمال"
+      ],
+      "tags": [
+        "عربي",
+        "إنتاجية",
+        "مستندات",
+        "عرض-سعر",
+        "خصوصية"
+      ],
+      "pricing": {
+        "model": "مجاني"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2026-10-02T16:18:31.210Z",
+      "heroImage": "",
+      "toolUrl": "https://ardak-bebasata.blogspot.com/"
+    },
+    {
       "id": "mangatranslate",
       "slug": "mangatranslate",
       "title": "مترجم مانجا بالذكاء الاصطناعي",
@@ -5687,5 +5716,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-09-22T15:58:18.193Z"
+  "lastUpdated": "2026-10-02T16:18:32.544Z"
 }
