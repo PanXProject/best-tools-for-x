@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "ai-object-remover",
+      "slug": "ai-object-remover",
+      "title": "AI Object Remover",
+      "description": "Remove unwanted objects from photos with AI",
+      "author": "Alex Chen",
+      "username": "alex-chen",
+      "user_id": "6bf742b7-3b9c-4c72-8581-1a80cd3d5d0e",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "aiobjectremover",
+        "photo-cleanup",
+        "object-removal",
+        "image-editing"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-02T06:37:37.329Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1790923023/gl4nqcdhfrpyzkojrtn7.png",
+      "toolUrl": "https://aiobjectremover.org/"
+    },
+    {
       "id": "ai-manga-translator",
       "slug": "ai-manga-translator",
       "title": "AI Manga Translator",
@@ -11210,5 +11237,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-02T05:13:23.081Z"
+  "lastUpdated": "2026-10-02T06:37:38.535Z"
 }
