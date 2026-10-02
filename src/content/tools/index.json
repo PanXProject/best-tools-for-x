@@ -1,6 +1,31 @@
 {
   "tools": [
     {
+      "id": "consistentcharacterai",
+      "slug": "consistentcharacterai",
+      "title": "ConsistentCharacterAI",
+      "description": "Keep one AI character consistent across every scene",
+      "author": "Alex Chen",
+      "username": "alex-chen",
+      "user_id": "6bf742b7-3b9c-4c72-8581-1a80cd3d5d0e",
+      "categories": [
+        "Create & Build",
+        "Understand & Improve"
+      ],
+      "tags": [
+        "character-generator"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-02T04:02:47.956Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1790913736/k1ftx8aliox2voimydlm.png",
+      "toolUrl": "https://consistentcharacterai.com/"
+    },
+    {
       "id": "receiptedit-invoice-generator",
       "slug": "receiptedit-invoice-generator",
       "title": "ReceiptEdit Invoice Generator",
@@ -11085,5 +11110,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-02T01:55:48.624Z"
+  "lastUpdated": "2026-10-02T04:02:49.057Z"
 }
