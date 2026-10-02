@@ -1,6 +1,30 @@
 {
   "tools": [
     {
+      "id": "image-to-layers-ai-studio",
+      "slug": "image-to-layers-ai-studio",
+      "title": "Image to Layers AI Studio",
+      "description": "Split any image into editable layers with AI",
+      "author": "Alex Chen",
+      "username": "alex-chen",
+      "user_id": "6bf742b7-3b9c-4c72-8581-1a80cd3d5d0e",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "layers"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-02T04:29:41.547Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1790915369/wse3y6y20cjubay4kamg.png",
+      "toolUrl": "https://imagetolayers.org/"
+    },
+    {
       "id": "consistentcharacterai",
       "slug": "consistentcharacterai",
       "title": "ConsistentCharacterAI",
@@ -11110,5 +11134,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-02T04:02:49.057Z"
+  "lastUpdated": "2026-10-02T04:29:42.728Z"
 }
