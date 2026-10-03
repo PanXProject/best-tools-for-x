@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "view-telegram-directory",
+      "slug": "view-telegram-directory",
+      "title": "VIEW — Telegram Directory",
+      "description": "Discover public Telegram channels, groups and bots",
+      "author": "Austin Reynolds",
+      "username": "austinreynolds_view",
+      "user_id": "001fd1fc-5f22-4818-b762-4d51f9ae826e",
+      "categories": [
+        "Understand & Improve",
+        "Connect & Collaborate"
+      ],
+      "tags": [
+        "telegram",
+        "directory",
+        "search",
+        "community",
+        "discovery"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-03T14:40:54.210Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791038322/irrpf8tuniglxm3hntuo.jpg",
+      "toolUrl": "https://view.tg/en"
+    },
+    {
       "id": "hotel-lobby-ai-video-generator",
       "slug": "hotel-lobby-ai-video-generator",
       "title": "Hotel Lobby AI Video Generator",
@@ -11265,5 +11294,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-02T06:53:17.558Z"
+  "lastUpdated": "2026-10-03T14:40:55.584Z"
 }
