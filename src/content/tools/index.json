@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "luaucheck",
+      "slug": "luaucheck",
+      "title": "LuauCheck",
+      "description": "Turn one sentence into Roblox Luau code and its Studio placement",
+      "author": "LuauCheck",
+      "username": "luaucheck",
+      "user_id": "41560b39-34c5-4d14-827a-5cc152d85ac9",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "roblox",
+        "luau",
+        "code-generator"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-03T16:40:37.627Z",
+      "heroImage": "",
+      "toolUrl": "https://luaucheck.com/"
+    },
+    {
       "id": "view-telegram-directory",
       "slug": "view-telegram-directory",
       "title": "VIEW — Telegram Directory",
@@ -11294,5 +11320,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-03T14:40:55.584Z"
+  "lastUpdated": "2026-10-03T16:40:39.085Z"
 }
