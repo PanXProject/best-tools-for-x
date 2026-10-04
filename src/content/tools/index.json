@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "court-rules",
+      "slug": "court-rules",
+      "title": "Court Rules",
+      "description": "Free U.S. court rules, judge orders and deadline calculator",
+      "author": "Saurabh Sharma",
+      "username": "courtrules",
+      "user_id": "b5759d0c-7981-46ee-8d84-37143a628484",
+      "categories": [
+        "Create & Build",
+        "Understand & Improve"
+      ],
+      "tags": [
+        "court-rules",
+        "deadline-calculator",
+        "federal-rules"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-04T13:37:55.297Z",
+      "heroImage": "",
+      "toolUrl": "https://www.courtrules.app/?ref=toolseekr"
+    },
+    {
       "id": "viewmax-studio",
       "slug": "viewmax-studio",
       "title": "ViewMax Studio",
@@ -11482,5 +11509,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-04T11:17:21.351Z"
+  "lastUpdated": "2026-10-04T13:37:56.536Z"
 }
