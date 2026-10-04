@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "viewmax-studio",
+      "slug": "viewmax-studio",
+      "title": "ViewMax Studio",
+      "description": "AI video generator for Shorts, UGC ads and Reels",
+      "author": "Toonbee",
+      "username": "toonbee",
+      "user_id": "f9b6682f-f8d4-4b1b-bcd5-fc83527bc85d",
+      "categories": [
+        "Get & Keep Customers",
+        "Create & Build"
+      ],
+      "tags": [
+        "ai-video-generator",
+        "faceless-videos",
+        "ugc-ads",
+        "youtube-shorts",
+        "text-to-video"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-04T11:17:20.140Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791112627/dyfjcsreozs3mxvyrjnv.jpg",
+      "toolUrl": "https://viewmaxstudio.net/"
+    },
+    {
       "id": "dolai-pro",
       "slug": "dolai-pro",
       "title": "Dolai Pro",
@@ -11453,5 +11482,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-04T11:16:24.259Z"
+  "lastUpdated": "2026-10-04T11:17:21.351Z"
 }
