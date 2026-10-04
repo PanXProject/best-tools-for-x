@@ -1,6 +1,30 @@
 {
   "tools": [
     {
+      "id": "newbornphotos",
+      "slug": "newbornphotos",
+      "title": "NewbornPhotos",
+      "description": "Create newborn photo scenes from one baby photo",
+      "author": "Peng Kun",
+      "username": "toolsift",
+      "user_id": "b134fb52-90d8-4f03-94f8-2ad2fafed361",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai-photography"
+      ],
+      "pricing": {
+        "model": "one-time-payment"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-04T06:05:00.304Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791093818/ifs2tl0wxwzudadgaibg.jpg",
+      "toolUrl": "https://newbornphotos.net/"
+    },
+    {
       "id": "luaucheck",
       "slug": "luaucheck",
       "title": "LuauCheck",
@@ -11320,5 +11344,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-03T16:40:39.085Z"
+  "lastUpdated": "2026-10-04T06:05:01.448Z"
 }
