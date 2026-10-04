@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "dolai-pro",
+      "slug": "dolai-pro",
+      "title": "Dolai Pro",
+      "description": "Dola AI video & image generator online, no watermark",
+      "author": "Toonbee",
+      "username": "toonbee",
+      "user_id": "f9b6682f-f8d4-4b1b-bcd5-fc83527bc85d",
+      "categories": [
+        "Get & Keep Customers",
+        "Create & Build"
+      ],
+      "tags": [
+        "ai-video-generator",
+        "text-to-video",
+        "image-to-video",
+        "ai-image-generator",
+        "seedance"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-04T11:16:23.199Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791112345/etrsx3khugj7op7cxqrx.jpg",
+      "toolUrl": "https://dolai.pro/"
+    },
+    {
       "id": "livephotonow",
       "slug": "livephotonow",
       "title": "LivePhotoNow",
@@ -11424,5 +11453,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-04T10:56:04.920Z"
+  "lastUpdated": "2026-10-04T11:16:24.259Z"
 }
