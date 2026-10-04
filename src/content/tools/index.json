@@ -1,6 +1,30 @@
 {
   "tools": [
     {
+      "id": "removesubs",
+      "slug": "removesubs",
+      "title": "RemoveSubs",
+      "description": "Remove burned-in subtitles and text from videos with AI",
+      "author": "Peng Kun",
+      "username": "toolsift",
+      "user_id": "b134fb52-90d8-4f03-94f8-2ad2fafed361",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "video-editing"
+      ],
+      "pricing": {
+        "model": "free-trial"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-04T06:16:17.314Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791094501/qopabdez0s6shcn22yf1.jpg",
+      "toolUrl": "https://removesubs.com/"
+    },
+    {
       "id": "newbornphotos",
       "slug": "newbornphotos",
       "title": "NewbornPhotos",
@@ -11344,5 +11368,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-04T06:05:01.448Z"
+  "lastUpdated": "2026-10-04T06:16:18.489Z"
 }
