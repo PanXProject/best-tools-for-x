@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "toonbee-ai",
+      "slug": "toonbee-ai",
+      "title": "toonbee ai",
+      "description": "AI cartoon video generator with consistent characters",
+      "author": "Toonbee",
+      "username": "toonbee",
+      "user_id": "f9b6682f-f8d4-4b1b-bcd5-fc83527bc85d",
+      "categories": [
+        "Get & Keep Customers",
+        "Create & Build"
+      ],
+      "tags": [
+        "ai-video",
+        "cartoon-video",
+        "animation",
+        "script-to-video"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-04T08:02:51.090Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791100965/m1g9vkclsalckmkoiugh.jpg",
+      "toolUrl": "https://toonbeeai.net/"
+    },
+    {
       "id": "removesubs",
       "slug": "removesubs",
       "title": "RemoveSubs",
@@ -11368,5 +11396,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-04T06:16:18.489Z"
+  "lastUpdated": "2026-10-04T08:02:52.335Z"
 }
