@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "scaffolding-cost-calculator",
+      "slug": "scaffolding-cost-calculator",
+      "title": "Scaffolding Cost Calculator",
+      "description": "Typical 2026 UK scaffolding hire prices, per elevation, by height",
+      "author": "Scaffolding Cost Calculator",
+      "username": "scaffoldingcostcalculator",
+      "user_id": "cfab9efd-729e-43af-b3d7-639dde16cb5d",
+      "categories": [
+        "Manage Money"
+      ],
+      "tags": [
+        "home",
+        "improvement",
+        "calculator"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-05T01:42:59.665Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791164514/yoi8c2ayiqaeyfslcgm0.png",
+      "toolUrl": "https://scaffoldingcostcalculator.com/"
+    },
+    {
       "id": "pro-services-prices",
       "slug": "pro-services-prices",
       "title": "PRO Services Prices",
@@ -12217,5 +12243,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-05T01:40:03.809Z"
+  "lastUpdated": "2026-10-05T01:43:00.932Z"
 }
