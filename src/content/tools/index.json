@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "seo-for-dentists",
+      "slug": "seo-for-dentists",
+      "title": "SEO for dentists",
+      "description": "Search work for dental practices, with the fee agreed before anything",
+      "author": "SEO for dentists",
+      "username": "seodentists",
+      "user_id": "3db8aef4-9243-4fa6-8a3b-29a1287255dc",
+      "categories": [
+        "Get & Keep Customers",
+        "Manage Money"
+      ],
+      "tags": [
+        "agency",
+        "services",
+        "calculator"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-05T01:45:43.247Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791164679/iiysghqe7zufduw33l16.png",
+      "toolUrl": "https://seodentists.uk/"
+    },
+    {
       "id": "scaffolding-cost-calculator",
       "slug": "scaffolding-cost-calculator",
       "title": "Scaffolding Cost Calculator",
@@ -12243,5 +12270,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-05T01:43:00.932Z"
+  "lastUpdated": "2026-10-05T01:45:44.456Z"
 }
