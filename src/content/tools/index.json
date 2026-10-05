@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "it-support-cost-calculator",
+      "slug": "it-support-cost-calculator",
+      "title": "IT Support Cost Calculator",
+      "description": "Model UK managed IT support on the rates you have actually been",
+      "author": "IT Support Cost Calculator",
+      "username": "itsupportcostcalculator",
+      "user_id": "45f1356b-cb04-44cc-bf09-4a997cf2164f",
+      "categories": [
+        "Manage Money"
+      ],
+      "tags": [
+        "data",
+        "tools",
+        "saas",
+        "calculator"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-05T01:20:10.752Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791163146/juwy6xd7tb7zkgasftis.png",
+      "toolUrl": "https://itsupportcostcalculator.co.uk/"
+    },
+    {
       "id": "google-ads-agency-birmingham",
       "slug": "google-ads-agency-birmingham",
       "title": "Google Ads agency Birmingham",
@@ -12006,5 +12033,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-05T01:17:12.916Z"
+  "lastUpdated": "2026-10-05T01:20:12.087Z"
 }
