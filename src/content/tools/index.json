@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "white-label-seo-marketing",
+      "slug": "white-label-seo-marketing",
+      "title": "White label SEO marketing",
+      "description": "Unbranded SEO for agencies, at a wholesale fee you can build a margin",
+      "author": "White label SEO marketing",
+      "username": "whitelabelseomarketing",
+      "user_id": "779cc7c6-bc7b-4c79-87e5-7d6b8c1a1aef",
+      "categories": [
+        "Get & Keep Customers",
+        "Manage Money"
+      ],
+      "tags": [
+        "agency",
+        "services",
+        "calculator"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-05T02:00:33.191Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791165568/pwitvriplygscachpovm.png",
+      "toolUrl": "https://whitelabelseomarketing.co.uk/"
+    },
+    {
       "id": "which-field-software",
       "slug": "which-field-software",
       "title": "Which Field Software",
@@ -12349,5 +12376,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-05T01:57:39.284Z"
+  "lastUpdated": "2026-10-05T02:00:34.442Z"
 }
