@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "made-in-mexico-suppliers",
+      "slug": "made-in-mexico-suppliers",
+      "title": "Made in Mexico Suppliers",
+      "description": "Finding and qualifying Mexican manufacturing, without a listicle",
+      "author": "Made in Mexico Suppliers",
+      "username": "madeinmexicosuppliers",
+      "user_id": "05263690-29b6-4810-b7ca-a8907d401a9c",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "trade",
+        "freight",
+        "calculator"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-05T01:25:37.883Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791163473/tkagc5x62opk2jgqhfa4.png",
+      "toolUrl": "https://madeinmexicosuppliers.com/"
+    },
+    {
       "id": "leave-tracker",
       "slug": "leave-tracker",
       "title": "Leave Tracker",
@@ -12059,5 +12085,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-05T01:22:55.677Z"
+  "lastUpdated": "2026-10-05T01:25:39.021Z"
 }
