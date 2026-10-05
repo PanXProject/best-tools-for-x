@@ -1,6 +1,31 @@
 {
   "tools": [
     {
+      "id": "conveyancing-fees-ireland",
+      "slug": "conveyancing-fees-ireland",
+      "title": "Conveyancing Fees Ireland",
+      "description": "Quotes from Irish conveyancing solicitors, with the stamp duty, Land",
+      "author": "Conveyancing Fees Ireland",
+      "username": "conveyancingfeesireland",
+      "user_id": "5b434d18-c851-45f0-a4a9-df98ad5e255c",
+      "categories": [
+        "Manage Money"
+      ],
+      "tags": [
+        "conveyancing",
+        "calculator"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-05T00:55:10.096Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791161645/ieqhlwe5tpt7gbpx0i1f.png",
+      "toolUrl": "https://conveyancingfeesireland.com/"
+    },
+    {
       "id": "compare-call-answering",
       "slug": "compare-call-answering",
       "title": "Compare Call Answering",
@@ -11768,5 +11793,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-05T00:52:26.337Z"
+  "lastUpdated": "2026-10-05T00:55:11.299Z"
 }
