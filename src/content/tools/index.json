@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "motor-rewind-cost",
+      "slug": "motor-rewind-cost",
+      "title": "Motor Rewind Cost",
+      "description": "What actually drives the cost of rewinding an electric motor, when",
+      "author": "Motor Rewind Cost",
+      "username": "motorrewindcost",
+      "user_id": "c90f9e32-0ada-4e79-8e8d-1b3a41f11491",
+      "categories": [
+        "Manage Money"
+      ],
+      "tags": [
+        "industrial",
+        "services",
+        "calculator"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-05T01:37:09.460Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791164165/z1rmatnrlmfbhkf6hsiu.png",
+      "toolUrl": "https://motorrewindcost.co.uk/"
+    },
+    {
       "id": "metal-fabrication-quotes",
       "slug": "metal-fabrication-quotes",
       "title": "Metal Fabrication Quotes",
@@ -12164,5 +12190,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-05T01:34:20.626Z"
+  "lastUpdated": "2026-10-05T01:37:10.708Z"
 }
