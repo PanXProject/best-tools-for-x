@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "leave-tracker",
+      "slug": "leave-tracker",
+      "title": "Leave Tracker",
+      "description": "What the law says your staff are owed, and how much of it is left",
+      "author": "Leave Tracker",
+      "username": "leavetracker",
+      "user_id": "5b0675b0-dd31-4125-b20e-f54e165cbeec",
+      "categories": [
+        "Manage People"
+      ],
+      "tags": [
+        "payroll",
+        "tools",
+        "calculator"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-05T01:22:54.243Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791163310/wiacjlc5xewozjxzpofh.png",
+      "toolUrl": "https://leavetracker.uk/"
+    },
+    {
       "id": "it-support-cost-calculator",
       "slug": "it-support-cost-calculator",
       "title": "IT Support Cost Calculator",
@@ -12033,5 +12059,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-05T01:20:12.087Z"
+  "lastUpdated": "2026-10-05T01:22:55.677Z"
 }
