@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "football-agent-index",
+      "slug": "football-agent-index",
+      "title": "Football Agent Index",
+      "description": "Two free public registers settle whether an agent is real. Almost",
+      "author": "Football Agent Index",
+      "username": "footballagentindex",
+      "user_id": "485d1696-17ac-4e28-9f03-9b7129948515",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "data",
+        "tools",
+        "saas",
+        "calculator"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-05T01:08:54.212Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791162469/ftxs1wzv1kfgjvvokbhs.png",
+      "toolUrl": "https://footballagentindex.com/"
+    },
+    {
       "id": "florida-solar-cost-calculator",
       "slug": "florida-solar-cost-calculator",
       "title": "Florida Solar Cost Calculator",
@@ -11900,5 +11927,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-05T01:06:18.663Z"
+  "lastUpdated": "2026-10-05T01:08:55.365Z"
 }
