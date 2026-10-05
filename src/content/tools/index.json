@@ -1,6 +1,31 @@
 {
   "tools": [
     {
+      "id": "ai-implementation-cost",
+      "slug": "ai-implementation-cost",
+      "title": "AI Implementation Cost",
+      "description": "What an AI project actually costs once the licence fee is the small",
+      "author": "AI Implementation Cost",
+      "username": "aiimplementationcost",
+      "user_id": "fb2f3179-e8d3-4355-98b0-f6e3f6cb59e8",
+      "categories": [
+        "Manage Money"
+      ],
+      "tags": [
+        "agency",
+        "calculator"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-05T00:32:28.610Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791160284/tmaappna7mt8ulaslesl.png",
+      "toolUrl": "https://aiimplementationcost.com/"
+    },
+    {
       "id": "adr-courses",
       "slug": "adr-courses",
       "title": "ADR Courses",
@@ -11562,5 +11587,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-05T00:29:37.228Z"
+  "lastUpdated": "2026-10-05T00:32:29.514Z"
 }
