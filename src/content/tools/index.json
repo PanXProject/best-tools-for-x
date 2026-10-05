@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "martyn-s-law-cost",
+      "slug": "martyn-s-law-cost",
+      "title": "Martyn's Law Cost",
+      "description": "What Martyn's Law compliance actually costs, what the Act really",
+      "author": "Martyn's Law Cost",
+      "username": "martynslawcost",
+      "user_id": "6c6af2a3-ce31-412e-9430-3c8cc656cec6",
+      "categories": [
+        "Manage Money"
+      ],
+      "tags": [
+        "regulatory",
+        "deadline",
+        "calculator"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-05T01:31:22.321Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791163818/izthsue0heqppudwdha8.png",
+      "toolUrl": "https://martynslawcost.co.uk/"
+    },
+    {
       "id": "malta-residency-cost",
       "slug": "malta-residency-cost",
       "title": "Malta Residency Cost",
@@ -12112,5 +12138,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-05T01:28:40.406Z"
+  "lastUpdated": "2026-10-05T01:31:23.466Z"
 }
