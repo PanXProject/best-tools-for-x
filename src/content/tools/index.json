@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "malta-residency-cost",
+      "slug": "malta-residency-cost",
+      "title": "Malta Residency Cost",
+      "description": "What each Maltese residence route actually costs, from the agency",
+      "author": "Malta Residency Cost",
+      "username": "maltaresidencycost",
+      "user_id": "804d3bf3-5e1c-4c82-bdc6-9502aa3a401a",
+      "categories": [
+        "Manage Money"
+      ],
+      "tags": [
+        "intl",
+        "corporate",
+        "setup",
+        "calculator"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-05T01:28:39.116Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791163654/oviumieghu4c3x695w7q.png",
+      "toolUrl": "https://maltaresidencycost.com/"
+    },
+    {
       "id": "made-in-mexico-suppliers",
       "slug": "made-in-mexico-suppliers",
       "title": "Made in Mexico Suppliers",
@@ -12085,5 +12112,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-05T01:25:39.021Z"
+  "lastUpdated": "2026-10-05T01:28:40.406Z"
 }
