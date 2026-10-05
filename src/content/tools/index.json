@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "leave-loading-calculator",
+      "slug": "leave-loading-calculator",
+      "title": "Leave Loading Calculator",
+      "description": "Annual leave loading in Australia: work out the amount",
+      "author": "Leave Loading Calculator",
+      "username": "leaveloadingcalculator",
+      "user_id": "89353478-7d02-41d4-9802-a3af19ec1a2b",
+      "categories": [
+        "Manage People"
+      ],
+      "tags": [
+        "payroll",
+        "tools",
+        "calculator"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-05T00:10:07.103Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791158942/puqx1hkd0hnchtdvnspt.png",
+      "toolUrl": "https://leaveloadingcalculator.com/"
+    },
+    {
       "id": "court-rules",
       "slug": "court-rules",
       "title": "Court Rules",
@@ -11509,5 +11535,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-04T13:37:56.536Z"
+  "lastUpdated": "2026-10-05T00:10:08.442Z"
 }
