@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "adr-courses",
+      "slug": "adr-courses",
+      "title": "ADR Courses",
+      "description": "ADR dangerous goods driver training explained module by module",
+      "author": "ADR Courses",
+      "username": "adrcourses",
+      "user_id": "ce1919f8-350b-4cbe-9ae5-2a51e27b6030",
+      "categories": [
+        "Manage Money"
+      ],
+      "tags": [
+        "data",
+        "tools",
+        "saas",
+        "calculator"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-05T00:29:36.026Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791160111/yfxsvg0xcv6c8n0vppaj.png",
+      "toolUrl": "https://adrcourses.co.uk/"
+    },
+    {
       "id": "leave-loading-calculator",
       "slug": "leave-loading-calculator",
       "title": "Leave Loading Calculator",
@@ -11535,5 +11562,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-05T00:10:08.442Z"
+  "lastUpdated": "2026-10-05T00:29:37.228Z"
 }
