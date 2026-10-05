@@ -1,6 +1,31 @@
 {
   "tools": [
     {
+      "id": "ai-vs-hire",
+      "slug": "ai-vs-hire",
+      "title": "AI vs Hire",
+      "description": "Comparing an AI tool against a person on the same basis, including",
+      "author": "AI vs Hire",
+      "username": "aivshire",
+      "user_id": "189c11e1-0436-4795-9a6f-26887d11e047",
+      "categories": [
+        "Manage Money"
+      ],
+      "tags": [
+        "agency",
+        "calculator"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-05T00:35:22.340Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791160458/ekby4oybqapyv8zjxysw.png",
+      "toolUrl": "https://aivshire.com/"
+    },
+    {
       "id": "ai-implementation-cost",
       "slug": "ai-implementation-cost",
       "title": "AI Implementation Cost",
@@ -11587,5 +11612,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-05T00:32:29.514Z"
+  "lastUpdated": "2026-10-05T00:35:23.412Z"
 }
