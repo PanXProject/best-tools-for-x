@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "cyprus-non-dom-calculator",
+      "slug": "cyprus-non-dom-calculator",
+      "title": "Cyprus Non-Dom Calculator",
+      "description": "What Cyprus non-domiciled status is worth in Special Defence",
+      "author": "Cyprus Non-Dom Calculator",
+      "username": "cyprusnondomcalculator",
+      "user_id": "a725cae7-3088-4de7-949a-3a47a0b6aad7",
+      "categories": [
+        "Manage Money"
+      ],
+      "tags": [
+        "intl",
+        "corporate",
+        "setup",
+        "calculator"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-05T01:00:35.145Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791161970/zntpbfjfvmmxmglfzum2.png",
+      "toolUrl": "https://cyprusnondomcalculator.com/"
+    },
+    {
       "id": "current-annuity-rates",
       "slug": "current-annuity-rates",
       "title": "Current Annuity Rates",
@@ -11819,5 +11846,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-05T00:57:46.566Z"
+  "lastUpdated": "2026-10-05T01:00:36.341Z"
 }
