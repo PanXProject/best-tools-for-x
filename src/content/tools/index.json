@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "metal-fabrication-quotes",
+      "slug": "metal-fabrication-quotes",
+      "title": "Metal Fabrication Quotes",
+      "description": "What actually drives the price of bespoke metal fabrication",
+      "author": "Metal Fabrication Quotes",
+      "username": "metalfabricationquotes",
+      "user_id": "a96d0a66-0335-46a7-892a-075f2b94a893",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "industrial",
+        "services",
+        "calculator"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-05T01:34:19.198Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791163994/dyj3rvypmvrbpbrupp57.png",
+      "toolUrl": "https://metalfabricationquotes.co.uk/"
+    },
+    {
       "id": "martyn-s-law-cost",
       "slug": "martyn-s-law-cost",
       "title": "Martyn's Law Cost",
@@ -12138,5 +12164,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-05T01:31:23.466Z"
+  "lastUpdated": "2026-10-05T01:34:20.626Z"
 }
