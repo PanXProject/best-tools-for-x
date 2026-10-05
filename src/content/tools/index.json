@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "california-solar-cost-calculator",
+      "slug": "california-solar-cost-calculator",
+      "title": "California Solar Cost Calculator",
+      "description": "What solar costs on a California home under the net billing tariff",
+      "author": "California Solar Cost Calculator",
+      "username": "californiasolarcostcalculator",
+      "user_id": "7682f635-c313-4e41-839d-25d879c5a123",
+      "categories": [
+        "Manage Money"
+      ],
+      "tags": [
+        "home",
+        "services",
+        "calculator"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-05T00:46:24.793Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791161120/wlfqqhim5es5mfsrouop.png",
+      "toolUrl": "https://californiasolarcostcalculator.com/"
+    },
+    {
       "id": "business-valuation-cost",
       "slug": "business-valuation-cost",
       "title": "Business Valuation Cost",
@@ -11690,5 +11716,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-05T00:43:32.177Z"
+  "lastUpdated": "2026-10-05T00:46:25.884Z"
 }
