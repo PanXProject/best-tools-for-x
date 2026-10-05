@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "google-ads-agency-birmingham",
+      "slug": "google-ads-agency-birmingham",
+      "title": "Google Ads agency Birmingham",
+      "description": "Google Ads management for Birmingham businesses, one set fee named up",
+      "author": "Google Ads agency Birmingham",
+      "username": "googleadsagencybirmingham",
+      "user_id": "698ad377-a64a-4320-8a90-176503eeedba",
+      "categories": [
+        "Manage Money"
+      ],
+      "tags": [
+        "agency",
+        "services",
+        "calculator"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-05T01:17:11.465Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791162967/zotflt9nzirptcyo1ifn.png",
+      "toolUrl": "https://googleadsagencybirmingham.co.uk/"
+    },
+    {
       "id": "forensic-accountant-cost",
       "slug": "forensic-accountant-cost",
       "title": "Forensic Accountant Cost",
@@ -11980,5 +12006,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-05T01:14:28.995Z"
+  "lastUpdated": "2026-10-05T01:17:12.916Z"
 }
