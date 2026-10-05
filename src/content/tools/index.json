@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "which-field-software",
+      "slug": "which-field-software",
+      "title": "Which Field Software",
+      "description": "US field service management software, compared on trade fit and how",
+      "author": "Which Field Software",
+      "username": "whichfieldsoftware",
+      "user_id": "d5d72da4-99b2-4c4d-97cd-e0338e70bb44",
+      "categories": [
+        "Manage Money"
+      ],
+      "tags": [
+        "vertical",
+        "software",
+        "compare",
+        "calculator"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-05T01:57:37.719Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791165393/jjyzufzmvvnuckctkea4.png",
+      "toolUrl": "https://whichfieldsoftware.com/"
+    },
+    {
       "id": "web-design-suffolk",
       "slug": "web-design-suffolk",
       "title": "Web design Suffolk",
@@ -12322,5 +12349,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-05T01:54:52.900Z"
+  "lastUpdated": "2026-10-05T01:57:39.284Z"
 }
