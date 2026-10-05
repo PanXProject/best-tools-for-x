@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "arvow",
+      "slug": "arvow",
+      "title": "Arvow",
+      "description": "AI agents that rank you on Google and in AI search",
+      "author": "Luis Freitas",
+      "username": "arvowmarketing",
+      "user_id": "9a42cf8a-1541-40aa-a0d1-98e09ab928d5",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "seo",
+        "ai-writing",
+        "content-marketing",
+        "backlinks",
+        "ai-search"
+      ],
+      "pricing": {
+        "model": "subscription"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-05T08:56:34.805Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791190554/xpajaiqbzu37j3gs7c23.png",
+      "toolUrl": "https://arvow.com/"
+    },
+    {
       "id": "white-label-seo-marketing",
       "slug": "white-label-seo-marketing",
       "title": "White label SEO marketing",
@@ -12376,5 +12404,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-05T02:00:34.442Z"
+  "lastUpdated": "2026-10-05T08:56:36.469Z"
 }
