@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "compare-answering",
+      "slug": "compare-answering",
+      "title": "Compare Answering",
+      "description": "US answering services compared on how they actually charge",
+      "author": "Compare Answering",
+      "username": "compareanswering",
+      "user_id": "4ae98c97-00ca-4aaa-8675-59b3c0f2cf13",
+      "categories": [
+        "Manage Money"
+      ],
+      "tags": [
+        "answering",
+        "services",
+        "calculator"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-05T00:49:29.394Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791161305/rhic0osryz2d7a3gbpd6.png",
+      "toolUrl": "https://compareanswering.com/"
+    },
+    {
       "id": "california-solar-cost-calculator",
       "slug": "california-solar-cost-calculator",
       "title": "California Solar Cost Calculator",
@@ -11716,5 +11742,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-05T00:46:25.884Z"
+  "lastUpdated": "2026-10-05T00:49:30.604Z"
 }
