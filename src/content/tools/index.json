@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "capvant",
+      "slug": "capvant",
+      "title": "Capvant",
+      "description": "Compare business funding offers from matched providers in one place",
+      "author": "Capvant",
+      "username": "capvant",
+      "user_id": "26171d06-e87e-4e0a-929a-217933e521ae",
+      "categories": [
+        "Run Business",
+        "Manage Money"
+      ],
+      "tags": [
+        "business-funding",
+        "business-loans",
+        "finance",
+        "sme",
+        "marketplace"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-05T16:52:20.188Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791219122/jsnsucts9jcqdg3hgaeq.png",
+      "toolUrl": "https://capvant.com/"
+    },
+    {
       "id": "arvow",
       "slug": "arvow",
       "title": "Arvow",
@@ -12404,5 +12433,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-05T08:56:36.469Z"
+  "lastUpdated": "2026-10-05T16:52:21.732Z"
 }
