@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "web-design-suffolk",
+      "slug": "web-design-suffolk",
+      "title": "Web design Suffolk",
+      "description": "Suffolk websites with the build and the upkeep costed in writing.",
+      "author": "Web design Suffolk",
+      "username": "webdesignsuffolk",
+      "user_id": "d80e42af-50e9-40b3-87a8-03e7c9c184b3",
+      "categories": [
+        "Manage Money"
+      ],
+      "tags": [
+        "agency",
+        "services",
+        "calculator"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-05T01:54:51.526Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791165227/q5nxqbz88zokt0kyko0j.png",
+      "toolUrl": "https://webdesignsuffolk.uk/"
+    },
+    {
       "id": "toll-blenders",
       "slug": "toll-blenders",
       "title": "Toll Blenders",
@@ -12296,5 +12322,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-05T01:52:01.156Z"
+  "lastUpdated": "2026-10-05T01:54:52.900Z"
 }
