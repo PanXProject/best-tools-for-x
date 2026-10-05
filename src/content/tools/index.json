@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "pro-services-prices",
+      "slug": "pro-services-prices",
+      "title": "PRO Services Prices",
+      "description": "Gulf PRO services priced honestly: which fees the government",
+      "author": "PRO Services Prices",
+      "username": "proservicesprices",
+      "user_id": "7339bf0a-6147-42b8-b20e-cd72cd40ff6f",
+      "categories": [
+        "Manage Money"
+      ],
+      "tags": [
+        "intl",
+        "corporate",
+        "setup",
+        "calculator"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-05T01:40:02.443Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791164338/zzjzhzcpagjqrnn7trig.png",
+      "toolUrl": "https://proservicesprices.com/"
+    },
+    {
       "id": "motor-rewind-cost",
       "slug": "motor-rewind-cost",
       "title": "Motor Rewind Cost",
@@ -12190,5 +12217,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-05T01:37:10.708Z"
+  "lastUpdated": "2026-10-05T01:40:03.809Z"
 }
