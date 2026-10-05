@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "compare-call-answering",
+      "slug": "compare-call-answering",
+      "title": "Compare Call Answering",
+      "description": "What AI answering can and cannot do, and the compliance question",
+      "author": "Compare Call Answering",
+      "username": "comparecallanswering",
+      "user_id": "aac01dd5-1ad4-47cc-9851-46409395bb5f",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "answering",
+        "services",
+        "calculator"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-05T00:52:25.136Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791161480/bsgkuu0ltsvl0otutbe7.png",
+      "toolUrl": "https://comparecallanswering.com/"
+    },
+    {
       "id": "compare-answering",
       "slug": "compare-answering",
       "title": "Compare Answering",
@@ -11742,5 +11768,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-05T00:49:30.604Z"
+  "lastUpdated": "2026-10-05T00:52:26.337Z"
 }
