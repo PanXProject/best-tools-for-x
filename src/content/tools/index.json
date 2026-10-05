@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "current-annuity-rates",
+      "slug": "current-annuity-rates",
+      "title": "Current Annuity Rates",
+      "description": "What actually decides the income an annuity pays you",
+      "author": "Current Annuity Rates",
+      "username": "currentannuityrates",
+      "user_id": "54cf0baf-19de-4b1e-b1a5-b32296051889",
+      "categories": [
+        "Manage Money"
+      ],
+      "tags": [
+        "commercial",
+        "finance",
+        "calculator"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-05T00:57:45.300Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791161800/azioelxuoidwcecwn8it.png",
+      "toolUrl": "https://currentannuityrates.co.uk/"
+    },
+    {
       "id": "conveyancing-fees-ireland",
       "slug": "conveyancing-fees-ireland",
       "title": "Conveyancing Fees Ireland",
@@ -11793,5 +11819,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-05T00:55:11.299Z"
+  "lastUpdated": "2026-10-05T00:57:46.566Z"
 }
