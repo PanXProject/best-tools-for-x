@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "forensic-accountant-cost",
+      "slug": "forensic-accountant-cost",
+      "title": "Forensic Accountant Cost",
+      "description": "How forensic accounting instructions are priced in the UK, what",
+      "author": "Forensic Accountant Cost",
+      "username": "forensicaccountantcost",
+      "user_id": "117eab2d-0a64-45a5-86b4-bc351e19ee7c",
+      "categories": [
+        "Manage Money"
+      ],
+      "tags": [
+        "legal",
+        "finance",
+        "calculator"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-05T01:14:27.797Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791162803/i8lxuzpptxw0nywnxqul.png",
+      "toolUrl": "https://forensicaccountantcost.co.uk/"
+    },
+    {
       "id": "football-trials-database",
       "slug": "football-trials-database",
       "title": "Football Trials Database",
@@ -11954,5 +11980,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-05T01:11:39.979Z"
+  "lastUpdated": "2026-10-05T01:14:28.995Z"
 }
