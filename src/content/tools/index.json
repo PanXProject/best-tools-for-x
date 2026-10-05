@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "borehole-drilling-cost",
+      "slug": "borehole-drilling-cost",
+      "title": "Borehole Drilling Cost",
+      "description": "Straight prices for water borehole drilling, and quotes from UK",
+      "author": "Borehole Drilling Cost",
+      "username": "boreholedrillingcost",
+      "user_id": "7a6ce4e2-8c4e-4379-9ce9-929254e69138",
+      "categories": [
+        "Manage Money"
+      ],
+      "tags": [
+        "construction",
+        "surveying",
+        "calculator"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-05T00:40:42.597Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791160778/vzirbosrzfb88pj9vzhp.png",
+      "toolUrl": "https://boreholedrillingcost.co.uk/"
+    },
+    {
       "id": "bin-rules-checker",
       "slug": "bin-rules-checker",
       "title": "Bin Rules Checker",
@@ -11638,5 +11664,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-05T00:38:05.395Z"
+  "lastUpdated": "2026-10-05T00:40:43.894Z"
 }
