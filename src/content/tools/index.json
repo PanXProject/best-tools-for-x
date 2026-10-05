@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "toll-blenders",
+      "slug": "toll-blenders",
+      "title": "Toll Blenders",
+      "description": "Finding and qualifying US contract blending and chemical toll",
+      "author": "Toll Blenders",
+      "username": "tollblenders",
+      "user_id": "db1fde94-3fd1-44ab-9075-18d490b3b76d",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "trade",
+        "freight",
+        "calculator"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-05T01:51:59.900Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791165055/nql5duqhjikvuoq1usnx.png",
+      "toolUrl": "https://tollblenders.com/"
+    },
+    {
       "id": "seo-for-dentists",
       "slug": "seo-for-dentists",
       "title": "SEO for dentists",
@@ -12270,5 +12296,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-05T01:45:44.456Z"
+  "lastUpdated": "2026-10-05T01:52:01.156Z"
 }
