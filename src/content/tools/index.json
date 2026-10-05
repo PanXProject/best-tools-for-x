@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "drain-prices",
+      "slug": "drain-prices",
+      "title": "Drain Prices",
+      "description": "Straight answers on what drain work costs, before anyone turns up",
+      "author": "Drain Prices",
+      "username": "drainprices",
+      "user_id": "35bd2812-f08b-437f-b3d6-ab9d989ad1aa",
+      "categories": [
+        "Manage Money"
+      ],
+      "tags": [
+        "drainage",
+        "waste",
+        "services",
+        "calculator"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-05T01:03:31.805Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791162147/qbmqkcp2aalma4orwwqi.png",
+      "toolUrl": "https://drainprices.co.uk/"
+    },
+    {
       "id": "cyprus-non-dom-calculator",
       "slug": "cyprus-non-dom-calculator",
       "title": "Cyprus Non-Dom Calculator",
@@ -11846,5 +11873,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-05T01:00:36.341Z"
+  "lastUpdated": "2026-10-05T01:03:33.122Z"
 }
