@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "florida-solar-cost-calculator",
+      "slug": "florida-solar-cost-calculator",
+      "title": "Florida Solar Cost Calculator",
+      "description": "What solar costs on a Florida home in 2026: sized from your bill",
+      "author": "Florida Solar Cost Calculator",
+      "username": "floridasolarcostcalculator",
+      "user_id": "437a740f-94b3-4dd9-8eee-69f2afb00aca",
+      "categories": [
+        "Get & Keep Customers",
+        "Manage Money"
+      ],
+      "tags": [
+        "home",
+        "services",
+        "calculator"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-05T01:06:17.647Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791162311/qkihqhh5flzqcsri5wyn.png",
+      "toolUrl": "https://floridasolarcostcalculator.com/"
+    },
+    {
       "id": "drain-prices",
       "slug": "drain-prices",
       "title": "Drain Prices",
@@ -11873,5 +11900,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-05T01:03:33.122Z"
+  "lastUpdated": "2026-10-05T01:06:18.663Z"
 }
