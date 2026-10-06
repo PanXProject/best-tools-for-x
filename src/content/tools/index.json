@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "aibroll",
+      "slug": "aibroll",
+      "title": "AIBroll",
+      "description": "AI B-roll generator for motion design",
+      "author": "Toonbee",
+      "username": "toonbee",
+      "user_id": "f9b6682f-f8d4-4b1b-bcd5-fc83527bc85d",
+      "categories": [
+        "Get & Keep Customers",
+        "Create & Build"
+      ],
+      "tags": [
+        "ai-b-roll-generator",
+        "motion-graphics",
+        "text-to-video",
+        "video-editing",
+        "faceless-video"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-06T08:22:15.131Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791274923/qaqdbqmdraspwdfv81pk.jpg",
+      "toolUrl": "https://aibroll.org/"
+    },
+    {
       "id": "tanzhang-market-stall-surplus-calculator",
       "slug": "tanzhang-market-stall-surplus-calculator",
       "title": "Tanzhang Market Stall Surplus Calculator",
@@ -12458,5 +12487,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-06T00:03:51.013Z"
+  "lastUpdated": "2026-10-06T08:22:16.292Z"
 }
