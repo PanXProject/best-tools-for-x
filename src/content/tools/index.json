@@ -1,6 +1,31 @@
 {
   "tools": [
     {
+      "id": "tanzhang-market-stall-surplus-calculator",
+      "slug": "tanzhang-market-stall-surplus-calculator",
+      "title": "Tanzhang Market Stall Surplus Calculator",
+      "description": "Free CNY event-surplus calculator for market sellers",
+      "author": "Tanzhang team",
+      "username": "tanzhang",
+      "user_id": "93971430-db76-48a0-85e1-8c1e1f86a5a8",
+      "categories": [
+        "Run Business",
+        "Manage Money"
+      ],
+      "tags": [
+        "calculator"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-06T00:03:49.294Z",
+      "heroImage": "",
+      "toolUrl": "https://tanzhang-market-kit.hypebeast2k17.chatgpt.site/en"
+    },
+    {
       "id": "capvant",
       "slug": "capvant",
       "title": "Capvant",
@@ -12433,5 +12458,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-05T16:52:21.732Z"
+  "lastUpdated": "2026-10-06T00:03:51.013Z"
 }
