@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "ltx-2-5",
+      "slug": "ltx-2-5",
+      "title": "LTX 2.5",
+      "description": "Create Stunning Videos in Seconds with LTX 2.5",
+      "author": "josen",
+      "username": "lee",
+      "user_id": "960a7401-5bfe-4b03-ac40-5be16fe64b64",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "multi-image-blending",
+        "image-to-video",
+        "text-to-video",
+        "ai-image-generator",
+        "ai-video-generator"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app"
+      ],
+      "publishDate": "2026-10-06T10:33:19.996Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791282714/lfqrvhbnecqfcz27cx9x.png",
+      "toolUrl": "https://4k-videos.com/"
+    },
+    {
       "id": "seedance-2-5-ai-video",
       "slug": "seedance-2-5-ai-video",
       "title": "Seedance 2.5 AI Video",
@@ -12545,5 +12574,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-06T10:30:04.398Z"
+  "lastUpdated": "2026-10-06T10:33:21.318Z"
 }
