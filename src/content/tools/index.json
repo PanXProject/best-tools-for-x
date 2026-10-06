@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "gemini-omni-flash",
+      "slug": "gemini-omni-flash",
+      "title": " Gemini Omni Flash",
+      "description": "AI Image & Video Generator with Multi-Image Blending & 4K Studio",
+      "author": "josen",
+      "username": "lee",
+      "user_id": "960a7401-5bfe-4b03-ac40-5be16fe64b64",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai-video-generator",
+        "ai-image-generator",
+        "text-to-video",
+        "image-to-video",
+        "multi-image-blending"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app"
+      ],
+      "publishDate": "2026-10-06T10:23:58.604Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791281762/tljo34cykdzmzhyomokd.png",
+      "toolUrl": "https://gemini-omni.dev/"
+    },
+    {
       "id": "aibroll",
       "slug": "aibroll",
       "title": "AIBroll",
@@ -12487,5 +12516,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-06T08:22:16.292Z"
+  "lastUpdated": "2026-10-06T10:23:59.723Z"
 }
