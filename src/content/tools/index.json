@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "seedance-2-5-ai-video",
+      "slug": "seedance-2-5-ai-video",
+      "title": "Seedance 2.5 AI Video",
+      "description": "Native 30s AI Video Generator with 50+ Multimodal References & Audio ",
+      "author": "josen",
+      "username": "lee",
+      "user_id": "960a7401-5bfe-4b03-ac40-5be16fe64b64",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai-video-generator",
+        "ai-image-generator",
+        "text-to-video",
+        "image-to-video",
+        "multi-image-blending"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app"
+      ],
+      "publishDate": "2026-10-06T10:30:01.935Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791282318/fopicwgb7dtoyearea9i.png",
+      "toolUrl": "https://seedance25.tech/"
+    },
+    {
       "id": "gemini-omni-flash",
       "slug": "gemini-omni-flash",
       "title": " Gemini Omni Flash",
@@ -12516,5 +12545,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-06T10:23:59.723Z"
+  "lastUpdated": "2026-10-06T10:30:04.398Z"
 }
