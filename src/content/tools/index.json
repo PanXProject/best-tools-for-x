@@ -1,6 +1,36 @@
 {
   "tools": [
     {
+      "id": "kirnu",
+      "slug": "kirnu",
+      "title": "Kirnu (كرنو)",
+      "description": "أدوات عربية مجانية أونلاين تعمل مباشرة في متصفحك بدون تسجيل",
+      "author": "Kirnu (كرنو)",
+      "username": "getkirnu",
+      "user_id": "9c79099a-0353-4826-9e7b-40d16e085a67",
+      "categories": [
+        "Create & Build",
+        "Run Business",
+        "Manage Money"
+      ],
+      "tags": [
+        "arabic",
+        "calculator",
+        "pdf",
+        "privacy",
+        "productivity"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-07T19:39:14.006Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791401330/bndhkl52vo4v0aj0mfhd.png",
+      "toolUrl": "https://getkirnu.com/ar/"
+    },
+    {
       "id": "ltx-2-5",
       "slug": "ltx-2-5",
       "title": "LTX 2.5",
@@ -12574,5 +12604,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-06T10:33:21.318Z"
+  "lastUpdated": "2026-10-07T19:39:15.425Z"
 }
