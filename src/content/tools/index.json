@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "currawong-china-usci-checker",
+      "slug": "currawong-china-usci-checker",
+      "title": "Currawong China USCI Checker",
+      "description": "Check Chinese business ID format and check digit for free.",
+      "author": "Bao L. Zhou (Currawong)",
+      "username": "currawong",
+      "user_id": "f6ad2ba5-9739-411f-aac5-432b5dd3d1e7",
+      "categories": [
+        "Run Business",
+        "Understand & Improve"
+      ],
+      "tags": [
+        "calculator",
+        "sourcing",
+        "research"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-08T00:25:18.295Z",
+      "heroImage": "",
+      "toolUrl": "https://currawongweb.com/verify/china-usci-checker/"
+    },
+    {
       "id": "kirnu",
       "slug": "kirnu",
       "title": "Kirnu (كرنو)",
@@ -12604,5 +12631,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-07T19:39:15.425Z"
+  "lastUpdated": "2026-10-08T00:25:19.573Z"
 }
