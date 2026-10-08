@@ -1,6 +1,30 @@
 {
   "tools": [
     {
+      "id": "image-to-stl-imagetostl-pro",
+      "slug": "image-to-stl-imagetostl-pro",
+      "title": "Image to STL (imagetostl.pro)",
+      "description": "Turn images into previewable STL model drafts for 3D printing",
+      "author": "Peng Kun",
+      "username": "toolsift",
+      "user_id": "b134fb52-90d8-4f03-94f8-2ad2fafed361",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "3d-printing"
+      ],
+      "pricing": {
+        "model": "free-trial"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-08T02:33:14.063Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791426711/f4j3ub67j6eckm9ktv4h.jpg",
+      "toolUrl": "https://imagetostl.pro/"
+    },
+    {
       "id": "currawong-china-usci-checker",
       "slug": "currawong-china-usci-checker",
       "title": "Currawong China USCI Checker",
@@ -12631,5 +12655,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-08T00:25:19.573Z"
+  "lastUpdated": "2026-10-08T02:33:15.330Z"
 }
