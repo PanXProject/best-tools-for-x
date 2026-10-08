@@ -1,6 +1,30 @@
 {
   "tools": [
     {
+      "id": "realtyphoto-ai-realtyphoto-net",
+      "slug": "realtyphoto-ai-realtyphoto-net",
+      "title": "RealtyPhoto AI (realtyphoto.net)",
+      "description": "Enhance real estate photos and virtually stage empty rooms with AI.",
+      "author": "Peng Kun",
+      "username": "toolsift",
+      "user_id": "b134fb52-90d8-4f03-94f8-2ad2fafed361",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "real-estate"
+      ],
+      "pricing": {
+        "model": "free-trial"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-08T04:34:19.672Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791434052/b3wztsvychts952uh8qz.jpg",
+      "toolUrl": "https://realtyphoto.net/"
+    },
+    {
       "id": "videocutout-videocutout-net",
       "slug": "videocutout-videocutout-net",
       "title": "VideoCutout (videocutout.net)",
@@ -12727,5 +12751,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-08T04:10:34.461Z"
+  "lastUpdated": "2026-10-08T04:34:20.842Z"
 }
