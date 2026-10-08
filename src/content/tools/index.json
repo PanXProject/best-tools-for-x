@@ -1,6 +1,30 @@
 {
   "tools": [
     {
+      "id": "image-translator-imagetranslator-tools",
+      "slug": "image-translator-imagetranslator-tools",
+      "title": "Image Translator (imagetranslator.tools)",
+      "description": "Translate text within images while preserving visual layout and style",
+      "author": "Peng Kun",
+      "username": "toolsift",
+      "user_id": "b134fb52-90d8-4f03-94f8-2ad2fafed361",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "image-translation"
+      ],
+      "pricing": {
+        "model": "free-trial"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-08T02:44:12.526Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791427445/k87mk5g6fo8o7qzthpox.jpg",
+      "toolUrl": "https://imagetranslator.tools/"
+    },
+    {
       "id": "image-to-stl-imagetostl-pro",
       "slug": "image-to-stl-imagetostl-pro",
       "title": "Image to STL (imagetostl.pro)",
@@ -12655,5 +12679,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-08T02:33:15.330Z"
+  "lastUpdated": "2026-10-08T02:44:13.908Z"
 }
