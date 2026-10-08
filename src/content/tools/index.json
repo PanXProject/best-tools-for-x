@@ -1,6 +1,30 @@
 {
   "tools": [
     {
+      "id": "videocutout-videocutout-net",
+      "slug": "videocutout-videocutout-net",
+      "title": "VideoCutout (videocutout.net)",
+      "description": "Remove video backgrounds with AI and export transparent WebM.",
+      "author": "Peng Kun",
+      "username": "toolsift",
+      "user_id": "b134fb52-90d8-4f03-94f8-2ad2fafed361",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "video-background-removal"
+      ],
+      "pricing": {
+        "model": "free-trial"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-08T04:10:33.345Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791432525/dzwfasugowhpxfztwhka.jpg",
+      "toolUrl": "https://videocutout.net/"
+    },
+    {
       "id": "objectremover-objectremover-pro",
       "slug": "objectremover-objectremover-pro",
       "title": "ObjectRemover (objectremover.pro)",
@@ -12703,5 +12727,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-08T02:56:15.607Z"
+  "lastUpdated": "2026-10-08T04:10:34.461Z"
 }
