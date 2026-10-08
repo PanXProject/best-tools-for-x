@@ -1,6 +1,30 @@
 {
   "tools": [
     {
+      "id": "objectremover-objectremover-pro",
+      "slug": "objectremover-objectremover-pro",
+      "title": "ObjectRemover (objectremover.pro)",
+      "description": "Remove unwanted objects from video clips with an English prompt",
+      "author": "Peng Kun",
+      "username": "toolsift",
+      "user_id": "b134fb52-90d8-4f03-94f8-2ad2fafed361",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "video-editing"
+      ],
+      "pricing": {
+        "model": "free-trial"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-08T02:56:14.385Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791428172/orqhq334k7l0yavler2p.jpg",
+      "toolUrl": "https://objectremover.pro/"
+    },
+    {
       "id": "image-translator-imagetranslator-tools",
       "slug": "image-translator-imagetranslator-tools",
       "title": "Image Translator (imagetranslator.tools)",
@@ -12679,5 +12703,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-08T02:44:13.908Z"
+  "lastUpdated": "2026-10-08T02:56:15.607Z"
 }
