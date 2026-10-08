@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "feldy",
+      "slug": "feldy",
+      "title": "Feldy",
+      "description": "Gentle Feldenkrais lessons for less pain and more ease",
+      "author": "Feldy",
+      "username": "feldy",
+      "user_id": "afde2a86-4402-4c21-a2f0-c6fbd5ac3c77",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "wellness",
+        "health",
+        "feldenkrais",
+        "movement",
+        "pain-relief"
+      ],
+      "pricing": {
+        "model": "free-trial"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app"
+      ],
+      "publishDate": "2026-10-08T07:31:31.957Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791444651/ubbjna1ras1ter9b0igp.png",
+      "toolUrl": "https://feldy.me/"
+    },
+    {
       "id": "realtyphoto-ai-realtyphoto-net",
       "slug": "realtyphoto-ai-realtyphoto-net",
       "title": "RealtyPhoto AI (realtyphoto.net)",
@@ -12751,5 +12780,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-08T04:34:20.842Z"
+  "lastUpdated": "2026-10-08T07:31:33.355Z"
 }
