@@ -1,6 +1,31 @@
 {
   "tools": [
     {
+      "id": "dcs4",
+      "slug": "dcs4",
+      "title": "dcs4",
+      "description": "Find available 4-letter .coms before they drop",
+      "author": "Ray B",
+      "username": "dcs4",
+      "user_id": "700218fa-1800-4bc2-acde-2acaf064b1b7",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "domains",
+        "domain-investing"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-08T22:22:31.139Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791498135/fjhe2nmzkx8tx2d0g13k.png",
+      "toolUrl": "https://dcs4.com/"
+    },
+    {
       "id": "tta1",
       "slug": "tta1",
       "title": "tta1",
@@ -12804,5 +12829,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-08T08:24:58.274Z"
+  "lastUpdated": "2026-10-08T22:22:32.513Z"
 }
