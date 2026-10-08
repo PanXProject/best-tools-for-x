@@ -1,6 +1,30 @@
 {
   "tools": [
     {
+      "id": "tta1",
+      "slug": "tta1",
+      "title": "tta1",
+      "description": "Turn articles, X threads and PDFs into audio",
+      "author": "Ray B",
+      "username": "rayb_tta1",
+      "user_id": "36407e58-be1c-4261-aa78-6efbe6ac9065",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "tts"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-08T08:24:56.875Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791447881/nypbafubzup3qipz0wnc.png",
+      "toolUrl": "https://www.tta1.com/"
+    },
+    {
       "id": "feldy",
       "slug": "feldy",
       "title": "Feldy",
@@ -12780,5 +12804,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-08T07:31:33.355Z"
+  "lastUpdated": "2026-10-08T08:24:58.274Z"
 }
