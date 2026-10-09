@@ -1,6 +1,30 @@
 {
   "tools": [
     {
+      "id": "ai-bikini-generator",
+      "slug": "ai-bikini-generator",
+      "title": "AI Bikini Generator",
+      "description": "AI Bikini Generator is an adult AI swimwear try-on tool. ",
+      "author": "Humo AI",
+      "username": "poppy",
+      "user_id": "4809bcea-d0f2-4f2f-b55a-581f988ffa62",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "pricing": {
+        "model": "one-time-payment"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-09T02:33:41.077Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791513133/aafqaloatigbkhnfxjsj.png",
+      "toolUrl": "https://aibikinigen.com/"
+    },
+    {
       "id": "minimax-music-ai-generator",
       "slug": "minimax-music-ai-generator",
       "title": "MiniMax Music AI Generator",
@@ -12949,5 +12973,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-09T02:29:17.378Z"
+  "lastUpdated": "2026-10-09T02:33:42.409Z"
 }
