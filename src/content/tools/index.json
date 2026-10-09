@@ -1,6 +1,30 @@
 {
   "tools": [
     {
+      "id": "minimax-music-ai-generator",
+      "slug": "minimax-music-ai-generator",
+      "title": "MiniMax Music AI Generator",
+      "description": "Create vocal songs and instrumentals from prompts and lyrics.",
+      "author": "heheda",
+      "username": "heheda",
+      "user_id": "aee0aab4-e71c-482a-994b-265bc9889b1c",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai-music"
+      ],
+      "pricing": {
+        "model": "one-time-payment"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-09T02:29:16.267Z",
+      "heroImage": "",
+      "toolUrl": "https://www.minimax-music.com/"
+    },
+    {
       "id": "minimax-music-3-0",
       "slug": "minimax-music-3-0",
       "title": "MiniMax Music 3.0",
@@ -12925,5 +12949,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-09T02:28:02.555Z"
+  "lastUpdated": "2026-10-09T02:29:17.378Z"
 }
