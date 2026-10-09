@@ -1,6 +1,30 @@
 {
   "tools": [
     {
+      "id": "seedance-2-5-video-generator-on-seedance25ai",
+      "slug": "seedance-2-5-video-generator-on-seedance25ai",
+      "title": "Seedance 2.5 Video Generator on Seedance25AI",
+      "description": "Create videos up to 30 seconds with multimodal references and editing.",
+      "author": "heheda",
+      "username": "heheda",
+      "user_id": "aee0aab4-e71c-482a-994b-265bc9889b1c",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai-video"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-09T02:11:59.719Z",
+      "heroImage": "",
+      "toolUrl": "https://seedance25ai.cc/"
+    },
+    {
       "id": "dcs4",
       "slug": "dcs4",
       "title": "dcs4",
@@ -12829,5 +12853,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-08T22:22:32.513Z"
+  "lastUpdated": "2026-10-09T02:12:01.027Z"
 }
