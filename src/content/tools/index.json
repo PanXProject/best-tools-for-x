@@ -1,6 +1,30 @@
 {
   "tools": [
     {
+      "id": "seedance-2-5-video-generator",
+      "slug": "seedance-2-5-video-generator",
+      "title": "Seedance 2.5 Video Generator",
+      "description": "Create 30-second videos with up to 50 multimodal references.",
+      "author": "heheda",
+      "username": "heheda",
+      "user_id": "aee0aab4-e71c-482a-994b-265bc9889b1c",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "seedance"
+      ],
+      "pricing": {
+        "model": "one-time-payment"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-09T02:24:48.848Z",
+      "heroImage": "",
+      "toolUrl": "https://www.seedancepro.net/seedance/seedance-2-5"
+    },
+    {
       "id": "seedance-2-5-ai-video-generator-on-seedance2pro",
       "slug": "seedance-2-5-ai-video-generator-on-seedance2pro",
       "title": "Seedance 2.5 AI Video Generator on Seedance2Pro",
@@ -12877,5 +12901,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-09T02:13:15.729Z"
+  "lastUpdated": "2026-10-09T02:24:49.940Z"
 }
