@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "bekadoo",
+      "slug": "bekadoo",
+      "title": "Bekadoo",
+      "description": "Bekadoo – Pomodoro Timer with White Noise for Deep Focus",
+      "author": "Zihao FU",
+      "username": "zion",
+      "user_id": "bc5bd51b-8e1b-483d-91a8-1b071fb77429",
+      "categories": [
+        "Create & Build",
+        "Understand & Improve"
+      ],
+      "tags": [
+        "ai",
+        "productivity",
+        "pomodoro-timer"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-09T06:33:01.149Z",
+      "heroImage": "",
+      "toolUrl": "https://www.bekadoo.com/"
+    },
+    {
       "id": "kling-4-0-ai",
       "slug": "kling-4-0-ai",
       "title": "kling 4.0 AI",
@@ -12998,5 +13025,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-09T05:41:39.203Z"
+  "lastUpdated": "2026-10-09T06:33:02.584Z"
 }
