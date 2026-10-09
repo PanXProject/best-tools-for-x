@@ -1,6 +1,30 @@
 {
   "tools": [
     {
+      "id": "seedance-2-5-ai-video-generator-on-seedance2pro",
+      "slug": "seedance-2-5-ai-video-generator-on-seedance2pro",
+      "title": "Seedance 2.5 AI Video Generator on Seedance2Pro",
+      "description": "Create native 30-second clips with multimodal references and editing.",
+      "author": "heheda",
+      "username": "heheda",
+      "user_id": "aee0aab4-e71c-482a-994b-265bc9889b1c",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai-video"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-09T02:13:14.309Z",
+      "heroImage": "",
+      "toolUrl": "https://www.seedance2pro.net/seedance/seedance-2-5"
+    },
+    {
       "id": "seedance-2-5-video-generator-on-seedance25ai",
       "slug": "seedance-2-5-video-generator-on-seedance25ai",
       "title": "Seedance 2.5 Video Generator on Seedance25AI",
@@ -12853,5 +12877,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-09T02:12:01.027Z"
+  "lastUpdated": "2026-10-09T02:13:15.729Z"
 }
