@@ -1,6 +1,31 @@
 {
   "tools": [
     {
+      "id": "hairforge",
+      "slug": "hairforge",
+      "title": "hairforge",
+      "title_en": "hairforge",
+      "description": "Compare beard styles and preview a look that suits your face",
+      "author": "Toolina",
+      "username": "toolina",
+      "user_id": "1c245921-d73b-46c3-a672-58577b0d04b4",
+      "categories": [
+        "إنشاء و تطوير"
+      ],
+      "tags": [
+        "beard-styles"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2026-10-09T16:02:02.748Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791561698/shqkcfurlw4fslttydzs.png",
+      "toolUrl": "https://beardstyles.co/"
+    },
+    {
       "id": "video-upscaler",
       "slug": "video-upscaler",
       "title": "Video Upscaler — تحسين الفيديو",
@@ -5769,5 +5794,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-09T06:56:08.083Z"
+  "lastUpdated": "2026-10-09T16:02:04.725Z"
 }
