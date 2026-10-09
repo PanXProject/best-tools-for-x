@@ -1,6 +1,31 @@
 {
   "tools": [
     {
+      "id": "kling-4-0-ai",
+      "slug": "kling-4-0-ai",
+      "title": "kling 4.0 AI",
+      "description": "Kling 4.0, Kuaishou’s new AI video model for native 30s 4K videos. ",
+      "author": "Humo AI",
+      "username": "poppy",
+      "user_id": "4809bcea-d0f2-4f2f-b55a-581f988ffa62",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "pricing": {
+        "model": "one-time-payment"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app"
+      ],
+      "publishDate": "2026-10-09T02:43:37.762Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791513756/brr5b8narp43lr0r2e9c.png",
+      "toolUrl": "https://kling-4.art/"
+    },
+    {
       "id": "ai-bikini-generator",
       "slug": "ai-bikini-generator",
       "title": "AI Bikini Generator",
@@ -12973,5 +12998,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-09T02:33:42.409Z"
+  "lastUpdated": "2026-10-09T02:43:39.093Z"
 }
