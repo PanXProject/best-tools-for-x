@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "video-upscaler",
+      "slug": "video-upscaler",
+      "title": "Video Upscaler — تحسين الفيديو",
+      "title_en": "Video Upscaler",
+      "description": "تحسين الفيديو بالذكاء الاصطناعي وتكبيره إلى HD أو 4K",
+      "author": "Toolina",
+      "username": "toolina",
+      "user_id": "1c245921-d73b-46c3-a672-58577b0d04b4",
+      "categories": [
+        "إنشاء و تطوير"
+      ],
+      "tags": [
+        "video",
+        "ai",
+        "upscaling"
+      ],
+      "pricing": {
+        "model": "اشتراك"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2026-10-09T06:56:06.044Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791528919/tjy3rmh1cqiwpadhnlla.png",
+      "toolUrl": "https://videoupscaler.video/"
+    },
+    {
       "id": "image-describer",
       "slug": "image-describer",
       "title": "Image Describer — واصف الصور",
@@ -5742,5 +5769,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-09T01:12:28.714Z"
+  "lastUpdated": "2026-10-09T06:56:08.083Z"
 }
