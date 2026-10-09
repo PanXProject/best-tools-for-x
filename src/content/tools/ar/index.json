@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "image-describer",
+      "slug": "image-describer",
+      "title": "Image Describer — واصف الصور",
+      "title_en": "Image Describer",
+      "description": "حوّل الصور إلى أوصاف ونص بديل ومسودات موجهات",
+      "author": "Toolina",
+      "username": "toolina",
+      "user_id": "1c245921-d73b-46c3-a672-58577b0d04b4",
+      "categories": [
+        "إنشاء و تطوير"
+      ],
+      "tags": [
+        "وصف-الصور",
+        "ذكاء-اصطناعي"
+      ],
+      "pricing": {
+        "model": "فريميوم"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2026-10-09T01:12:27.177Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791508308/aiuxji2j3gh7hrecw06g.png",
+      "toolUrl": "https://imagedescriber.dev/"
+    },
+    {
       "id": "ardak-simple-quotes",
       "slug": "ardak-simple-quotes",
       "title": "عرضك ببساطة",
@@ -5716,5 +5742,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-02T16:18:32.544Z"
+  "lastUpdated": "2026-10-09T01:12:28.714Z"
 }
