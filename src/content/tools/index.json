@@ -1,6 +1,30 @@
 {
   "tools": [
     {
+      "id": "blur-background",
+      "slug": "blur-background",
+      "title": "Blur Background",
+      "description": "Blur photo backgrounds online while keeping subjects clear.",
+      "author": "Toolina",
+      "username": "toolina",
+      "user_id": "1c245921-d73b-46c3-a672-58577b0d04b4",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "photo-editing"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-09T07:04:28.936Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791529391/wumlr8k7ccnssmlkxdxz.png",
+      "toolUrl": "https://blurbackground.vip/"
+    },
+    {
       "id": "bekadoo",
       "slug": "bekadoo",
       "title": "Bekadoo",
@@ -13025,5 +13049,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-09T06:33:02.584Z"
+  "lastUpdated": "2026-10-09T07:04:30.786Z"
 }
