@@ -1,6 +1,30 @@
 {
   "tools": [
     {
+      "id": "minimax-music-3-0",
+      "slug": "minimax-music-3-0",
+      "title": "MiniMax Music 3.0",
+      "description": "Turn prompts and lyrics into vocal or instrumental songs.",
+      "author": "heheda",
+      "username": "heheda",
+      "user_id": "aee0aab4-e71c-482a-994b-265bc9889b1c",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "minimax-music"
+      ],
+      "pricing": {
+        "model": "one-time-payment"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-09T02:28:01.141Z",
+      "heroImage": "",
+      "toolUrl": "https://www.minimax-music.com/minimax-music-3"
+    },
+    {
       "id": "seedance-2-5-video-generator",
       "slug": "seedance-2-5-video-generator",
       "title": "Seedance 2.5 Video Generator",
@@ -12901,5 +12925,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-09T02:24:49.940Z"
+  "lastUpdated": "2026-10-09T02:28:02.555Z"
 }
