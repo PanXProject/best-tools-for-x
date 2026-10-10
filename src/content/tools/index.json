@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "nafy-ai",
+      "slug": "nafy-ai",
+      "title": "Nafy AI",
+      "description": "Create original music from ideas in minutes",
+      "author": "Nafy AI",
+      "username": "nafyai",
+      "user_id": "72feb335-e886-46a4-94ae-4948e0f93833",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai-music",
+        "music-generation",
+        "audio-creation"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-10T03:11:33.653Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791601847/dfd6yh8gi1fsszmhjbvs.png",
+      "toolUrl": "https://nafy.ai/"
+    },
+    {
       "id": "kling-ai-video",
       "slug": "kling-ai-video",
       "title": "Kling AI Video",
@@ -13079,5 +13105,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-10T02:28:42.196Z"
+  "lastUpdated": "2026-10-10T03:11:34.940Z"
 }
