@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "written-vows-wedding-seating-chart-maker",
+      "slug": "written-vows-wedding-seating-chart-maker",
+      "title": "Written Vows Wedding Seating Chart Maker",
+      "description": "Free wedding seating chart maker: no account, no watermark",
+      "author": "Written Vows",
+      "username": "writtenvows",
+      "user_id": "4bd204f8-f567-4a5d-9a16-b08cc3200a31",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "wedding",
+        "seating-chart",
+        "event-planning"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-10T19:21:20.720Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791660030/gzjfkpglvlwmydepseym.png",
+      "toolUrl": "https://writtenvows.com/wedding-seating-chart/"
+    },
+    {
       "id": "stencilmaker-app",
       "slug": "stencilmaker-app",
       "title": "StencilMaker.app",
@@ -13264,5 +13290,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-10T15:45:07.933Z"
+  "lastUpdated": "2026-10-10T19:21:22.202Z"
 }
