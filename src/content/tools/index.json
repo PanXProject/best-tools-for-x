@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "roomsgpt",
+      "slug": "roomsgpt",
+      "title": "RoomsGPT",
+      "description": "Free AI interior design from a photo",
+      "author": "Wayde Lyle",
+      "username": "waydemlyle",
+      "user_id": "0baa9ace-338c-4f24-854f-dee228685bba",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai",
+        "interior-design",
+        "home-design"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-10T11:14:43.195Z",
+      "heroImage": "",
+      "toolUrl": "https://www.roomsgpt.io/"
+    },
+    {
       "id": "video2x",
       "slug": "video2x",
       "title": "Video2X",
@@ -13186,5 +13212,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-10T08:44:59.658Z"
+  "lastUpdated": "2026-10-10T11:14:44.505Z"
 }
