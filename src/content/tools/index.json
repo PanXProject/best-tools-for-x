@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "similarclip",
+      "slug": "similarclip",
+      "title": "SimilarClip",
+      "description": "Pick a niche, connect a fresh YouTube channel, set a schedule",
+      "author": "Jordan Blake",
+      "username": "similarclip534",
+      "user_id": "e3c68b94-493d-418b-900f-31342371ed01",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai-video",
+        "youtube-automation",
+        "faceless-video",
+        "content-creation",
+        "video-generator"
+      ],
+      "pricing": {
+        "model": "subscription"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-10T23:27:58.483Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791674730/uikutwrk6gzfkb5lon7k.png",
+      "toolUrl": "https://similarclip.com/"
+    },
+    {
       "id": "written-vows-wedding-seating-chart-maker",
       "slug": "written-vows-wedding-seating-chart-maker",
       "title": "Written Vows Wedding Seating Chart Maker",
@@ -13290,5 +13318,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-10T19:21:22.202Z"
+  "lastUpdated": "2026-10-10T23:27:59.598Z"
 }
