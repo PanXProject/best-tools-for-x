@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "coldleads",
+      "slug": "coldleads",
+      "title": "Coldleads",
+      "description": "Callable B2B leads from Google Maps for cold calling",
+      "author": "Coldleads",
+      "username": "coldleads",
+      "user_id": "9b643f36-a6ec-4281-83ab-2ebe3886472b",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "lead-generation",
+        "sales-prospecting",
+        "cold-calling",
+        "b2b-leads",
+        "google-maps-leads"
+      ],
+      "pricing": {
+        "model": "subscription"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-10T12:15:11.056Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791634509/ymkaruk9hf6lr0lbdbas.jpg",
+      "toolUrl": "https://www.coldleads.net/"
+    },
+    {
       "id": "roomsgpt",
       "slug": "roomsgpt",
       "title": "RoomsGPT",
@@ -13212,5 +13240,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-10T11:14:44.505Z"
+  "lastUpdated": "2026-10-10T12:15:12.163Z"
 }
