@@ -1,6 +1,30 @@
 {
   "tools": [
     {
+      "id": "stencilmaker-app",
+      "slug": "stencilmaker-app",
+      "title": "StencilMaker.app",
+      "description": "Turn photos into printable stencils, with layers and bridges.",
+      "author": "StencilMaker.app",
+      "username": "stencilmakerapp",
+      "user_id": "91d7d483-66f2-48fc-a92a-c2020d1302f7",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "stencils"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-10T15:45:06.681Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791646950/kpv9qkhgvx0bvtlqpfnh.webp",
+      "toolUrl": "https://stencilmaker.app/"
+    },
+    {
       "id": "coldleads",
       "slug": "coldleads",
       "title": "Coldleads",
@@ -13240,5 +13264,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-10T12:15:12.163Z"
+  "lastUpdated": "2026-10-10T15:45:07.933Z"
 }
