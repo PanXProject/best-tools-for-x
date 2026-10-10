@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "video2x",
+      "slug": "video2x",
+      "title": "Video2X",
+      "description": "AI Video Upscaler for Sharper 4K Video",
+      "author": "Lunabella",
+      "username": "lunabella",
+      "user_id": "7ce31af0-1e0e-4421-b53f-bd893d8f32a6",
+      "categories": [
+        "Create & Build",
+        "Understand & Improve"
+      ],
+      "tags": [
+        "ai",
+        "video-upscaler",
+        "video-enhancement",
+        "4k-video",
+        "video-editing"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-10T08:44:58.414Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791621741/ly6ytzvnjzev7kmb2ru3.png",
+      "toolUrl": "https://video-2x.com/"
+    },
+    {
       "id": "claude-resets",
       "slug": "claude-resets",
       "title": "Claude Resets",
@@ -13157,5 +13186,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-10T07:42:42.248Z"
+  "lastUpdated": "2026-10-10T08:44:59.658Z"
 }
