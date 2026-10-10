@@ -1,6 +1,30 @@
 {
   "tools": [
     {
+      "id": "minimax-h3",
+      "slug": "minimax-h3",
+      "title": "MiniMax H3",
+      "description": "Independent browser video workspace for text and image inputs",
+      "author": "pp",
+      "username": "pp-minimax3",
+      "user_id": "dbbf3a52-7547-4138-b3fb-e4ef23df999f",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "video"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-10T05:15:46.907Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791609226/nwcqafkku1im3tlygijf.png",
+      "toolUrl": "https://minimax3.com/"
+    },
+    {
       "id": "nafy-ai",
       "slug": "nafy-ai",
       "title": "Nafy AI",
@@ -13105,5 +13129,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-10T03:11:34.940Z"
+  "lastUpdated": "2026-10-10T05:15:47.975Z"
 }
