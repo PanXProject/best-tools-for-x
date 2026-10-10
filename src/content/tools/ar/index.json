@@ -289,7 +289,9 @@
         "model": "فريميوم"
       },
       "softwareTypes": [
-        "تطبيق سطح المكتب"
+        "تطبيق سطح المكتب",
+        "برنامج مساعد",
+        "مستضاف ذاتيًا"
       ],
       "publishDate": "2026-08-28T13:35:15.821Z",
       "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1789415313/pd4osedaoa5twg1c1wc0.png",
@@ -5794,5 +5796,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-10T15:01:58.765Z"
+  "lastUpdated": "2026-10-10T15:42:43.569Z"
 }
