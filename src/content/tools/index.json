@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "claude-resets",
+      "slug": "claude-resets",
+      "title": "Claude Resets",
+      "description": "Free tracker of Claude Code usage-limit resets",
+      "author": "Claude Resets",
+      "username": "clauderesets4827",
+      "user_id": "4d767824-9412-4686-b8f9-3d802da681fa",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "developer-tools",
+        "claude-code",
+        "rss",
+        "api",
+        "mcp"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-10T07:42:41.191Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791618151/jexlhyxf48fvcknrpong.png",
+      "toolUrl": "https://claude-resets.com/"
+    },
+    {
       "id": "minimax-h3",
       "slug": "minimax-h3",
       "title": "MiniMax H3",
@@ -13129,5 +13157,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-10T05:15:47.975Z"
+  "lastUpdated": "2026-10-10T07:42:42.248Z"
 }
