@@ -1,6 +1,36 @@
 {
   "tools": [
     {
+      "id": "pocket-invoice",
+      "slug": "pocket-invoice",
+      "title": "Pocket Invoice",
+      "description": "Free invoices on web and mobile, with MCP for AI assistants",
+      "author": "Pocket Invoice Team",
+      "username": "pocketinvoice",
+      "user_id": "a5a7dd69-0569-451f-80ff-10b0ddd5eab8",
+      "categories": [
+        "Run Business",
+        "Manage Money"
+      ],
+      "tags": [
+        "invoicing",
+        "finance",
+        "productivity",
+        "mobile",
+        "mcp"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app"
+      ],
+      "publishDate": "2026-10-11T02:31:46.087Z",
+      "heroImage": "",
+      "toolUrl": "https://www.freedominvoice.com/"
+    },
+    {
       "id": "similarclip",
       "slug": "similarclip",
       "title": "SimilarClip",
@@ -13318,5 +13348,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-10T23:27:59.598Z"
+  "lastUpdated": "2026-10-11T02:31:47.372Z"
 }
