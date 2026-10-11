@@ -1,6 +1,31 @@
 {
   "tools": [
     {
+      "id": "digital-room-service",
+      "slug": "digital-room-service",
+      "title": "Digital Room Service",
+      "description": "Digital Guest Services. Intelligent Hotel Operations.",
+      "author": "Kirti Dixit Ojha",
+      "username": "digitalroomservice",
+      "user_id": "7300c89e-be21-4cdd-a759-4a5312f060b2",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "hotel-software",
+        "hospitality"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-11T10:20:07.967Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791713992/ksxgjq5bisqcbhs1rgh9.png",
+      "toolUrl": "https://digitalroomservice.com/"
+    },
+    {
       "id": "lut-generator",
       "slug": "lut-generator",
       "title": "LUT Generator",
@@ -13426,5 +13451,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-11T07:18:23.528Z"
+  "lastUpdated": "2026-10-11T10:20:09.204Z"
 }
