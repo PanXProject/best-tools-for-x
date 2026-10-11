@@ -7830,7 +7830,7 @@
       "id": "genbounty",
       "slug": "genbounty",
       "title": "Genbounty",
-      "description": "The AI Bug Bounty Platform - Independent adversarial testing for AI",
+      "description": "Prove your AI application Is safe and secure",
       "author": "Genbounty",
       "username": "genbounty",
       "user_id": "956daf18-87ef-42ce-bd06-ef10a45f0605",
@@ -7853,7 +7853,7 @@
         "web-app"
       ],
       "publishDate": "2025-11-10T18:45:43.962Z",
-      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1784674801/krzysv5xfxdpneuaztl1.png",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791723836/tarylysyxwab65kz6vxw.png",
       "toolUrl": "https://genbounty.com/",
       "dealCode": "TOOLSEEKR20",
       "dealText": "20% OFF YOUR FIRST FIRST BUDGET",
@@ -13451,5 +13451,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-11T10:20:09.204Z"
+  "lastUpdated": "2026-10-11T13:06:24.912Z"
 }
