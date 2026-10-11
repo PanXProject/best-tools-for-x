@@ -1,6 +1,30 @@
 {
   "tools": [
     {
+      "id": "sharpniq",
+      "slug": "sharpniq",
+      "title": "Sharpniq",
+      "description": "Sharpen blurry photos with local and cloud options",
+      "author": "Toolina",
+      "username": "toolina",
+      "user_id": "1c245921-d73b-46c3-a672-58577b0d04b4",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "photo-enhancement"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-11T06:10:10.951Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791698948/mmtvkbuhzk8gbsy5npy7.png",
+      "toolUrl": "https://unblurimage.me/"
+    },
+    {
       "id": "cryptoesim",
       "slug": "cryptoesim",
       "title": "CryptoeSIM",
@@ -13376,5 +13400,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-11T05:21:20.661Z"
+  "lastUpdated": "2026-10-11T06:10:12.082Z"
 }
