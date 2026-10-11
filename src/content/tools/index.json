@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "tonera",
+      "slug": "tonera",
+      "title": "Tonera",
+      "description": "MP3 to MIDI Converter",
+      "author": "Tonera",
+      "username": "tonera",
+      "user_id": "4013ad5e-5589-4eb6-b42b-ee5b3863663b",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "audio",
+        "midi",
+        "music",
+        "transcription"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-11T15:41:41.504Z",
+      "heroImage": "",
+      "toolUrl": "https://tonera.app/"
+    },
+    {
       "id": "digital-room-service",
       "slug": "digital-room-service",
       "title": "Digital Room Service",
@@ -13451,5 +13478,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-11T13:06:24.912Z"
+  "lastUpdated": "2026-10-11T15:41:42.804Z"
 }
