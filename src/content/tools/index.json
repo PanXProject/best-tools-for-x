@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "sprite-sheet-builder",
+      "slug": "sprite-sheet-builder",
+      "title": "Sprite Sheet Builder",
+      "description": "Free browser-based sprite sheet maker for game devs",
+      "author": "Sprite Sheet Builder",
+      "username": "spritesheetbuilder",
+      "user_id": "e9fe59d6-c078-4373-aea0-831fa0ec5fe0",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "game-development",
+        "sprites",
+        "pixel-art",
+        "game-assets",
+        "graphics"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-11T15:58:37.192Z",
+      "heroImage": "",
+      "toolUrl": "https://spritesheetbuilder.com/"
+    },
+    {
       "id": "tonera",
       "slug": "tonera",
       "title": "Tonera",
@@ -13478,5 +13506,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-11T15:41:42.804Z"
+  "lastUpdated": "2026-10-11T15:58:38.317Z"
 }
