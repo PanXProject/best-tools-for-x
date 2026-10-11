@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "visemix",
+      "slug": "visemix",
+      "title": "Visemix",
+      "title_en": "Visemix",
+      "description": "مزامنة الشفاه بالذكاء الاصطناعي وصور ناطقة من الصوت أو النص",
+      "author": "Toolina",
+      "username": "toolina",
+      "user_id": "1c245921-d73b-46c3-a672-58577b0d04b4",
+      "categories": [
+        "إنشاء و تطوير"
+      ],
+      "tags": [
+        "مزامنة-الشفاه",
+        "صور-ناطقة"
+      ],
+      "pricing": {
+        "model": "اشتراك"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2026-10-11T07:28:24.893Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791703673/w5vr7s3bwet0ws4tlvub.png",
+      "toolUrl": "https://lipsync.vip/"
+    },
+    {
       "id": "hairforge",
       "slug": "hairforge",
       "title": "hairforge",
@@ -5796,5 +5822,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-10T15:42:43.569Z"
+  "lastUpdated": "2026-10-11T07:28:26.211Z"
 }
