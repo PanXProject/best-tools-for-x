@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "lut-generator",
+      "slug": "lut-generator",
+      "title": "LUT Generator",
+      "description": "Reference-based .cube color looks for photos and SDR video frames",
+      "author": "Bank Statement Converter",
+      "username": "bankstmt",
+      "user_id": "462d77a9-48f3-46ed-89f9-3c44991d1a29",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "color-grading",
+        "lut",
+        "image-reference"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-11T07:18:22.437Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791703016/xclwvzml00gaf5kgwzdb.png",
+      "toolUrl": "https://ailutgenerator.online/"
+    },
+    {
       "id": "sharpniq",
       "slug": "sharpniq",
       "title": "Sharpniq",
@@ -13400,5 +13426,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-11T06:10:12.082Z"
+  "lastUpdated": "2026-10-11T07:18:23.528Z"
 }
