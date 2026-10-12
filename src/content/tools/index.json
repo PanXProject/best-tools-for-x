@@ -1,6 +1,36 @@
 {
   "tools": [
     {
+      "id": "silent-esim",
+      "slug": "silent-esim",
+      "title": "Silent eSIM",
+      "description": "Privacy travel eSIM. No KYC, no contract, 190+ countries.",
+      "author": "Silent eSIM",
+      "username": "silentesim",
+      "user_id": "57df0136-93ed-457c-8fbb-499c10cf58c2",
+      "categories": [
+        "Secure & Deploy",
+        "Connect & Collaborate"
+      ],
+      "tags": [
+        "esim",
+        "privacy",
+        "travel",
+        "no-kyc",
+        "payg"
+      ],
+      "pricing": {
+        "model": "pay-per-use"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app"
+      ],
+      "publishDate": "2026-10-12T07:59:46.646Z",
+      "heroImage": "",
+      "toolUrl": "https://silentesim.io/fr/esim-sans-abonnement"
+    },
+    {
       "id": "what-pets-cost",
       "slug": "what-pets-cost",
       "title": "What Pets Cost",
@@ -13534,5 +13564,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-11T17:03:58.094Z"
+  "lastUpdated": "2026-10-12T07:59:48.205Z"
 }
