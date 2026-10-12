@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "massvai",
+      "slug": "massvai",
+      "title": "Massvai",
+      "description": "AI full-stack Next.js app builder",
+      "author": "Sora2 Hub Team",
+      "username": "sora2hubteam",
+      "user_id": "62ef457f-1dc2-4ac3-bc56-41d3e509592e",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai",
+        "developer-tools",
+        "no-code",
+        "nextjs"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-12T08:58:08.925Z",
+      "heroImage": "",
+      "toolUrl": "https://massvai.com/"
+    },
+    {
       "id": "silent-esim",
       "slug": "silent-esim",
       "title": "Silent eSIM",
@@ -13564,5 +13591,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-12T07:59:48.205Z"
+  "lastUpdated": "2026-10-12T08:58:10.333Z"
 }
