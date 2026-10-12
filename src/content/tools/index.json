@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "sora2-hub",
+      "slug": "sora2-hub",
+      "title": "Sora2 Hub",
+      "description": "AI image and video generation studio",
+      "author": "Sora2 Hub Team",
+      "username": "sora2hubteam",
+      "user_id": "62ef457f-1dc2-4ac3-bc56-41d3e509592e",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai",
+        "video",
+        "image-generation"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-12T08:58:19.959Z",
+      "heroImage": "",
+      "toolUrl": "https://sora2hub.org/"
+    },
+    {
       "id": "massvai",
       "slug": "massvai",
       "title": "Massvai",
@@ -13591,5 +13617,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-12T08:58:10.333Z"
+  "lastUpdated": "2026-10-12T08:58:21.314Z"
 }
