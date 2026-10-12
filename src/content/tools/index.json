@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "gpt-image-generator-brand-moodboard-studio",
+      "slug": "gpt-image-generator-brand-moodboard-studio",
+      "title": "GPT Image Generator - Brand Moodboard Studio",
+      "description": "Explore brand moodboards in a browser.",
+      "author": "Jacky Peng",
+      "username": "jacky-peng-ai",
+      "user_id": "041941ed-dd14-4827-9c82-b803ce3b2b7c",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai-image-generation",
+        "brand-moodboards",
+        "visual-concepts"
+      ],
+      "pricing": {
+        "model": "free-trial"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-12T14:00:18.680Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791813570/kvk9uyjskkwyowng3tj6.png",
+      "toolUrl": "https://gptimagegenerator.org/"
+    },
+    {
       "id": "sora2-hub",
       "slug": "sora2-hub",
       "title": "Sora2 Hub",
@@ -13617,5 +13643,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-12T08:58:21.314Z"
+  "lastUpdated": "2026-10-12T14:00:20.190Z"
 }
