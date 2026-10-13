@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "fluximg-website-visual-ideas",
+      "slug": "fluximg-website-visual-ideas",
+      "title": "Fluximg - Website Visual Ideas",
+      "description": "Explore website illustrations and section artwork with AI.",
+      "author": "Jacky Peng",
+      "username": "jacky-peng-ai",
+      "user_id": "041941ed-dd14-4827-9c82-b803ce3b2b7c",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "fluximg",
+        "ai-images",
+        "website-design"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-13T09:15:01.003Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791882882/ambhgusyhzhnqqochso5.png",
+      "toolUrl": "https://fluximg.net/"
+    },
+    {
       "id": "ai-kungfu-wushu-motion-concepts",
       "slug": "ai-kungfu-wushu-motion-concepts",
       "title": "AI Kungfu - Wushu Motion Concepts",
@@ -13801,5 +13827,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-13T09:01:42.679Z"
+  "lastUpdated": "2026-10-13T09:15:03.209Z"
 }
