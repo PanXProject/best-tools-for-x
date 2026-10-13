@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "opus-5-5-video-generator",
+      "slug": "opus-5-5-video-generator",
+      "title": "Opus 5.5 Video Generator",
+      "description": "Turn a prompt into a 1080p motion-graphics MP4",
+      "author": "Alex Chen",
+      "username": "alex-chen",
+      "user_id": "6bf742b7-3b9c-4c72-8581-1a80cd3d5d0e",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai-video",
+        "motion-graphics",
+        "generative-ai"
+      ],
+      "pricing": {
+        "model": "subscription"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-13T05:21:09.228Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791868767/efaxhvmxlqvcd81xqvka.png",
+      "toolUrl": "https://opusvideogen.com/"
+    },
+    {
       "id": "digital-love-letter",
       "slug": "digital-love-letter",
       "title": "Digital Love Letter",
@@ -13721,5 +13747,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-13T04:29:56.152Z"
+  "lastUpdated": "2026-10-13T05:21:10.490Z"
 }
