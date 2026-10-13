@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ai-kungfu-wushu-motion-concepts",
+      "slug": "ai-kungfu-wushu-motion-concepts",
+      "title": "AI Kungfu - Wushu Motion Concepts",
+      "description": "Explore Wushu-inspired photo-to-video ideas for creative clips.",
+      "author": "Jacky Peng",
+      "username": "jacky-peng-ai",
+      "user_id": "041941ed-dd14-4827-9c82-b803ce3b2b7c",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai-kungfu",
+        "image-to-video",
+        "martial-arts"
+      ],
+      "pricing": {
+        "model": "pay-per-use"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-13T09:01:41.182Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791882092/tngs7ubocczytznbt5py.png",
+      "toolUrl": "https://aikungfu.app/"
+    },
+    {
       "id": "memebop",
       "slug": "memebop",
       "title": "Memebop",
@@ -13775,5 +13801,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-13T06:09:53.156Z"
+  "lastUpdated": "2026-10-13T09:01:42.679Z"
 }
