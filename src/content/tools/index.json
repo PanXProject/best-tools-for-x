@@ -1,6 +1,36 @@
 {
   "tools": [
     {
+      "id": "hol-guard",
+      "slug": "hol-guard",
+      "title": "HOL Guard",
+      "description": "A local checkpoint between AI coding agents and your machine",
+      "author": "HOL",
+      "username": "holguard",
+      "user_id": "30f2f0c4-6ba2-4dbd-972a-37b964c449a5",
+      "categories": [
+        "Create & Build",
+        "Secure & Deploy"
+      ],
+      "tags": [
+        "ai-agents",
+        "security",
+        "developer-tools",
+        "mcp",
+        "open-source"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "desktop-app",
+        "cli"
+      ],
+      "publishDate": "2026-10-13T21:29:35.449Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791926965/h5ws7ecdlaqmwmjpqcwh.png",
+      "toolUrl": "https://hol.org/guard"
+    },
+    {
       "id": "fluximg-website-visual-ideas",
       "slug": "fluximg-website-visual-ideas",
       "title": "Fluximg - Website Visual Ideas",
@@ -13827,5 +13857,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-13T09:15:03.209Z"
+  "lastUpdated": "2026-10-13T21:29:37.160Z"
 }
