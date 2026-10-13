@@ -1,6 +1,30 @@
 {
   "tools": [
     {
+      "id": "kling-4-0-ai-video-generator",
+      "slug": "kling-4-0-ai-video-generator",
+      "title": "kling 4.0 AI Video Generator",
+      "description": "Kling 4.0, Kuaishou’s new AI video model for native 30s 4K videos.",
+      "author": "Humo AI",
+      "username": "poppy",
+      "user_id": "4809bcea-d0f2-4f2f-b55a-581f988ffa62",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "pricing": {
+        "model": "one-time-payment"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-13T03:00:38.241Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791860055/jb3r3hwc5ex7rkrarkjw.png",
+      "toolUrl": "https://www.kling3ai.net/kling/kling-4"
+    },
+    {
       "id": "scrapeatlas",
       "slug": "scrapeatlas",
       "title": "ScrapeAtlas",
@@ -13671,5 +13695,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-13T02:56:20.183Z"
+  "lastUpdated": "2026-10-13T03:00:40.180Z"
 }
