@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "heic-to-jpg",
+      "slug": "heic-to-jpg",
+      "title": "HEIC to JPG",
+      "description": "Free private HEIC to JPG converter, no upload",
+      "author": "Vectorize Image",
+      "username": "vectorizeimageapp",
+      "user_id": "36f3b20f-b552-4f26-9ce7-51b6114e7d72",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "image-tools",
+        "free",
+        "online-tool",
+        "browser"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-14T23:53:22.077Z",
+      "heroImage": "",
+      "toolUrl": "https://heictojpg.im/"
+    },
+    {
       "id": "compress-video",
       "slug": "compress-video",
       "title": "Compress Video",
@@ -14215,5 +14242,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-14T23:53:16.838Z"
+  "lastUpdated": "2026-10-14T23:53:23.433Z"
 }
