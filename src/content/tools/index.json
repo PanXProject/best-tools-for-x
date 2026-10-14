@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "spin-wheel-box",
+      "slug": "spin-wheel-box",
+      "title": "Spin Wheel Box",
+      "description": "Free online spin the wheel random name picker",
+      "author": "Vectorize Image",
+      "username": "vectorizeimageapp",
+      "user_id": "36f3b20f-b552-4f26-9ce7-51b6114e7d72",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "utilities",
+        "free",
+        "online-tool",
+        "browser"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-14T23:54:34.668Z",
+      "heroImage": "",
+      "toolUrl": "https://spinwheelbox.com/"
+    },
+    {
       "id": "the-rasterbator",
       "slug": "the-rasterbator",
       "title": "The Rasterbator",
@@ -14485,5 +14512,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-14T23:54:28.998Z"
+  "lastUpdated": "2026-10-14T23:54:36.058Z"
 }
