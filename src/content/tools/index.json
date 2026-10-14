@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "spriteframe",
+      "slug": "spriteframe",
+      "title": "SpriteFrame",
+      "description": "Turn character images & frames into game-ready sprite sheets",
+      "author": "laolu lu",
+      "username": "laolu2045",
+      "user_id": "f2340711-dbca-4918-ac5e-ab735711cc6b",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "sprite-sheet",
+        "game-dev",
+        "pixel-art"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-14T15:13:39.202Z",
+      "heroImage": "",
+      "toolUrl": "https://spriteframe.com/"
+    },
+    {
       "id": "make-floor-plan",
       "slug": "make-floor-plan",
       "title": "Make Floor Plan",
@@ -13916,5 +13942,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-14T12:13:21.050Z"
+  "lastUpdated": "2026-10-14T15:13:41.305Z"
 }
