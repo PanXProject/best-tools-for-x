@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "black-screen",
+      "slug": "black-screen",
+      "title": "Black Screen",
+      "description": "Pure black fullscreen screen in your browser",
+      "author": "Black Screen",
+      "username": "blackscreenvip",
+      "user_id": "e6580f3a-5ab4-45fd-b23c-098de9e6cbce",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "utilities",
+        "free",
+        "online-tool",
+        "browser"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-14T23:52:11.056Z",
+      "heroImage": "",
+      "toolUrl": "https://blackscreen.vip/"
+    },
+    {
       "id": "yap-dictation",
       "slug": "yap-dictation",
       "title": "Yap Dictation",
@@ -14107,5 +14134,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-14T20:25:56.196Z"
+  "lastUpdated": "2026-10-14T23:52:12.556Z"
 }
