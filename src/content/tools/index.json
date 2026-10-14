@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "seedance25",
+      "slug": "seedance25",
+      "title": "Seedance25",
+      "description": "AI video generator — text & image to video with Seedance 2.5",
+      "author": "Yuan Fu",
+      "username": "yuanfu",
+      "user_id": "909361a5-fa1a-4970-85cb-4185e36b5877",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai-video",
+        "text-to-video",
+        "image-to-video",
+        "ai",
+        "video"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-14T05:07:38.356Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791954448/f4mxqswsiakk9d24wmmf.png",
+      "toolUrl": "https://seedance25.video/"
+    },
+    {
       "id": "hol-guard",
       "slug": "hol-guard",
       "title": "HOL Guard",
@@ -13857,5 +13885,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-13T21:29:37.160Z"
+  "lastUpdated": "2026-10-14T05:07:40.444Z"
 }
