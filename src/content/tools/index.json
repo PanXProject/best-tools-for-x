@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "make-floor-plan",
+      "slug": "make-floor-plan",
+      "title": "Make Floor Plan",
+      "description": "AI-assisted floor-plan concepts, sketch cleanup and 3D previews",
+      "author": "Erze Hua",
+      "username": "makefloorplan_ops",
+      "user_id": "2c7c9b5a-94fc-44d7-a840-09ac8a742286",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "floor-plan",
+        "interior-design",
+        "sketch",
+        "3d",
+        "ai"
+      ],
+      "pricing": {
+        "model": "free-trial"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-14T10:10:46.909Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791972636/p4xf1y9flnvvsi9ywor4.png",
+      "toolUrl": "https://makefloorplan.com/"
+    },
+    {
       "id": "seedance25",
       "slug": "seedance25",
       "title": "Seedance25",
@@ -13885,5 +13913,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-14T05:07:40.444Z"
+  "lastUpdated": "2026-10-14T10:10:49.043Z"
 }
