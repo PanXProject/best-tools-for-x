@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "amzdl",
+      "slug": "amzdl",
+      "title": "AmzDL",
+      "description": "Download Amazon product videos, images and reviews",
+      "author": "Daniel Gross",
+      "username": "lwilson036",
+      "user_id": "e2a151b9-cefa-469f-a809-b1220bb902d9",
+      "categories": [
+        "Create & Build",
+        "Run Business",
+        "Understand & Improve"
+      ],
+      "tags": [
+        "amazon-video-downloader",
+        "amazon-image-downloader",
+        "amazon-review-exporter",
+        "amazon-listing-assets"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "extension"
+      ],
+      "publishDate": "2026-10-14T15:18:28.469Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791991086/wq7co0vwz4sdtvxolryi.png",
+      "toolUrl": "https://amzdl.com/"
+    },
+    {
       "id": "spriteframe",
       "slug": "spriteframe",
       "title": "SpriteFrame",
@@ -13942,5 +13971,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-14T15:13:41.305Z"
+  "lastUpdated": "2026-10-14T15:18:29.980Z"
 }
