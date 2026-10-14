@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "poke-survivor",
+      "slug": "poke-survivor",
+      "title": "Poke Survivor",
+      "description": "Play Poke Survivor online free, no download",
+      "author": "Vectorize Image",
+      "username": "vectorizeimageapp",
+      "user_id": "36f3b20f-b552-4f26-9ce7-51b6114e7d72",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "games",
+        "free",
+        "online-tool",
+        "browser"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-14T23:54:20.998Z",
+      "heroImage": "",
+      "toolUrl": "https://poke-survivor.com/"
+    },
+    {
       "id": "square-image",
       "slug": "square-image",
       "title": "Square Image",
@@ -14431,5 +14458,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-14T23:54:15.422Z"
+  "lastUpdated": "2026-10-14T23:54:22.239Z"
 }
