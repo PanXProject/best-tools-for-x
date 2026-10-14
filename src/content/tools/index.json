@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "talynce",
+      "slug": "talynce",
+      "title": "Talynce",
+      "description": "AI recruiting platform for faster hiring",
+      "author": "Talynce",
+      "username": "talynce",
+      "user_id": "0469f75e-ec09-47b2-8d4e-f64bb5dc9505",
+      "categories": [
+        "Manage People"
+      ],
+      "tags": [
+        "ai-recruiting",
+        "hiring",
+        "resume-parsing",
+        "interviews"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-14T16:12:14.252Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791994299/fwdfs6pejznth8enmzkd.png",
+      "toolUrl": "https://talynce.com/"
+    },
+    {
       "id": "amzdl",
       "slug": "amzdl",
       "title": "AmzDL",
@@ -13971,5 +13998,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-14T15:18:29.980Z"
+  "lastUpdated": "2026-10-14T16:12:15.808Z"
 }
