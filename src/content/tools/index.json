@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "yap-dictation",
+      "slug": "yap-dictation",
+      "title": "Yap Dictation",
+      "description": "Fast, private voice dictation for Mac and Windows",
+      "author": "Charles Osborne",
+      "username": "yapapp",
+      "user_id": "73e32b1c-e246-4d11-b6bb-d87a7f806821",
+      "categories": [
+        "Create & Build",
+        "Run Business"
+      ],
+      "tags": [
+        "dictation",
+        "voice-typing"
+      ],
+      "pricing": {
+        "model": "free-trial"
+      },
+      "softwareTypes": [
+        "desktop-app"
+      ],
+      "publishDate": "2026-10-14T20:25:54.663Z",
+      "heroImage": "",
+      "toolUrl": "https://yapapp.cc/?utm_source=toolseekr&utm_medium=listing&utm_campaign=directories-oct2026"
+    },
+    {
       "id": "save-gmail-emails-as-pdf-in-bulk",
       "slug": "save-gmail-emails-as-pdf-in-bulk",
       "title": "Save Gmail Emails as PDF in Bulk",
@@ -14081,5 +14107,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-14T19:18:34.542Z"
+  "lastUpdated": "2026-10-14T20:25:56.196Z"
 }
