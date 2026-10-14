@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "compress-video",
+      "slug": "compress-video",
+      "title": "Compress Video",
+      "description": "Compress video online free for WhatsApp and Discord",
+      "author": "Vectorize Image",
+      "username": "vectorizeimageapp",
+      "user_id": "36f3b20f-b552-4f26-9ce7-51b6114e7d72",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "video-tools",
+        "free",
+        "online-tool",
+        "browser"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-14T23:53:15.573Z",
+      "heroImage": "",
+      "toolUrl": "https://compressvideo.im/"
+    },
+    {
       "id": "triviabeam",
       "slug": "triviabeam",
       "title": "TriviaBeam",
@@ -14188,5 +14215,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-14T23:53:09.198Z"
+  "lastUpdated": "2026-10-14T23:53:16.838Z"
 }
