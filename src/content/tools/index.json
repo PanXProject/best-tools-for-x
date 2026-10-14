@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "gold-calculator",
+      "slug": "gold-calculator",
+      "title": "Gold Calculator",
+      "description": "Scrap gold value calculator with live spot prices",
+      "author": "Vectorize Image",
+      "username": "vectorizeimageapp",
+      "user_id": "36f3b20f-b552-4f26-9ce7-51b6114e7d72",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "finance",
+        "free",
+        "online-tool",
+        "browser"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-14T23:53:28.745Z",
+      "heroImage": "",
+      "toolUrl": "https://goldcalctool.com/"
+    },
+    {
       "id": "heic-to-jpg",
       "slug": "heic-to-jpg",
       "title": "HEIC to JPG",
@@ -14242,5 +14269,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-14T23:53:23.433Z"
+  "lastUpdated": "2026-10-14T23:53:30.172Z"
 }
