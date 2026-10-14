@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "the-rasterbator",
+      "slug": "the-rasterbator",
+      "title": "The Rasterbator",
+      "description": "Free online wall poster maker and tiled PDF",
+      "author": "Vectorize Image",
+      "username": "vectorizeimageapp",
+      "user_id": "36f3b20f-b552-4f26-9ce7-51b6114e7d72",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "design",
+        "free",
+        "online-tool",
+        "browser"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-14T23:54:27.702Z",
+      "heroImage": "",
+      "toolUrl": "https://rasterbator.im/"
+    },
+    {
       "id": "poke-survivor",
       "slug": "poke-survivor",
       "title": "Poke Survivor",
@@ -14458,5 +14485,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-14T23:54:22.239Z"
+  "lastUpdated": "2026-10-14T23:54:28.998Z"
 }
