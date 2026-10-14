@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "copyrightchecker",
+      "slug": "copyrightchecker",
+      "title": "CopyrightChecker",
+      "description": "Music copyright checker for YouTube and TikTok",
+      "author": "CopyrightChecker",
+      "username": "copyrightchecker",
+      "user_id": "d5c1c700-d8fe-407c-97f3-918b079bb25f",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "copyright",
+        "music",
+        "youtube",
+        "tiktok",
+        "creators"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-14T16:14:39.560Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791994384/jvvuprdi3v6ajg9poq2q.png",
+      "toolUrl": "https://copyrightchecker.org/"
+    },
+    {
       "id": "talynce",
       "slug": "talynce",
       "title": "Talynce",
@@ -13998,5 +14026,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-14T16:12:15.808Z"
+  "lastUpdated": "2026-10-14T16:14:41.750Z"
 }
