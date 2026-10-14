@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "splikit",
+      "slug": "splikit",
+      "title": "Splikit",
+      "description": "Split images into grids or print pages online",
+      "author": "Vectorize Image",
+      "username": "vectorizeimageapp",
+      "user_id": "36f3b20f-b552-4f26-9ce7-51b6114e7d72",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "image-tools",
+        "free",
+        "online-tool",
+        "browser"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-14T23:54:06.594Z",
+      "heroImage": "",
+      "toolUrl": "https://splikit.com/"
+    },
+    {
       "id": "mic-test",
       "slug": "mic-test",
       "title": "Mic Test",
@@ -14377,5 +14404,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-14T23:53:58.479Z"
+  "lastUpdated": "2026-10-14T23:54:08.358Z"
 }
