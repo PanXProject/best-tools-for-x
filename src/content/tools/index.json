@@ -466,7 +466,7 @@
       "id": "digital-room-service",
       "slug": "digital-room-service",
       "title": "Digital Room Service",
-      "description": "Digital Guest Services. Intelligent Hotel Operations.",
+      "description": "Digital Guest Services and Intelligent Hotel Operations Platform",
       "author": "Kirti Dixit Ojha",
       "username": "digitalroomservice",
       "user_id": "7300c89e-be21-4cdd-a759-4a5312f060b2",
@@ -475,7 +475,8 @@
       ],
       "tags": [
         "hotel-software",
-        "hospitality"
+        "hospitality",
+        "hotel-operations-software-hotel-guest-service-software-hotel-management-ai-hotel-automation"
       ],
       "pricing": {
         "model": "freemium"
@@ -485,7 +486,9 @@
       ],
       "publishDate": "2026-10-11T10:20:07.967Z",
       "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1791713992/ksxgjq5bisqcbhs1rgh9.png",
-      "toolUrl": "https://digitalroomservice.com/"
+      "toolUrl": "https://digitalroomservice.com/",
+      "featured": false,
+      "featuredPosition": null
     },
     {
       "id": "lut-generator",
@@ -13913,5 +13916,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-14T10:10:49.043Z"
+  "lastUpdated": "2026-10-14T12:13:21.050Z"
 }
