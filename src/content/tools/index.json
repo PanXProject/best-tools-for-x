@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "onlytron",
+      "slug": "onlytron",
+      "title": "OnlyTron",
+      "description": "Rent TRON energy to cut USDT TRC20 transfer fees",
+      "author": "Liu Yang",
+      "username": "liuyang-onlytron",
+      "user_id": "ad1e95d5-be98-4f89-ab24-74d65574f284",
+      "categories": [
+        "Manage Money"
+      ],
+      "tags": [
+        "tron",
+        "usdt",
+        "trc20",
+        "energy",
+        "crypto"
+      ],
+      "pricing": {
+        "model": "pay-per-use"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-15T05:11:20.084Z",
+      "heroImage": "",
+      "toolUrl": "https://onlytron.com/"
+    },
+    {
       "id": "markitdown",
       "slug": "markitdown",
       "title": "MarkItDown",
@@ -14563,5 +14591,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-15T02:54:16.358Z"
+  "lastUpdated": "2026-10-15T05:11:21.491Z"
 }
