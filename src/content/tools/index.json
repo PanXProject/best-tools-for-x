@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "chinese-name-generator",
+      "slug": "chinese-name-generator",
+      "title": "Chinese Name Generator",
+      "description": "Generate meaningful Chinese names with AI",
+      "author": "Jeremy",
+      "username": "markitdowntech",
+      "user_id": "61f12672-c369-4261-af2f-ebd9df8c2d06",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "chinese-names",
+        "pinyin",
+        "ai-name-generator",
+        "mandarin"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-15T07:37:20.527Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792049810/jmjkqt3een0m6ijkebqy.jpg",
+      "toolUrl": "https://chinese-name-generator.com/"
+    },
+    {
       "id": "must-tools",
       "slug": "must-tools",
       "title": "must.tools",
@@ -14678,5 +14705,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-15T07:17:22.214Z"
+  "lastUpdated": "2026-10-15T07:37:21.974Z"
 }
