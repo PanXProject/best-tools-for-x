@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "yap-audio-to-text",
+      "slug": "yap-audio-to-text",
+      "title": "Yap Audio to Text",
+      "description": "Free audio and video transcription that never uploads your file.",
+      "author": "Charles Osborne",
+      "username": "yapapp",
+      "user_id": "73e32b1c-e246-4d11-b6bb-d87a7f806821",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "audio-to-text",
+        "transcription",
+        "subtitles",
+        "whisper",
+        "privacy"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-15T18:07:02.957Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792087560/ul7iuyovtlsuebsb6hkq.png",
+      "toolUrl": "https://yapapp.cc/audio-to-text?utm_source=toolseekr-transcriber&utm_medium=listing&utm_campaign=audio-to-text-oct2026"
+    },
+    {
       "id": "tijuana-dentists-guide",
       "slug": "tijuana-dentists-guide",
       "title": "Tijuana Dentists Guide",
@@ -14893,5 +14921,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-15T15:29:41.906Z"
+  "lastUpdated": "2026-10-15T18:07:04.899Z"
 }
