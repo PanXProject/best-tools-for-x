@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "tijuana-dentists-guide",
+      "slug": "tijuana-dentists-guide",
+      "title": "Tijuana Dentists Guide",
+      "description": "Independent guide to dentists in Tijuana for US patients",
+      "author": "Danny Rojas",
+      "username": "tijuanadentistsguide",
+      "user_id": "96b01c34-0c20-46a5-8a9b-03718ef5e358",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "dental",
+        "tijuana",
+        "health",
+        "guide",
+        "travel"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-15T15:29:09.339Z",
+      "heroImage": "",
+      "toolUrl": "https://tijuanadentistsguide.com/"
+    },
+    {
       "id": "los-algodones-dentists-guide",
       "slug": "los-algodones-dentists-guide",
       "title": "Los Algodones Dentists Guide",
@@ -14863,5 +14891,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-15T15:02:24.820Z"
+  "lastUpdated": "2026-10-15T15:29:10.688Z"
 }
