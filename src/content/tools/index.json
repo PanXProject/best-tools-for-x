@@ -1,6 +1,30 @@
 {
   "tools": [
     {
+      "id": "bgchanger-video",
+      "slug": "bgchanger-video",
+      "title": "BGChanger.video",
+      "description": "Remove or replace video backgrounds online with AI",
+      "author": "Andy Tu",
+      "username": "andy26",
+      "user_id": "f17a9056-0bd0-491b-a4ce-4428a87f8b02",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-15T07:50:10.819Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792050207/amf4njm5yjtvj0iq9nqe.png",
+      "toolUrl": "https://bgchanger.video/"
+    },
+    {
       "id": "chinese-name-generator",
       "slug": "chinese-name-generator",
       "title": "Chinese Name Generator",
@@ -14705,5 +14729,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-15T07:37:21.974Z"
+  "lastUpdated": "2026-10-15T07:50:12.308Z"
 }
