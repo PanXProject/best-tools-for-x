@@ -1,6 +1,36 @@
 {
   "tools": [
     {
+      "id": "grade-erp",
+      "slug": "grade-erp",
+      "title": "Grade ERP",
+      "description": "ERP for IT companies, digital agencies and tech teams",
+      "author": "Grade ERP",
+      "username": "gradeerp",
+      "user_id": "2dc11b66-a09b-4132-b4df-c809697a7650",
+      "categories": [
+        "Run Business",
+        "Manage Money",
+        "Manage People"
+      ],
+      "tags": [
+        "erp",
+        "it-management",
+        "agency-management",
+        "project-management",
+        "hr-management"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-15T06:10:21.744Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792044586/besssq7mxsz9kulq0thw.jpg",
+      "toolUrl": "https://grade.app/"
+    },
+    {
       "id": "onlytron",
       "slug": "onlytron",
       "title": "OnlyTron",
@@ -14591,5 +14621,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-15T05:11:21.491Z"
+  "lastUpdated": "2026-10-15T06:10:23.324Z"
 }
