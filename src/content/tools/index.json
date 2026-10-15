@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "heyaibuddy",
+      "slug": "heyaibuddy",
+      "title": "HeyAIBuddy",
+      "description": "Voice & text chat with AI personas — free to start",
+      "author": "Jeremy",
+      "username": "markitdowntech",
+      "user_id": "61f12672-c369-4261-af2f-ebd9df8c2d06",
+      "categories": [
+        "Connect & Collaborate"
+      ],
+      "tags": [
+        "ai-companion",
+        "ai-chat",
+        "voice-chat",
+        "chatbot"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-15T11:51:15.823Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792065028/tfiusz3d1at0maga1aen.jpg",
+      "toolUrl": "https://heyaibuddy.net/"
+    },
+    {
       "id": "carejobs-now",
       "slug": "carejobs-now",
       "title": "CareJobs.Now",
@@ -14753,5 +14780,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-15T08:16:44.358Z"
+  "lastUpdated": "2026-10-15T11:51:17.256Z"
 }
