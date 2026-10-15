@@ -1,6 +1,36 @@
 {
   "tools": [
     {
+      "id": "tiktok-transcript",
+      "slug": "tiktok-transcript",
+      "title": "TikTok Transcript",
+      "description": "Turn TikTok videos into readable transcripts with AI",
+      "author": "Lunabella",
+      "username": "lunabella",
+      "user_id": "7ce31af0-1e0e-4421-b53f-bd893d8f32a6",
+      "categories": [
+        "Get & Keep Customers",
+        "Create & Build",
+        "Understand & Improve"
+      ],
+      "tags": [
+        "tiktok-transcript",
+        "ai-transcription",
+        "video-to-text",
+        "speech-to-text",
+        "content-creation"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-15T07:07:07.370Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792047745/pgrgashpkef49xxump6v.png",
+      "toolUrl": "https://tiktoktranscript.app/"
+    },
+    {
       "id": "grade-erp",
       "slug": "grade-erp",
       "title": "Grade ERP",
@@ -14621,5 +14651,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-15T06:10:23.324Z"
+  "lastUpdated": "2026-10-15T07:07:09.426Z"
 }
