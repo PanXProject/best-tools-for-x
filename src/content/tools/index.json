@@ -1,6 +1,30 @@
 {
   "tools": [
     {
+      "id": "markitdown",
+      "slug": "markitdown",
+      "title": "MarkItDown",
+      "description": "Convert PDF, Word & more to clean Markdown for AI",
+      "author": "Jeremy",
+      "username": "markitdowntech",
+      "user_id": "61f12672-c369-4261-af2f-ebd9df8c2d06",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "pdf-to-markdown"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-15T02:54:15.048Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792032783/b16g8ztn7bqpyp1pszbi.jpg",
+      "toolUrl": "https://markitdown.tech/"
+    },
+    {
       "id": "qrdynamic",
       "slug": "qrdynamic",
       "title": "QRDynamic",
@@ -14539,5 +14563,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-14T23:54:42.662Z"
+  "lastUpdated": "2026-10-15T02:54:16.358Z"
 }
