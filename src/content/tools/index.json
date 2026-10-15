@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "yap-online-dictation",
+      "slug": "yap-online-dictation",
+      "title": "Yap Online Dictation",
+      "description": "Free online dictation that stays on your device.",
+      "author": "Charles Osborne",
+      "username": "yapapp",
+      "user_id": "73e32b1c-e246-4d11-b6bb-d87a7f806821",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "dictation",
+        "speech-to-text",
+        "voice-typing",
+        "whisper",
+        "privacy"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-15T13:29:40.652Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792070906/umdufvroagjvrzyhhrev.png",
+      "toolUrl": "https://yapapp.cc/online-dictation?utm_source=toolseekr-online&utm_medium=listing&utm_campaign=online-dictation-oct2026"
+    },
+    {
       "id": "heyaibuddy",
       "slug": "heyaibuddy",
       "title": "HeyAIBuddy",
@@ -14780,5 +14808,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-15T11:51:17.256Z"
+  "lastUpdated": "2026-10-15T13:29:42.283Z"
 }
