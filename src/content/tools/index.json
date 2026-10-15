@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "los-algodones-dentists-guide",
+      "slug": "los-algodones-dentists-guide",
+      "title": "Los Algodones Dentists Guide",
+      "description": "Independent guide to dentists in Los Algodones for US patients",
+      "author": "Danny Rojas",
+      "username": "losalgodonesguide",
+      "user_id": "b8efe520-7c97-4305-8bc1-8ba97090e723",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "dental",
+        "travel",
+        "healthcare",
+        "guide",
+        "los-algodones"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-15T15:02:22.974Z",
+      "heroImage": "",
+      "toolUrl": "https://losalgodonesdentistsguide.com/"
+    },
+    {
       "id": "prospect-signal",
       "slug": "prospect-signal",
       "title": "Prospect Signal",
@@ -14835,5 +14863,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-15T13:40:25.593Z"
+  "lastUpdated": "2026-10-15T15:02:24.820Z"
 }
