@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "carejobs-healthcare-jobs-mcp",
+      "slug": "carejobs-healthcare-jobs-mcp",
+      "title": "CareJobs Healthcare Jobs MCP",
+      "description": "Remote MCP server for US healthcare jobs and posted pay",
+      "author": "Thomas Brock",
+      "username": "thomasbrock_cj",
+      "user_id": "84519aad-38c0-4bc3-a2f2-41e237389859",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "mcp",
+        "ai-agents",
+        "developer-tools",
+        "api",
+        "healthcare-jobs"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-15T20:42:08.896Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792096913/nsvgdj5oe03sanvpo2ct.jpg",
+      "toolUrl": "https://github.com/yumaheymans/carejobs-mcp"
+    },
+    {
       "id": "yap-audio-to-text",
       "slug": "yap-audio-to-text",
       "title": "Yap Audio to Text",
@@ -14921,5 +14949,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-15T18:07:04.899Z"
+  "lastUpdated": "2026-10-15T20:42:10.515Z"
 }
