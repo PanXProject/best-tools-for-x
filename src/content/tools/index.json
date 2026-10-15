@@ -1,6 +1,30 @@
 {
   "tools": [
     {
+      "id": "carejobs-now",
+      "slug": "carejobs-now",
+      "title": "CareJobs.Now",
+      "description": "Hospital and clinic jobs for everyone in care",
+      "author": "Thomas Brock",
+      "username": "thomasbrock_cj",
+      "user_id": "84519aad-38c0-4bc3-a2f2-41e237389859",
+      "categories": [
+        "Manage People"
+      ],
+      "tags": [
+        "job-board"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-15T08:16:42.958Z",
+      "heroImage": "",
+      "toolUrl": "https://carejobs.now/"
+    },
+    {
       "id": "bgchanger-video",
       "slug": "bgchanger-video",
       "title": "BGChanger.video",
@@ -14729,5 +14753,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-15T07:50:12.308Z"
+  "lastUpdated": "2026-10-15T08:16:44.358Z"
 }
