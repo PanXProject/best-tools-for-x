@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "must-tools",
+      "slug": "must-tools",
+      "title": "must.tools",
+      "description": "Your must-have tools directory",
+      "author": "Lance Way",
+      "username": "must-tools",
+      "user_id": "d229e027-08f1-4503-8c40-dcfc1c9711b8",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "directory",
+        "productivity",
+        "ai-tools",
+        "saas"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-15T07:17:20.724Z",
+      "heroImage": "",
+      "toolUrl": "https://must.tools/"
+    },
+    {
       "id": "tiktok-transcript",
       "slug": "tiktok-transcript",
       "title": "TikTok Transcript",
@@ -14651,5 +14678,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-15T07:07:09.426Z"
+  "lastUpdated": "2026-10-15T07:17:22.214Z"
 }
