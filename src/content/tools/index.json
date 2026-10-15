@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "prospect-signal",
+      "slug": "prospect-signal",
+      "title": "Prospect Signal",
+      "description": "Researched B2B prospect lists for web designers and SEO pros",
+      "author": "The Prospect Signal Team",
+      "username": "prospectsignal",
+      "user_id": "e9947a5b-948c-4f38-9c49-c642a29a83f0",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "lead-generation",
+        "sales-prospecting",
+        "b2b-data",
+        "web-design"
+      ],
+      "pricing": {
+        "model": "one-time-payment"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-15T13:40:24.015Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792071611/u3xompmemyewxxfrouel.png",
+      "toolUrl": "https://prospectsignalhq.com/sample-pack?utm_source=toolseekr&utm_medium=directory"
+    },
+    {
       "id": "yap-online-dictation",
       "slug": "yap-online-dictation",
       "title": "Yap Online Dictation",
@@ -14808,5 +14835,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-15T13:29:42.283Z"
+  "lastUpdated": "2026-10-15T13:40:25.593Z"
 }
