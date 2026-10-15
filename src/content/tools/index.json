@@ -9,14 +9,14 @@
       "username": "tijuanadentistsguide",
       "user_id": "96b01c34-0c20-46a5-8a9b-03718ef5e358",
       "categories": [
-        "Understand & Improve"
+        "Run Business"
       ],
       "tags": [
-        "dental",
         "tijuana",
-        "health",
-        "guide",
-        "travel"
+        "baja-california",
+        "zona-rio",
+        "dentist",
+        "checklist"
       ],
       "pricing": {
         "model": "free"
@@ -26,7 +26,9 @@
       ],
       "publishDate": "2026-10-15T15:29:09.339Z",
       "heroImage": "",
-      "toolUrl": "https://tijuanadentistsguide.com/"
+      "toolUrl": "https://tijuanadentistsguide.com/",
+      "featured": false,
+      "featuredPosition": null
     },
     {
       "id": "los-algodones-dentists-guide",
@@ -14891,5 +14893,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-15T15:29:10.688Z"
+  "lastUpdated": "2026-10-15T15:29:41.906Z"
 }
