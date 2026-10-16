@@ -196,7 +196,9 @@
       ],
       "publishDate": "2026-10-15T13:40:24.015Z",
       "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792071611/u3xompmemyewxxfrouel.png",
-      "toolUrl": "https://prospectsignalhq.com/sample-pack?utm_source=toolseekr&utm_medium=directory"
+      "toolUrl": "https://prospectsignalhq.com/?utm_source=toolseekr&utm_medium=directory#order",
+      "featured": false,
+      "featuredPosition": null
     },
     {
       "id": "yap-online-dictation",
@@ -15006,5 +15008,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-16T00:59:46.647Z"
+  "lastUpdated": "2026-10-16T05:12:26.128Z"
 }
