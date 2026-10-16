@@ -1,6 +1,31 @@
 {
   "tools": [
     {
+      "id": "danseai-alors-on-danse-ai-video-generator",
+      "slug": "danseai-alors-on-danse-ai-video-generator",
+      "title": "DanseAI - Alors on Danse AI Video Generator",
+      "description": "Make the Alors on Danse AI meme video from two photos",
+      "author": "Alex Chen",
+      "username": "alex-chen",
+      "user_id": "6bf742b7-3b9c-4c72-8581-1a80cd3d5d0e",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai-video",
+        "meme"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-16T08:08:57.391Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792138098/m3j9tpjnboo6i3qfkvpn.png",
+      "toolUrl": "https://danseai.com/"
+    },
+    {
       "id": "discover-alone",
       "slug": "discover-alone",
       "title": "Discover Alone",
@@ -15094,5 +15119,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-16T07:36:07.334Z"
+  "lastUpdated": "2026-10-16T08:08:58.735Z"
 }
