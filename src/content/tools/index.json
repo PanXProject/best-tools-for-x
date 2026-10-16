@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "submi",
+      "slug": "submi",
+      "title": "Submi",
+      "description": "Done-for-you SaaS directory submission with live URLs",
+      "author": "Grade ERP",
+      "username": "gradeerp",
+      "user_id": "2dc11b66-a09b-4132-b4df-c809697a7650",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "seo",
+        "directory-submission",
+        "backlinks-for-saas",
+        "product-launch",
+        "link-building"
+      ],
+      "pricing": {
+        "model": "one-time-payment"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-16T18:21:00.615Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792174831/zc1sr2wfeorl1qp5dg7p.png",
+      "toolUrl": "https://submi.io/"
+    },
+    {
       "id": "carejobs-healthcare-jobs-data-api",
       "slug": "carejobs-healthcare-jobs-data-api",
       "title": "CareJobs Healthcare Jobs Data API",
@@ -15366,5 +15394,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-16T17:19:06.665Z"
+  "lastUpdated": "2026-10-16T18:21:02.883Z"
 }
