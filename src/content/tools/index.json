@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "style-look-lab",
+      "slug": "style-look-lab",
+      "title": "Style Look Lab",
+      "description": "Explore personal colors and hairstyles with quizzes and AI previews",
+      "author": "Style Look Lab",
+      "username": "stylelooklab",
+      "user_id": "343db8eb-686a-478e-895d-64bd6b285cf3",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai",
+        "fashion",
+        "beauty"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-16T10:58:39.876Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792148282/ukvcbft5f5wcdqwrjixg.jpg",
+      "toolUrl": "https://stylelooklab.com/"
+    },
+    {
       "id": "grok-imagine-ai",
       "slug": "grok-imagine-ai",
       "title": "Grok Imagine AI",
@@ -15148,5 +15174,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-16T08:27:50.625Z"
+  "lastUpdated": "2026-10-16T10:58:41.221Z"
 }
