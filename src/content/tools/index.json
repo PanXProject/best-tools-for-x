@@ -1,6 +1,36 @@
 {
   "tools": [
     {
+      "id": "dagmor",
+      "slug": "dagmor",
+      "title": "Dagmor",
+      "description": "See the whole story in every customer call",
+      "author": "Rickie Doherty",
+      "username": "rickiedoherty",
+      "user_id": "46e0ac20-8b08-40d4-8026-41f6a5a567d6",
+      "categories": [
+        "Get & Keep Customers",
+        "Understand & Improve",
+        "Manage People"
+      ],
+      "tags": [
+        "call-analysis",
+        "customer-feedback",
+        "call-review",
+        "reporting",
+        "transcription"
+      ],
+      "pricing": {
+        "model": "custom-pricing"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-16T07:35:47.386Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792136144/kbmwktwjlq5kd8wiohfo.png",
+      "toolUrl": "https://dagmor.app/"
+    },
+    {
       "id": "best-robot-vacuum",
       "slug": "best-robot-vacuum",
       "title": "Best Robot Vacuum",
@@ -15036,5 +15066,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-16T05:54:04.444Z"
+  "lastUpdated": "2026-10-16T07:35:48.750Z"
 }
