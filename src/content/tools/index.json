@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "eudr-tools",
+      "slug": "eudr-tools",
+      "title": "EUDR Tools",
+      "description": "Free EUDR prep tools for scope, plots and risk records",
+      "author": "Serdar Doğrubakar",
+      "username": "serdardogrubakar",
+      "user_id": "21c663f4-4acd-4e9d-9b6b-52e29e0906cb",
+      "categories": [
+        "Run Business",
+        "Understand & Improve"
+      ],
+      "tags": [
+        "eudr",
+        "geojson",
+        "gis",
+        "mapping",
+        "free"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-16T00:59:45.405Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792112369/og2advhydkbyblqdh6da.png",
+      "toolUrl": "https://eudrtools.com/"
+    },
+    {
       "id": "openlaunch",
       "slug": "openlaunch",
       "title": "OpenLaunch",
@@ -14977,5 +15006,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-16T00:36:15.308Z"
+  "lastUpdated": "2026-10-16T00:59:46.647Z"
 }
