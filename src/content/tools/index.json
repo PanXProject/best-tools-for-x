@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "curlshot",
+      "slug": "curlshot",
+      "title": "CurlShot",
+      "description": "Screenshot any website with one API call. Free to start.",
+      "author": "CurlShot",
+      "username": "curlshot",
+      "user_id": "f4eb97bc-ffad-4ae3-a41d-a1c4fc09d9f7",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "screenshot-api",
+        "developer-tools",
+        "pdf",
+        "mcp",
+        "automation"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-16T11:48:31.729Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792151226/u2rb8y23hwd59i05uwxv.png",
+      "toolUrl": "https://curlshot.com/"
+    },
+    {
       "id": "style-look-lab",
       "slug": "style-look-lab",
       "title": "Style Look Lab",
@@ -15176,5 +15204,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-16T11:03:05.183Z"
+  "lastUpdated": "2026-10-16T11:48:33.306Z"
 }
