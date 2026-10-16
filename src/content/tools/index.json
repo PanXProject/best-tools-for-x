@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "grok-imagine-ai",
+      "slug": "grok-imagine-ai",
+      "title": "Grok Imagine AI",
+      "description": "Turn Text and Photos into AI Images and Videos",
+      "author": "Lunabella",
+      "username": "lunabella",
+      "user_id": "7ce31af0-1e0e-4421-b53f-bd893d8f32a6",
+      "categories": [
+        "Get & Keep Customers",
+        "Create & Build"
+      ],
+      "tags": [
+        "grok-imagine-ai",
+        "ai-image-generator",
+        "ai-video-generator",
+        "image-to-video",
+        "text-to-video"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-16T08:27:49.258Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792139090/hdg067gnamxseu2piens.webp",
+      "toolUrl": "https://www.grokimagineai.net/"
+    },
+    {
       "id": "danseai-alors-on-danse-ai-video-generator",
       "slug": "danseai-alors-on-danse-ai-video-generator",
       "title": "DanseAI - Alors on Danse AI Video Generator",
@@ -15119,5 +15148,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-16T08:08:58.735Z"
+  "lastUpdated": "2026-10-16T08:27:50.625Z"
 }
