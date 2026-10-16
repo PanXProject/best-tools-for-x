@@ -23,8 +23,10 @@
         "web-app"
       ],
       "publishDate": "2026-10-16T10:58:39.876Z",
-      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792148282/ukvcbft5f5wcdqwrjixg.jpg",
-      "toolUrl": "https://stylelooklab.com/"
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792148557/dyiy7ugdxpufjw2tpikd.jpg",
+      "toolUrl": "https://stylelooklab.com/",
+      "featured": false,
+      "featuredPosition": null
     },
     {
       "id": "grok-imagine-ai",
@@ -15174,5 +15176,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-16T10:58:41.221Z"
+  "lastUpdated": "2026-10-16T11:03:05.183Z"
 }
