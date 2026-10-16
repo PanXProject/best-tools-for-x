@@ -1,6 +1,31 @@
 {
   "tools": [
     {
+      "id": "genjutsu-ai",
+      "slug": "genjutsu-ai",
+      "title": "Genjutsu AI",
+      "description": "Edit video clips with reference images, keeping the original motion",
+      "author": "Alex Chen",
+      "username": "alex-chen",
+      "user_id": "6bf742b7-3b9c-4c72-8581-1a80cd3d5d0e",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai-video-editing",
+        "video-to-video"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-16T12:45:10.079Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792154689/zaxzp94bdkwima8m1qh5.jpg",
+      "toolUrl": "https://genjutsu-ai.app/"
+    },
+    {
       "id": "isavetik",
       "slug": "isavetik",
       "title": "iSaveTik",
@@ -15232,5 +15257,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-16T12:42:57.129Z"
+  "lastUpdated": "2026-10-16T12:45:11.812Z"
 }
