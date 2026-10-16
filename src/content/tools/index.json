@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "best-robot-vacuum",
+      "slug": "best-robot-vacuum",
+      "title": "Best Robot Vacuum",
+      "description": "AI assistant Navi matches you with the 3 best robot vacuums for your h",
+      "author": "Jeremy",
+      "username": "markitdowntech",
+      "user_id": "61f12672-c369-4261-af2f-ebd9df8c2d06",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "robot-vacuum",
+        "smart-home",
+        "product-comparison",
+        "buying-guide",
+        "ai-recommendation"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-16T05:54:03.253Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792129980/ut6vcggcf9zh2wdphof5.jpg",
+      "toolUrl": "https://bestrobotvacuum.io/"
+    },
+    {
       "id": "eudr-tools",
       "slug": "eudr-tools",
       "title": "EUDR Tools",
@@ -15008,5 +15036,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-16T05:14:26.269Z"
+  "lastUpdated": "2026-10-16T05:54:04.444Z"
 }
