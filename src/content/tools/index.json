@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "mediapronet",
+      "slug": "mediapronet",
+      "title": "MEDIAPRONET",
+      "description": "Where builders launch and get discovered",
+      "author": "MEDIAPRONET Team",
+      "username": "mediapronet",
+      "user_id": "fdd757d2-befd-43b9-8453-0e6dd362a9d0",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "startup-directory",
+        "launch-platform",
+        "product-discovery",
+        "saas-directory",
+        "indie-hackers"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-16T15:07:50.680Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792163247/jsv32cxv7oopizlvhal6.png",
+      "toolUrl": "https://mediapronet.com/"
+    },
+    {
       "id": "genjutsu-ai",
       "slug": "genjutsu-ai",
       "title": "Genjutsu AI",
@@ -15257,5 +15285,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-16T12:45:11.812Z"
+  "lastUpdated": "2026-10-16T15:07:52.355Z"
 }
