@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "codetrendy",
+      "slug": "codetrendy",
+      "title": "CodeTrendy",
+      "description": "Curated discovery directory for newly launched startups and SaaS",
+      "author": "CodeTrendy",
+      "username": "codetrendy",
+      "user_id": "b4db8f5c-529a-4d65-9ae5-bd6cf1375f92",
+      "categories": [
+        "Get & Keep Customers",
+        "Create & Build"
+      ],
+      "tags": [
+        "startup-directory",
+        "product-discovery",
+        "saas",
+        "launch",
+        "indie"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-16T19:11:31.241Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792177863/jjbnczkv77s88f6vmdqi.jpg",
+      "toolUrl": "https://codetrendy.com/"
+    },
+    {
       "id": "submi",
       "slug": "submi",
       "title": "Submi",
@@ -15394,5 +15423,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-16T18:21:02.883Z"
+  "lastUpdated": "2026-10-16T19:11:32.552Z"
 }
