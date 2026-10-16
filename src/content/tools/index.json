@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "openlaunch",
+      "slug": "openlaunch",
+      "title": "OpenLaunch",
+      "description": "Free launch instantly - a weekly drop of handpicked product launches",
+      "author": "Rachel",
+      "username": "rachel",
+      "user_id": "c80ac7df-d967-4d7c-b867-2ea98a08ce24",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "product-launch",
+        "startups",
+        "indie-makers",
+        "directory",
+        "marketing"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-16T00:36:13.663Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792110806/owvxqzghxuzavyeaqbq0.png",
+      "toolUrl": "https://openlaunch.co/"
+    },
+    {
       "id": "carejobs-healthcare-jobs-mcp",
       "slug": "carejobs-healthcare-jobs-mcp",
       "title": "CareJobs Healthcare Jobs MCP",
@@ -14949,5 +14977,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-15T20:42:10.515Z"
+  "lastUpdated": "2026-10-16T00:36:15.308Z"
 }
