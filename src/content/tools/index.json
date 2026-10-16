@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "private-try-on",
+      "slug": "private-try-on",
+      "title": "Private Try-On",
+      "description": "Private AI virtual try-on: see yourself in any outfit before you buy",
+      "author": "Yan Gao",
+      "username": "privatetryon",
+      "user_id": "39ca8319-8153-4e54-ad7c-5c3dba1f0d7f",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai",
+        "fashion",
+        "virtual-try-on",
+        "image-generation"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-16T20:28:08.374Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792182409/yirdrdq8pcrznov8hlvv.png",
+      "toolUrl": "https://privatetryon.com/"
+    },
+    {
       "id": "codetrendy",
       "slug": "codetrendy",
       "title": "CodeTrendy",
@@ -15423,5 +15450,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-16T19:11:32.552Z"
+  "lastUpdated": "2026-10-16T20:28:09.888Z"
 }
