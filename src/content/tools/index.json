@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "carejobs-healthcare-jobs-data-api",
+      "slug": "carejobs-healthcare-jobs-data-api",
+      "title": "CareJobs Healthcare Jobs Data API",
+      "description": "Free JSON and CSV API for US healthcare jobs and posted pay",
+      "author": "Thomas Brock",
+      "username": "thomasbrock_cj",
+      "user_id": "84519aad-38c0-4bc3-a2f2-41e237389859",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "healthcare-data",
+        "jobs-api",
+        "open-data"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-16T17:19:05.210Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792171044/d0xorrnnpt2ba8z1pdfh.png",
+      "toolUrl": "https://carejobs.now/data"
+    },
+    {
       "id": "patronus-quiz",
       "slug": "patronus-quiz",
       "title": "Patronus Quiz",
@@ -15340,5 +15366,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-16T17:07:15.937Z"
+  "lastUpdated": "2026-10-16T17:19:06.665Z"
 }
