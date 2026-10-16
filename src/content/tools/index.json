@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "patronus-quiz",
+      "slug": "patronus-quiz",
+      "title": "Patronus Quiz",
+      "description": "Free unofficial fan quiz: which Patronus animal matches you?",
+      "author": "Jeremy",
+      "username": "markitdowntech",
+      "user_id": "61f12672-c369-4261-af2f-ebd9df8c2d06",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "quiz",
+        "personality-quiz",
+        "entertainment",
+        "fan-made"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-16T15:31:14.467Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792164656/ujfapqrtrlzlowa0hurq.png",
+      "toolUrl": "https://harry-potter-house-quiz.org/patronus-quiz"
+    },
+    {
       "id": "sitepatent",
       "slug": "sitepatent",
       "title": "SitePatent",
@@ -15313,5 +15340,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-16T15:10:53.334Z"
+  "lastUpdated": "2026-10-16T15:31:15.826Z"
 }
