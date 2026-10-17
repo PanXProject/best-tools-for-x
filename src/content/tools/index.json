@@ -1,6 +1,31 @@
 {
   "tools": [
     {
+      "id": "healthcare-cover-letter-generator",
+      "slug": "healthcare-cover-letter-generator",
+      "title": "Healthcare Cover Letter Generator",
+      "description": "Free AI cover letters for nurses, CNAs and healthcare staff",
+      "author": "Thomas Brock",
+      "username": "thomasbrock_cj",
+      "user_id": "84519aad-38c0-4bc3-a2f2-41e237389859",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "cover-letter",
+        "healthcare-jobs"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-17T22:21:12.379Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792275548/mp0kbcgoeofec5lhvcm4.png",
+      "toolUrl": "https://carejobs.now/tools/healthcare-cover-letter-generator"
+    },
+    {
       "id": "unforgettable-car-ai",
       "slug": "unforgettable-car-ai",
       "title": "Unforgettable Car AI",
@@ -15701,5 +15726,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-17T14:24:46.533Z"
+  "lastUpdated": "2026-10-17T22:21:13.636Z"
 }
