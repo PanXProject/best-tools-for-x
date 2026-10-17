@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "pdf-to-markdown-converter-by-markitdown",
+      "slug": "pdf-to-markdown-converter-by-markitdown",
+      "title": "PDF to Markdown Converter by MarkItDown",
+      "description": "Convert PDF to editable Markdown online, free",
+      "author": "Jeremy",
+      "username": "markitdowntech",
+      "user_id": "61f12672-c369-4261-af2f-ebd9df8c2d06",
+      "categories": [
+        "Create & Build",
+        "Understand & Improve"
+      ],
+      "tags": [
+        "pdf-to-markdown",
+        "markdown",
+        "ocr",
+        "pdf-converter"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-17T02:02:09.663Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792202489/omfrpii5tyl4wytktqcw.jpg",
+      "toolUrl": "https://markitdown.tech/pdf-to-markdown"
+    },
+    {
       "id": "private-try-on",
       "slug": "private-try-on",
       "title": "Private Try-On",
@@ -15450,5 +15478,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-16T20:28:09.888Z"
+  "lastUpdated": "2026-10-17T02:02:11.003Z"
 }
