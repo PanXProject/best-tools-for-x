@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "roborock-qx-revo-max-vs-qx-revo-ultra-2-comparison",
+      "slug": "roborock-qx-revo-max-vs-qx-revo-ultra-2-comparison",
+      "title": "Roborock QX Revo Max vs QX Revo Ultra 2 (comparison)",
+      "description": "Free side-by-side guide to two Costco-channel Roborock robot vacuums",
+      "author": "Jeremy",
+      "username": "markitdowntech",
+      "user_id": "61f12672-c369-4261-af2f-ebd9df8c2d06",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "roborock",
+        "robot-vacuum",
+        "comparison",
+        "smart-home",
+        "buying-guide"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-17T02:30:03.782Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792204187/o3mlm8to4slwhcea0kmb.jpg",
+      "toolUrl": "https://bestrobotvacuum.io/roborock-qx-revo-max-vs-qx-revo-ultra-2"
+    },
+    {
       "id": "pdf-to-markdown-converter-by-markitdown",
       "slug": "pdf-to-markdown-converter-by-markitdown",
       "title": "PDF to Markdown Converter by MarkItDown",
@@ -15478,5 +15506,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-17T02:02:11.003Z"
+  "lastUpdated": "2026-10-17T02:30:05.057Z"
 }
