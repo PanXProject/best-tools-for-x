@@ -1,6 +1,31 @@
 {
   "tools": [
     {
+      "id": "healthcare-offer-negotiation-email-writer",
+      "slug": "healthcare-offer-negotiation-email-writer",
+      "title": "Healthcare Offer Negotiation Email Writer",
+      "description": "Free AI email to negotiate a nursing or healthcare offer",
+      "author": "Thomas Brock",
+      "username": "thomasbrock_cj",
+      "user_id": "84519aad-38c0-4bc3-a2f2-41e237389859",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "salary-negotiation",
+        "healthcare-jobs"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-17T22:22:54.146Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792275768/ztmspm9xge4usxg82jtn.png",
+      "toolUrl": "https://carejobs.now/tools/healthcare-offer-negotiation-email"
+    },
+    {
       "id": "healthcare-job-posting-decoder",
       "slug": "healthcare-job-posting-decoder",
       "title": "Healthcare Job Posting Decoder",
@@ -15801,5 +15826,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-17T22:22:33.070Z"
+  "lastUpdated": "2026-10-17T22:22:55.492Z"
 }
