@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "ozil-goal-ai",
+      "slug": "ozil-goal-ai",
+      "title": "Ozil Goal AI",
+      "description": "Turn one photo into Ozil's famous chip-and-dribble goal",
+      "author": "Alex Chen",
+      "username": "alex-chen",
+      "user_id": "6bf742b7-3b9c-4c72-8581-1a80cd3d5d0e",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai-video",
+        "photo-to-video",
+        "tiktok",
+        "shorts",
+        "video-generator"
+      ],
+      "pricing": {
+        "model": "one-time-payment"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-17T14:23:13.991Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792246942/v8zhwv5albljcufxzux9.jpg",
+      "toolUrl": "https://ozilaigoal.com/"
+    },
+    {
       "id": "google-maps-scraper",
       "slug": "google-maps-scraper",
       "title": "Google Maps Scraper",
@@ -15645,5 +15673,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-17T13:08:16.959Z"
+  "lastUpdated": "2026-10-17T14:23:15.311Z"
 }
