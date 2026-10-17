@@ -3181,7 +3181,9 @@
       ],
       "publishDate": "2026-10-06T00:03:49.294Z",
       "heroImage": "",
-      "toolUrl": "https://tanzhang-market-kit.hypebeast2k17.chatgpt.site/en"
+      "toolUrl": "https://tanzhang-market-kit.hypebeast2k17.chatgpt.site/en",
+      "featured": false,
+      "featuredPosition": null
     },
     {
       "id": "capvant",
@@ -15616,5 +15618,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-17T05:39:27.006Z"
+  "lastUpdated": "2026-10-17T06:07:08.437Z"
 }
