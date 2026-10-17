@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "img2threejs",
+      "slug": "img2threejs",
+      "title": "img2threejs",
+      "description": "Turn one image into a website-ready Three.js component",
+      "author": "Jeremy",
+      "username": "markitdowntech",
+      "user_id": "61f12672-c369-4261-af2f-ebd9df8c2d06",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "image-to-3d",
+        "threejs",
+        "react-three-fiber",
+        "glb",
+        "ai-3d"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-17T04:44:14.391Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792212240/m3ip6hsaqfvj6ezombu7.jpg",
+      "toolUrl": "https://img2threejs.org/"
+    },
+    {
       "id": "gas-station-dance-ai",
       "slug": "gas-station-dance-ai",
       "title": "Gas Station Dance AI",
@@ -15559,5 +15587,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-17T03:37:50.012Z"
+  "lastUpdated": "2026-10-17T04:44:15.799Z"
 }
