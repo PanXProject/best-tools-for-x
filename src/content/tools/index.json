@@ -1,6 +1,31 @@
 {
   "tools": [
     {
+      "id": "healthcare-resume-bullet-writer",
+      "slug": "healthcare-resume-bullet-writer",
+      "title": "Healthcare Resume Bullet Writer",
+      "description": "Free AI resume bullets for nurses, CNAs and techs",
+      "author": "Thomas Brock",
+      "username": "thomasbrock_cj",
+      "user_id": "84519aad-38c0-4bc3-a2f2-41e237389859",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "resume",
+        "healthcare-jobs"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-17T22:21:47.109Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792275701/qsutfwddvbhuh7hfls3t.png",
+      "toolUrl": "https://carejobs.now/tools/healthcare-resume-bullet-writer"
+    },
+    {
       "id": "healthcare-cover-letter-generator",
       "slug": "healthcare-cover-letter-generator",
       "title": "Healthcare Cover Letter Generator",
@@ -15726,5 +15751,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-17T22:21:13.636Z"
+  "lastUpdated": "2026-10-17T22:21:48.231Z"
 }
