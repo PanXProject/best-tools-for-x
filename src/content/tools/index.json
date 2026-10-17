@@ -1,6 +1,31 @@
 {
   "tools": [
     {
+      "id": "healthcare-interview-coach",
+      "slug": "healthcare-interview-coach",
+      "title": "Healthcare Interview Coach",
+      "description": "Free AI interview practice for nurses and healthcare staff",
+      "author": "Thomas Brock",
+      "username": "thomasbrock_cj",
+      "user_id": "84519aad-38c0-4bc3-a2f2-41e237389859",
+      "categories": [
+        "Manage People"
+      ],
+      "tags": [
+        "interview-preparation",
+        "healthcare-jobs"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-17T22:22:09.231Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792275723/mymm3jbfcniysu9czrzc.png",
+      "toolUrl": "https://carejobs.now/tools/healthcare-interview-coach"
+    },
+    {
       "id": "healthcare-resume-bullet-writer",
       "slug": "healthcare-resume-bullet-writer",
       "title": "Healthcare Resume Bullet Writer",
@@ -15751,5 +15776,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-17T22:21:48.231Z"
+  "lastUpdated": "2026-10-17T22:22:10.510Z"
 }
