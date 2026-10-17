@@ -1,6 +1,31 @@
 {
   "tools": [
     {
+      "id": "healthcare-job-posting-decoder",
+      "slug": "healthcare-job-posting-decoder",
+      "title": "Healthcare Job Posting Decoder",
+      "description": "Paste a nursing job posting, get it in plain words",
+      "author": "Thomas Brock",
+      "username": "thomasbrock_cj",
+      "user_id": "84519aad-38c0-4bc3-a2f2-41e237389859",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "job-posting-analyzer",
+        "healthcare-jobs"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-17T22:22:31.867Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792275745/ejgkgs9kpuoazgnnxpcw.png",
+      "toolUrl": "https://carejobs.now/tools/healthcare-job-posting-decoder"
+    },
+    {
       "id": "healthcare-interview-coach",
       "slug": "healthcare-interview-coach",
       "title": "Healthcare Interview Coach",
@@ -15776,5 +15801,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-17T22:22:10.510Z"
+  "lastUpdated": "2026-10-17T22:22:33.070Z"
 }
