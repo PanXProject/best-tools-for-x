@@ -1,6 +1,31 @@
 {
   "tools": [
     {
+      "id": "healthcare-resignation-letter-generator",
+      "slug": "healthcare-resignation-letter-generator",
+      "title": "Healthcare Resignation Letter Generator",
+      "description": "Free AI resignation letters for nurses and care staff",
+      "author": "Thomas Brock",
+      "username": "thomasbrock_cj",
+      "user_id": "84519aad-38c0-4bc3-a2f2-41e237389859",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "resignation-letter",
+        "healthcare-jobs"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-17T22:23:16.193Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792275790/dmqzm9if3nrwwxcn8cll.png",
+      "toolUrl": "https://carejobs.now/tools/healthcare-resignation-letter-generator"
+    },
+    {
       "id": "healthcare-offer-negotiation-email-writer",
       "slug": "healthcare-offer-negotiation-email-writer",
       "title": "Healthcare Offer Negotiation Email Writer",
@@ -15826,5 +15851,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-17T22:22:55.492Z"
+  "lastUpdated": "2026-10-17T22:23:17.333Z"
 }
