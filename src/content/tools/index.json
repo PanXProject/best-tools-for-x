@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "google-maps-scraper",
+      "slug": "google-maps-scraper",
+      "title": "Google Maps Scraper",
+      "description": "Chrome extension that turns Google Maps searches into lead lists",
+      "author": "GMB Scraper",
+      "username": "gmbscraper",
+      "user_id": "d5796a09-bebf-46ec-8d17-7f5a37e3359c",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "lead-generation",
+        "google-maps",
+        "scraper",
+        "local-seo"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "extension"
+      ],
+      "publishDate": "2026-10-17T13:08:15.679Z",
+      "heroImage": "",
+      "toolUrl": "https://www.gmapsscraper.net/"
+    },
+    {
       "id": "gmb-scraper",
       "slug": "gmb-scraper",
       "title": "GMB Scraper",
@@ -15618,5 +15645,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-17T06:07:08.437Z"
+  "lastUpdated": "2026-10-17T13:08:16.959Z"
 }
