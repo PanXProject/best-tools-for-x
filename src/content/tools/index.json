@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "artcraft-ai",
+      "slug": "artcraft-ai",
+      "title": "Artcraft AI",
+      "description": "AI image and video studio in your browser, no download",
+      "author": "Toonbee",
+      "username": "toonbee",
+      "user_id": "f9b6682f-f8d4-4b1b-bcd5-fc83527bc85d",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai-image-generator",
+        "ai-video-generator",
+        "photo-editing",
+        "image-to-video"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-17T03:02:24.696Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792206137/nub4ozlukkhfekjnv7hr.jpg",
+      "toolUrl": "https://artcraftstudio.org/"
+    },
+    {
       "id": "roborock-qx-revo-max-vs-qx-revo-ultra-2-comparison",
       "slug": "roborock-qx-revo-max-vs-qx-revo-ultra-2-comparison",
       "title": "Roborock QX Revo Max vs QX Revo Ultra 2 (comparison)",
@@ -15506,5 +15533,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-17T02:30:05.057Z"
+  "lastUpdated": "2026-10-17T03:02:26.107Z"
 }
