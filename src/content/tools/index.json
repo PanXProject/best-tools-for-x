@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "gas-station-dance-ai",
+      "slug": "gas-station-dance-ai",
+      "title": "Gas Station Dance AI",
+      "description": "Turn your photos into a viral gas station dance video with AI",
+      "author": "Gas Station Dance AI",
+      "username": "gasstationdanceai",
+      "user_id": "431540cc-8d86-45a3-965d-b1c419e2879d",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai",
+        "video",
+        "dance"
+      ],
+      "pricing": {
+        "model": "one-time-payment"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-17T03:37:48.520Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792208247/eor3xqclnqlpnjiatgjq.png",
+      "toolUrl": "https://gasstationdanceai.com/"
+    },
+    {
       "id": "artcraft-ai",
       "slug": "artcraft-ai",
       "title": "Artcraft AI",
@@ -15533,5 +15559,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-17T03:02:26.107Z"
+  "lastUpdated": "2026-10-17T03:37:50.012Z"
 }
