@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "unforgettable-car-ai",
+      "slug": "unforgettable-car-ai",
+      "title": "Unforgettable Car AI",
+      "description": "Turn one selfie into the 24 UNO car reveal video",
+      "author": "Alex Chen",
+      "username": "alex-chen",
+      "user_id": "6bf742b7-3b9c-4c72-8581-1a80cd3d5d0e",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai-video",
+        "selfie",
+        "car-trend",
+        "tiktok",
+        "video-generator"
+      ],
+      "pricing": {
+        "model": "one-time-payment"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-17T14:24:45.149Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792247077/polpuvwvoofrm5pxunle.jpg",
+      "toolUrl": "https://unforgettablecarai.app/"
+    },
+    {
       "id": "ozil-goal-ai",
       "slug": "ozil-goal-ai",
       "title": "Ozil Goal AI",
@@ -15673,5 +15701,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-17T14:23:15.311Z"
+  "lastUpdated": "2026-10-17T14:24:46.533Z"
 }
