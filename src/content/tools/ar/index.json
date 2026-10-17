@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "bun-x-ray",
+      "slug": "bun-x-ray",
+      "title": "ثاقِب",
+      "title_en": "Bun X Ray",
+      "description": "Adversaries that adapt",
+      "author": "Sabry Dawood",
+      "username": "sabrydawood",
+      "user_id": "56a4397b-73df-452d-ae1c-07af463c4a94",
+      "categories": [
+        "الفهم والتحسين",
+        "الأمان والنشر"
+      ],
+      "tags": [
+        "ai",
+        "cyber-security",
+        "penetration-testing"
+      ],
+      "pricing": {
+        "model": "تجربة مجانية"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2026-10-17T14:08:33.208Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792245559/fsasiyhfny02g7us3mix.png",
+      "toolUrl": "https://bunxray.com/"
+    },
+    {
       "id": "visemix",
       "slug": "visemix",
       "title": "Visemix",
@@ -5824,5 +5852,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-17T13:53:08.802Z"
+  "lastUpdated": "2026-10-17T14:08:34.345Z"
 }
