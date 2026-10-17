@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "gmb-scraper",
+      "slug": "gmb-scraper",
+      "title": "GMB Scraper",
+      "description": "Export public Google Maps listings to CSV from Chrome.",
+      "author": "GMB Scraper",
+      "username": "gmbscraper",
+      "user_id": "d5796a09-bebf-46ec-8d17-7f5a37e3359c",
+      "categories": [
+        "Get & Keep Customers",
+        "Understand & Improve"
+      ],
+      "tags": [
+        "lead-generation",
+        "google-maps",
+        "local-seo",
+        "chrome-extension",
+        "sales"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "extension"
+      ],
+      "publishDate": "2026-10-17T05:39:25.348Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792215413/ouyrwvqpvpnzdbayvbjb.png",
+      "toolUrl": "https://www.gmbscraper.org/"
+    },
+    {
       "id": "img2threejs",
       "slug": "img2threejs",
       "title": "img2threejs",
@@ -15587,5 +15616,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-17T04:44:15.799Z"
+  "lastUpdated": "2026-10-17T05:39:27.006Z"
 }
