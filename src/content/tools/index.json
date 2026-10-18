@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "vaneform",
+      "slug": "vaneform",
+      "title": "Vaneform",
+      "description": "Free website traffic checker for any domain",
+      "author": "Kai",
+      "username": "kaijiang",
+      "user_id": "50b09274-8b89-4e5f-8adb-5f41be37ef1e",
+      "categories": [
+        "Get & Keep Customers",
+        "Understand & Improve"
+      ],
+      "tags": [
+        "seo",
+        "analytics",
+        "website-traffic",
+        "competitor-research",
+        "mcp"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-18T22:44:55.847Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792363479/kizr3bpriixcldqktldj.png",
+      "toolUrl": "https://vaneform.com/"
+    },
+    {
       "id": "shopedown",
       "slug": "shopedown",
       "title": "ShopEDown",
@@ -16283,5 +16312,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-18T22:19:22.570Z"
+  "lastUpdated": "2026-10-18T22:44:57.142Z"
 }
