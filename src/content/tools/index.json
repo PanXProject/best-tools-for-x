@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "scanit-seating-chart-maker",
+      "slug": "scanit-seating-chart-maker",
+      "title": "ScanIt Seating Chart Maker",
+      "description": "Build a seating chart in minutes, download a print-ready PDF",
+      "author": "ScanIt Events",
+      "username": "scanitevents_app",
+      "user_id": "b91857b4-c62c-4b14-b79d-07c357877681",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "seating-chart-maker",
+        "seating-chart",
+        "wedding-seating-chart",
+        "table-plan",
+        "event-planning"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-18T16:16:55.099Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792340208/zxh5kbejulkye9sw35yp.png",
+      "toolUrl": "https://scanitevents.com/tools/seating-chart-maker"
+    },
+    {
       "id": "scanit-wedding-hashtag-generator",
       "slug": "scanit-wedding-hashtag-generator",
       "title": "ScanIt Wedding Hashtag Generator",
@@ -16033,5 +16061,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-18T16:16:21.899Z"
+  "lastUpdated": "2026-10-18T16:16:56.415Z"
 }
