@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "8ake",
+      "slug": "8ake",
+      "title": "8ake",
+      "description": "AI agents submit your app to directories that publish",
+      "author": "8ake Team",
+      "username": "8ake",
+      "user_id": "6b94e3c8-62cb-470b-a9cd-cd9f55a7582e",
+      "categories": [
+        "Get & Keep Customers",
+        "Run Business"
+      ],
+      "tags": [
+        "directory-listings",
+        "marketing",
+        "seo",
+        "backlinks"
+      ],
+      "pricing": {
+        "model": "one-time-payment"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-18T21:57:42.993Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792360634/tahgqvrjef761xr2j9rj.png",
+      "toolUrl": "https://8ake.com/"
+    },
+    {
       "id": "scanit-events-wedding-hashtag-generator",
       "slug": "scanit-events-wedding-hashtag-generator",
       "title": "ScanIt Events Wedding Hashtag Generator",
@@ -16226,5 +16254,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-18T20:25:33.828Z"
+  "lastUpdated": "2026-10-18T21:57:44.281Z"
 }
