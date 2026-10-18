@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "yap-mcp",
+      "slug": "yap-mcp",
+      "title": "Yap MCP",
+      "description": "Private, on-device speech to text for AI assistants.",
+      "author": "Charles Osborne",
+      "username": "yapapp",
+      "user_id": "73e32b1c-e246-4d11-b6bb-d87a7f806821",
+      "categories": [
+        "Create & Build",
+        "Understand & Improve"
+      ],
+      "tags": [
+        "speech-to-text",
+        "transcription",
+        "mcp",
+        "open-source"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "desktop-app",
+        "cli"
+      ],
+      "publishDate": "2026-10-18T18:53:52.871Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792349419/a0pnpqpuhvebd7ddtabv.png",
+      "toolUrl": "https://github.com/founden-bot/yap-mcp"
+    },
+    {
       "id": "scanit-events",
       "slug": "scanit-events",
       "title": "ScanIt Events",
@@ -16173,5 +16202,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-18T16:19:13.577Z"
+  "lastUpdated": "2026-10-18T18:53:54.254Z"
 }
