@@ -1,6 +1,30 @@
 {
   "tools": [
     {
+      "id": "scanit-events-wedding-hashtag-generator",
+      "slug": "scanit-events-wedding-hashtag-generator",
+      "title": "ScanIt Events Wedding Hashtag Generator",
+      "description": "Generate wedding hashtag ideas from your names in seconds.",
+      "author": "Sam",
+      "username": "scanitevents",
+      "user_id": "2ba5289b-61bf-492a-8280-54922e3405e1",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "event-technology"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-18T20:25:32.676Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792355067/nirwgccybbzqfbpmbtsr.jpg",
+      "toolUrl": "https://scanitevents.com/tools/wedding-hashtag-generator"
+    },
+    {
       "id": "yap-mcp",
       "slug": "yap-mcp",
       "title": "Yap MCP",
@@ -16202,5 +16226,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-18T18:53:54.254Z"
+  "lastUpdated": "2026-10-18T20:25:33.828Z"
 }
