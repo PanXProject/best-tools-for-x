@@ -1,6 +1,31 @@
 {
   "tools": [
     {
+      "id": "free-ai-music-creator",
+      "slug": "free-ai-music-creator",
+      "title": "Free ai Music Creator ",
+      "description": "AI music generator for royalty-free background music fast AI",
+      "author": "Purike",
+      "username": "purike",
+      "user_id": "2a00ec75-32d9-4363-8e5f-44e7c88dfd69",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai",
+        "music"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-18T06:35:32.609Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792305264/uzelgobkmzjxtgf7uafp.jpg",
+      "toolUrl": "https://freemusiccreator.ai/"
+    },
+    {
       "id": "simple-mass-downloader",
       "slug": "simple-mass-downloader",
       "title": "Simple Mass Downloader",
@@ -15876,5 +15901,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-18T02:57:03.509Z"
+  "lastUpdated": "2026-10-18T06:35:33.989Z"
 }
