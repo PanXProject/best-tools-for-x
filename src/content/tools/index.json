@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "scanit-event-planning-checklist",
+      "slug": "scanit-event-planning-checklist",
+      "title": "ScanIt Event Planning Checklist",
+      "description": "A complete event planning checklist that saves as you go",
+      "author": "ScanIt Events",
+      "username": "scanitevents_app",
+      "user_id": "b91857b4-c62c-4b14-b79d-07c357877681",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "event-planning-checklist",
+        "wedding-checklist",
+        "wedding-planning-checklist",
+        "event-planning",
+        "to-do-list"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-18T16:18:28.662Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792340301/nbaxoxinvpigelr7lwmi.png",
+      "toolUrl": "https://scanitevents.com/tools/event-planning-checklist"
+    },
+    {
       "id": "scanit-event-timeline-builder",
       "slug": "scanit-event-timeline-builder",
       "title": "ScanIt Event Timeline Builder",
@@ -16117,5 +16145,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-18T16:17:57.994Z"
+  "lastUpdated": "2026-10-18T16:18:30.097Z"
 }
