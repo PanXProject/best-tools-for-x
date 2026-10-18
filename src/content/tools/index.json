@@ -1,6 +1,31 @@
 {
   "tools": [
     {
+      "id": "scanit-events-qr-code-generator",
+      "slug": "scanit-events-qr-code-generator",
+      "title": "ScanIt Events QR Code Generator",
+      "description": "Turn any link into a QR code you actually want to print. No signup.",
+      "author": "Sam",
+      "username": "scanitevents",
+      "user_id": "2ba5289b-61bf-492a-8280-54922e3405e1",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "qr-code",
+        "event-qr-code"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-18T15:06:10.123Z",
+      "heroImage": "",
+      "toolUrl": "https://scanitevents.com/tools/qr-code-generator"
+    },
+    {
       "id": "flux-3",
       "slug": "flux-3",
       "title": "FLUX 3",
@@ -15980,5 +16005,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-18T14:19:05.839Z"
+  "lastUpdated": "2026-10-18T15:06:11.447Z"
 }
