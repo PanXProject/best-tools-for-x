@@ -1,6 +1,31 @@
 {
   "tools": [
     {
+      "id": "musicaura-ai",
+      "slug": "musicaura-ai",
+      "title": "MusicAura AI",
+      "description": "AI Music Generator for Every Mood | Musicaura",
+      "author": "Purike",
+      "username": "purike",
+      "user_id": "2a00ec75-32d9-4363-8e5f-44e7c88dfd69",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai",
+        "music"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-18T06:38:16.243Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792305460/pa2tfuv3zp8apn9qdmg4.png",
+      "toolUrl": "https://musicaura.ai/"
+    },
+    {
       "id": "free-ai-music-creator",
       "slug": "free-ai-music-creator",
       "title": "Free ai Music Creator ",
@@ -15901,5 +15926,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-18T06:35:33.989Z"
+  "lastUpdated": "2026-10-18T06:38:17.510Z"
 }
