@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "flux-3",
+      "slug": "flux-3",
+      "title": "FLUX 3",
+      "description": "Create AI images and videos from prompts and reference images",
+      "author": "pixelclip",
+      "username": "pixelclip",
+      "user_id": "13fb86b0-8740-4583-899a-f357686a5c6f",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai",
+        "image-generation",
+        "video-generation"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-18T14:19:04.569Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792333078/eenlco7lunog2o00wybs.jpg",
+      "toolUrl": "https://www.flux-3-ai.net/"
+    },
+    {
       "id": "3d-converter",
       "slug": "3d-converter",
       "title": "3D Converter",
@@ -15954,5 +15980,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-18T09:29:12.587Z"
+  "lastUpdated": "2026-10-18T14:19:05.839Z"
 }
