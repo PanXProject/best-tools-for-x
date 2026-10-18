@@ -1,6 +1,31 @@
 {
   "tools": [
     {
+      "id": "simple-mass-downloader",
+      "slug": "simple-mass-downloader",
+      "title": "Simple Mass Downloader",
+      "description": "Batch-download images, PDFs and audio/video links from web pages",
+      "author": "GMB Scraper",
+      "username": "gmbscraper",
+      "user_id": "d5796a09-bebf-46ec-8d17-7f5a37e3359c",
+      "categories": [
+        "Create & Build",
+        "Understand & Improve"
+      ],
+      "tags": [
+        "downloader-chrome-extension-bulk-download-pdf"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "extension"
+      ],
+      "publishDate": "2026-10-18T02:57:02.155Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792292187/bn2zstxdzpxincm3lwam.png",
+      "toolUrl": "https://www.simplemassdownloader.com/"
+    },
+    {
       "id": "healthcare-resignation-letter-generator",
       "slug": "healthcare-resignation-letter-generator",
       "title": "Healthcare Resignation Letter Generator",
@@ -15851,5 +15876,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-17T22:23:17.333Z"
+  "lastUpdated": "2026-10-18T02:57:03.509Z"
 }
