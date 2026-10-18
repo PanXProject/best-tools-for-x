@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "shopedown",
+      "slug": "shopedown",
+      "title": "ShopEDown",
+      "description": "Download Shopee videos, images and reviews",
+      "author": "Daniel Gross",
+      "username": "lwilson036",
+      "user_id": "e2a151b9-cefa-469f-a809-b1220bb902d9",
+      "categories": [
+        "Get & Keep Customers",
+        "Run Business",
+        "Understand & Improve"
+      ],
+      "tags": [
+        "shopee",
+        "product-research",
+        "dropshipping",
+        "chrome-extension"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "extension"
+      ],
+      "publishDate": "2026-10-18T22:19:21.187Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792361944/nape2mty3onbaawy6y8g.png",
+      "toolUrl": "https://shopedown.com/"
+    },
+    {
       "id": "8ake",
       "slug": "8ake",
       "title": "8ake",
@@ -16254,5 +16283,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-18T21:57:44.281Z"
+  "lastUpdated": "2026-10-18T22:19:22.570Z"
 }
