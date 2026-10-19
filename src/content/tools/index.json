@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "nursing-specialty-finder",
+      "slug": "nursing-specialty-finder",
+      "title": "Nursing Specialty Finder",
+      "description": "Find three nursing specialties that fit your pace, patients and schedu",
+      "author": "Thomas Brock",
+      "username": "thomasbrock_cj",
+      "user_id": "84519aad-38c0-4bc3-a2f2-41e237389859",
+      "categories": [
+        "Manage People"
+      ],
+      "tags": [
+        "nursing-specialty-quiz",
+        "nursing-career",
+        "new-grad-nurse",
+        "career-advice"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-19T11:04:38.741Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792407866/ubutxwymbyqsmqputqur.jpg",
+      "toolUrl": "https://carejobs.now/tools/nursing-specialty-finder"
+    },
+    {
       "id": "healthcare-interview-thank-you-email-writer",
       "slug": "healthcare-interview-thank-you-email-writer",
       "title": "Healthcare Interview Thank-You Email Writer",
@@ -16494,5 +16521,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-19T11:04:03.913Z"
+  "lastUpdated": "2026-10-19T11:04:40.068Z"
 }
