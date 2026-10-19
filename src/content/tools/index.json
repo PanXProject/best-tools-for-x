@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "meetnewai",
+      "slug": "meetnewai",
+      "title": "MeetNewAI",
+      "description": "Find AI tools, AI games and MCP servers by the job",
+      "author": "Kai",
+      "username": "kaijiang",
+      "user_id": "50b09274-8b89-4e5f-8adb-5f41be37ef1e",
+      "categories": [
+        "Create & Build",
+        "Understand & Improve"
+      ],
+      "tags": [
+        "ai-tools",
+        "ai-directory",
+        "mcp",
+        "ai-games",
+        "productivity"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-19T16:49:56.372Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792428580/kyryyneidph2bvwxzqt7.png",
+      "toolUrl": "https://meetnewai.com/"
+    },
+    {
       "id": "icybiz",
       "slug": "icybiz",
       "title": "Icybiz",
@@ -16680,5 +16709,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-19T15:09:27.252Z"
+  "lastUpdated": "2026-10-19T16:49:57.690Z"
 }
