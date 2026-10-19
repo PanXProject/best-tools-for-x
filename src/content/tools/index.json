@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "scanit-events-event-planning-checklist",
+      "slug": "scanit-events-event-planning-checklist",
+      "title": "ScanIt Events Event Planning Checklist",
+      "description": "Free event planning checklist that saves as you tick items",
+      "author": "Sam",
+      "username": "scanitevents",
+      "user_id": "2ba5289b-61bf-492a-8280-54922e3405e1",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "qr-code-for-weddings",
+        "event-qr-code",
+        "qr-table-cards",
+        "event-technology"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-19T13:43:15.017Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792417370/fggqkfxw5zghxa2zd1jq.png",
+      "toolUrl": "https://scanitevents.com/tools/event-planning-checklist"
+    },
+    {
       "id": "scanit-events-event-timeline-builder",
       "slug": "scanit-events-event-timeline-builder",
       "title": "ScanIt Events Event Timeline Builder",
@@ -16602,5 +16629,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-19T13:40:23.008Z"
+  "lastUpdated": "2026-10-19T13:43:16.480Z"
 }
