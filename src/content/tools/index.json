@@ -1,6 +1,30 @@
 {
   "tools": [
     {
+      "id": "icybiz",
+      "slug": "icybiz",
+      "title": "Icybiz",
+      "description": "Build and publish your own website for free",
+      "author": "Icybiz",
+      "username": "icybiz",
+      "user_id": "6c8ca0a6-56fb-417e-973b-e504fb14109b",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "website-builder"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-19T15:09:25.842Z",
+      "heroImage": "",
+      "toolUrl": "https://icybiz.com/"
+    },
+    {
       "id": "scanit-events-event-templates",
       "slug": "scanit-events-event-templates",
       "title": "ScanIt Events Event Templates",
@@ -16656,5 +16680,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-19T13:44:12.083Z"
+  "lastUpdated": "2026-10-19T15:09:27.252Z"
 }
