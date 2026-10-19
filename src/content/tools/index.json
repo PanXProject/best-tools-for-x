@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "healthcare-interview-thank-you-email-writer",
+      "slug": "healthcare-interview-thank-you-email-writer",
+      "title": "Healthcare Interview Thank-You Email Writer",
+      "description": "Write a specific thank-you email after a healthcare job interview",
+      "author": "Thomas Brock",
+      "username": "thomasbrock_cj",
+      "user_id": "84519aad-38c0-4bc3-a2f2-41e237389859",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "thank-you-email",
+        "interview-follow-up",
+        "email-writer",
+        "nursing-interview"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-19T11:04:02.547Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792407831/zccv6artrmlwe7tmjpac.jpg",
+      "toolUrl": "https://carejobs.now/tools/healthcare-interview-thank-you-email"
+    },
+    {
       "id": "travel-nurse-contract-checker",
       "slug": "travel-nurse-contract-checker",
       "title": "Travel Nurse Contract Checker",
@@ -16467,5 +16494,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-19T11:02:33.814Z"
+  "lastUpdated": "2026-10-19T11:04:03.913Z"
 }
