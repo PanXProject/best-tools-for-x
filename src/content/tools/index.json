@@ -1,6 +1,30 @@
 {
   "tools": [
     {
+      "id": "gas-station-dance-ai-generator",
+      "slug": "gas-station-dance-ai-generator",
+      "title": "Gas Station Dance AI Generator",
+      "description": "Turn 1-3 photos into a gas station dance video",
+      "author": "Alex Chen",
+      "username": "alex-chen",
+      "user_id": "6bf742b7-3b9c-4c72-8581-1a80cd3d5d0e",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai-video"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-19T03:56:50.722Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792382166/z6twvncvitbz75ayefvi.webp",
+      "toolUrl": "https://gasstationdanceai.org/"
+    },
+    {
       "id": "vaneform",
       "slug": "vaneform",
       "title": "Vaneform",
@@ -16312,5 +16336,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-18T22:44:57.142Z"
+  "lastUpdated": "2026-10-19T03:56:51.873Z"
 }
