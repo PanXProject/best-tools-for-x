@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "carejobs-now-healthcare-job-search",
+      "slug": "carejobs-now-healthcare-job-search",
+      "title": "CareJobs.Now: Healthcare Job Search",
+      "description": "Search US healthcare jobs with posted pay, from your browser",
+      "author": "Thomas Brock",
+      "username": "thomasbrock_cj",
+      "user_id": "84519aad-38c0-4bc3-a2f2-41e237389859",
+      "categories": [
+        "Manage People"
+      ],
+      "tags": [
+        "job-search",
+        "healthcare",
+        "chrome-extension"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "extension"
+      ],
+      "publishDate": "2026-10-19T18:18:56.829Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792433675/gwsked0vppmcm7btq4fw.jpg",
+      "toolUrl": "https://carejobs.now/browser-extension"
+    },
+    {
       "id": "ghostsims",
       "slug": "ghostsims",
       "title": "GhostSims",
@@ -16765,5 +16791,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-19T17:41:15.507Z"
+  "lastUpdated": "2026-10-19T18:18:58.557Z"
 }
