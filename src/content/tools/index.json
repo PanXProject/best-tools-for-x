@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "scanit-events-event-budget-calculator",
+      "slug": "scanit-events-event-budget-calculator",
+      "title": "ScanIt Events Event Budget Calculator",
+      "description": "Free event budget calculator, split by category, no signup",
+      "author": "Sam",
+      "username": "scanitevents",
+      "user_id": "2ba5289b-61bf-492a-8280-54922e3405e1",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "qr-code-for-weddings",
+        "event-qr-code",
+        "qr-table-cards",
+        "event-technology"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-19T13:39:25.457Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792417163/swav2lnhmy0k6gnz3rcc.png",
+      "toolUrl": "https://scanitevents.com/tools/event-budget-calculator"
+    },
+    {
       "id": "scanit-events-seating-chart-maker",
       "slug": "scanit-events-seating-chart-maker",
       "title": "ScanIt Events Seating Chart Maker",
@@ -16548,5 +16575,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-19T13:38:31.881Z"
+  "lastUpdated": "2026-10-19T13:39:27.164Z"
 }
