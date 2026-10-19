@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "play-jean-phil",
+      "slug": "play-jean-phil",
+      "title": "Play Jean Phil",
+      "description": "Turn one photo into a Jean Phil style AI video",
+      "author": "Alex Chen",
+      "username": "alex-chen",
+      "user_id": "6bf742b7-3b9c-4c72-8581-1a80cd3d5d0e",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai-video",
+        "video-generator",
+        "meme"
+      ],
+      "pricing": {
+        "model": "one-time-payment"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-19T03:57:46.300Z",
+      "heroImage": "",
+      "toolUrl": "https://playjeanphil.com/"
+    },
+    {
       "id": "gas-station-dance-ai-generator",
       "slug": "gas-station-dance-ai-generator",
       "title": "Gas Station Dance AI Generator",
@@ -16336,5 +16362,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-19T03:56:51.873Z"
+  "lastUpdated": "2026-10-19T03:57:47.557Z"
 }
