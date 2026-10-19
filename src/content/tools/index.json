@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "ghostsims",
+      "slug": "ghostsims",
+      "title": "GhostSims",
+      "description": "Secure encrypted phone: GrapheneOS Pixel with an encrypted SIM",
+      "author": "GhostSims",
+      "username": "ghostsims",
+      "user_id": "7286c3a3-fe20-4d5a-9584-c99afac314e7",
+      "categories": [
+        "Secure & Deploy"
+      ],
+      "tags": [
+        "secure-encrypted-phone",
+        "grapheneos",
+        "encrypted-sim",
+        "privacy"
+      ],
+      "pricing": {
+        "model": "one-time-payment"
+      },
+      "softwareTypes": [
+        "mobile-app"
+      ],
+      "publishDate": "2026-10-19T17:41:13.910Z",
+      "heroImage": "",
+      "toolUrl": "https://ghostsims.com/product/secure-encrypted-phone"
+    },
+    {
       "id": "peekpanda",
       "slug": "peekpanda",
       "title": "PeekPanda",
@@ -16738,5 +16765,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-19T17:29:32.789Z"
+  "lastUpdated": "2026-10-19T17:41:15.507Z"
 }
