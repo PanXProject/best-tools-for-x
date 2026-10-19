@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "peekpanda",
+      "slug": "peekpanda",
+      "title": "PeekPanda",
+      "description": "Spy on any iOS app's paid ads, App Store keywords and viral posts.",
+      "author": "Fekri Darkaoui",
+      "username": "peekpanda",
+      "user_id": "f7f7e73d-26ff-43b2-b3e7-da474ed6fa6a",
+      "categories": [
+        "Get & Keep Customers",
+        "Understand & Improve"
+      ],
+      "tags": [
+        "aso",
+        "marketing",
+        "developer-tools",
+        "ai",
+        "mcp"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-19T17:29:30.130Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792430926/jo4tvmabtdvqickac86f.png",
+      "toolUrl": "https://peekpanda.com/"
+    },
+    {
       "id": "meetnewai",
       "slug": "meetnewai",
       "title": "MeetNewAI",
@@ -16709,5 +16738,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-19T16:49:57.690Z"
+  "lastUpdated": "2026-10-19T17:29:32.789Z"
 }
