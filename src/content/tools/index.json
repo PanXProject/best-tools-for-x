@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "scanit-events-event-templates",
+      "slug": "scanit-events-event-templates",
+      "title": "ScanIt Events Event Templates",
+      "description": "Free editable event templates: RSVP cards, QR signs, invites",
+      "author": "Sam",
+      "username": "scanitevents",
+      "user_id": "2ba5289b-61bf-492a-8280-54922e3405e1",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "qr-code-for-weddings",
+        "event-qr-code",
+        "qr-table-cards",
+        "event-technology"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-19T13:44:10.824Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792417448/yeq9enm0qutilqazos49.png",
+      "toolUrl": "https://scanitevents.com/templates"
+    },
+    {
       "id": "scanit-events-event-planning-checklist",
       "slug": "scanit-events-event-planning-checklist",
       "title": "ScanIt Events Event Planning Checklist",
@@ -16629,5 +16656,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-19T13:43:16.480Z"
+  "lastUpdated": "2026-10-19T13:44:12.083Z"
 }
