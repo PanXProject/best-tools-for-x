@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "flying-car-ai",
+      "slug": "flying-car-ai",
+      "title": "Flying Car AI",
+      "description": "One photo becomes a cinematic car stunt video.",
+      "author": "GMB Scraper",
+      "username": "gmbscraper",
+      "user_id": "d5796a09-bebf-46ec-8d17-7f5a37e3359c",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai-video",
+        "photo-to-video",
+        "creative",
+        "stunts"
+      ],
+      "pricing": {
+        "model": "pay-per-use"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-19T09:21:51.324Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792401682/yijhfdtfdclihqu6br98.jpg",
+      "toolUrl": "https://www.flyingcar.art/"
+    },
+    {
       "id": "bulin-47-ai",
       "slug": "bulin-47-ai",
       "title": "Bulin 47 AI",
@@ -16413,5 +16440,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-19T04:40:23.556Z"
+  "lastUpdated": "2026-10-19T09:21:53.065Z"
 }
