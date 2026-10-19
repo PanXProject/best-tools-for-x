@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "scanit-events-seating-chart-maker",
+      "slug": "scanit-events-seating-chart-maker",
+      "title": "ScanIt Events Seating Chart Maker",
+      "description": "Free seating chart maker with print-ready PDF, no signup",
+      "author": "Sam",
+      "username": "scanitevents",
+      "user_id": "2ba5289b-61bf-492a-8280-54922e3405e1",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "qr-code-for-weddings",
+        "event-qr-code",
+        "qr-table-cards",
+        "event-technology"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-19T13:38:30.525Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792417097/pcbnqmupvklvpiavdwvi.png",
+      "toolUrl": "https://scanitevents.com/tools/seating-chart-maker"
+    },
+    {
       "id": "nursing-specialty-finder",
       "slug": "nursing-specialty-finder",
       "title": "Nursing Specialty Finder",
@@ -16521,5 +16548,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-19T11:04:40.068Z"
+  "lastUpdated": "2026-10-19T13:38:31.881Z"
 }
