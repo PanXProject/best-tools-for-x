@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "travel-nurse-contract-checker",
+      "slug": "travel-nurse-contract-checker",
+      "title": "Travel Nurse Contract Checker",
+      "description": "Paste a travel nurse offer, see the pay math and red flags",
+      "author": "Thomas Brock",
+      "username": "thomasbrock_cj",
+      "user_id": "84519aad-38c0-4bc3-a2f2-41e237389859",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "travel-nurse",
+        "contract-review",
+        "pay-package",
+        "stipends"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-19T11:02:32.293Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792407673/cxnifs9g0thqmcgx3uzm.jpg",
+      "toolUrl": "https://carejobs.now/tools/travel-nurse-contract-checker"
+    },
+    {
       "id": "flying-car-ai",
       "slug": "flying-car-ai",
       "title": "Flying Car AI",
@@ -16440,5 +16467,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-19T09:21:53.065Z"
+  "lastUpdated": "2026-10-19T11:02:33.814Z"
 }
