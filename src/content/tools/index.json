@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "bulin-47-ai",
+      "slug": "bulin-47-ai",
+      "title": "Bulin 47 AI",
+      "description": "Put yourself in the viral Bulin 47 freestyle video",
+      "author": "Alex Chen",
+      "username": "alex-chen",
+      "user_id": "6bf742b7-3b9c-4c72-8581-1a80cd3d5d0e",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai-video",
+        "dance-video",
+        "video-generator"
+      ],
+      "pricing": {
+        "model": "pay-per-use"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-19T04:40:22.217Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792384816/pyrobxbov8k7zp3rt4we.png",
+      "toolUrl": "https://bulinaivideo.org/"
+    },
+    {
       "id": "rumpelstiltskin-ai-video-generator",
       "slug": "rumpelstiltskin-ai-video-generator",
       "title": "Rumpelstiltskin AI Video Generator",
@@ -16387,5 +16413,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-19T04:34:04.940Z"
+  "lastUpdated": "2026-10-19T04:40:23.556Z"
 }
