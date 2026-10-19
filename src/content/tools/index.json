@@ -1,6 +1,31 @@
 {
   "tools": [
     {
+      "id": "rumpelstiltskin-ai-video-generator",
+      "slug": "rumpelstiltskin-ai-video-generator",
+      "title": "Rumpelstiltskin AI Video Generator",
+      "description": "Turn two photos into the viral Rumpelstiltskin tiptoe video",
+      "author": "Alex Chen",
+      "username": "alex-chen",
+      "user_id": "6bf742b7-3b9c-4c72-8581-1a80cd3d5d0e",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai-video",
+        "meme-video"
+      ],
+      "pricing": {
+        "model": "pay-per-use"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-19T04:34:03.639Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792384392/vpacgr3o3cbkipu5m6mp.jpg",
+      "toolUrl": "https://rumpelstiltskinaivideo.org/"
+    },
+    {
       "id": "play-jean-phil",
       "slug": "play-jean-phil",
       "title": "Play Jean Phil",
@@ -16362,5 +16387,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-19T03:57:47.557Z"
+  "lastUpdated": "2026-10-19T04:34:04.940Z"
 }
