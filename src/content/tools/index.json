@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "argorant",
+      "slug": "argorant",
+      "title": "Argorant",
+      "description": "B2B contact data via MCP, API, CLI and web app",
+      "author": "Support Argorant",
+      "username": "argorant",
+      "user_id": "386b56a0-5890-4c5c-a4b8-cacae9e33fc9",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "lead-generation",
+        "b2b-data",
+        "sales-prospecting"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app",
+        "cli"
+      ],
+      "publishDate": "2026-10-20T08:49:22.558Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792486121/c8v4qzyvwi3mu6rj0d06.png",
+      "toolUrl": "https://argorant.com/"
+    },
+    {
       "id": "ai-buildout",
       "slug": "ai-buildout",
       "title": "AI Buildout",
@@ -16844,5 +16871,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-20T07:48:43.205Z"
+  "lastUpdated": "2026-10-20T08:49:24.258Z"
 }
