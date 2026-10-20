@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "ai-buildout",
+      "slug": "ai-buildout",
+      "title": "AI Buildout",
+      "description": "Track AI physical build-out: data centers, power, chips",
+      "author": "AlphAI Team",
+      "username": "alphai-team",
+      "user_id": "e0b27d3f-7a10-4c16-9c47-5d5128f2cbae",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "ai-infrastructure",
+        "data-centers",
+        "research",
+        "analytics"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-20T07:48:41.479Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792482464/xdyyro5pltns1ivgxgcl.png",
+      "toolUrl": "https://aibuildout.net/"
+    },
+    {
       "id": "edit-pic-text-ai-image-text-editor",
       "slug": "edit-pic-text-ai-image-text-editor",
       "title": "Edit Pic Text - AI Image Text Editor",
@@ -16817,5 +16844,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-20T06:30:05.235Z"
+  "lastUpdated": "2026-10-20T07:48:43.205Z"
 }
