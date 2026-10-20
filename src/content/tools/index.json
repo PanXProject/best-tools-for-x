@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "edit-pic-text-ai-image-text-editor",
+      "slug": "edit-pic-text-ai-image-text-editor",
+      "title": "Edit Pic Text - AI Image Text Editor",
+      "description": "Replace words in a finished image without rebuilding the design.",
+      "author": "Jacky Peng",
+      "username": "jacky-peng-ai",
+      "user_id": "041941ed-dd14-4827-9c82-b803ce3b2b7c",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "image-text-editor",
+        "image-editing",
+        "design"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-20T06:30:03.583Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792477759/hpswsemvfxmgd2zgnzno.webp",
+      "toolUrl": "https://editpictext.com/"
+    },
+    {
       "id": "carejobs-now-healthcare-job-search",
       "slug": "carejobs-now-healthcare-job-search",
       "title": "CareJobs.Now: Healthcare Job Search",
@@ -16791,5 +16817,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-19T18:18:58.557Z"
+  "lastUpdated": "2026-10-20T06:30:05.235Z"
 }
