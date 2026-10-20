@@ -1,6 +1,31 @@
 {
   "tools": [
     {
+      "id": "malfoid-video",
+      "slug": "malfoid-video",
+      "title": "Malfoid Video",
+      "description": "Make and animate your own Malfoid fan art as 9:16 videos",
+      "author": "Alex Chen",
+      "username": "alex-chen",
+      "user_id": "6bf742b7-3b9c-4c72-8581-1a80cd3d5d0e",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai-video",
+        "video-generator"
+      ],
+      "pricing": {
+        "model": "one-time-payment"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-20T14:03:18.344Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792504997/nzyzbcnbxik3ix4q1r3k.jpg",
+      "toolUrl": "https://malfoid.video/"
+    },
+    {
       "id": "tesla-roadster-ai",
       "slug": "tesla-roadster-ai",
       "title": "Tesla Roadster AI",
@@ -16973,5 +16998,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-20T14:03:13.740Z"
+  "lastUpdated": "2026-10-20T14:03:20.459Z"
 }
