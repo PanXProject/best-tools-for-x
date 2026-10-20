@@ -1,6 +1,31 @@
 {
   "tools": [
     {
+      "id": "vokolla",
+      "slug": "vokolla",
+      "title": "Vokolla",
+      "description": "AI-assisted press release preparation and distribution",
+      "author": "Richard Lee",
+      "username": "vokolla",
+      "user_id": "47379a33-b36e-4fc4-965e-380d25be3fd1",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "press-releases",
+        "public-relations"
+      ],
+      "pricing": {
+        "model": "pay-per-use"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-20T10:45:37.960Z",
+      "heroImage": "",
+      "toolUrl": "https://vokolla.com/"
+    },
+    {
       "id": "argorant",
       "slug": "argorant",
       "title": "Argorant",
@@ -16871,5 +16896,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-20T08:49:24.258Z"
+  "lastUpdated": "2026-10-20T10:45:39.490Z"
 }
