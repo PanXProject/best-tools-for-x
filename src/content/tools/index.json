@@ -1,6 +1,31 @@
 {
   "tools": [
     {
+      "id": "roadstervideo",
+      "slug": "roadstervideo",
+      "title": "RoadsterVideo",
+      "description": "Turn one car photo into a Tesla Roadster ramp-flip AI video",
+      "author": "Alex Chen",
+      "username": "alex-chen",
+      "user_id": "6bf742b7-3b9c-4c72-8581-1a80cd3d5d0e",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai-video",
+        "tesla-roadster"
+      ],
+      "pricing": {
+        "model": "one-time-payment"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-20T14:02:53.054Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792504948/i1sztfztbbuajddndxff.jpg",
+      "toolUrl": "https://roadstervideo.com/"
+    },
+    {
       "id": "yap-voice-typing",
       "slug": "yap-voice-typing",
       "title": "Yap Voice Typing",
@@ -16923,5 +16948,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-20T12:36:50.384Z"
+  "lastUpdated": "2026-10-20T14:02:58.039Z"
 }
