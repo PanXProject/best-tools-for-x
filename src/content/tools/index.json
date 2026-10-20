@@ -1,6 +1,31 @@
 {
   "tools": [
     {
+      "id": "tesla-roadster-ai",
+      "slug": "tesla-roadster-ai",
+      "title": "Tesla Roadster AI",
+      "description": "Send any vehicle up the Tesla Roadster ramp flip with one photo",
+      "author": "Alex Chen",
+      "username": "alex-chen",
+      "user_id": "6bf742b7-3b9c-4c72-8581-1a80cd3d5d0e",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai-video",
+        "video-generator"
+      ],
+      "pricing": {
+        "model": "one-time-payment"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-20T14:03:12.066Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792504990/mgrh65nsfqix0gpbqbqh.jpg",
+      "toolUrl": "https://teslaroadsterai.org/"
+    },
+    {
       "id": "roadstervideo",
       "slug": "roadstervideo",
       "title": "RoadsterVideo",
@@ -16948,5 +16973,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-20T14:02:58.039Z"
+  "lastUpdated": "2026-10-20T14:03:13.740Z"
 }
