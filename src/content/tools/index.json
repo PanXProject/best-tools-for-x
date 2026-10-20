@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "yap-for-android",
+      "slug": "yap-for-android",
+      "title": "Yap for Android",
+      "description": "Private voice dictation for your Android phone",
+      "author": "Charles Osborne",
+      "username": "yapapp",
+      "user_id": "73e32b1c-e246-4d11-b6bb-d87a7f806821",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "voice-dictation",
+        "speech-to-text",
+        "android",
+        "productivity",
+        "privacy"
+      ],
+      "pricing": {
+        "model": "free-trial"
+      },
+      "softwareTypes": [
+        "mobile-app"
+      ],
+      "publishDate": "2026-10-20T18:52:56.821Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792522218/r1uksg1huuvwzpazzv5f.png",
+      "toolUrl": "https://yapapp.cc/download?utm_source=toolseekr-android&utm_medium=listing&utm_campaign=directories-oct2026#android"
+    },
+    {
       "id": "malfoid-video",
       "slug": "malfoid-video",
       "title": "Malfoid Video",
@@ -16998,5 +17026,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-20T14:03:20.459Z"
+  "lastUpdated": "2026-10-20T18:52:58.648Z"
 }
