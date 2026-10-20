@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "yap-voice-typing",
+      "slug": "yap-voice-typing",
+      "title": "Yap Voice Typing",
+      "description": "Free voice typing for any text box. Press Alt+Shift+Y and talk.",
+      "author": "Charles Osborne",
+      "username": "yapapp",
+      "user_id": "73e32b1c-e246-4d11-b6bb-d87a7f806821",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "voice-typing",
+        "dictation",
+        "speech-to-text",
+        "privacy"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "extension"
+      ],
+      "publishDate": "2026-10-20T11:16:26.177Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792494882/fbuagiryacrzdly1lxsd.png",
+      "toolUrl": "https://chromewebstore.google.com/detail/yap-voice-typing-speech-t/lapfpgdpnhpahiiipbijfbkonnlfnbgf"
+    },
+    {
       "id": "vokolla",
       "slug": "vokolla",
       "title": "Vokolla",
@@ -16896,5 +16923,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-20T10:45:39.490Z"
+  "lastUpdated": "2026-10-20T11:16:27.847Z"
 }
