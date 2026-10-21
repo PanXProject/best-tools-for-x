@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "healthcare-job-description-generator",
+      "slug": "healthcare-job-description-generator",
+      "title": "Healthcare Job Description Generator",
+      "description": "Free AI job descriptions for healthcare employers",
+      "author": "Thomas Brock",
+      "username": "thomasbrock_cj",
+      "user_id": "84519aad-38c0-4bc3-a2f2-41e237389859",
+      "categories": [
+        "Manage People"
+      ],
+      "tags": [
+        "job-description-generator",
+        "hr",
+        "recruiting",
+        "healthcare-hiring",
+        "nursing-jobs"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-21T06:45:43.036Z",
+      "heroImage": "",
+      "toolUrl": "https://carejobs.now/tools/healthcare-job-description-generator"
+    },
+    {
       "id": "nursing-school-personal-statement-writer",
       "slug": "nursing-school-personal-statement-writer",
       "title": "Nursing School Personal Statement Writer",
@@ -17533,5 +17561,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-21T06:45:17.578Z"
+  "lastUpdated": "2026-10-21T06:45:44.695Z"
 }
