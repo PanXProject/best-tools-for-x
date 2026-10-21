@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ascii-art-generator",
+      "slug": "ascii-art-generator",
+      "title": "ASCII Art Generator",
+      "description": "Make image and text character art with manual edits and exports",
+      "author": "Bank Statement Converter",
+      "username": "bankstmt",
+      "user_id": "462d77a9-48f3-46ed-89f9-3c44991d1a29",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ascii-art",
+        "design",
+        "browser-tools"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-21T18:57:50.152Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792609018/dhtnfjmqbc7dktxi7xur.png",
+      "toolUrl": "https://asciiartgenerator.online/"
+    },
+    {
       "id": "prohoster",
       "slug": "prohoster",
       "title": "ProHoster",
@@ -17826,5 +17852,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-21T17:59:40.298Z"
+  "lastUpdated": "2026-10-21T18:57:51.732Z"
 }
