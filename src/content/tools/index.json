@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "car-customizer",
+      "slug": "car-customizer",
+      "title": "Car Customizer",
+      "description": "Preview car appearance changes on a photo and compare concepts",
+      "author": "Bank Statement Converter",
+      "username": "bankstmt",
+      "user_id": "462d77a9-48f3-46ed-89f9-3c44991d1a29",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "car-design",
+        "visual-concepts",
+        "ai-tools"
+      ],
+      "pricing": {
+        "model": "free-trial"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-21T20:59:10.733Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792616303/ftxmzqs8ge7c0c4xu768.png",
+      "toolUrl": "https://car-customizer.online/"
+    },
+    {
       "id": "nah-crypto-tax-tracker",
       "slug": "nah-crypto-tax-tracker",
       "title": "Nah Crypto Tax Tracker",
@@ -17880,5 +17906,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-21T19:31:51.786Z"
+  "lastUpdated": "2026-10-21T20:59:12.580Z"
 }
