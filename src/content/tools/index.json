@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "healthcare-job-follow-up-email-writer",
+      "slug": "healthcare-job-follow-up-email-writer",
+      "title": "Healthcare Job Follow-Up Email Writer",
+      "description": "Free AI follow-up emails for healthcare job seekers",
+      "author": "Thomas Brock",
+      "username": "thomasbrock_cj",
+      "user_id": "84519aad-38c0-4bc3-a2f2-41e237389859",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "follow-up-email",
+        "job-application",
+        "interview-follow-up",
+        "nursing",
+        "healthcare-careers"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-21T06:44:27.634Z",
+      "heroImage": "",
+      "toolUrl": "https://carejobs.now/tools/healthcare-job-follow-up-email"
+    },
+    {
       "id": "healthcare-job-application-question-writer",
       "slug": "healthcare-job-application-question-writer",
       "title": "Healthcare Job Application Question Writer",
@@ -17449,5 +17477,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-21T06:43:56.792Z"
+  "lastUpdated": "2026-10-21T06:44:29.176Z"
 }
