@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "nah-crypto-tax-tracker",
+      "slug": "nah-crypto-tax-tracker",
+      "title": "Nah Crypto Tax Tracker",
+      "description": "Crypto tax spreadsheet + guide, FIFO",
+      "author": "Nah",
+      "username": "nah",
+      "user_id": "6ee95648-7c8e-4218-a209-091eb4a9aac1",
+      "categories": [
+        "Manage Money"
+      ],
+      "tags": [
+        "crypto",
+        "spreadsheet",
+        "fifo",
+        "record-keeping",
+        "solana"
+      ],
+      "pricing": {
+        "model": "one-time-payment"
+      },
+      "softwareTypes": [
+        "desktop-app"
+      ],
+      "publishDate": "2026-10-21T19:31:49.888Z",
+      "heroImage": "",
+      "toolUrl": "https://nah-crypto-tax-tracker.pages.dev/"
+    },
+    {
       "id": "ascii-art-generator",
       "slug": "ascii-art-generator",
       "title": "ASCII Art Generator",
@@ -17852,5 +17880,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-21T18:57:51.732Z"
+  "lastUpdated": "2026-10-21T19:31:51.786Z"
 }
