@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "healthcare-career-change-finder",
+      "slug": "healthcare-career-change-finder",
+      "title": "Healthcare Career Change Finder",
+      "description": "Free AI finder for jobs to switch into healthcare",
+      "author": "Thomas Brock",
+      "username": "thomasbrock_cj",
+      "user_id": "84519aad-38c0-4bc3-a2f2-41e237389859",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "career-change",
+        "healthcare-careers",
+        "cna",
+        "medical-assistant",
+        "phlebotomy"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-21T06:44:50.613Z",
+      "heroImage": "",
+      "toolUrl": "https://carejobs.now/tools/healthcare-career-change-finder"
+    },
+    {
       "id": "healthcare-job-follow-up-email-writer",
       "slug": "healthcare-job-follow-up-email-writer",
       "title": "Healthcare Job Follow-Up Email Writer",
@@ -17477,5 +17505,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-21T06:44:29.176Z"
+  "lastUpdated": "2026-10-21T06:44:52.053Z"
 }
