@@ -1,6 +1,31 @@
 {
   "tools": [
     {
+      "id": "prohoster",
+      "slug": "prohoster",
+      "title": "ProHoster",
+      "description": "Fast NVMe VPS, Hosting, Dedicated Servers and VPN",
+      "author": "Grade ERP",
+      "username": "gradeerp",
+      "user_id": "2dc11b66-a09b-4132-b4df-c809697a7650",
+      "categories": [
+        "Secure & Deploy"
+      ],
+      "tags": [
+        "hosting",
+        "vps"
+      ],
+      "pricing": {
+        "model": "custom-pricing"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-21T17:59:38.455Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792605553/zpuoxra9y6rtvxqlbi0v.jpg",
+      "toolUrl": "https://prohoster.info/en/"
+    },
+    {
       "id": "gmaps-email-extractor",
       "slug": "gmaps-email-extractor",
       "title": "GMaps Email Extractor",
@@ -17801,5 +17826,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-21T15:44:30.162Z"
+  "lastUpdated": "2026-10-21T17:59:40.298Z"
 }
