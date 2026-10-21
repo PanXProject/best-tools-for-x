@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "healthcare-resume-ats-checker",
+      "slug": "healthcare-resume-ats-checker",
+      "title": "Healthcare Resume ATS Checker",
+      "description": "Free AI resume checker for nurses, CNAs, techs and therapists",
+      "author": "Thomas Brock",
+      "username": "thomasbrock_cj",
+      "user_id": "84519aad-38c0-4bc3-a2f2-41e237389859",
+      "categories": [
+        "Manage People"
+      ],
+      "tags": [
+        "resume-checker",
+        "ats",
+        "nursing-resume"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-21T03:44:29.697Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792554261/rzgrkkm9lbzn3eb30b1g.jpg",
+      "toolUrl": "https://carejobs.now/tools/healthcare-resume-ats-checker"
+    },
+    {
       "id": "healthcare-linkedin-profile-writer",
       "slug": "healthcare-linkedin-profile-writer",
       "title": "Healthcare LinkedIn Profile Writer",
@@ -17134,5 +17160,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-21T03:43:57.266Z"
+  "lastUpdated": "2026-10-21T03:44:31.188Z"
 }
