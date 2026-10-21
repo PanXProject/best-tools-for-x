@@ -1,6 +1,31 @@
 {
   "tools": [
     {
+      "id": "wan-3",
+      "slug": "wan-3",
+      "title": "Wan 3",
+      "description": "Bedtime-story pages that gently move",
+      "author": "Emily Johnson",
+      "username": "emilyjohnson2026",
+      "user_id": "bc3e0b58-a4d4-44ce-970f-ff1ed3e85b1f",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai-video",
+        "kids"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-21T04:34:47.559Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792557269/qddr9vjyxyqo5fj4lcip.png",
+      "toolUrl": "https://wan3.io/"
+    },
+    {
       "id": "military-medic-to-civilian-healthcare-job-translator",
       "slug": "military-medic-to-civilian-healthcare-job-translator",
       "title": "Military Medic to Civilian Healthcare Job Translator",
@@ -17290,5 +17315,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-21T03:46:52.026Z"
+  "lastUpdated": "2026-10-21T04:34:49.047Z"
 }
