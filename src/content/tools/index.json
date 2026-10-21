@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "bopreel",
+      "slug": "bopreel",
+      "title": "Bopreel",
+      "description": "Turn your photos into 15-second AI meme videos",
+      "author": "Style Look Lab",
+      "username": "stylelooklab",
+      "user_id": "343db8eb-686a-478e-895d-64bd6b285cf3",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai-meme-video-generator",
+        "hotel-lobby-ai",
+        "oouuh-ai",
+        "photo-to-video"
+      ],
+      "pricing": {
+        "model": "one-time-payment"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-21T11:17:08.745Z",
+      "heroImage": "",
+      "toolUrl": "https://bopreel.com/"
+    },
+    {
       "id": "earlylore",
       "slug": "earlylore",
       "title": "EarlyLore",
@@ -17750,5 +17777,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-21T07:57:31.439Z"
+  "lastUpdated": "2026-10-21T11:17:10.625Z"
 }
