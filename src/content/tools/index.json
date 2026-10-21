@@ -277,8 +277,10 @@
         "web-app"
       ],
       "publishDate": "2026-10-21T06:43:55.295Z",
-      "heroImage": "",
-      "toolUrl": "https://carejobs.now/tools/healthcare-application-question-answers"
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792566582/h5sqk5dqnhtc8x3fmptk.jpg",
+      "toolUrl": "https://carejobs.now/tools/healthcare-application-question-answers",
+      "featured": false,
+      "featuredPosition": null
     },
     {
       "id": "ai-scribe-review",
@@ -17701,5 +17703,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-21T06:47:53.033Z"
+  "lastUpdated": "2026-10-21T07:09:45.619Z"
 }
