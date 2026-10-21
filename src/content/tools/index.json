@@ -1,6 +1,30 @@
 {
   "tools": [
     {
+      "id": "gmaps-email-extractor",
+      "slug": "gmaps-email-extractor",
+      "title": "GMaps Email Extractor",
+      "description": "Chrome extension that finds business emails on Google Maps",
+      "author": "GMB Scraper",
+      "username": "gmbscraper",
+      "user_id": "d5796a09-bebf-46ec-8d17-7f5a37e3359c",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "chrome-extension"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "extension"
+      ],
+      "publishDate": "2026-10-21T15:44:26.425Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792597384/rayxj9szq5amaf3wmznk.png",
+      "toolUrl": "https://www.gmapsemailextractor.com/"
+    },
+    {
       "id": "bopreel",
       "slug": "bopreel",
       "title": "Bopreel",
@@ -17777,5 +17801,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-21T11:17:10.625Z"
+  "lastUpdated": "2026-10-21T15:44:30.162Z"
 }
