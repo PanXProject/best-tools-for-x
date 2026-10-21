@@ -81,8 +81,10 @@
         "web-app"
       ],
       "publishDate": "2026-10-21T06:46:57.158Z",
-      "heroImage": "",
-      "toolUrl": "https://carejobs.now/tools/healthcare-offer-acceptance-email"
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792566686/cbaag5bv54kl6dzjihqm.jpg",
+      "toolUrl": "https://carejobs.now/tools/healthcare-offer-acceptance-email",
+      "featured": false,
+      "featuredPosition": null
     },
     {
       "id": "healthcare-recruiter-reply-writer",
@@ -17715,5 +17717,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-21T07:11:14.860Z"
+  "lastUpdated": "2026-10-21T07:11:31.336Z"
 }
