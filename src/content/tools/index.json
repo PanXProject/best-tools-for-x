@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "nurse-residency-essay-writer",
+      "slug": "nurse-residency-essay-writer",
+      "title": "Nurse Residency Essay Writer",
+      "description": "Free AI essay answers for nurse residency applications",
+      "author": "Thomas Brock",
+      "username": "thomasbrock_cj",
+      "user_id": "84519aad-38c0-4bc3-a2f2-41e237389859",
+      "categories": [
+        "Manage People"
+      ],
+      "tags": [
+        "nurse-residency",
+        "personal-statement",
+        "new-grad-nurse"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-21T03:46:09.221Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792554360/zm1tfrftj7cujztybmue.jpg",
+      "toolUrl": "https://carejobs.now/tools/nurse-residency-essay-writer"
+    },
+    {
       "id": "healthcare-job-offer-comparison-tool",
       "slug": "healthcare-job-offer-comparison-tool",
       "title": "Healthcare Job Offer Comparison Tool",
@@ -17212,5 +17238,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-21T03:45:44.404Z"
+  "lastUpdated": "2026-10-21T03:46:10.982Z"
 }
