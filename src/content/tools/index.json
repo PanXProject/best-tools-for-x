@@ -137,8 +137,10 @@
         "web-app"
       ],
       "publishDate": "2026-10-21T06:46:07.897Z",
-      "heroImage": "",
-      "toolUrl": "https://carejobs.now/tools/healthcare-job-scam-checker"
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792566655/k9jtrke1zalkzvzynjeb.jpg",
+      "toolUrl": "https://carejobs.now/tools/healthcare-job-scam-checker",
+      "featured": false,
+      "featuredPosition": null
     },
     {
       "id": "healthcare-job-description-generator",
@@ -17711,5 +17713,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-21T07:10:45.436Z"
+  "lastUpdated": "2026-10-21T07:10:59.933Z"
 }
