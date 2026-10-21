@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ai-lrc-generator",
+      "slug": "ai-lrc-generator",
+      "title": "AI LRC Generator",
+      "description": "Edit synced lyrics and export reviewed LRC or subtitles",
+      "author": "Bank Statement Converter",
+      "username": "bankstmt",
+      "user_id": "462d77a9-48f3-46ed-89f9-3c44991d1a29",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "lyrics",
+        "audio",
+        "lrc"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-21T04:43:55.794Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792557602/xz3qkyjhmkl62vmqwacg.png",
+      "toolUrl": "https://ailrcgenerator.online/"
+    },
+    {
       "id": "wan-3",
       "slug": "wan-3",
       "title": "Wan 3",
@@ -17315,5 +17341,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-21T04:34:49.047Z"
+  "lastUpdated": "2026-10-21T04:43:57.274Z"
 }
