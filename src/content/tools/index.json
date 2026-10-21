@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "roblox-shirt-maker",
+      "slug": "roblox-shirt-maker",
+      "title": "Roblox Shirt Maker",
+      "description": "Browser clothing templates, layers, preview and PNG downloads",
+      "author": "Bank Statement Converter",
+      "username": "bankstmt",
+      "user_id": "462d77a9-48f3-46ed-89f9-3c44991d1a29",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "roblox",
+        "clothing-design",
+        "png"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-21T01:02:19.614Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792544497/c5pn5600k5ftd51qg5sn.png",
+      "toolUrl": "https://rbxshirtmaker.com/"
+    },
+    {
       "id": "yap-for-android",
       "slug": "yap-for-android",
       "title": "Yap for Android",
@@ -17026,5 +17052,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-20T18:52:58.648Z"
+  "lastUpdated": "2026-10-21T01:02:21.084Z"
 }
