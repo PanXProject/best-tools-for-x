@@ -249,8 +249,10 @@
         "web-app"
       ],
       "publishDate": "2026-10-21T06:44:27.634Z",
-      "heroImage": "",
-      "toolUrl": "https://carejobs.now/tools/healthcare-job-follow-up-email"
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792566595/imfi7klirma5vwxughoq.jpg",
+      "toolUrl": "https://carejobs.now/tools/healthcare-job-follow-up-email",
+      "featured": false,
+      "featuredPosition": null
     },
     {
       "id": "healthcare-job-application-question-writer",
@@ -17703,5 +17705,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-21T07:09:45.619Z"
+  "lastUpdated": "2026-10-21T07:10:00.209Z"
 }
