@@ -1,6 +1,37 @@
 {
   "tools": [
     {
+      "id": "foxphone",
+      "slug": "foxphone",
+      "title": "FoxPhone",
+      "description": "Isolated cloud phones your AI agents can run at scale",
+      "author": "FoxPhone",
+      "username": "foxphone",
+      "user_id": "37552c48-490c-4f3f-ae89-b9903411f6c4",
+      "categories": [
+        "Create & Build",
+        "Secure & Deploy"
+      ],
+      "tags": [
+        "cloud-phone",
+        "ai-agents",
+        "developer-tools",
+        "automation",
+        "android"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app",
+        "desktop-app"
+      ],
+      "publishDate": "2026-10-21T21:57:08.566Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792619798/e4j5ggp0qdyr5wwaejd8.png",
+      "toolUrl": "https://www.foxphone.com/"
+    },
+    {
       "id": "car-customizer",
       "slug": "car-customizer",
       "title": "Car Customizer",
@@ -17906,5 +17937,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-21T20:59:12.580Z"
+  "lastUpdated": "2026-10-21T21:57:10.176Z"
 }
