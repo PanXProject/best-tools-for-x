@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "healthcare-interview-question-generator-for-hiring-managers",
+      "slug": "healthcare-interview-question-generator-for-hiring-managers",
+      "title": "Healthcare Interview Question Generator for Hiring Managers",
+      "description": "Free AI interview questions for healthcare hiring",
+      "author": "Thomas Brock",
+      "username": "thomasbrock_cj",
+      "user_id": "84519aad-38c0-4bc3-a2f2-41e237389859",
+      "categories": [
+        "Manage People"
+      ],
+      "tags": [
+        "interview-questions",
+        "hiring",
+        "hr",
+        "recruiting",
+        "nurse-manager"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-21T06:47:51.494Z",
+      "heroImage": "",
+      "toolUrl": "https://carejobs.now/tools/healthcare-interview-question-generator"
+    },
+    {
       "id": "healthcare-resume-gap-explainer",
       "slug": "healthcare-resume-gap-explainer",
       "title": "Healthcare Resume Gap Explainer",
@@ -17673,5 +17701,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-21T06:47:29.071Z"
+  "lastUpdated": "2026-10-21T06:47:53.033Z"
 }
