@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "aesthetic-font-generator",
+      "slug": "aesthetic-font-generator",
+      "title": "Aesthetic Font Generator",
+      "description": "Copy & paste aesthetic fonts for Instagram, TikTok, Discord & WhatsApp",
+      "author": "Aesthetic Font Generator",
+      "username": "aestheticfontsapp",
+      "user_id": "01dd7a87-f379-4f6b-a385-82c6550e2b44",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "utilities",
+        "free",
+        "online-tool",
+        "browser"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-21T05:48:02.731Z",
+      "heroImage": "",
+      "toolUrl": "https://aestheticfonts.im/"
+    },
+    {
       "id": "ai-lrc-generator",
       "slug": "ai-lrc-generator",
       "title": "AI LRC Generator",
@@ -17341,5 +17368,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-21T04:43:57.274Z"
+  "lastUpdated": "2026-10-21T05:48:04.286Z"
 }
