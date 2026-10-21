@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "healthcare-job-offer-comparison-tool",
+      "slug": "healthcare-job-offer-comparison-tool",
+      "title": "Healthcare Job Offer Comparison Tool",
+      "description": "Free AI tool to compare two healthcare job offers side by side",
+      "author": "Thomas Brock",
+      "username": "thomasbrock_cj",
+      "user_id": "84519aad-38c0-4bc3-a2f2-41e237389859",
+      "categories": [
+        "Manage People"
+      ],
+      "tags": [
+        "job-offer-comparison",
+        "salary-comparison",
+        "nursing"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-21T03:45:42.993Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792554335/glsedyisgptz6wq0f5bb.jpg",
+      "toolUrl": "https://carejobs.now/tools/healthcare-job-offer-comparison"
+    },
+    {
       "id": "healthcare-self-evaluation-writer",
       "slug": "healthcare-self-evaluation-writer",
       "title": "Healthcare Self-Evaluation Writer",
@@ -17186,5 +17212,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-21T03:44:52.823Z"
+  "lastUpdated": "2026-10-21T03:45:44.404Z"
 }
