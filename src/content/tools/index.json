@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "healthcare-self-evaluation-writer",
+      "slug": "healthcare-self-evaluation-writer",
+      "title": "Healthcare Self-Evaluation Writer",
+      "description": "Free AI self-evaluation writer for nurses and healthcare workers",
+      "author": "Thomas Brock",
+      "username": "thomasbrock_cj",
+      "user_id": "84519aad-38c0-4bc3-a2f2-41e237389859",
+      "categories": [
+        "Manage People"
+      ],
+      "tags": [
+        "self-evaluation",
+        "performance-review",
+        "nursing"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-21T03:44:51.216Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792554285/orxpasc3vhqpunodeokl.jpg",
+      "toolUrl": "https://carejobs.now/tools/healthcare-self-evaluation-writer"
+    },
+    {
       "id": "healthcare-resume-ats-checker",
       "slug": "healthcare-resume-ats-checker",
       "title": "Healthcare Resume ATS Checker",
@@ -17160,5 +17186,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-21T03:44:31.188Z"
+  "lastUpdated": "2026-10-21T03:44:52.823Z"
 }
