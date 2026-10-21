@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "nursing-school-personal-statement-writer",
+      "slug": "nursing-school-personal-statement-writer",
+      "title": "Nursing School Personal Statement Writer",
+      "description": "Free AI personal statement writer for nursing school",
+      "author": "Thomas Brock",
+      "username": "thomasbrock_cj",
+      "user_id": "84519aad-38c0-4bc3-a2f2-41e237389859",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "personal-statement",
+        "nursing-school",
+        "essay-writer",
+        "college-application",
+        "nursing-students"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-21T06:45:16.145Z",
+      "heroImage": "",
+      "toolUrl": "https://carejobs.now/tools/nursing-school-personal-statement-writer"
+    },
+    {
       "id": "healthcare-career-change-finder",
       "slug": "healthcare-career-change-finder",
       "title": "Healthcare Career Change Finder",
@@ -17505,5 +17533,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-21T06:44:52.053Z"
+  "lastUpdated": "2026-10-21T06:45:17.578Z"
 }
