@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "healthcare-reference-letter-writer",
+      "slug": "healthcare-reference-letter-writer",
+      "title": "Healthcare Reference Letter Writer",
+      "description": "Free AI recommendation letters for nurses and healthcare workers",
+      "author": "Thomas Brock",
+      "username": "thomasbrock_cj",
+      "user_id": "84519aad-38c0-4bc3-a2f2-41e237389859",
+      "categories": [
+        "Manage People"
+      ],
+      "tags": [
+        "letter-of-recommendation",
+        "reference-letter",
+        "nursing"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-21T03:46:29.933Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792554384/d1pwwxgez9j6wpsu4xme.jpg",
+      "toolUrl": "https://carejobs.now/tools/healthcare-reference-letter-writer"
+    },
+    {
       "id": "nurse-residency-essay-writer",
       "slug": "nurse-residency-essay-writer",
       "title": "Nurse Residency Essay Writer",
@@ -17238,5 +17264,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-21T03:46:10.982Z"
+  "lastUpdated": "2026-10-21T03:46:31.662Z"
 }
