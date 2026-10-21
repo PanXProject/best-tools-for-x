@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "healthcare-job-scam-checker",
+      "slug": "healthcare-job-scam-checker",
+      "title": "Healthcare Job Scam Checker",
+      "description": "Free AI scam checker for healthcare job postings",
+      "author": "Thomas Brock",
+      "username": "thomasbrock_cj",
+      "user_id": "84519aad-38c0-4bc3-a2f2-41e237389859",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "job-scam",
+        "scam-checker",
+        "fraud",
+        "recruiter-scam",
+        "remote-jobs"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-21T06:46:07.897Z",
+      "heroImage": "",
+      "toolUrl": "https://carejobs.now/tools/healthcare-job-scam-checker"
+    },
+    {
       "id": "healthcare-job-description-generator",
       "slug": "healthcare-job-description-generator",
       "title": "Healthcare Job Description Generator",
@@ -17561,5 +17589,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-21T06:45:44.695Z"
+  "lastUpdated": "2026-10-21T06:46:09.529Z"
 }
