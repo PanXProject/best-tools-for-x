@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "choicer-voicer",
+      "slug": "choicer-voicer",
+      "title": "Choicer Voicer",
+      "description": "Dub movie scenes with your own voice, right in the browser.",
+      "author": "Yu Jian Team",
+      "username": "yujianteam",
+      "user_id": "2f1082e4-b476-46e3-8ef1-1d68f5f16a7b",
+      "categories": [
+        "Create & Build",
+        "Connect & Collaborate"
+      ],
+      "tags": [
+        "dubbing-game",
+        "voice-acting",
+        "browser-game",
+        "party-game",
+        "voice-over"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-21T05:50:52.299Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792561817/j3jetoquznd0so6xdkkb.png",
+      "toolUrl": "https://choicervoicer.games/?utm_source=toolseekr.com&utm_medium=referral&utm_campaign=directory"
+    },
+    {
       "id": "aesthetic-font-generator",
       "slug": "aesthetic-font-generator",
       "title": "Aesthetic Font Generator",
@@ -17368,5 +17397,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-21T05:48:04.286Z"
+  "lastUpdated": "2026-10-21T05:50:54.105Z"
 }
