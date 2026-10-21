@@ -193,8 +193,10 @@
         "web-app"
       ],
       "publishDate": "2026-10-21T06:45:16.145Z",
-      "heroImage": "",
-      "toolUrl": "https://carejobs.now/tools/nursing-school-personal-statement-writer"
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792566625/folulnna9r1ul81ziaej.jpg",
+      "toolUrl": "https://carejobs.now/tools/nursing-school-personal-statement-writer",
+      "featured": false,
+      "featuredPosition": null
     },
     {
       "id": "healthcare-career-change-finder",
@@ -17707,5 +17709,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-21T07:10:15.759Z"
+  "lastUpdated": "2026-10-21T07:10:30.689Z"
 }
