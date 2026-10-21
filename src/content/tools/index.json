@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "healthcare-linkedin-profile-writer",
+      "slug": "healthcare-linkedin-profile-writer",
+      "title": "Healthcare LinkedIn Profile Writer",
+      "description": "Free AI LinkedIn headlines and About section for healthcare workers",
+      "author": "Thomas Brock",
+      "username": "thomasbrock_cj",
+      "user_id": "84519aad-38c0-4bc3-a2f2-41e237389859",
+      "categories": [
+        "Manage People"
+      ],
+      "tags": [
+        "linkedin-profile",
+        "nursing",
+        "healthcare-careers"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-21T03:43:55.846Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792554207/tnophtsfesy0v9lxcntc.jpg",
+      "toolUrl": "https://carejobs.now/tools/healthcare-linkedin-profile-writer"
+    },
+    {
       "id": "animalscoloringsheets",
       "slug": "animalscoloringsheets",
       "title": "AnimalsColoringSheets",
@@ -17108,5 +17134,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-21T02:33:30.561Z"
+  "lastUpdated": "2026-10-21T03:43:57.266Z"
 }
