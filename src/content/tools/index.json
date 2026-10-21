@@ -221,8 +221,10 @@
         "web-app"
       ],
       "publishDate": "2026-10-21T06:44:50.613Z",
-      "heroImage": "",
-      "toolUrl": "https://carejobs.now/tools/healthcare-career-change-finder"
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792566611/o54zl1a1kscyga9u92oe.jpg",
+      "toolUrl": "https://carejobs.now/tools/healthcare-career-change-finder",
+      "featured": false,
+      "featuredPosition": null
     },
     {
       "id": "healthcare-job-follow-up-email-writer",
@@ -17705,5 +17707,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-21T07:10:00.209Z"
+  "lastUpdated": "2026-10-21T07:10:15.759Z"
 }
