@@ -53,8 +53,10 @@
         "web-app"
       ],
       "publishDate": "2026-10-21T06:47:27.257Z",
-      "heroImage": "",
-      "toolUrl": "https://carejobs.now/tools/healthcare-resume-gap-explainer"
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792566701/kcz2aghno5pgp8tzlyho.jpg",
+      "toolUrl": "https://carejobs.now/tools/healthcare-resume-gap-explainer",
+      "featured": false,
+      "featuredPosition": null
     },
     {
       "id": "healthcare-job-offer-acceptance-or-decline-email",
@@ -17717,5 +17719,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-21T07:11:31.336Z"
+  "lastUpdated": "2026-10-21T07:11:45.860Z"
 }
