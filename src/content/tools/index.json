@@ -25,8 +25,10 @@
         "web-app"
       ],
       "publishDate": "2026-10-21T06:47:51.494Z",
-      "heroImage": "",
-      "toolUrl": "https://carejobs.now/tools/healthcare-interview-question-generator"
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792566715/le6xza0qtuko6jy8jnmg.jpg",
+      "toolUrl": "https://carejobs.now/tools/healthcare-interview-question-generator",
+      "featured": false,
+      "featuredPosition": null
     },
     {
       "id": "healthcare-resume-gap-explainer",
@@ -17719,5 +17721,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-21T07:11:45.860Z"
+  "lastUpdated": "2026-10-21T07:12:00.177Z"
 }
