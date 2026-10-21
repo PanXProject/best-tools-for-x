@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "motionelo",
+      "slug": "motionelo",
+      "title": "Motionelo",
+      "description": "Turn text prompts and images into short AI videos",
+      "author": "Motionelo & AnimalsColoringSheets Team",
+      "username": "motioneloacs",
+      "user_id": "420c2777-db30-43fa-bb7f-b8112a8bba5d",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai-video-generator",
+        "text-to-video",
+        "image-to-video",
+        "ai-animation",
+        "short-video"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-21T02:32:46.038Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792549884/lykqttsytb0cexohfhhn.png",
+      "toolUrl": "https://motionelo.com/?utm_source=toolseekr&utm_medium=directory&utm_campaign=backlinks"
+    },
+    {
       "id": "roblox-shirt-maker",
       "slug": "roblox-shirt-maker",
       "title": "Roblox Shirt Maker",
@@ -17052,5 +17080,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-21T01:02:21.084Z"
+  "lastUpdated": "2026-10-21T02:32:48.101Z"
 }
