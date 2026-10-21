@@ -165,8 +165,10 @@
         "web-app"
       ],
       "publishDate": "2026-10-21T06:45:43.036Z",
-      "heroImage": "",
-      "toolUrl": "https://carejobs.now/tools/healthcare-job-description-generator"
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792566641/nqbyfg1iialdu9af9ek4.jpg",
+      "toolUrl": "https://carejobs.now/tools/healthcare-job-description-generator",
+      "featured": false,
+      "featuredPosition": null
     },
     {
       "id": "nursing-school-personal-statement-writer",
@@ -17709,5 +17711,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-21T07:10:30.689Z"
+  "lastUpdated": "2026-10-21T07:10:45.436Z"
 }
