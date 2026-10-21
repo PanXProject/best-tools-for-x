@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "healthcare-resume-gap-explainer",
+      "slug": "healthcare-resume-gap-explainer",
+      "title": "Healthcare Resume Gap Explainer",
+      "description": "Free AI resume gap explainer for healthcare workers",
+      "author": "Thomas Brock",
+      "username": "thomasbrock_cj",
+      "user_id": "84519aad-38c0-4bc3-a2f2-41e237389859",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "resume-gap",
+        "employment-gap",
+        "return-to-work",
+        "nursing-resume",
+        "career"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-21T06:47:27.257Z",
+      "heroImage": "",
+      "toolUrl": "https://carejobs.now/tools/healthcare-resume-gap-explainer"
+    },
+    {
       "id": "healthcare-job-offer-acceptance-or-decline-email",
       "slug": "healthcare-job-offer-acceptance-or-decline-email",
       "title": "Healthcare Job Offer Acceptance or Decline Email",
@@ -17645,5 +17673,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-21T06:47:02.838Z"
+  "lastUpdated": "2026-10-21T06:47:29.071Z"
 }
