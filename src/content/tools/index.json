@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "military-medic-to-civilian-healthcare-job-translator",
+      "slug": "military-medic-to-civilian-healthcare-job-translator",
+      "title": "Military Medic to Civilian Healthcare Job Translator",
+      "description": "Free AI tool turning military medic jobs into civilian healthcare role",
+      "author": "Thomas Brock",
+      "username": "thomasbrock_cj",
+      "user_id": "84519aad-38c0-4bc3-a2f2-41e237389859",
+      "categories": [
+        "Manage People"
+      ],
+      "tags": [
+        "veterans",
+        "military-to-civilian",
+        "combat-medic"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-21T03:46:50.250Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792554405/mbtrov6tojet5gz1sahh.jpg",
+      "toolUrl": "https://carejobs.now/tools/military-to-civilian-healthcare-jobs"
+    },
+    {
       "id": "healthcare-reference-letter-writer",
       "slug": "healthcare-reference-letter-writer",
       "title": "Healthcare Reference Letter Writer",
@@ -17264,5 +17290,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-21T03:46:31.662Z"
+  "lastUpdated": "2026-10-21T03:46:52.026Z"
 }
