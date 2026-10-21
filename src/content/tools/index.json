@@ -1,6 +1,30 @@
 {
   "tools": [
     {
+      "id": "ai-scribe-review",
+      "slug": "ai-scribe-review",
+      "title": "AI Scribe Review",
+      "description": "Free directory and reviews of transcription software and speech tools",
+      "author": "Linda Reed",
+      "username": "aiscribereview",
+      "user_id": "d7367078-daec-4d98-a6d0-27ab4f1c0b47",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "research"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-21T06:32:34.482Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792564003/iqh9fpfk85wyfuvnsimg.png",
+      "toolUrl": "https://aiscribereview.com/"
+    },
+    {
       "id": "choicer-voicer",
       "slug": "choicer-voicer",
       "title": "Choicer Voicer",
@@ -17397,5 +17421,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-21T05:50:54.105Z"
+  "lastUpdated": "2026-10-21T06:32:36.369Z"
 }
