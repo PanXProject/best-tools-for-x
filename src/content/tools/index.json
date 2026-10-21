@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "animalscoloringsheets",
+      "slug": "animalscoloringsheets",
+      "title": "AnimalsColoringSheets",
+      "description": "Free printable animal coloring pages and photo tool",
+      "author": "Motionelo & AnimalsColoringSheets Team",
+      "username": "motioneloacs",
+      "user_id": "420c2777-db30-43fa-bb7f-b8112a8bba5d",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "coloring-pages",
+        "photo-to-coloring-page",
+        "printables",
+        "kids-activities",
+        "education"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-21T02:33:28.758Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792549994/ovnoo5ddnxvo7fa8kszu.png",
+      "toolUrl": "https://animalscoloringsheets.com/photo-to-coloring-page?utm_source=toolseekr&utm_medium=directory&utm_campaign=backlinks"
+    },
+    {
       "id": "motionelo",
       "slug": "motionelo",
       "title": "Motionelo",
@@ -17080,5 +17108,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-21T02:32:48.101Z"
+  "lastUpdated": "2026-10-21T02:33:30.561Z"
 }
