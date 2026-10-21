@@ -109,8 +109,10 @@
         "web-app"
       ],
       "publishDate": "2026-10-21T06:46:32.073Z",
-      "heroImage": "",
-      "toolUrl": "https://carejobs.now/tools/healthcare-recruiter-reply-writer"
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792566670/cjswh96ojku7cbhfmbyz.jpg",
+      "toolUrl": "https://carejobs.now/tools/healthcare-recruiter-reply-writer",
+      "featured": false,
+      "featuredPosition": null
     },
     {
       "id": "healthcare-job-scam-checker",
@@ -17713,5 +17715,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-21T07:10:59.933Z"
+  "lastUpdated": "2026-10-21T07:11:14.860Z"
 }
