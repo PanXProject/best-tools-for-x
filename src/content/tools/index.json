@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "genjutsu-ai-video-generator",
+      "slug": "genjutsu-ai-video-generator",
+      "title": "Genjutsu AI Video Generator",
+      "description": "Pay-once AI video-to-video: recreate any clip's motion",
+      "author": "Genjutsu AI",
+      "username": "genjutsuai",
+      "user_id": "67dafe9c-ac5e-46aa-a2f0-610495ffbe46",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai-video",
+        "video-to-video",
+        "motion-transfer",
+        "video-generator"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-22T00:46:47.140Z",
+      "heroImage": "",
+      "toolUrl": "https://genjutsu.app/"
+    },
+    {
       "id": "foxphone",
       "slug": "foxphone",
       "title": "FoxPhone",
@@ -17937,5 +17964,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-21T21:57:10.176Z"
+  "lastUpdated": "2026-10-22T00:46:48.954Z"
 }
