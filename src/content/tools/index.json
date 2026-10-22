@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "labelpeel",
+      "slug": "labelpeel",
+      "title": "LabelPeel",
+      "description": "Print labels from Excel & Google Sheets, no mail merge",
+      "author": "LabelPeel",
+      "username": "labelpeel",
+      "user_id": "be427bf2-4279-4e32-9bda-425fd4c07d00",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "label-printing",
+        "mail-merge-alternative",
+        "excel-to-labels",
+        "printable-labels",
+        "small-business"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-22T14:43:08.611Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792680158/eou3u9aqn3jvvbopcscb.jpg",
+      "toolUrl": "https://labelpeel.com/"
+    },
+    {
       "id": "api-market",
       "slug": "api-market",
       "title": "API.market",
@@ -18206,5 +18234,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-22T12:03:37.528Z"
+  "lastUpdated": "2026-10-22T14:43:10.511Z"
 }
