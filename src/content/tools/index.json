@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "imagetolatex",
+      "slug": "imagetolatex",
+      "title": "ImageToLaTeX",
+      "description": "Turn math photos and screenshots into LaTeX and Word equations",
+      "author": "ImageToLaTeX Team",
+      "username": "imagetolatex",
+      "user_id": "4b3568d5-d4a5-446d-90f1-faded8b578c6",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "latex",
+        "math-ocr",
+        "equation-converter"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-22T11:27:59.048Z",
+      "heroImage": "",
+      "toolUrl": "https://imagetolatex.com/"
+    },
+    {
       "id": "fontgenerator",
       "slug": "fontgenerator",
       "title": "FontGenerator",
@@ -18126,5 +18152,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-22T11:23:20.762Z"
+  "lastUpdated": "2026-10-22T11:28:00.961Z"
 }
