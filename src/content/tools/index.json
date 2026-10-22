@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "prohoster-hosting",
+      "slug": "prohoster-hosting",
+      "title": "ProHoster Hosting",
+      "description": "Fast NVMe VPS, Hosting, Dedicated Servers and VPN",
+      "author": "ProHoster",
+      "username": "prohosterinfo",
+      "user_id": "46943f76-f0c3-4d30-8a64-82b420a523d2",
+      "categories": [
+        "Run Business",
+        "Secure & Deploy"
+      ],
+      "tags": [
+        "hosting",
+        "vps",
+        "vpn",
+        "server",
+        "domain"
+      ],
+      "pricing": {
+        "model": "subscription"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-22T14:56:11.807Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792680935/a3lm1locvwuxrsovyebd.png",
+      "toolUrl": "https://prohoster.info/en/"
+    },
+    {
       "id": "labelpeel",
       "slug": "labelpeel",
       "title": "LabelPeel",
@@ -18234,5 +18263,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-22T14:43:10.511Z"
+  "lastUpdated": "2026-10-22T14:56:13.873Z"
 }
