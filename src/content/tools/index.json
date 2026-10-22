@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "playable-notes",
+      "slug": "playable-notes",
+      "title": "Playable Notes",
+      "description": "Any piece, at your student's level. Just ask.",
+      "author": "Nathan Harmon",
+      "username": "playablenotes",
+      "user_id": "d9e4656a-7bb9-4b6c-935f-dccd9d075f35",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "piano",
+        "sheet-music",
+        "music-education"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-22T22:16:27.524Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792707361/f4wgushhnx95tbzdnx81.png",
+      "toolUrl": "https://playablenotes.com/"
+    },
+    {
       "id": "hotel-lobby-ai",
       "slug": "hotel-lobby-ai",
       "title": "Hotel Lobby AI",
@@ -18315,5 +18341,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-22T17:09:23.944Z"
+  "lastUpdated": "2026-10-22T22:16:29.383Z"
 }
