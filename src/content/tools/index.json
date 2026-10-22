@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "api-market",
+      "slug": "api-market",
+      "title": "API.market",
+      "description": "API marketplace and hosted MCP gateway for AI agents",
+      "author": "API.market",
+      "username": "apimarket",
+      "user_id": "baea83ca-9275-4cb1-af49-bbd392c7ce91",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "api",
+        "mcp",
+        "developer-tools",
+        "ai-agents",
+        "marketplace"
+      ],
+      "pricing": {
+        "model": "pay-per-use"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-22T12:03:35.465Z",
+      "heroImage": "",
+      "toolUrl": "https://api.market/"
+    },
+    {
       "id": "hum-to-search",
       "slug": "hum-to-search",
       "title": "Hum to Search",
@@ -18178,5 +18206,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-22T11:32:08.492Z"
+  "lastUpdated": "2026-10-22T12:03:37.528Z"
 }
