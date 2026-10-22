@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "hotel-lobby-ai",
+      "slug": "hotel-lobby-ai",
+      "title": "Hotel Lobby AI",
+      "description": "Turn two portraits into an orange-stage AI duet video",
+      "author": "Toolina",
+      "username": "toolina",
+      "user_id": "1c245921-d73b-46c3-a672-58577b0d04b4",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai",
+        "video-generation",
+        "creative-tools"
+      ],
+      "pricing": {
+        "model": "pay-per-use"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-22T17:09:21.922Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792688787/ammqn7balkxu8tjucvxz.png",
+      "toolUrl": "https://aihotellobby.dev/"
+    },
+    {
       "id": "sprite-maker",
       "slug": "sprite-maker",
       "title": "Sprite Maker",
@@ -18289,5 +18315,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-22T15:20:20.954Z"
+  "lastUpdated": "2026-10-22T17:09:23.944Z"
 }
