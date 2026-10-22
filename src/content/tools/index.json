@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "nadeto-digital-wardrobe",
+      "slug": "nadeto-digital-wardrobe",
+      "title": "Nadeto — digital wardrobe",
+      "description": "Digital wardrobe: photograph clothes, build outfits and capsules.",
+      "author": "Vadim Kostin",
+      "username": "vadimkostin",
+      "user_id": "39a73603-ee07-4a0c-aca4-5fff372c71c7",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "wardrobe",
+        "capsule-wardrobe",
+        "fashion",
+        "style",
+        "outfits"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app",
+        "mobile-app"
+      ],
+      "publishDate": "2026-10-22T07:00:03.351Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792652368/nqbcoq7ywh8bzvvhr0fa.png",
+      "toolUrl": "https://blueunicorn.ru/garderob"
+    },
+    {
       "id": "omnihuman-2-0",
       "slug": "omnihuman-2-0",
       "title": "OmniHuman 2.0",
@@ -18071,5 +18100,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-22T06:50:30.145Z"
+  "lastUpdated": "2026-10-22T07:00:05.166Z"
 }
