@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "hum-to-search",
+      "slug": "hum-to-search",
+      "title": "Hum to Search",
+      "description": "Find songs by humming a melody or recording audio",
+      "author": "Hum to Search Team",
+      "username": "humtosearch",
+      "user_id": "296a967e-b8a5-4c2e-9b71-971dbec72735",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "music-recognition",
+        "hum-to-search",
+        "song-finder"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-22T11:32:06.016Z",
+      "heroImage": "",
+      "toolUrl": "https://humtosearch.dev/"
+    },
+    {
       "id": "imagetolatex",
       "slug": "imagetolatex",
       "title": "ImageToLaTeX",
@@ -18152,5 +18178,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-22T11:28:00.961Z"
+  "lastUpdated": "2026-10-22T11:32:08.492Z"
 }
