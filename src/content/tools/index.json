@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ai-image-text-editor",
+      "slug": "ai-image-text-editor",
+      "title": "AI Image Text Editor",
+      "description": "Replace selected text in images with AI-assisted visual editing",
+      "author": "Bank Statement Converter",
+      "username": "bankstmt",
+      "user_id": "462d77a9-48f3-46ed-89f9-3c44991d1a29",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "image-editing",
+        "ai",
+        "screenshots"
+      ],
+      "pricing": {
+        "model": "free-trial"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-22T05:14:18.406Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792646009/ss6zovmbbriuhl95tmq6.png",
+      "toolUrl": "https://image-text-editor.online/"
+    },
+    {
       "id": "yourmelody",
       "slug": "yourmelody",
       "title": "yourmelody",
@@ -18016,5 +18042,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-22T03:23:57.640Z"
+  "lastUpdated": "2026-10-22T05:14:19.802Z"
 }
