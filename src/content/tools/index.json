@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "fontgenerator",
+      "slug": "fontgenerator",
+      "title": "FontGenerator",
+      "description": "Make real installable fonts from a prompt, image or handwriting",
+      "author": "FontGenerator Team",
+      "username": "fontgenerator",
+      "user_id": "f7d9d0ac-c2ba-47b0-bc42-143121afe098",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai-font-generator",
+        "typography",
+        "handwriting"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-22T11:23:19.141Z",
+      "heroImage": "",
+      "toolUrl": "https://fontgenerator.tools/"
+    },
+    {
       "id": "nadeto-digital-wardrobe",
       "slug": "nadeto-digital-wardrobe",
       "title": "Nadeto — digital wardrobe",
@@ -18100,5 +18126,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-22T07:00:05.166Z"
+  "lastUpdated": "2026-10-22T11:23:20.762Z"
 }
