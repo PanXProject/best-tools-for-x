@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "sprite-maker",
+      "slug": "sprite-maker",
+      "title": "Sprite Maker",
+      "description": "Generate character sprites, refine pixels and export PNGs",
+      "author": "Bank Statement Converter",
+      "username": "bankstmt",
+      "user_id": "462d77a9-48f3-46ed-89f9-3c44991d1a29",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "sprites",
+        "pixel-art",
+        "game-development"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-22T15:20:19.012Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792682380/tpdhp6ix5e8lmpdxbz91.png",
+      "toolUrl": "https://spritemaker.app/"
+    },
+    {
       "id": "prohoster-hosting",
       "slug": "prohoster-hosting",
       "title": "ProHoster Hosting",
@@ -18263,5 +18289,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-22T14:56:13.873Z"
+  "lastUpdated": "2026-10-22T15:20:20.954Z"
 }
