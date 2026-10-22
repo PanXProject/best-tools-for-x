@@ -1,6 +1,30 @@
 {
   "tools": [
     {
+      "id": "yourmelody",
+      "slug": "yourmelody",
+      "title": "yourmelody",
+      "description": "Custom AI song gifts in minutes, free preview",
+      "author": "Nora Bennett",
+      "username": "yourmelody",
+      "user_id": "ccf3aa6b-29dc-4550-9163-d7c670965500",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai-music"
+      ],
+      "pricing": {
+        "model": "one-time-payment"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-22T03:23:56.273Z",
+      "heroImage": "",
+      "toolUrl": "https://yourmelody.ai/"
+    },
+    {
       "id": "introvideo",
       "slug": "introvideo",
       "title": "IntroVideo",
@@ -17992,5 +18016,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-22T01:38:32.196Z"
+  "lastUpdated": "2026-10-22T03:23:57.640Z"
 }
