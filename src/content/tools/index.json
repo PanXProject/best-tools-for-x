@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "ordogrid",
+      "slug": "ordogrid",
+      "title": "OrdoGrid",
+      "description": "Peppol e-invoicing and project management for small businesses",
+      "author": "OrdoGrid team",
+      "username": "ordogrid",
+      "user_id": "24b958f4-6358-4dad-9294-c2753d73b623",
+      "categories": [
+        "Run Business",
+        "Manage Money"
+      ],
+      "tags": [
+        "invoicing",
+        "peppol",
+        "project-management",
+        "time-tracking",
+        "small-business"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-23T18:10:56.353Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792778981/kyerahiadesegxs2wwfe.jpg",
+      "toolUrl": "https://ordogrid.com/en"
+    },
+    {
       "id": "popugc",
       "slug": "popugc",
       "title": "PopUGC",
@@ -18726,5 +18755,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-23T14:27:18.256Z"
+  "lastUpdated": "2026-10-23T18:10:58.067Z"
 }
