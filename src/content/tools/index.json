@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "exceltool",
+      "slug": "exceltool",
+      "title": "ExcelTool",
+      "description": "Free online Excel tools to convert, view, edit and repair spreadsheets",
+      "author": "Wayde Lyle",
+      "username": "waydemlyle",
+      "user_id": "0baa9ace-338c-4f24-854f-dee228685bba",
+      "categories": [
+        "Run Business"
+      ],
+      "tags": [
+        "excel",
+        "spreadsheet",
+        "productivity"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-23T03:23:36.238Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792725807/ju9cb9s7ohz5wuz2lgnk.png",
+      "toolUrl": "https://exceltool.io/"
+    },
+    {
       "id": "musemate",
       "slug": "musemate",
       "title": "MuseMate",
@@ -18533,5 +18559,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-23T02:59:33.872Z"
+  "lastUpdated": "2026-10-23T03:23:37.907Z"
 }
