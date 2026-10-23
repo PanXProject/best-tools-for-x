@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "mojisuu-character-counter",
+      "slug": "mojisuu-character-counter",
+      "title": "Mojisuu Character Counter",
+      "description": "Count Japanese characters, lines, pages and bytes instantly",
+      "author": "Hum to Search Team",
+      "username": "humtosearch",
+      "user_id": "296a967e-b8a5-4c2e-9b71-971dbec72735",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "japanese",
+        "character-counter",
+        "writing",
+        "text-tools"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-23T01:47:42.256Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792720010/zxalodn1fhketptdyoaq.png",
+      "toolUrl": "https://mojisuu.app/"
+    },
+    {
       "id": "patchwork-tattoos",
       "slug": "patchwork-tattoos",
       "title": "Patchwork Tattoos",
@@ -18396,5 +18423,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-23T01:42:03.270Z"
+  "lastUpdated": "2026-10-23T01:47:43.933Z"
 }
