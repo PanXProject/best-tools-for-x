@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "whisperx",
+      "slug": "whisperx",
+      "title": "WhisperX",
+      "description": "Browser transcription with word timestamps and speaker labels.",
+      "author": "pp",
+      "username": "pp-minimax3",
+      "user_id": "dbbf3a52-7547-4138-b3fb-e4ef23df999f",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "transcription",
+        "subtitles",
+        "audio"
+      ],
+      "pricing": {
+        "model": "free-trial"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-23T21:42:33.870Z",
+      "heroImage": "",
+      "toolUrl": "https://whisperx.app/"
+    },
+    {
       "id": "ordogrid",
       "slug": "ordogrid",
       "title": "OrdoGrid",
@@ -18755,5 +18781,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-23T18:10:58.067Z"
+  "lastUpdated": "2026-10-23T21:42:35.664Z"
 }
