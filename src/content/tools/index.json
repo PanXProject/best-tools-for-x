@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "tubidy-mobile",
+      "slug": "tubidy-mobile",
+      "title": "Tubidy Mobile",
+      "description": "Free in-browser audio tools: cut, join, convert, edit tags, record.",
+      "author": "Mojid Hossain",
+      "username": "mojidozi8",
+      "user_id": "7a2d3d8f-8c79-4bcf-a3eb-56bec3a8178c",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "audio",
+        "music",
+        "mp3",
+        "converter",
+        "voice-recorder"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-23T07:15:36.751Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792739578/i7ehfufxgb7xnl0yvpqe.png",
+      "toolUrl": "https://tubidy.mobile/"
+    },
+    {
       "id": "growth-bounties",
       "slug": "growth-bounties",
       "title": "Growth Bounties",
@@ -18586,5 +18614,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-23T03:32:08.433Z"
+  "lastUpdated": "2026-10-23T07:15:38.388Z"
 }
