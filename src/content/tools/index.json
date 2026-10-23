@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "besttts",
+      "slug": "besttts",
+      "title": "BestTTS",
+      "description": "Free directory to find and compare text-to-speech and speech AI models",
+      "author": "Jeremy",
+      "username": "markitdowntech",
+      "user_id": "61f12672-c369-4261-af2f-ebd9df8c2d06",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "text-to-speech",
+        "tts",
+        "speech-ai",
+        "ai-directory"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-23T02:53:00.990Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792723961/nhulctifgoq82qfqxpki.jpg",
+      "toolUrl": "https://besttts.org/"
+    },
+    {
       "id": "y2mate",
       "slug": "y2mate",
       "title": "Y2Mate",
@@ -18478,5 +18505,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-23T02:49:28.959Z"
+  "lastUpdated": "2026-10-23T02:53:02.441Z"
 }
