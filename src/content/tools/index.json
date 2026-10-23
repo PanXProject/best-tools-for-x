@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "bestllmfor-quantization-recommender",
+      "slug": "bestllmfor-quantization-recommender",
+      "title": "BestLLMFor Quantization Recommender",
+      "description": "Indicative local LLM memory and quantization planning",
+      "author": "BestLLMFor team",
+      "username": "bestllmfor",
+      "user_id": "4e87cde6-bfbe-4d96-aa52-5948b4eecff7",
+      "categories": [
+        "Create & Build",
+        "Understand & Improve"
+      ],
+      "tags": [
+        "llm",
+        "quantization",
+        "memory",
+        "calculator",
+        "local-ai"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-23T09:39:58.784Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792748325/h8fqsq3mnongo5tzeqis.png",
+      "toolUrl": "https://bestllmfor.com/recommandeur-quantification/"
+    },
+    {
       "id": "paintit-ai",
       "slug": "paintit-ai",
       "title": "Paintit.ai",
@@ -18641,5 +18670,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-23T08:25:09.780Z"
+  "lastUpdated": "2026-10-23T09:40:00.821Z"
 }
