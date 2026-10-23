@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "contador-de-palabras",
+      "slug": "contador-de-palabras",
+      "title": "Contador de Palabras",
+      "description": "Count Spanish words, characters and readability as you write",
+      "author": "Hum to Search Team",
+      "username": "humtosearch",
+      "user_id": "296a967e-b8a5-4c2e-9b71-971dbec72735",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "spanish",
+        "word-counter",
+        "writing",
+        "text-analysis"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-23T01:49:33.247Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792720149/qwqkye0ix1srynbfwerg.png",
+      "toolUrl": "https://contadordepalabras.app/"
+    },
+    {
       "id": "mojisuu-character-counter",
       "slug": "mojisuu-character-counter",
       "title": "Mojisuu Character Counter",
@@ -18423,5 +18450,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-23T01:47:43.933Z"
+  "lastUpdated": "2026-10-23T01:49:34.991Z"
 }
