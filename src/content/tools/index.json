@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "remove-people-from-photos",
+      "slug": "remove-people-from-photos",
+      "title": "Remove People from Photos",
+      "description": "Remove People from Photos with AI, No Manual Editing",
+      "author": "Lunabella",
+      "username": "lunabella",
+      "user_id": "7ce31af0-1e0e-4421-b53f-bd893d8f32a6",
+      "categories": [
+        "Get & Keep Customers",
+        "Create & Build"
+      ],
+      "tags": [
+        "remove-people-from-photos",
+        "ai-photo-editor",
+        "people-remover",
+        "object-removal",
+        "image-editing"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-23T10:46:37.800Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792752224/ntifu8e09xxjot1g60yh.png",
+      "toolUrl": "https://peopleremover.app/"
+    },
+    {
       "id": "bestllmfor-quantization-recommender",
       "slug": "bestllmfor-quantization-recommender",
       "title": "BestLLMFor Quantization Recommender",
@@ -18670,5 +18699,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-23T09:40:00.821Z"
+  "lastUpdated": "2026-10-23T10:46:39.602Z"
 }
