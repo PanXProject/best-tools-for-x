@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "popugc",
+      "slug": "popugc",
+      "title": "PopUGC",
+      "description": "AI text to image for product and marketing visuals",
+      "author": "xc less",
+      "username": "lessxc",
+      "user_id": "65c591be-fcc2-4b09-be5a-b6df67dbf27f",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "image",
+        "generative-art",
+        "ai-art",
+        "image-generator"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-23T14:27:16.742Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792765626/ssgbppcarcigbmi9niq6.webp",
+      "toolUrl": "https://popugc.com/tools/text-to-image"
+    },
+    {
       "id": "remove-people-from-photos",
       "slug": "remove-people-from-photos",
       "title": "Remove People from Photos",
@@ -18699,5 +18726,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-23T10:46:39.602Z"
+  "lastUpdated": "2026-10-23T14:27:18.256Z"
 }
