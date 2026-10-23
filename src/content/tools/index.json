@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "lesson-dino",
+      "slug": "lesson-dino",
+      "title": "Lesson Dino",
+      "description": "AI lesson plans, slides and worksheets, with sources",
+      "author": "LabelPeel",
+      "username": "labelpeel",
+      "user_id": "be427bf2-4279-4e32-9bda-425fd4c07d00",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "edtech",
+        "teachers",
+        "worksheets",
+        "slides",
+        "lesson-planning"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-23T00:15:59.960Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792714514/swntb02j8roukpsi6nf5.jpg",
+      "toolUrl": "https://lessondino.com/"
+    },
+    {
       "id": "playable-notes",
       "slug": "playable-notes",
       "title": "Playable Notes",
@@ -18341,5 +18369,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-22T22:16:29.383Z"
+  "lastUpdated": "2026-10-23T00:16:02.086Z"
 }
