@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "musemate",
+      "slug": "musemate",
+      "title": "MuseMate",
+      "description": "AI music video generator for independent musicians",
+      "author": "Jeremy",
+      "username": "markitdowntech",
+      "user_id": "61f12672-c369-4261-af2f-ebd9df8c2d06",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "music-video",
+        "spotify-canvas",
+        "album-cover",
+        "musicians",
+        "ai-video"
+      ],
+      "pricing": {
+        "model": "subscription"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-23T02:59:32.164Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792724359/oyxaevw6xohlqzdzvdld.jpg",
+      "toolUrl": "https://musemate.ai/"
+    },
+    {
       "id": "besttts",
       "slug": "besttts",
       "title": "BestTTS",
@@ -18505,5 +18533,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-23T02:53:02.441Z"
+  "lastUpdated": "2026-10-23T02:59:33.872Z"
 }
