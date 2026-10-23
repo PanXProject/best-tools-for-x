@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "growth-bounties",
+      "slug": "growth-bounties",
+      "title": "Growth Bounties",
+      "description": "Pay for the result. Not the promise.",
+      "author": "Josef Andre",
+      "username": "growthbounties",
+      "user_id": "afe8af5f-368d-4c5b-b845-aa6261deaea7",
+      "categories": [
+        "Get & Keep Customers",
+        "Understand & Improve"
+      ],
+      "tags": [
+        "growth",
+        "domain-rating",
+        "backlinks"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-23T03:32:07.055Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792725015/hd9kcefkc4gsvnyfulff.png",
+      "toolUrl": "https://growthbounties.com/"
+    },
+    {
       "id": "exceltool",
       "slug": "exceltool",
       "title": "ExcelTool",
@@ -18559,5 +18586,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-23T03:23:37.907Z"
+  "lastUpdated": "2026-10-23T03:32:08.433Z"
 }
