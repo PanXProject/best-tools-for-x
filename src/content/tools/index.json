@@ -1,6 +1,31 @@
 {
   "tools": [
     {
+      "id": "paintit-ai",
+      "slug": "paintit-ai",
+      "title": "Paintit.ai",
+      "description": "Explore interior design ideas from room photos with AI",
+      "author": "Oleh Smetana",
+      "username": "paintitai",
+      "user_id": "2289cf6a-bb8a-4b0c-b839-0296c3ec75a9",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "interior-design",
+        "ai"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-23T08:25:08.292Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792743862/y6xlcvqmbmmrrdabhr5f.jpg",
+      "toolUrl": "https://paintit.ai/"
+    },
+    {
       "id": "tubidy-mobile",
       "slug": "tubidy-mobile",
       "title": "Tubidy Mobile",
@@ -18616,5 +18641,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-23T07:41:09.063Z"
+  "lastUpdated": "2026-10-23T08:25:09.780Z"
 }
