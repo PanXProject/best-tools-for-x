@@ -540,8 +540,10 @@
         "mobile-app"
       ],
       "publishDate": "2026-10-22T07:00:03.351Z",
-      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792652368/nqbcoq7ywh8bzvvhr0fa.png",
-      "toolUrl": "https://blueunicorn.ru/garderob"
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792741262/hrgddkhzymyjstzkpkbp.png",
+      "toolUrl": "https://blueunicorn.ru/garderob",
+      "featured": false,
+      "featuredPosition": null
     },
     {
       "id": "omnihuman-2-0",
@@ -18614,5 +18616,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-23T07:15:38.388Z"
+  "lastUpdated": "2026-10-23T07:41:09.063Z"
 }
