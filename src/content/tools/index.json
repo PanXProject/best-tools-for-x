@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "hotellobbyai",
+      "slug": "hotellobbyai",
+      "title": "HotelLobbyAI",
+      "description": "Turn your photos into the viral Hotel Lobby orange-booth rap video.",
+      "author": "Gu Doucin",
+      "username": "gudoucin",
+      "user_id": "cbec9804-0125-4a9e-88f6-5ce978227ed1",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai",
+        "video",
+        "entertainment",
+        "social-media",
+        "image-to-video"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-24T10:42:33.389Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792838545/y7pwqljwwadzmbswq7cv.png",
+      "toolUrl": "https://hotellobbyai.co/"
+    },
+    {
       "id": "dame-hombro-ai",
       "slug": "dame-hombro-ai",
       "title": "Dame Hombro AI",
@@ -18915,5 +18943,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-24T09:22:14.667Z"
+  "lastUpdated": "2026-10-24T10:42:34.826Z"
 }
