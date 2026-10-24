@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "morse-code-translator",
+      "slug": "morse-code-translator",
+      "title": "Morse Code Translator",
+      "description": "Translate text to Morse code and back instantly in your browser.",
+      "author": "Hum to Search Team",
+      "username": "humtosearch",
+      "user_id": "296a967e-b8a5-4c2e-9b71-971dbec72735",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "morse-code",
+        "translator",
+        "education"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-24T17:00:22.336Z",
+      "heroImage": "",
+      "toolUrl": "https://morsecodetranslator.tools/"
+    },
+    {
       "id": "taimaa-net",
       "slug": "taimaa-net",
       "title": "Taimaa.net",
@@ -19104,5 +19130,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-24T16:58:28.662Z"
+  "lastUpdated": "2026-10-24T17:00:24.346Z"
 }
