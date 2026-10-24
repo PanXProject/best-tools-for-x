@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "muse-video",
+      "slug": "muse-video",
+      "title": "Muse Video",
+      "description": "Direct AI video concepts from a single written prompt.",
+      "author": "Michael Anderson",
+      "username": "michaelanderson",
+      "user_id": "d2553b25-d2c1-4a52-a1fb-9025cadc833b",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai-video",
+        "prompt-workflow",
+        "video-concepts"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-24T06:33:10.214Z",
+      "heroImage": "",
+      "toolUrl": "https://muse-video.app/"
+    },
+    {
       "id": "zombie-ai",
       "slug": "zombie-ai",
       "title": "Zombie AI",
@@ -18834,5 +18860,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-24T04:16:49.344Z"
+  "lastUpdated": "2026-10-24T06:33:11.954Z"
 }
