@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "letra-cursiva",
+      "slug": "letra-cursiva",
+      "title": "Letra Cursiva",
+      "description": "Genera letras cursivas y estilos Unicode para copiar y pegar",
+      "author": "Hum to Search Team",
+      "username": "humtosearch",
+      "user_id": "296a967e-b8a5-4c2e-9b71-971dbec72735",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "letras-cursivas",
+        "texto",
+        "redes-sociales",
+        "unicode"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-24T13:04:34.188Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792847049/aybg4fdk15bhficjzams.png",
+      "toolUrl": "https://letracursiva.net/"
+    },
+    {
       "id": "comprimirpdf",
       "slug": "comprimirpdf",
       "title": "ComprimirPDF",
@@ -18970,5 +18997,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-24T13:02:31.441Z"
+  "lastUpdated": "2026-10-24T13:04:35.794Z"
 }
