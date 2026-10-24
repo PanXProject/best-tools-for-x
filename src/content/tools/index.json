@@ -1,6 +1,30 @@
 {
   "tools": [
     {
+      "id": "zombie-ai",
+      "slug": "zombie-ai",
+      "title": "Zombie AI",
+      "description": "Photo-based zombie stories and Halloween face edits",
+      "author": "Zombie AI team",
+      "username": "zombieaimaker",
+      "user_id": "230e9341-f134-448a-bb19-842f3f6c3c7d",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai-video"
+      ],
+      "pricing": {
+        "model": "one-time-payment"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-24T04:16:47.817Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792815196/qff8jf6tepjj1uvnffpy.png",
+      "toolUrl": "https://zombieaimaker.xyz/"
+    },
+    {
       "id": "onlintools-exposure-calculator",
       "slug": "onlintools-exposure-calculator",
       "title": "ONLINTools Exposure Calculator",
@@ -18810,5 +18834,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-24T03:30:57.147Z"
+  "lastUpdated": "2026-10-24T04:16:49.344Z"
 }
