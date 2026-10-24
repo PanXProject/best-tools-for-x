@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "dot-symbol",
+      "slug": "dot-symbol",
+      "title": "Dot Symbol",
+      "description": "Copy dot symbols with Unicode, HTML and CSS references",
+      "author": "Hum to Search Team",
+      "username": "humtosearch",
+      "user_id": "296a967e-b8a5-4c2e-9b71-971dbec72735",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "dot-symbol",
+        "unicode",
+        "text-tools",
+        "developer-tools"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-24T13:06:16.797Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792847158/ieeeuepd3obkr9skoyav.png",
+      "toolUrl": "https://dot-symbol.com/"
+    },
+    {
       "id": "letra-cursiva",
       "slug": "letra-cursiva",
       "title": "Letra Cursiva",
@@ -18997,5 +19024,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-24T13:04:35.794Z"
+  "lastUpdated": "2026-10-24T13:06:18.315Z"
 }
