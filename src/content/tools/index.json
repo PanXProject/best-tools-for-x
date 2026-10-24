@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "comprimirpdf",
+      "slug": "comprimirpdf",
+      "title": "ComprimirPDF",
+      "description": "Comprime PDF en tu navegador sin subir archivos a ningun servidor",
+      "author": "Hum to Search Team",
+      "username": "humtosearch",
+      "user_id": "296a967e-b8a5-4c2e-9b71-971dbec72735",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "pdf",
+        "comprimir-pdf",
+        "productividad",
+        "privacidad"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-24T13:02:29.946Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792846901/b0dag24dtmlemeahfedu.png",
+      "toolUrl": "https://comprimirpdf.app/"
+    },
+    {
       "id": "hotellobbyai",
       "slug": "hotellobbyai",
       "title": "HotelLobbyAI",
@@ -18943,5 +18970,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-24T10:42:34.826Z"
+  "lastUpdated": "2026-10-24T13:02:31.441Z"
 }
