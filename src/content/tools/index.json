@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "dame-hombro-ai",
+      "slug": "dame-hombro-ai",
+      "title": "Dame Hombro AI",
+      "description": "One photo to a viral Dame Hombro freestyle video",
+      "author": "Gu Doucin",
+      "username": "gudoucin",
+      "user_id": "cbec9804-0125-4a9e-88f6-5ce978227ed1",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai",
+        "video",
+        "tiktok",
+        "social-media",
+        "dance"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-24T09:22:13.040Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792833663/wtcdl62q8ctq9idmeluq.png",
+      "toolUrl": "https://damehombro.co/"
+    },
+    {
       "id": "heyaibuddy-ai-boyfriend",
       "slug": "heyaibuddy-ai-boyfriend",
       "title": "HeyAIBuddy AI Boyfriend",
@@ -18887,5 +18915,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-24T07:28:41.677Z"
+  "lastUpdated": "2026-10-24T09:22:14.667Z"
 }
