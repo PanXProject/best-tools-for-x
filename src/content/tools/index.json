@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "minutehaul",
+      "slug": "minutehaul",
+      "title": "MinuteHaul",
+      "description": "Export all your Fireflies and tl;dv transcripts to Markdown + CSV",
+      "author": "Haul Labs",
+      "username": "haullabs",
+      "user_id": "a94a553c-f935-4875-8c4b-37077a320a43",
+      "categories": [
+        "Connect & Collaborate"
+      ],
+      "tags": [
+        "productivity",
+        "transcripts",
+        "meetings"
+      ],
+      "pricing": {
+        "model": "one-time-payment"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-24T14:23:57.268Z",
+      "heroImage": "",
+      "toolUrl": "https://minutehaul.haullabs.dev/?utm_source=toolseekr"
+    },
+    {
       "id": "dot-symbol",
       "slug": "dot-symbol",
       "title": "Dot Symbol",
@@ -19024,5 +19050,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-24T13:06:18.315Z"
+  "lastUpdated": "2026-10-24T14:23:58.904Z"
 }
