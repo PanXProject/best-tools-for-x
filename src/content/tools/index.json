@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "heyaibuddy-ai-boyfriend",
+      "slug": "heyaibuddy-ai-boyfriend",
+      "title": "HeyAIBuddy AI Boyfriend",
+      "description": "Chat with an AI boyfriend by voice or text. Free to start",
+      "author": "Jeremy",
+      "username": "markitdowntech",
+      "user_id": "61f12672-c369-4261-af2f-ebd9df8c2d06",
+      "categories": [
+        "Connect & Collaborate"
+      ],
+      "tags": [
+        "ai-companion",
+        "ai-chat",
+        "voice-chat",
+        "character-chat"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-24T07:28:40.299Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792826881/to1pamejem6risysww6k.png",
+      "toolUrl": "https://heyaibuddy.net/ai-boyfriend"
+    },
+    {
       "id": "muse-video",
       "slug": "muse-video",
       "title": "Muse Video",
@@ -18860,5 +18887,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-24T06:33:11.954Z"
+  "lastUpdated": "2026-10-24T07:28:41.677Z"
 }
