@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "otome-app",
+      "slug": "otome-app",
+      "title": "Otome App",
+      "description": "AI otome games and romance you play",
+      "author": "Yuan Fu",
+      "username": "yuanfu",
+      "user_id": "909361a5-fa1a-4970-85cb-4185e36b5877",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai",
+        "otome",
+        "interactive-fiction",
+        "romance",
+        "games"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-24T15:53:11.926Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792857108/odq7e20tqxwaovetktlv.png",
+      "toolUrl": "https://otomeapp.com/en"
+    },
+    {
       "id": "minutehaul",
       "slug": "minutehaul",
       "title": "MinuteHaul",
@@ -19050,5 +19078,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-24T14:23:58.904Z"
+  "lastUpdated": "2026-10-24T15:53:13.337Z"
 }
