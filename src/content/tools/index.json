@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "coloringpagestools",
+      "slug": "coloringpagestools",
+      "title": "ColoringPagesTools",
+      "description": "Free printable coloring pages and an AI coloring page generator.",
+      "author": "Hum to Search Team",
+      "username": "humtosearch",
+      "user_id": "296a967e-b8a5-4c2e-9b71-971dbec72735",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "coloring-pages",
+        "printables",
+        "ai"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-24T17:02:02.954Z",
+      "heroImage": "",
+      "toolUrl": "https://coloringpages.tools/"
+    },
+    {
       "id": "morse-code-translator",
       "slug": "morse-code-translator",
       "title": "Morse Code Translator",
@@ -19130,5 +19156,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-24T17:00:24.346Z"
+  "lastUpdated": "2026-10-24T17:02:04.544Z"
 }
