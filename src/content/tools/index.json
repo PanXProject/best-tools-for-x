@@ -1,6 +1,30 @@
 {
   "tools": [
     {
+      "id": "subtitle-im",
+      "slug": "subtitle-im",
+      "title": "subtitle.im",
+      "description": "YouTube captions on or off, with local duplicate detection.",
+      "author": "subtitle.im Team",
+      "username": "subtitleim",
+      "user_id": "65ec1c6d-fb2a-4b23-8bc5-e8c0129f3501",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "productivity"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "extension"
+      ],
+      "publishDate": "2026-10-24T18:07:01.176Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792865114/mdx56tftf0jh7pvgqbk9.png",
+      "toolUrl": "https://subtitle.im/"
+    },
+    {
       "id": "coloringpagestools",
       "slug": "coloringpagestools",
       "title": "ColoringPagesTools",
@@ -19156,5 +19180,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-24T17:02:04.544Z"
+  "lastUpdated": "2026-10-24T18:07:02.624Z"
 }
