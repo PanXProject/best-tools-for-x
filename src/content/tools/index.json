@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "onlintools-exposure-calculator",
+      "slug": "onlintools-exposure-calculator",
+      "title": "ONLINTools Exposure Calculator",
+      "description": "Find equivalent aperture, shutter speed, and ISO settings",
+      "author": "ONLINTools",
+      "username": "onlintools",
+      "user_id": "68ad79b2-b3ea-490b-9103-2145fba3303a",
+      "categories": [
+        "Create & Build",
+        "Understand & Improve"
+      ],
+      "tags": [
+        "exposure-calculator",
+        "photography",
+        "aperture",
+        "shutter-speed",
+        "iso"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-24T03:30:55.713Z",
+      "heroImage": "",
+      "toolUrl": "https://onlintools.com/exposure-calculator"
+    },
+    {
       "id": "whisperx",
       "slug": "whisperx",
       "title": "WhisperX",
@@ -18781,5 +18810,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-23T21:42:35.664Z"
+  "lastUpdated": "2026-10-24T03:30:57.147Z"
 }
