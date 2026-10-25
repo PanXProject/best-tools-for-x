@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "how-to-use-the-ecourtsindia-api",
+      "slug": "how-to-use-the-ecourtsindia-api",
+      "title": "How to Use the eCourtsIndia API",
+      "description": "Developer guide to the eCourtsIndia API: auth, all 30 endpoints, searc",
+      "author": "Sunny Mittal (eCourtsIndia)",
+      "username": "ecourtsindia",
+      "user_id": "de71bfde-bac1-47b0-89e2-1b0a2eb468c1",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "courts",
+        "legal",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T22:35:18.451Z",
+      "heroImage": "",
+      "toolUrl": "https://blogs.ecourtsindia.com/2026/05/18/how-to-use-ecourtsindia-api/"
+    },
+    {
       "id": "ecourtsindia-the-maharashtra-litigation-census",
       "slug": "ecourtsindia-the-maharashtra-litigation-census",
       "title": "eCourtsIndia The Maharashtra Litigation Census",
@@ -26191,5 +26217,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T22:35:16.090Z"
+  "lastUpdated": "2026-10-25T22:35:19.949Z"
 }
