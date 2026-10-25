@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "indiacos-director-search",
+      "slug": "indiacos-director-search",
+      "title": "IndiaCos Director Search",
+      "description": "89,10,093 directors with a DIN page, A to Z, each with their companies",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "directors",
+        "din",
+        "companies",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T11:37:00.356Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/directors"
+    },
+    {
       "id": "ipr-land-record-sources-and-coverage",
       "slug": "ipr-land-record-sources-and-coverage",
       "title": "IPR Land Record Sources and Coverage",
@@ -20199,5 +20226,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T11:36:58.402Z"
+  "lastUpdated": "2026-10-25T11:37:01.755Z"
 }
