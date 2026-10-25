@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "youth4work-mppsc-practice-tests",
+      "slug": "youth4work-mppsc-practice-tests",
+      "title": "Youth4work MPPSC Practice Tests",
+      "description": "MPPSC preparation on Youth4work Prep: 3,313 questions and 5 full mock ",
+      "author": "Sunny Mittal (Youth4work)",
+      "username": "youth4work",
+      "user_id": "a76d2f60-1fe5-44c8-b736-f4e82dcdab43",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "education",
+        "exams",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:37:12.633Z",
+      "heroImage": "",
+      "toolUrl": "https://www.prep.youth4work.com/State-Public-Service-Commission/MPPSC-Test"
+    },
+    {
       "id": "youth4work-xat-practice-tests",
       "slug": "youth4work-xat-practice-tests",
       "title": "Youth4work XAT Practice Tests",
@@ -27725,5 +27751,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:37:10.656Z"
+  "lastUpdated": "2026-10-25T23:37:14.076Z"
 }
