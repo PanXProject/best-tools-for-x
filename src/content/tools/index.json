@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "indiainsurances-claim-guide",
+      "slug": "indiainsurances-claim-guide",
+      "title": "IndiaInsurances Claim Guide",
+      "description": "How to claim insurance in India, step by step, and what to do if a cla",
+      "author": "Sunny Mittal (IndiaInsurances)",
+      "username": "indiainsurances",
+      "user_id": "0811076b-d5c2-420b-b1a7-42656b91c880",
+      "categories": [
+        "Manage Money"
+      ],
+      "tags": [
+        "insurance-claims",
+        "irdai",
+        "ombudsman",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T11:37:03.882Z",
+      "heroImage": "",
+      "toolUrl": "https://indiainsurances.com/claims"
+    },
+    {
       "id": "indiacos-director-search",
       "slug": "indiacos-director-search",
       "title": "IndiaCos Director Search",
@@ -20226,5 +20253,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T11:37:01.755Z"
+  "lastUpdated": "2026-10-25T11:37:05.373Z"
 }
