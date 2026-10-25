@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "youth4work-gate-computer-science-cs-prep",
+      "slug": "youth4work-gate-computer-science-cs-prep",
+      "title": "Youth4work GATE Computer Science (CS) Prep",
+      "description": "GATE Computer Science (CS) preparation on Youth4work Prep: 3,936 quest",
+      "author": "Sunny Mittal (Youth4work)",
+      "username": "youth4work",
+      "user_id": "a76d2f60-1fe5-44c8-b736-f4e82dcdab43",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "education",
+        "exams",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:35:46.984Z",
+      "heroImage": "",
+      "toolUrl": "https://www.prep.youth4work.com/Engineering/GATE-Computer-Science-(CS)-Test"
+    },
+    {
       "id": "youth4work-mat-practice-tests",
       "slug": "youth4work-mat-practice-tests",
       "title": "Youth4work MAT Practice Tests",
@@ -27101,5 +27127,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:35:44.586Z"
+  "lastUpdated": "2026-10-25T23:35:48.666Z"
 }
