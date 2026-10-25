@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-sebi-alternative-investment-funds",
+      "slug": "indiacos-sebi-alternative-investment-funds",
+      "title": "IndiaCos SEBI Alternative Investment Funds",
+      "description": "1,962 Alternative Investment Funds registered with SEBI, with registra",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "sebi",
+        "funds",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:45:20.174Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/sebi-registered/aif"
+    },
+    {
       "id": "indiacos-factory-manufacturing-businesses-in",
       "slug": "indiacos-factory-manufacturing-businesses-in",
       "title": "IndiaCos Factory / Manufacturing businesses in",
@@ -29545,5 +29571,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:45:17.828Z"
+  "lastUpdated": "2026-10-25T23:45:21.745Z"
 }
