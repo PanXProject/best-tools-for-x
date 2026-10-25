@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiainsurances-critical-illness-comparison",
+      "slug": "indiainsurances-critical-illness-comparison",
+      "title": "IndiaInsurances Critical Illness Comparison",
+      "description": "38 critical illness policies in India compared: illnesses covered, pay",
+      "author": "Sunny Mittal (IndiaInsurances)",
+      "username": "indiainsurances",
+      "user_id": "0811076b-d5c2-420b-b1a7-42656b91c880",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "insurance",
+        "india",
+        "compare"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T20:30:28.422Z",
+      "heroImage": "",
+      "toolUrl": "https://indiainsurances.com/compare/critical-illness"
+    },
+    {
       "id": "indiainsurances-car-insurance-comparison",
       "slug": "indiainsurances-car-insurance-comparison",
       "title": "IndiaInsurances Car Insurance Comparison",
@@ -22497,5 +22523,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T20:30:26.130Z"
+  "lastUpdated": "2026-10-25T20:30:29.809Z"
 }
