@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiarestros-cloud-kitchens-india",
+      "slug": "indiarestros-cloud-kitchens-india",
+      "title": "IndiaRestros Cloud Kitchens India",
+      "description": "67,785 delivery-only cloud kitchens across India with phones, timings,",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "restaurants",
+        "food",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T18:34:40.622Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/kind/cloud-kitchen"
+    },
+    {
       "id": "indiarestros-chinese-restaurants-india",
       "slug": "indiarestros-chinese-restaurants-india",
       "title": "IndiaRestros Chinese Restaurants India",
@@ -21612,5 +21638,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T18:34:37.759Z"
+  "lastUpdated": "2026-10-25T18:34:42.091Z"
 }
