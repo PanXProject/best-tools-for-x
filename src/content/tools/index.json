@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiarestros-chinese-restaurants-india",
+      "slug": "indiarestros-chinese-restaurants-india",
+      "title": "IndiaRestros Chinese Restaurants India",
+      "description": "2,92,503 Chinese and Indo-Chinese restaurants across India with phones",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "restaurants",
+        "food",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T18:34:36.107Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/cuisine/chinese"
+    },
+    {
       "id": "indiarestros-dhabas-in-india",
       "slug": "indiarestros-dhabas-in-india",
       "title": "IndiaRestros Dhabas in India",
@@ -21586,5 +21612,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T18:34:33.936Z"
+  "lastUpdated": "2026-10-25T18:34:37.759Z"
 }
