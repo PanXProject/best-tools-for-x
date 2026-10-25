@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ecourtsindia-india-courts-and-ecourts-access",
+      "slug": "ecourtsindia-india-courts-and-ecourts-access",
+      "title": "eCourtsIndia India Courts and eCourts Access",
+      "description": "Every Indian court in one directory: Supreme Court, 25 High Courts and",
+      "author": "Sunny Mittal (eCourtsIndia)",
+      "username": "ecourtsindia",
+      "user_id": "de71bfde-bac1-47b0-89e2-1b0a2eb468c1",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "courts",
+        "legal",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T22:28:50.165Z",
+      "heroImage": "",
+      "toolUrl": "https://blogs.ecourtsindia.com/2026/04/17/india-courts-ecourts-directory/"
+    },
+    {
       "id": "ecourtsindia-how-to-search-delhi-district-court",
       "slug": "ecourtsindia-how-to-search-delhi-district-court",
       "title": "eCourtsIndia How to Search Delhi District Court",
@@ -24631,5 +24657,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T22:28:47.945Z"
+  "lastUpdated": "2026-10-25T22:28:51.804Z"
 }
