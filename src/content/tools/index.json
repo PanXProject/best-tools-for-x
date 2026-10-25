@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-delhi-gst-businesses",
+      "slug": "indiacos-delhi-gst-businesses",
+      "title": "IndiaCos Delhi GST Businesses",
+      "description": "2,32,065 GST registered businesses in Delhi with GSTIN, status and reg",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "companies",
+        "india",
+        "data"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T20:30:49.626Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/state/delhi"
+    },
+    {
       "id": "indiacos-shared-offices-in-delhi",
       "slug": "indiacos-shared-offices-in-delhi",
       "title": "IndiaCos Shared Offices in Delhi",
@@ -22653,5 +22679,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T20:30:47.591Z"
+  "lastUpdated": "2026-10-25T20:30:51.091Z"
 }
