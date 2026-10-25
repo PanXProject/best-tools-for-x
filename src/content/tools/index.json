@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiainsurances-cholamandalam-ms-general-insurance",
+      "slug": "indiainsurances-cholamandalam-ms-general-insurance",
+      "title": "IndiaInsurances Cholamandalam MS General Insurance",
+      "description": "Cholamandalam MS General Insurance Company Limited: every general insu",
+      "author": "Sunny Mittal (IndiaInsurances)",
+      "username": "indiainsurances",
+      "user_id": "0811076b-d5c2-420b-b1a7-42656b91c880",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "insurance",
+        "india",
+        "compare"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:37:43.482Z",
+      "heroImage": "",
+      "toolUrl": "https://indiainsurances.com/insurer/cholamandalam-ms-general-insurance"
+    },
+    {
       "id": "indiainsurances-bharti-axa-general-insurance",
       "slug": "indiainsurances-bharti-axa-general-insurance",
       "title": "IndiaInsurances Bharti AXA General Insurance",
@@ -27959,5 +27985,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:37:41.344Z"
+  "lastUpdated": "2026-10-25T23:37:45.127Z"
 }
