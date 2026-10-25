@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ecourtsindia-mapping-india-s-court-data-stack",
+      "slug": "ecourtsindia-mapping-india-s-court-data-stack",
+      "title": "eCourtsIndia Mapping India's Court Data Stack",
+      "description": "The five layers of Indian court data, from eCourts and NJDG to aggrega",
+      "author": "Sunny Mittal (eCourtsIndia)",
+      "username": "ecourtsindia",
+      "user_id": "de71bfde-bac1-47b0-89e2-1b0a2eb468c1",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "courts",
+        "legal",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T22:34:04.898Z",
+      "heroImage": "",
+      "toolUrl": "https://blogs.ecourtsindia.com/2026/04/17/mapping-india-court-data-stack-njdg-apis-ai-agents/"
+    },
+    {
       "id": "ecourtsindia-how-india-digitised-its-courts",
       "slug": "ecourtsindia-how-india-digitised-its-courts",
       "title": "eCourtsIndia How India Digitised Its Courts",
@@ -25697,5 +25723,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T22:34:02.811Z"
+  "lastUpdated": "2026-10-25T22:34:06.503Z"
 }
