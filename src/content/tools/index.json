@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-tamil-nadu-gst-businesses",
+      "slug": "indiacos-tamil-nadu-gst-businesses",
+      "title": "IndiaCos Tamil Nadu GST Businesses",
+      "description": "2,44,466 GST registered businesses in Tamil Nadu with GSTIN, status an",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "companies",
+        "india",
+        "data"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T20:30:56.905Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/state/tamil-nadu"
+    },
+    {
       "id": "indiacos-gujarat-gst-businesses",
       "slug": "indiacos-gujarat-gst-businesses",
       "title": "IndiaCos Gujarat GST Businesses",
@@ -22705,5 +22731,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T20:30:54.821Z"
+  "lastUpdated": "2026-10-25T20:30:58.476Z"
 }
