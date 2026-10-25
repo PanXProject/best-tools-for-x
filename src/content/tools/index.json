@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "indiainsurances-insurer-directory",
+      "slug": "indiainsurances-insurer-directory",
+      "title": "IndiaInsurances Insurer Directory",
+      "description": "Every IRDAI-registered life, health and general insurer in India, with",
+      "author": "Sunny Mittal (IndiaInsurances)",
+      "username": "indiainsurances",
+      "user_id": "0811076b-d5c2-420b-b1a7-42656b91c880",
+      "categories": [
+        "Manage Money"
+      ],
+      "tags": [
+        "insurers",
+        "irdai",
+        "insurance-companies",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T12:37:44.736Z",
+      "heroImage": "",
+      "toolUrl": "https://indiainsurances.com/insurers"
+    },
+    {
       "id": "indiainsurances-ombudsman-guide",
       "slug": "indiainsurances-ombudsman-guide",
       "title": "IndiaInsurances Ombudsman Guide",
@@ -20507,5 +20534,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T12:37:42.595Z"
+  "lastUpdated": "2026-10-25T12:37:46.214Z"
 }
