@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "data-galactica-organisations-in-chennai",
+      "slug": "data-galactica-organisations-in-chennai",
+      "title": "Data Galactica Organisations in Chennai",
+      "description": "1,76,210 organisations in Chennai, each with a Galactica ID, contact r",
+      "author": "Sunny Mittal (Data Galactica)",
+      "username": "datagalactica",
+      "user_id": "bb6680d7-72f5-483e-90c5-ab7e44f8f740",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "companies",
+        "india",
+        "directory"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T21:29:29.702Z",
+      "heroImage": "",
+      "toolUrl": "https://datagalactica.com/companies/city/in/chennai"
+    },
+    {
       "id": "data-galactica-organisations-in-hyderabad",
       "slug": "data-galactica-organisations-in-hyderabad",
       "title": "Data Galactica Organisations in Hyderabad",
@@ -23745,5 +23771,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T21:29:27.750Z"
+  "lastUpdated": "2026-10-25T21:29:31.012Z"
 }
