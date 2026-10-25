@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiainsurances-ombudsman-andhra-pradesh",
+      "slug": "indiainsurances-ombudsman-andhra-pradesh",
+      "title": "IndiaInsurances Ombudsman Andhra Pradesh",
+      "description": "Insurance Ombudsman for Andhra Pradesh: the Hyderabad office, with e-m",
+      "author": "Sunny Mittal (IndiaInsurances)",
+      "username": "indiainsurances",
+      "user_id": "0811076b-d5c2-420b-b1a7-42656b91c880",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "insurance",
+        "complaints",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:38:18.903Z",
+      "heroImage": "",
+      "toolUrl": "https://indiainsurances.com/ombudsman/andhra-pradesh"
+    },
+    {
       "id": "indiainsurances-ombudsman-andaman-and-nicobar",
       "slug": "indiainsurances-ombudsman-andaman-and-nicobar",
       "title": "IndiaInsurances Ombudsman Andaman and Nicobar",
@@ -28193,5 +28219,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:38:16.468Z"
+  "lastUpdated": "2026-10-25T23:38:20.525Z"
 }
