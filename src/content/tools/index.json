@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiainsurances-generali-central-insurance",
+      "slug": "indiainsurances-generali-central-insurance",
+      "title": "IndiaInsurances Generali Central Insurance",
+      "description": "Generali Central Insurance Company Limited: every general insurance pr",
+      "author": "Sunny Mittal (IndiaInsurances)",
+      "username": "indiainsurances",
+      "user_id": "0811076b-d5c2-420b-b1a7-42656b91c880",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "insurance",
+        "india",
+        "compare"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:37:51.673Z",
+      "heroImage": "",
+      "toolUrl": "https://indiainsurances.com/insurer/generali-central-insurance"
+    },
+    {
       "id": "indiainsurances-ecgc",
       "slug": "indiainsurances-ecgc",
       "title": "IndiaInsurances ECGC",
@@ -28011,5 +28037,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:37:49.192Z"
+  "lastUpdated": "2026-10-25T23:37:53.243Z"
 }
