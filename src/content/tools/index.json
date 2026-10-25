@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "india-property-register-land-records-by-state",
+      "slug": "india-property-register-land-records-by-state",
+      "title": "India Property Register Land Records by State",
+      "description": "How each of India's 36 states and UTs keeps land records: 783 district",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "land-records",
+        "states",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T16:30:45.085Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/states"
+    },
+    {
       "id": "data-galactica-data-sources",
       "slug": "data-galactica-data-sources",
       "title": "Data Galactica Data Sources",
@@ -21270,5 +21296,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T16:30:42.730Z"
+  "lastUpdated": "2026-10-25T16:30:46.655Z"
 }
