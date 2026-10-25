@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiarestros-ranking-formula",
+      "slug": "indiarestros-ranking-formula",
+      "title": "IndiaRestros Ranking Formula",
+      "description": "The published, payment-free formula IndiaRestros uses to rank restaura",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "restaurants",
+        "ranking",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T12:37:55.506Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/ranking"
+    },
+    {
       "id": "youth4work-psychometric-test",
       "slug": "youth4work-psychometric-test",
       "title": "Youth4work Psychometric Test",
@@ -20588,5 +20614,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T12:37:53.487Z"
+  "lastUpdated": "2026-10-25T12:37:57.033Z"
 }
