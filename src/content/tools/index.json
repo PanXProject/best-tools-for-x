@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "indiacos-companies-by-industry",
+      "slug": "indiacos-companies-by-industry",
+      "title": "IndiaCos Companies by Industry",
+      "description": "Browse Indian companies and LLPs by what they do, under NIC 2008 and N",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "companies",
+        "industry",
+        "nic-codes",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T12:37:37.342Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/industry"
+    },
+    {
       "id": "data-galactica-company-directory",
       "slug": "data-galactica-company-directory",
       "title": "Data Galactica Company Directory",
@@ -20454,5 +20481,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T12:37:34.921Z"
+  "lastUpdated": "2026-10-25T12:37:38.919Z"
 }
