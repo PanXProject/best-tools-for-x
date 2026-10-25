@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "youth4work-jee-main-practice-tests",
+      "slug": "youth4work-jee-main-practice-tests",
+      "title": "Youth4work JEE Main Practice Tests",
+      "description": "JEE Main preparation on Youth4work Prep: 1,742 questions and 5 full mo",
+      "author": "Sunny Mittal (Youth4work)",
+      "username": "youth4work",
+      "user_id": "a76d2f60-1fe5-44c8-b736-f4e82dcdab43",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "education",
+        "exams",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:36:31.703Z",
+      "heroImage": "",
+      "toolUrl": "https://www.prep.youth4work.com/Engineering/JEE-Main-Test"
+    },
+    {
       "id": "youth4work-clat-practice-tests",
       "slug": "youth4work-clat-practice-tests",
       "title": "Youth4work CLAT Practice Tests",
@@ -27413,5 +27439,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:36:29.456Z"
+  "lastUpdated": "2026-10-25T23:36:33.155Z"
 }
