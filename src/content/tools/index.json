@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "data-galactica-data-sources",
+      "slug": "data-galactica-data-sources",
+      "title": "Data Galactica Data Sources",
+      "description": "Where Data Galactica records come from, what is never published, and h",
+      "author": "Sunny Mittal (Data Galactica)",
+      "username": "datagalactica",
+      "user_id": "bb6680d7-72f5-483e-90c5-ab7e44f8f740",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "open-data",
+        "sources",
+        "companies"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T16:30:41.138Z",
+      "heroImage": "",
+      "toolUrl": "https://datagalactica.com/about-data"
+    },
+    {
       "id": "galactica-entity-standard",
       "slug": "galactica-entity-standard",
       "title": "Galactica Entity Standard",
@@ -21244,5 +21270,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T16:30:39.033Z"
+  "lastUpdated": "2026-10-25T16:30:42.730Z"
 }
