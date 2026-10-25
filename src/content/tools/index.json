@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "youth4work-uppsc-practice-tests",
+      "slug": "youth4work-uppsc-practice-tests",
+      "title": "Youth4work UPPSC Practice Tests",
+      "description": "UPPSC preparation on Youth4work Prep: 3,239 questions and 5 full mock ",
+      "author": "Sunny Mittal (Youth4work)",
+      "username": "youth4work",
+      "user_id": "a76d2f60-1fe5-44c8-b736-f4e82dcdab43",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "education",
+        "exams",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:37:19.509Z",
+      "heroImage": "",
+      "toolUrl": "https://www.prep.youth4work.com/State-Public-Service-Commission/UPPSC-Test"
+    },
+    {
       "id": "youth4work-rrb-alp-stage-1-practice-tests",
       "slug": "youth4work-rrb-alp-stage-1-practice-tests",
       "title": "Youth4work RRB ALP Stage 1 Practice Tests",
@@ -27777,5 +27803,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:37:17.513Z"
+  "lastUpdated": "2026-10-25T23:37:20.956Z"
 }
