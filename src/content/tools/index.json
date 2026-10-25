@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiainsurances-life-insurance-compared",
+      "slug": "indiainsurances-life-insurance-compared",
+      "title": "IndiaInsurances Life insurance Compared",
+      "description": "84 life insurance policies sold in India in one table: claim settlemen",
+      "author": "Sunny Mittal (IndiaInsurances)",
+      "username": "indiainsurances",
+      "user_id": "0811076b-d5c2-420b-b1a7-42656b91c880",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "insurance",
+        "compare",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:43:33.389Z",
+      "heroImage": "",
+      "toolUrl": "https://indiainsurances.com/compare/life"
+    },
+    {
       "id": "indiainsurances-motor-add-ons-compared",
       "slug": "indiainsurances-motor-add-ons-compared",
       "title": "IndiaInsurances Motor add-ons Compared",
@@ -28843,5 +28869,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:43:31.324Z"
+  "lastUpdated": "2026-10-25T23:43:35.292Z"
 }
