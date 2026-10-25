@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "youth4work-cds-practice-tests",
+      "slug": "youth4work-cds-practice-tests",
+      "title": "Youth4work CDS Practice Tests",
+      "description": "CDS preparation on Youth4work Prep: 6,008 questions and 5 full mock te",
+      "author": "Sunny Mittal (Youth4work)",
+      "username": "youth4work",
+      "user_id": "a76d2f60-1fe5-44c8-b736-f4e82dcdab43",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "education",
+        "exams",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:35:15.368Z",
+      "heroImage": "",
+      "toolUrl": "https://www.prep.youth4work.com/Defence/CDS-Test"
+    },
+    {
       "id": "indiacos-businesses-in-kerala",
       "slug": "indiacos-businesses-in-kerala",
       "title": "IndiaCos Businesses in Kerala",
@@ -26893,5 +26919,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T22:37:37.409Z"
+  "lastUpdated": "2026-10-25T23:35:17.119Z"
 }
