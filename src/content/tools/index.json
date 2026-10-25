@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-maharashtra-businesses",
+      "slug": "indiacos-maharashtra-businesses",
+      "title": "IndiaCos Maharashtra Businesses",
+      "description": "4,24,104 GST-registered businesses in Maharashtra by district, with GS",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "gst",
+        "businesses",
+        "maharashtra"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T18:48:34.999Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/state/maharashtra"
+    },
+    {
       "id": "indiacos-cirp-tracker",
       "slug": "indiacos-cirp-tracker",
       "title": "IndiaCos CIRP Tracker",
@@ -21821,5 +21847,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T18:48:32.506Z"
+  "lastUpdated": "2026-10-25T18:48:36.489Z"
 }
