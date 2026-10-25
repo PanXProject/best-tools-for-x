@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "youth4work-idbi-bank-practice-tests",
+      "slug": "youth4work-idbi-bank-practice-tests",
+      "title": "Youth4work IDBI Bank Practice Tests",
+      "description": "IDBI Bank preparation on Youth4work Prep: 2,592 questions and 3 full m",
+      "author": "Sunny Mittal (Youth4work)",
+      "username": "youth4work",
+      "user_id": "a76d2f60-1fe5-44c8-b736-f4e82dcdab43",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "education",
+        "exams",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:43:18.711Z",
+      "heroImage": "",
+      "toolUrl": "https://www.prep.youth4work.com/Government-Jobs/IDBI-Bank-Test"
+    },
+    {
       "id": "youth4work-nmat-practice-tests",
       "slug": "youth4work-nmat-practice-tests",
       "title": "Youth4work NMAT Practice Tests",
@@ -28739,5 +28765,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:43:16.568Z"
+  "lastUpdated": "2026-10-25T23:43:20.187Z"
 }
