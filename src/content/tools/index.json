@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-rbi-infrastructure-debt-funds",
+      "slug": "indiacos-rbi-infrastructure-debt-funds",
+      "title": "IndiaCos RBI Infrastructure Debt Funds",
+      "description": "3 RBI-registered Infrastructure Debt Funds from the Reserve Bank of In",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "companies",
+        "finance",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:38:52.614Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/nbfc/infrastructure-debt-fund"
+    },
+    {
       "id": "indiacos-rbi-peer-to-peer-lending-platforms",
       "slug": "indiacos-rbi-peer-to-peer-lending-platforms",
       "title": "IndiaCos RBI Peer-to-Peer Lending Platforms",
@@ -28427,5 +28453,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:38:50.256Z"
+  "lastUpdated": "2026-10-25T23:38:54.055Z"
 }
