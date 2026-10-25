@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiarestros-restaurants-in-jaipur",
+      "slug": "indiarestros-restaurants-in-jaipur",
+      "title": "IndiaRestros Restaurants in Jaipur",
+      "description": "Restaurants in Jaipur, Rajasthan: 27,618 places with phone numbers, ti",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "restaurants",
+        "india",
+        "directory"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T22:36:37.796Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/in/jaipur"
+    },
+    {
       "id": "indiarestros-restaurants-in-ahmedabad",
       "slug": "indiarestros-restaurants-in-ahmedabad",
       "title": "IndiaRestros Restaurants in Ahmedabad",
@@ -26451,5 +26477,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T22:36:35.828Z"
+  "lastUpdated": "2026-10-25T22:36:39.172Z"
 }
