@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-rbi-account-aggregators",
+      "slug": "indiacos-rbi-account-aggregators",
+      "title": "IndiaCos RBI Account Aggregators",
+      "description": "17 RBI-registered Account Aggregators from the Reserve Bank of India's",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "companies",
+        "finance",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:38:41.532Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/nbfc/account-aggregator"
+    },
+    {
       "id": "indiacos-rbi-housing-finance-companies",
       "slug": "indiacos-rbi-housing-finance-companies",
       "title": "IndiaCos RBI Housing Finance Companies",
@@ -28349,5 +28375,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:38:39.255Z"
+  "lastUpdated": "2026-10-25T23:38:43.093Z"
 }
