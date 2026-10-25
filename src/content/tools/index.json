@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "how-to-read-a-court-cause-list",
+      "slug": "how-to-read-a-court-cause-list",
+      "title": "How to Read a Court Cause List",
+      "description": "Read an Indian court cause list line by line: item number, stage, cora",
+      "author": "Sunny Mittal (eCourtsIndia)",
+      "username": "ecourtsindia",
+      "user_id": "de71bfde-bac1-47b0-89e2-1b0a2eb468c1",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "courts",
+        "legal",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T19:43:28.093Z",
+      "heroImage": "",
+      "toolUrl": "https://blogs.ecourtsindia.com/2026/04/16/how-to-read-indian-court-cause-list/"
+    },
+    {
       "id": "data-galactica-delhi-companies",
       "slug": "data-galactica-delhi-companies",
       "title": "Data Galactica Delhi Companies",
@@ -22367,5 +22393,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T19:43:25.586Z"
+  "lastUpdated": "2026-10-25T19:43:29.640Z"
 }
