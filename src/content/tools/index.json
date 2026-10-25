@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "indiarestros",
+      "slug": "indiarestros",
+      "title": "IndiaRestros",
+      "description": "Every restaurant, cafe, kitchen, stall and dhaba in India",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "restaurants",
+        "india",
+        "food",
+        "api",
+        "mcp"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T00:57:05.296Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/"
+    },
+    {
       "id": "india-property-register",
       "slug": "india-property-register",
       "title": "India Property Register",
@@ -19234,5 +19262,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T00:57:01.695Z"
+  "lastUpdated": "2026-10-25T00:57:07.002Z"
 }
