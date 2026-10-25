@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiarestros-restaurants-in-bengaluru",
+      "slug": "indiarestros-restaurants-in-bengaluru",
+      "title": "IndiaRestros Restaurants in Bengaluru",
+      "description": "1,16,576 Bengaluru restaurants with phone numbers, timings, menus and ",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "restaurants",
+        "food",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T20:31:29.408Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/in/bengaluru"
+    },
+    {
       "id": "indiarestros-restaurants-in-delhi",
       "slug": "indiarestros-restaurants-in-delhi",
       "title": "IndiaRestros Restaurants in Delhi",
@@ -22913,5 +22939,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T20:31:27.145Z"
+  "lastUpdated": "2026-10-25T20:31:31.156Z"
 }
