@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indian-court-case-status-dictionary",
+      "slug": "indian-court-case-status-dictionary",
+      "title": "Indian Court Case Status Dictionary",
+      "description": "What pending, part heard, reserved, disposed and other Indian court ca",
+      "author": "Sunny Mittal (eCourtsIndia)",
+      "username": "ecourtsindia",
+      "user_id": "de71bfde-bac1-47b0-89e2-1b0a2eb468c1",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "courts",
+        "legal",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T19:38:21.284Z",
+      "heroImage": "",
+      "toolUrl": "https://blogs.ecourtsindia.com/2026/04/17/case-status-dictionary/"
+    },
+    {
       "id": "youth4work-sarkari-naukri-updates",
       "slug": "youth4work-sarkari-naukri-updates",
       "title": "Youth4work Sarkari Naukri Updates",
@@ -22107,5 +22133,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T19:38:19.291Z"
+  "lastUpdated": "2026-10-25T19:38:22.756Z"
 }
