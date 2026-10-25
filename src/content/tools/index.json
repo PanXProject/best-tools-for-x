@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ecourtsindia-background-check-before-marriage",
+      "slug": "ecourtsindia-background-check-before-marriage",
+      "title": "eCourtsIndia Background Check Before Marriage",
+      "description": "Before the rishta is fixed, check court records on the partner, parent",
+      "author": "Sunny Mittal (eCourtsIndia)",
+      "username": "ecourtsindia",
+      "user_id": "de71bfde-bac1-47b0-89e2-1b0a2eb468c1",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "courts",
+        "legal",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T22:30:47.549Z",
+      "heroImage": "",
+      "toolUrl": "https://blogs.ecourtsindia.com/2026/10/05/background-check-before-marriage-india/"
+    },
+    {
       "id": "ecourtsindia-income-tax-act-1961-vs-2025-mapping",
       "slug": "ecourtsindia-income-tax-act-1961-vs-2025-mapping",
       "title": "eCourtsIndia Income-tax Act 1961 vs 2025 Mapping",
@@ -25489,5 +25515,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T22:30:45.491Z"
+  "lastUpdated": "2026-10-25T22:30:48.885Z"
 }
