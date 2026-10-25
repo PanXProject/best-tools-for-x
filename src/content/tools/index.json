@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiainsurances-car-insurance-comparison",
+      "slug": "indiainsurances-car-insurance-comparison",
+      "title": "IndiaInsurances Car Insurance Comparison",
+      "description": "75 Indian car insurance policies compared on IDV, depreciation, no-cla",
+      "author": "Sunny Mittal (IndiaInsurances)",
+      "username": "indiainsurances",
+      "user_id": "0811076b-d5c2-420b-b1a7-42656b91c880",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "insurance",
+        "india",
+        "compare"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T20:30:24.483Z",
+      "heroImage": "",
+      "toolUrl": "https://indiainsurances.com/compare/motor-car"
+    },
+    {
       "id": "indiainsurances-health-plan-comparison",
       "slug": "indiainsurances-health-plan-comparison",
       "title": "IndiaInsurances Health Plan Comparison",
@@ -22471,5 +22497,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T20:30:22.189Z"
+  "lastUpdated": "2026-10-25T20:30:26.130Z"
 }
