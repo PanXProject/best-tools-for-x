@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiarestros-south-indian-restaurants",
+      "slug": "indiarestros-south-indian-restaurants",
+      "title": "IndiaRestros South Indian Restaurants",
+      "description": "1,35,069 South Indian places across India, with pure-veg counts, phone",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "restaurants",
+        "food",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T15:32:34.474Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/cuisine/south-indian"
+    },
+    {
       "id": "indiarestros-biryani-restaurants",
       "slug": "indiarestros-biryani-restaurants",
       "title": "IndiaRestros Biryani Restaurants",
@@ -20957,5 +20983,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T15:32:32.385Z"
+  "lastUpdated": "2026-10-25T15:32:36.029Z"
 }
