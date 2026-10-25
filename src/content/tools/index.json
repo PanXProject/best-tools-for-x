@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiainsurances-ombudsman-assam",
+      "slug": "indiainsurances-ombudsman-assam",
+      "title": "IndiaInsurances Ombudsman Assam",
+      "description": "Insurance Ombudsman for Assam: the Guwahati office, with e-mail, phone",
+      "author": "Sunny Mittal (IndiaInsurances)",
+      "username": "indiainsurances",
+      "user_id": "0811076b-d5c2-420b-b1a7-42656b91c880",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "insurance",
+        "complaints",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:38:26.594Z",
+      "heroImage": "",
+      "toolUrl": "https://indiainsurances.com/ombudsman/assam"
+    },
+    {
       "id": "indiainsurances-ombudsman-arunachal-pradesh",
       "slug": "indiainsurances-ombudsman-arunachal-pradesh",
       "title": "IndiaInsurances Ombudsman Arunachal Pradesh",
@@ -28245,5 +28271,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:38:24.388Z"
+  "lastUpdated": "2026-10-25T23:38:28.257Z"
 }
