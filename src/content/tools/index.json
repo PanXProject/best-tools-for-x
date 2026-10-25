@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-bank-auctions-karnataka",
+      "slug": "ipr-bank-auctions-karnataka",
+      "title": "IPR Bank Auctions Karnataka",
+      "description": "5,500 bank auction property listings in Karnataka with reserve price, ",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "real-estate",
+        "rera",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T20:31:14.333Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/auctions/karnataka"
+    },
+    {
       "id": "ipr-rera-projects-uttar-pradesh",
       "slug": "ipr-rera-projects-uttar-pradesh",
       "title": "IPR RERA Projects Uttar Pradesh",
@@ -22809,5 +22835,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T20:31:12.018Z"
+  "lastUpdated": "2026-10-25T20:31:15.874Z"
 }
