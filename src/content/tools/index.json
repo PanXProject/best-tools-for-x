@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "youth4work-ibps-clerk-prelims-practice-tests",
+      "slug": "youth4work-ibps-clerk-prelims-practice-tests",
+      "title": "Youth4work IBPS Clerk Prelims Practice Tests",
+      "description": "IBPS Clerk Prelims preparation on Youth4work Prep: 9,748 questions and",
+      "author": "Sunny Mittal (Youth4work)",
+      "username": "youth4work",
+      "user_id": "a76d2f60-1fe5-44c8-b736-f4e82dcdab43",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "education",
+        "exams",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T21:46:35.921Z",
+      "heroImage": "",
+      "toolUrl": "https://www.prep.youth4work.com/Government-Jobs/IBPS-Clerk-Prelims-Exam-Test"
+    },
+    {
       "id": "youth4work-sbi-clerk-practice-tests",
       "slug": "youth4work-sbi-clerk-practice-tests",
       "title": "Youth4work SBI Clerk Practice Tests",
@@ -24473,5 +24499,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T21:46:33.985Z"
+  "lastUpdated": "2026-10-25T21:46:37.380Z"
 }
