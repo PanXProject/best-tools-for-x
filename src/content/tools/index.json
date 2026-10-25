@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-haryana-bank-auctions",
+      "slug": "ipr-haryana-bank-auctions",
+      "title": "IPR Haryana Bank Auctions",
+      "description": "25,218 bank auction property listings in Haryana: reserve price, bank,",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "real-estate",
+        "property",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T18:38:06.897Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/auctions/haryana"
+    },
+    {
       "id": "ipr-tamil-nadu-bank-auctions",
       "slug": "ipr-tamil-nadu-bank-auctions",
       "title": "IPR Tamil Nadu Bank Auctions",
@@ -21742,5 +21768,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T18:38:04.655Z"
+  "lastUpdated": "2026-10-25T18:38:08.472Z"
 }
