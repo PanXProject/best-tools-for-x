@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ecourtsindia-how-to-choose-a-court-record-check",
+      "slug": "ecourtsindia-how-to-choose-a-court-record-check",
+      "title": "eCourtsIndia How to Choose a Court-Record Check",
+      "description": "25 RFP questions for choosing a court-record check or BGV vendor in In",
+      "author": "Sunny Mittal (eCourtsIndia)",
+      "username": "ecourtsindia",
+      "user_id": "de71bfde-bac1-47b0-89e2-1b0a2eb468c1",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "courts",
+        "legal",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T22:35:42.188Z",
+      "heroImage": "",
+      "toolUrl": "https://blogs.ecourtsindia.com/2026/09/25/court-record-check-vendor-rfp-checklist/"
+    },
+    {
       "id": "ecourtsindia-india-s-state-law-digitisation-gap",
       "slug": "ecourtsindia-india-s-state-law-digitisation-gap",
       "title": "eCourtsIndia India’s State-Law Digitisation Gap",
@@ -26347,5 +26373,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T22:35:39.974Z"
+  "lastUpdated": "2026-10-25T22:35:43.877Z"
 }
