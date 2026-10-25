@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "youth4work-ssc-cgl-tier-2-practice-tests",
+      "slug": "youth4work-ssc-cgl-tier-2-practice-tests",
+      "title": "Youth4work SSC CGL TIER 2 Practice Tests",
+      "description": "SSC CGL TIER 2 preparation on Youth4work Prep: 6,997 questions and 5 f",
+      "author": "Sunny Mittal (Youth4work)",
+      "username": "youth4work",
+      "user_id": "a76d2f60-1fe5-44c8-b736-f4e82dcdab43",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "education",
+        "exams",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:42:50.871Z",
+      "heroImage": "",
+      "toolUrl": "https://www.prep.youth4work.com/Government-Jobs/SSC-CGL-TIER-2-Test"
+    },
+    {
       "id": "indiacos-rbi-investment-and-credit-companies",
       "slug": "indiacos-rbi-investment-and-credit-companies",
       "title": "IndiaCos RBI Investment and Credit Companies",
@@ -28557,5 +28583,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:39:08.953Z"
+  "lastUpdated": "2026-10-25T23:42:52.472Z"
 }
