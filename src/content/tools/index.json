@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ecourtsindia-legal-due-diligence-in-india",
+      "slug": "ecourtsindia-legal-due-diligence-in-india",
+      "title": "eCourtsIndia Legal Due Diligence in India",
+      "description": "A 12-step litigation check for legal due diligence in India: search co",
+      "author": "Sunny Mittal (eCourtsIndia)",
+      "username": "ecourtsindia",
+      "user_id": "de71bfde-bac1-47b0-89e2-1b0a2eb468c1",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "courts",
+        "legal",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T22:33:57.653Z",
+      "heroImage": "",
+      "toolUrl": "https://blogs.ecourtsindia.com/2026/04/16/legal-due-diligence-ecourtsindia-workflow/"
+    },
+    {
       "id": "12-ecourtsindia-features-you-are-probably-not",
       "slug": "12-ecourtsindia-features-you-are-probably-not",
       "title": "12 eCourtsIndia Features You Are Probably Not",
@@ -25645,5 +25671,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T22:33:55.347Z"
+  "lastUpdated": "2026-10-25T22:33:59.329Z"
 }
