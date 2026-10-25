@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "youth4work-aiims-practice-tests",
+      "slug": "youth4work-aiims-practice-tests",
+      "title": "Youth4work AIIMS Practice Tests",
+      "description": "AIIMS preparation on Youth4work Prep: 7,854 questions and 5 mock tests",
+      "author": "Sunny Mittal (Youth4work)",
+      "username": "youth4work",
+      "user_id": "a76d2f60-1fe5-44c8-b736-f4e82dcdab43",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "education",
+        "exams",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T21:30:04.381Z",
+      "heroImage": "",
+      "toolUrl": "https://www.prep.youth4work.com/Medical/AIIMS-Test"
+    },
+    {
       "id": "youth4work-gate-mechanical-practice-tests",
       "slug": "youth4work-gate-mechanical-practice-tests",
       "title": "Youth4work GATE Mechanical Practice Tests",
@@ -24005,5 +24031,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T21:30:02.392Z"
+  "lastUpdated": "2026-10-25T21:30:05.772Z"
 }
