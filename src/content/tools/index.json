@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "ask-india-property-register",
+      "slug": "ask-india-property-register",
+      "title": "Ask India Property Register",
+      "description": "Ask the land register a question in plain words, such as the governmen",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "land-records",
+        "circle-rates",
+        "property",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T12:37:48.258Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/ask"
+    },
+    {
       "id": "indiainsurances-insurer-directory",
       "slug": "indiainsurances-insurer-directory",
       "title": "IndiaInsurances Insurer Directory",
@@ -20534,5 +20561,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T12:37:46.214Z"
+  "lastUpdated": "2026-10-25T12:37:49.830Z"
 }
