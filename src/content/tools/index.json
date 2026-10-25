@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "download-court-orders-online-india",
+      "slug": "download-court-orders-online-india",
+      "title": "Download Court Orders Online India",
+      "description": "Download Indian court orders and judgments free, and know when you nee",
+      "author": "Sunny Mittal (eCourtsIndia)",
+      "username": "ecourtsindia",
+      "user_id": "de71bfde-bac1-47b0-89e2-1b0a2eb468c1",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "courts",
+        "legal",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T19:43:31.724Z",
+      "heroImage": "",
+      "toolUrl": "https://blogs.ecourtsindia.com/2026/04/16/download-court-orders-judgements-online-india/"
+    },
+    {
       "id": "how-to-read-a-court-cause-list",
       "slug": "how-to-read-a-court-cause-list",
       "title": "How to Read a Court Cause List",
@@ -22393,5 +22419,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T19:43:29.640Z"
+  "lastUpdated": "2026-10-25T19:43:33.141Z"
 }
