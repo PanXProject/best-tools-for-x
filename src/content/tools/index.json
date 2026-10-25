@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-shared-offices-in-maharashtra",
+      "slug": "indiacos-shared-offices-in-maharashtra",
+      "title": "IndiaCos Shared Offices in Maharashtra",
+      "description": "41,704 Maharashtra addresses used by two or more companies, LLPs or GS",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "companies",
+        "india",
+        "data"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T20:38:27.478Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/offices/maharashtra"
+    },
+    {
       "id": "indiainsurances-whole-life-plan-comparison",
       "slug": "indiainsurances-whole-life-plan-comparison",
       "title": "IndiaInsurances Whole Life Plan Comparison",
@@ -23095,5 +23121,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T20:38:25.175Z"
+  "lastUpdated": "2026-10-25T20:38:29.129Z"
 }
