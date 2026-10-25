@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "supreme-court-case-status-guide",
+      "slug": "supreme-court-case-status-guide",
+      "title": "Supreme Court Case Status Guide",
+      "description": "Check Supreme Court of India case status by diary number, case number,",
+      "author": "Sunny Mittal (eCourtsIndia)",
+      "username": "ecourtsindia",
+      "user_id": "de71bfde-bac1-47b0-89e2-1b0a2eb468c1",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "courts",
+        "legal",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T19:38:31.767Z",
+      "heroImage": "",
+      "toolUrl": "https://blogs.ecourtsindia.com/2026/04/16/supreme-court-case-status-india/"
+    },
+    {
       "id": "high-court-case-status-guide-india",
       "slug": "high-court-case-status-guide-india",
       "title": "High Court Case Status Guide India",
@@ -22185,5 +22211,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T19:38:29.857Z"
+  "lastUpdated": "2026-10-25T19:38:33.020Z"
 }
