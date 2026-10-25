@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "data-galactica-delhi-companies",
+      "slug": "data-galactica-delhi-companies",
+      "title": "Data Galactica Delhi Companies",
+      "description": "Browse 346,382 organisations in Delhi, each with a permanent Galactica",
+      "author": "Sunny Mittal (Data Galactica)",
+      "username": "datagalactica",
+      "user_id": "bb6680d7-72f5-483e-90c5-ab7e44f8f740",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "data",
+        "api",
+        "companies"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T19:43:24.158Z",
+      "heroImage": "",
+      "toolUrl": "https://datagalactica.com/companies/city/in/delhi"
+    },
+    {
       "id": "data-galactica-mumbai-companies",
       "slug": "data-galactica-mumbai-companies",
       "title": "Data Galactica Mumbai Companies",
@@ -22341,5 +22367,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T19:43:21.869Z"
+  "lastUpdated": "2026-10-25T19:43:25.586Z"
 }
