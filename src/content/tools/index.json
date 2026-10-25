@@ -1,6 +1,30 @@
 {
   "tools": [
     {
+      "id": "flux-3-ai-image-generator-editor",
+      "slug": "flux-3-ai-image-generator-editor",
+      "title": "Flux 3 | AI Image Generator & Editor",
+      "description": "AI image generator and editor for fast creation.",
+      "author": "Lisa",
+      "username": "lisasongfinder",
+      "user_id": "fbf72af8-75de-45da-a4df-90665d4040c7",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "image"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T11:52:14.345Z",
+      "heroImage": "",
+      "toolUrl": "https://www.flux-3.org/"
+    },
+    {
       "id": "nano-banana-ai-image-editor-edit-photos-with-text",
       "slug": "nano-banana-ai-image-editor-edit-photos-with-text",
       "title": "Nano Banana - AI Image Editor | Edit Photos with Text",
@@ -20330,5 +20354,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T11:51:40.419Z"
+  "lastUpdated": "2026-10-25T11:52:15.802Z"
 }
