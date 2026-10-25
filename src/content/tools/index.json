@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiarestros-where-to-eat-paneer-tikka",
+      "slug": "indiarestros-where-to-eat-paneer-tikka",
+      "title": "IndiaRestros Where to Eat Paneer Tikka",
+      "description": "1,323 places in India serving paneer tikka, from Rs 20 to Rs 1,364, wi",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "restaurants",
+        "food",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T20:39:07.320Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/dish/paneer-tikka"
+    },
+    {
       "id": "indiarestros-restaurants-in-pune",
       "slug": "indiarestros-restaurants-in-pune",
       "title": "IndiaRestros Restaurants in Pune",
@@ -23381,5 +23407,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T20:39:05.097Z"
+  "lastUpdated": "2026-10-25T20:39:08.840Z"
 }
