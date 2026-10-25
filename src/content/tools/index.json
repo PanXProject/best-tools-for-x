@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiainsurances-insurance-forms-library",
+      "slug": "indiainsurances-insurance-forms-library",
+      "title": "IndiaInsurances Insurance Forms Library",
+      "description": "Claim, complaint and service forms of every Indian insurer, with field",
+      "author": "Sunny Mittal (IndiaInsurances)",
+      "username": "indiainsurances",
+      "user_id": "0811076b-d5c2-420b-b1a7-42656b91c880",
+      "categories": [
+        "Manage Money"
+      ],
+      "tags": [
+        "insurance-forms",
+        "claims",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T18:48:42.436Z",
+      "heroImage": "",
+      "toolUrl": "https://indiainsurances.com/forms"
+    },
+    {
       "id": "indiacos-karnataka-businesses",
       "slug": "indiacos-karnataka-businesses",
       "title": "IndiaCos Karnataka Businesses",
@@ -21873,5 +21899,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T18:48:40.406Z"
+  "lastUpdated": "2026-10-25T18:48:43.883Z"
 }
