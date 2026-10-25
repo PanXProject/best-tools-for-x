@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiainsurances-micro-and-social-insurance",
+      "slug": "indiainsurances-micro-and-social-insurance",
+      "title": "IndiaInsurances Micro and social insurance",
+      "description": "39 micro and social insurance policies sold in India in one table: cla",
+      "author": "Sunny Mittal (IndiaInsurances)",
+      "username": "indiainsurances",
+      "user_id": "0811076b-d5c2-420b-b1a7-42656b91c880",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "insurance",
+        "india",
+        "compare"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T22:37:06.027Z",
+      "heroImage": "",
+      "toolUrl": "https://indiainsurances.com/compare/micro-insurance"
+    },
+    {
       "id": "indiainsurances-group-health-policies-compared",
       "slug": "indiainsurances-group-health-policies-compared",
       "title": "IndiaInsurances Group health policies compared",
@@ -26659,5 +26685,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T22:37:03.854Z"
+  "lastUpdated": "2026-10-25T22:37:07.607Z"
 }
