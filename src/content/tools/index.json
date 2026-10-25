@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "data-galactica-talent-in-kolkata",
+      "slug": "data-galactica-talent-in-kolkata",
+      "title": "Data Galactica Talent in Kolkata",
+      "description": "Top roles and skills of about 7,66,889 people in Kolkata, as counts, w",
+      "author": "Sunny Mittal (Data Galactica)",
+      "username": "datagalactica",
+      "user_id": "bb6680d7-72f5-483e-90c5-ab7e44f8f740",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "talent",
+        "skills",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T21:45:41.814Z",
+      "heroImage": "",
+      "toolUrl": "https://datagalactica.com/talent/kolkata"
+    },
+    {
       "id": "youth4work-mcp-server",
       "slug": "youth4work-mcp-server",
       "title": "Youth4work MCP Server",
@@ -24083,5 +24109,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T21:30:14.104Z"
+  "lastUpdated": "2026-10-25T21:45:43.354Z"
 }
