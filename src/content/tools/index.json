@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-offices-in-uttar-pradesh",
+      "slug": "indiacos-offices-in-uttar-pradesh",
+      "title": "IndiaCos Offices in Uttar Pradesh",
+      "description": "21,124 addresses in Uttar Pradesh used by two or more companies, LLPs ",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "companies",
+        "gst",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T22:37:28.299Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/offices/uttar-pradesh"
+    },
+    {
       "id": "indiacos-offices-in-telangana",
       "slug": "indiacos-offices-in-telangana",
       "title": "IndiaCos Offices in Telangana",
@@ -26815,5 +26841,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T22:37:26.368Z"
+  "lastUpdated": "2026-10-25T22:37:29.757Z"
 }
