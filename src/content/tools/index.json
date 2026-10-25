@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ecourtsindia-background-check-in-india",
+      "slug": "ecourtsindia-background-check-in-india",
+      "title": "eCourtsIndia Background Check in India",
+      "description": "How to check court cases against a person or company in India before a",
+      "author": "Sunny Mittal (eCourtsIndia)",
+      "username": "ecourtsindia",
+      "user_id": "de71bfde-bac1-47b0-89e2-1b0a2eb468c1",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "courts",
+        "legal",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T22:30:33.798Z",
+      "heroImage": "",
+      "toolUrl": "https://blogs.ecourtsindia.com/2026/09/21/background-check-india-court-cases/"
+    },
+    {
       "id": "ecourtsindia-legalcheck",
       "slug": "ecourtsindia-legalcheck",
       "title": "eCourtsIndia LegalCheck",
@@ -25385,5 +25411,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T22:30:31.706Z"
+  "lastUpdated": "2026-10-25T22:30:35.221Z"
 }
