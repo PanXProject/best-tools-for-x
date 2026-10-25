@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiainsurances-group-and-credit-life-compared",
+      "slug": "indiainsurances-group-and-credit-life-compared",
+      "title": "IndiaInsurances Group and credit life Compared",
+      "description": "116 group and credit life policies sold in India in one table: claim s",
+      "author": "Sunny Mittal (IndiaInsurances)",
+      "username": "indiainsurances",
+      "user_id": "0811076b-d5c2-420b-b1a7-42656b91c880",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "insurance",
+        "compare",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:43:45.057Z",
+      "heroImage": "",
+      "toolUrl": "https://indiainsurances.com/compare/group-life"
+    },
+    {
       "id": "indiainsurances-super-top-up-health-plans-compared",
       "slug": "indiainsurances-super-top-up-health-plans-compared",
       "title": "IndiaInsurances Super top-up health plans Compared",
@@ -28921,5 +28947,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:43:42.454Z"
+  "lastUpdated": "2026-10-25T23:43:46.762Z"
 }
