@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-works-contract-businesses-in-india",
+      "slug": "indiacos-works-contract-businesses-in-india",
+      "title": "IndiaCos Works Contract businesses in India",
+      "description": "5,78,622 works contract businesses in India registered under GST, with",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "gst",
+        "companies",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:45:08.226Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/business-type/works-contract"
+    },
+    {
       "id": "indiacos-supplier-of-services-businesses-in-india",
       "slug": "indiacos-supplier-of-services-businesses-in-india",
       "title": "IndiaCos Supplier of Services businesses in India",
@@ -29467,5 +29493,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:45:05.568Z"
+  "lastUpdated": "2026-10-25T23:45:09.974Z"
 }
