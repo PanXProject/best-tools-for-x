@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ecourtsindia-lawyer-case-records",
+      "slug": "ecourtsindia-lawyer-case-records",
+      "title": "eCourtsIndia Lawyer Case Records",
+      "description": "Look up the cases an Indian lawyer has appeared in, built from court r",
+      "author": "Sunny Mittal (eCourtsIndia)",
+      "username": "ecourtsindia",
+      "user_id": "de71bfde-bac1-47b0-89e2-1b0a2eb468c1",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "lawyers",
+        "court-records",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T13:33:35.974Z",
+      "heroImage": "",
+      "toolUrl": "https://ecourtsindia.com/lawyer"
+    },
+    {
       "id": "ecourtsindia-litigant-directory",
       "slug": "ecourtsindia-litigant-directory",
       "title": "eCourtsIndia Litigant Directory",
@@ -20666,5 +20692,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T13:33:33.149Z"
+  "lastUpdated": "2026-10-25T13:33:37.508Z"
 }
