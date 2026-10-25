@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ecourtsindia-judge-on-leave-or-court-vacation",
+      "slug": "ecourtsindia-judge-on-leave-or-court-vacation",
+      "title": "eCourtsIndia Judge on Leave or Court Vacation",
+      "description": "Judge on leave or court on vacation? How adjournments, Link Judges and",
+      "author": "Sunny Mittal (eCourtsIndia)",
+      "username": "ecourtsindia",
+      "user_id": "de71bfde-bac1-47b0-89e2-1b0a2eb468c1",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "courts",
+        "legal",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T22:29:01.238Z",
+      "heroImage": "",
+      "toolUrl": "https://blogs.ecourtsindia.com/2026/04/17/judge-on-leave-cause-list-guide/"
+    },
+    {
       "id": "ecourtsindia-revenue-boards-and-revenue-courts",
       "slug": "ecourtsindia-revenue-boards-and-revenue-courts",
       "title": "eCourtsIndia Revenue Boards and Revenue Courts",
@@ -24709,5 +24735,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T22:28:59.039Z"
+  "lastUpdated": "2026-10-25T22:29:02.605Z"
 }
