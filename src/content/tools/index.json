@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "indiacos-insolvency-announcements",
+      "slug": "indiacos-insolvency-announcements",
+      "title": "IndiaCos Insolvency Announcements",
+      "description": "14,972 IBBI insolvency, liquidation and voluntary liquidation announce",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "insolvency",
+        "ibbi",
+        "companies",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T17:31:17.707Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/insolvency"
+    },
+    {
       "id": "india-property-register-maharashtra-bank-auctions",
       "slug": "india-property-register-maharashtra-bank-auctions",
       "title": "India Property Register Maharashtra Bank Auctions",
@@ -21348,5 +21375,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T16:30:55.369Z"
+  "lastUpdated": "2026-10-25T17:31:19.633Z"
 }
