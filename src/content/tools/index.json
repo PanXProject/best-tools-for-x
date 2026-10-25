@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiainsurances-magma-general-insurance",
+      "slug": "indiainsurances-magma-general-insurance",
+      "title": "IndiaInsurances Magma General Insurance",
+      "description": "Magma General Insurance Limited: every general insurance product with ",
+      "author": "Sunny Mittal (IndiaInsurances)",
+      "username": "indiainsurances",
+      "user_id": "0811076b-d5c2-420b-b1a7-42656b91c880",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "insurance",
+        "india",
+        "compare"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:44:29.987Z",
+      "heroImage": "",
+      "toolUrl": "https://indiainsurances.com/insurer/magma-general-insurance"
+    },
+    {
       "id": "indiainsurances-liberty-general-insurance",
       "slug": "indiainsurances-liberty-general-insurance",
       "title": "IndiaInsurances Liberty General Insurance",
@@ -29207,5 +29233,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:44:27.808Z"
+  "lastUpdated": "2026-10-25T23:44:31.308Z"
 }
