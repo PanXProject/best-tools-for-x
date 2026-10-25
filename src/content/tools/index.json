@@ -1,6 +1,30 @@
 {
   "tools": [
     {
+      "id": "pomelli-free-ai-marketing-image-generator-2026",
+      "slug": "pomelli-free-ai-marketing-image-generator-2026",
+      "title": "Pomelli: Free AI Marketing Image Generator (2026)",
+      "description": "Free on-brand marketing images from a description.",
+      "author": "Lisa",
+      "username": "lisasongfinder",
+      "user_id": "fbf72af8-75de-45da-a4df-90665d4040c7",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "marketing"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T11:53:58.091Z",
+      "heroImage": "",
+      "toolUrl": "https://www.pomelliai.app/"
+    },
+    {
       "id": "flux-3-generator-edit-studio",
       "slug": "flux-3-generator-edit-studio",
       "title": "Flux 3 Generator & Edit Studio",
@@ -20404,5 +20428,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T11:53:47.753Z"
+  "lastUpdated": "2026-10-25T11:53:59.533Z"
 }
