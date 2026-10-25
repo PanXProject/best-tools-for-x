@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ecourtsindia-how-to-check-a-lawyer-s-track-record",
+      "slug": "ecourtsindia-how-to-check-a-lawyer-s-track-record",
+      "title": "eCourtsIndia How to Check a Lawyer's Track Record",
+      "description": "Verify an advocate before you hire: confirm Bar Council enrolment, fin",
+      "author": "Sunny Mittal (eCourtsIndia)",
+      "username": "ecourtsindia",
+      "user_id": "de71bfde-bac1-47b0-89e2-1b0a2eb468c1",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "courts",
+        "legal",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T22:29:22.784Z",
+      "heroImage": "",
+      "toolUrl": "https://blogs.ecourtsindia.com/2026/05/23/how-to-check-lawyer-track-record-online-india/"
+    },
+    {
       "id": "your-advocate-profile-on-ecourtsindia-is-free",
       "slug": "your-advocate-profile-on-ecourtsindia-is-free",
       "title": "Your Advocate Profile on eCourtsIndia Is Free",
@@ -24865,5 +24891,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T22:29:20.375Z"
+  "lastUpdated": "2026-10-25T22:29:24.150Z"
 }
