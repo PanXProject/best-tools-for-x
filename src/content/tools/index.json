@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "indiainsurances-mcp-and-api",
+      "slug": "indiainsurances-mcp-and-api",
+      "title": "IndiaInsurances MCP and API",
+      "description": "Free no-key MCP server and API for Indian insurance policy facts",
+      "author": "Sunny Mittal (IndiaInsurances)",
+      "username": "indiainsurances",
+      "user_id": "0811076b-d5c2-420b-b1a7-42656b91c880",
+      "categories": [
+        "Manage Money"
+      ],
+      "tags": [
+        "mcp",
+        "api",
+        "insurance",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T04:35:27.877Z",
+      "heroImage": "",
+      "toolUrl": "https://indiainsurances.com/for-agents"
+    },
+    {
       "id": "ecourtsindia-mcp-server",
       "slug": "ecourtsindia-mcp-server",
       "title": "eCourtsIndia MCP Server",
@@ -19531,5 +19558,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T04:35:25.874Z"
+  "lastUpdated": "2026-10-25T04:35:29.372Z"
 }
