@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiainsurances-child-plans-policies-compared",
+      "slug": "indiainsurances-child-plans-policies-compared",
+      "title": "IndiaInsurances Child plans policies compared",
+      "description": "10 child plans policies sold in India in one table: claim settlement t",
+      "author": "Sunny Mittal (IndiaInsurances)",
+      "username": "indiainsurances",
+      "user_id": "0811076b-d5c2-420b-b1a7-42656b91c880",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "insurance",
+        "india",
+        "compare"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T22:36:58.422Z",
+      "heroImage": "",
+      "toolUrl": "https://indiainsurances.com/compare/child-plan"
+    },
+    {
       "id": "indiarestros-where-to-eat-biryani-combo-in-india",
       "slug": "indiarestros-where-to-eat-biryani-combo-in-india",
       "title": "IndiaRestros Where to eat Biryani Combo in India",
@@ -26607,5 +26633,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T22:36:55.970Z"
+  "lastUpdated": "2026-10-25T22:36:59.911Z"
 }
