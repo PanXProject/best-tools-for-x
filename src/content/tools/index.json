@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-wholesale-businesses-in-india",
+      "slug": "indiacos-wholesale-businesses-in-india",
+      "title": "IndiaCos Wholesale businesses in India",
+      "description": "14,01,275 wholesale businesses in India registered under GST, with GST",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "gst",
+        "companies",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:44:59.922Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/business-type/wholesale"
+    },
+    {
       "id": "indiacos-retail-businesses-in-india",
       "slug": "indiacos-retail-businesses-in-india",
       "title": "IndiaCos Retail businesses in India",
@@ -29415,5 +29441,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:44:58.050Z"
+  "lastUpdated": "2026-10-25T23:45:01.647Z"
 }
