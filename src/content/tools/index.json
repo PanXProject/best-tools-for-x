@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "jurisgrid-grid-spotlight",
+      "slug": "jurisgrid-grid-spotlight",
+      "title": "JurisGrid Grid Spotlight",
+      "description": "The spotlight node on JurisGrid, the numbered grid of 127 Indian legal",
+      "author": "Sunny Mittal (JurisGrid)",
+      "username": "jurisgrid",
+      "user_id": "65b43be5-f546-4ff8-8960-272c2c363204",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "legal-tech",
+        "directory",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T15:32:46.416Z",
+      "heroImage": "",
+      "toolUrl": "https://jurisgrid.com/#top-startup"
+    },
+    {
       "id": "indiarestros-open-restaurant-guide",
       "slug": "indiarestros-open-restaurant-guide",
       "title": "IndiaRestros Open Restaurant Guide",
@@ -21035,5 +21061,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T15:32:43.960Z"
+  "lastUpdated": "2026-10-25T15:32:47.821Z"
 }
