@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ecourtsindia-how-to-check-your-court-case-status",
+      "slug": "ecourtsindia-how-to-check-your-court-case-status",
+      "title": "eCourtsIndia How to Check Your Court Case Status",
+      "description": "Check an Indian court case status free by CNR, party name or case numb",
+      "author": "Sunny Mittal (eCourtsIndia)",
+      "username": "ecourtsindia",
+      "user_id": "de71bfde-bac1-47b0-89e2-1b0a2eb468c1",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "courts",
+        "legal",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T22:28:38.736Z",
+      "heroImage": "",
+      "toolUrl": "https://blogs.ecourtsindia.com/2026/04/16/check-court-case-status-online-india/"
+    },
+    {
       "id": "myenhancer",
       "slug": "myenhancer",
       "title": "MyEnhancer",
@@ -24553,5 +24579,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T22:22:30.830Z"
+  "lastUpdated": "2026-10-25T22:28:40.259Z"
 }
