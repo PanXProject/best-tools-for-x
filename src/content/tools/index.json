@@ -1,6 +1,30 @@
 {
   "tools": [
     {
+      "id": "flyingcarai-io",
+      "slug": "flyingcarai-io",
+      "title": "FlyingCarAI.io",
+      "description": "Put yourself in a flying car video, from one photo.",
+      "author": "Image to Image",
+      "username": "imagetoimage-tools",
+      "user_id": "a9eb8cb2-684d-4a33-8ee5-1e7bf0ce9e0c",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai-video"
+      ],
+      "pricing": {
+        "model": "one-time-payment"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T05:52:58.846Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792907539/xarkqhpesnxuoejgydvl.png",
+      "toolUrl": "https://flyingcarai.io/?utm_source=toolseekr.com&utm_medium=referral&utm_campaign=directory"
+    },
+    {
       "id": "youth4work-ai-connector",
       "slug": "youth4work-ai-connector",
       "title": "Youth4work AI Connector",
@@ -19641,5 +19665,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T04:35:40.357Z"
+  "lastUpdated": "2026-10-25T05:53:00.430Z"
 }
