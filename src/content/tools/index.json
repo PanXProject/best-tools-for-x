@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "youth4work-ssc-je-junior-engineer-practice-tests",
+      "slug": "youth4work-ssc-je-junior-engineer-practice-tests",
+      "title": "Youth4work SSC JE Junior Engineer Practice Tests",
+      "description": "SSC JE Junior Engineer preparation on Youth4work Prep: 6,200 questions",
+      "author": "Sunny Mittal (Youth4work)",
+      "username": "youth4work",
+      "user_id": "a76d2f60-1fe5-44c8-b736-f4e82dcdab43",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "education",
+        "exams",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:43:26.157Z",
+      "heroImage": "",
+      "toolUrl": "https://www.prep.youth4work.com/Government-Jobs/SSC-JE-Junior-Engineer-Test"
+    },
+    {
       "id": "youth4work-ppsc-practice-tests",
       "slug": "youth4work-ppsc-practice-tests",
       "title": "Youth4work PPSC Practice Tests",
@@ -28791,5 +28817,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:43:24.127Z"
+  "lastUpdated": "2026-10-25T23:43:27.489Z"
 }
