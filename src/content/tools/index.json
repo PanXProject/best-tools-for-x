@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiainsurances-ecgc",
+      "slug": "indiainsurances-ecgc",
+      "title": "IndiaInsurances ECGC",
+      "description": "ECGC Limited: every general insurance product with its documents, clai",
+      "author": "Sunny Mittal (IndiaInsurances)",
+      "username": "indiainsurances",
+      "user_id": "0811076b-d5c2-420b-b1a7-42656b91c880",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "insurance",
+        "india",
+        "compare"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:37:47.691Z",
+      "heroImage": "",
+      "toolUrl": "https://indiainsurances.com/insurer/ecgc"
+    },
+    {
       "id": "indiainsurances-cholamandalam-ms-general-insurance",
       "slug": "indiainsurances-cholamandalam-ms-general-insurance",
       "title": "IndiaInsurances Cholamandalam MS General Insurance",
@@ -27985,5 +28011,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:37:45.127Z"
+  "lastUpdated": "2026-10-25T23:37:49.192Z"
 }
