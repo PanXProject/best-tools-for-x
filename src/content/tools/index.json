@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "jurisgrid-numbered-legal-tech-grid",
+      "slug": "jurisgrid-numbered-legal-tech-grid",
+      "title": "JurisGrid Numbered Legal Tech Grid",
+      "description": "127 Indian legal tech companies, each numbered on the grid with its se",
+      "author": "Sunny Mittal (JurisGrid)",
+      "username": "jurisgrid",
+      "user_id": "65b43be5-f546-4ff8-8960-272c2c363204",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "legal-tech",
+        "directory",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T14:33:21.247Z",
+      "heroImage": "",
+      "toolUrl": "https://jurisgrid.com/#grid"
+    },
+    {
       "id": "jurisgrid-indian-legal-tech-landscape",
       "slug": "jurisgrid-indian-legal-tech-landscape",
       "title": "JurisGrid Indian Legal Tech Landscape",
@@ -20852,5 +20878,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T14:33:18.691Z"
+  "lastUpdated": "2026-10-25T14:33:22.818Z"
 }
