@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiarestros-open-restaurant-guide",
+      "slug": "indiarestros-open-restaurant-guide",
+      "title": "IndiaRestros Open Restaurant Guide",
+      "description": "One page and one permanent id for every restaurant in India, free for ",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "restaurants",
+        "food",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T15:32:42.528Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/about"
+    },
+    {
       "id": "indiarestros-vada-pav-price-guide",
       "slug": "indiarestros-vada-pav-price-guide",
       "title": "IndiaRestros Vada Pav Price Guide",
@@ -21009,5 +21035,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T15:32:39.999Z"
+  "lastUpdated": "2026-10-25T15:32:43.960Z"
 }
