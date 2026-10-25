@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "myenhancer",
+      "slug": "myenhancer",
+      "title": "MyEnhancer",
+      "description": "AI photo enhancement, upscaling and old-photo restoration",
+      "author": "Toolina",
+      "username": "toolina",
+      "user_id": "1c245921-d73b-46c3-a672-58577b0d04b4",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai",
+        "photo-enhancement",
+        "image-upscaling",
+        "photo-restoration",
+        "image-editing"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T22:22:29.262Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792966930/yqcemhfjdgaagwlm32am.png",
+      "toolUrl": "https://myenhancer.com/"
+    },
+    {
       "id": "youth4work-amcat-practice-tests",
       "slug": "youth4work-amcat-practice-tests",
       "title": "Youth4work AMCAT Practice Tests",
@@ -24525,5 +24553,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T21:46:40.839Z"
+  "lastUpdated": "2026-10-25T22:22:30.830Z"
 }
