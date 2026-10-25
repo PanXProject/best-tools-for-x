@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "data-galactica-india-companies",
+      "slug": "data-galactica-india-companies",
+      "title": "Data Galactica India Companies",
+      "description": "Browse 6,432,479 organisations in India, each with a permanent Galacti",
+      "author": "Sunny Mittal (Data Galactica)",
+      "username": "datagalactica",
+      "user_id": "bb6680d7-72f5-483e-90c5-ab7e44f8f740",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "data",
+        "api",
+        "companies"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T19:43:08.341Z",
+      "heroImage": "",
+      "toolUrl": "https://datagalactica.com/companies/country/in"
+    },
+    {
       "id": "fir-status-online-india-guide",
       "slug": "fir-status-online-india-guide",
       "title": "FIR Status Online India Guide",
@@ -22237,5 +22263,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T19:38:36.435Z"
+  "lastUpdated": "2026-10-25T19:43:09.889Z"
 }
