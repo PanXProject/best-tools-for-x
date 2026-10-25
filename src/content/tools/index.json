@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ecourtsindia-court-record-check-vs-police",
+      "slug": "ecourtsindia-court-record-check-vs-police",
+      "title": "eCourtsIndia Court Record Check vs Police",
+      "description": "Court record check, FIR search, police verification and PCC read four ",
+      "author": "Sunny Mittal (eCourtsIndia)",
+      "username": "ecourtsindia",
+      "user_id": "de71bfde-bac1-47b0-89e2-1b0a2eb468c1",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "courts",
+        "legal",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T22:30:40.947Z",
+      "heroImage": "",
+      "toolUrl": "https://blogs.ecourtsindia.com/2026/09/25/court-check-vs-police-verification-vs-fir-india/"
+    },
+    {
       "id": "ecourtsindia-court-record-check-in-india",
       "slug": "ecourtsindia-court-record-check-in-india",
       "title": "eCourtsIndia Court Record Check in India",
@@ -25437,5 +25463,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T22:30:38.785Z"
+  "lastUpdated": "2026-10-25T22:30:42.323Z"
 }
