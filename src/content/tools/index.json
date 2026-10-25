@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiainsurances-engineering-compared",
+      "slug": "indiainsurances-engineering-compared",
+      "title": "IndiaInsurances Engineering Compared",
+      "description": "141 engineering policies sold in India in one table: claim settlement ",
+      "author": "Sunny Mittal (IndiaInsurances)",
+      "username": "indiainsurances",
+      "user_id": "0811076b-d5c2-420b-b1a7-42656b91c880",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "insurance",
+        "compare",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:44:05.747Z",
+      "heroImage": "",
+      "toolUrl": "https://indiainsurances.com/compare/engineering"
+    },
+    {
       "id": "indiainsurances-health-insurance-for-parents-and",
       "slug": "indiainsurances-health-insurance-for-parents-and",
       "title": "IndiaInsurances Health insurance for parents and",
@@ -29051,5 +29077,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:44:03.314Z"
+  "lastUpdated": "2026-10-25T23:44:07.231Z"
 }
