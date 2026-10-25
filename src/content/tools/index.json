@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-gujarat-gst-businesses",
+      "slug": "indiacos-gujarat-gst-businesses",
+      "title": "IndiaCos Gujarat GST Businesses",
+      "description": "3,13,051 GST registered businesses in Gujarat with GSTIN, status and r",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "companies",
+        "india",
+        "data"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T20:30:53.295Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/state/gujarat"
+    },
+    {
       "id": "indiacos-delhi-gst-businesses",
       "slug": "indiacos-delhi-gst-businesses",
       "title": "IndiaCos Delhi GST Businesses",
@@ -22679,5 +22705,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T20:30:51.091Z"
+  "lastUpdated": "2026-10-25T20:30:54.821Z"
 }
