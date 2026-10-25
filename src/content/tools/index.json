@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiainsurances-liability-compared",
+      "slug": "indiainsurances-liability-compared",
+      "title": "IndiaInsurances Liability Compared",
+      "description": "319 liability policies sold in India in one table: claim settlement ti",
+      "author": "Sunny Mittal (IndiaInsurances)",
+      "username": "indiainsurances",
+      "user_id": "0811076b-d5c2-420b-b1a7-42656b91c880",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "insurance",
+        "compare",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:43:56.938Z",
+      "heroImage": "",
+      "toolUrl": "https://indiainsurances.com/compare/liability"
+    },
+    {
       "id": "indiainsurances-hospital-daily-cash-compared",
       "slug": "indiainsurances-hospital-daily-cash-compared",
       "title": "IndiaInsurances Hospital daily cash Compared",
@@ -28999,5 +29025,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:43:54.624Z"
+  "lastUpdated": "2026-10-25T23:43:58.551Z"
 }
