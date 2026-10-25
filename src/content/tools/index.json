@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "data-galactica-talent-in-delhi",
+      "slug": "data-galactica-talent-in-delhi",
+      "title": "Data Galactica Talent in Delhi",
+      "description": "Top roles and skills of about 20,15,643 people in Delhi, as counts, wi",
+      "author": "Sunny Mittal (Data Galactica)",
+      "username": "datagalactica",
+      "user_id": "bb6680d7-72f5-483e-90c5-ab7e44f8f740",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "talent",
+        "skills",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T21:29:04.678Z",
+      "heroImage": "",
+      "toolUrl": "https://datagalactica.com/talent/delhi"
+    },
+    {
       "id": "data-galactica-talent-in-chennai",
       "slug": "data-galactica-talent-in-chennai",
       "title": "Data Galactica Talent in Chennai",
@@ -23563,5 +23589,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T21:29:02.652Z"
+  "lastUpdated": "2026-10-25T21:29:05.948Z"
 }
