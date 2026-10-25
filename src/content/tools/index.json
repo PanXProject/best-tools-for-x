@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-offices-in-telangana",
+      "slug": "indiacos-offices-in-telangana",
+      "title": "IndiaCos Offices in Telangana",
+      "description": "12,169 addresses in Telangana used by two or more companies, LLPs or G",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "companies",
+        "gst",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T22:37:24.575Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/offices/telangana"
+    },
+    {
       "id": "indiacos-offices-in-west-bengal",
       "slug": "indiacos-offices-in-west-bengal",
       "title": "IndiaCos Offices in West Bengal",
@@ -26789,5 +26815,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T22:37:22.513Z"
+  "lastUpdated": "2026-10-25T22:37:26.368Z"
 }
