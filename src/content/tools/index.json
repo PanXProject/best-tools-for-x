@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "yassess-by-youth4work",
+      "slug": "yassess-by-youth4work",
+      "title": "yAssess by Youth4work",
+      "description": "Online assessment software for bulk and campus hiring in India",
+      "author": "Sunny Mittal (Youth4work)",
+      "username": "youth4work",
+      "user_id": "a76d2f60-1fe5-44c8-b736-f4e82dcdab43",
+      "categories": [
+        "Manage People"
+      ],
+      "tags": [
+        "assessment",
+        "campus-hiring",
+        "recruitment",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T10:33:49.644Z",
+      "heroImage": "",
+      "toolUrl": "https://www.youth4work.com/corporate-assessment"
+    },
+    {
       "id": "ecourtsindia-advocate-directory",
       "slug": "ecourtsindia-advocate-directory",
       "title": "eCourtsIndia Advocate Directory",
@@ -20038,5 +20065,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T10:33:47.590Z"
+  "lastUpdated": "2026-10-25T10:33:51.198Z"
 }
