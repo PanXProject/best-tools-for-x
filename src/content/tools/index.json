@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-bank-auctions-delhi",
+      "slug": "ipr-bank-auctions-delhi",
+      "title": "IPR Bank Auctions Delhi",
+      "description": "1,874 bank auction property listings in Delhi with reserve price, bank",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "real-estate",
+        "rera",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T20:31:18.179Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/auctions/delhi"
+    },
+    {
       "id": "ipr-bank-auctions-karnataka",
       "slug": "ipr-bank-auctions-karnataka",
       "title": "IPR Bank Auctions Karnataka",
@@ -22835,5 +22861,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T20:31:15.874Z"
+  "lastUpdated": "2026-10-25T20:31:19.895Z"
 }
