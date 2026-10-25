@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-supplier-of-services-businesses-in-india",
+      "slug": "indiacos-supplier-of-services-businesses-in-india",
+      "title": "IndiaCos Supplier of Services businesses in India",
+      "description": "12,70,378 supplier of services businesses in India registered under GS",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "gst",
+        "companies",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:45:03.813Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/business-type/services"
+    },
+    {
       "id": "indiacos-wholesale-businesses-in-india",
       "slug": "indiacos-wholesale-businesses-in-india",
       "title": "IndiaCos Wholesale businesses in India",
@@ -29441,5 +29467,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:45:01.647Z"
+  "lastUpdated": "2026-10-25T23:45:05.568Z"
 }
