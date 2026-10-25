@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiainsurances-whole-life-plan-comparison",
+      "slug": "indiainsurances-whole-life-plan-comparison",
+      "title": "IndiaInsurances Whole Life Plan Comparison",
+      "description": "6 whole life policies sold in India compared in one table",
+      "author": "Sunny Mittal (IndiaInsurances)",
+      "username": "indiainsurances",
+      "user_id": "0811076b-d5c2-420b-b1a7-42656b91c880",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "insurance",
+        "india",
+        "compare"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T20:38:23.808Z",
+      "heroImage": "",
+      "toolUrl": "https://indiainsurances.com/compare/whole-life"
+    },
+    {
       "id": "indiainsurances-personal-accident-comparison",
       "slug": "indiainsurances-personal-accident-comparison",
       "title": "IndiaInsurances Personal Accident Comparison",
@@ -23069,5 +23095,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T20:38:21.810Z"
+  "lastUpdated": "2026-10-25T20:38:25.175Z"
 }
