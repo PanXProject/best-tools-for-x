@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "data-galactica-top-companies-in-canada",
+      "slug": "data-galactica-top-companies-in-canada",
+      "title": "Data Galactica Top Companies in Canada",
+      "description": "The best-known companies in Canada, each with a Galactica ID, a grade ",
+      "author": "Sunny Mittal (Data Galactica)",
+      "username": "datagalactica",
+      "user_id": "bb6680d7-72f5-483e-90c5-ab7e44f8f740",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "companies",
+        "data",
+        "directory"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T21:46:04.154Z",
+      "heroImage": "",
+      "toolUrl": "https://datagalactica.com/companies/top/ca"
+    },
+    {
       "id": "data-galactica-top-companies-in-germany",
       "slug": "data-galactica-top-companies-in-germany",
       "title": "Data Galactica Top Companies in Germany",
@@ -24239,5 +24265,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T21:46:02.097Z"
+  "lastUpdated": "2026-10-25T21:46:05.634Z"
 }
