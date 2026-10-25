@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiainsurances-travel-policy-comparison",
+      "slug": "indiainsurances-travel-policy-comparison",
+      "title": "IndiaInsurances Travel Policy Comparison",
+      "description": "64 travel insurance policies sold in India in one table: medical cover",
+      "author": "Sunny Mittal (IndiaInsurances)",
+      "username": "indiainsurances",
+      "user_id": "0811076b-d5c2-420b-b1a7-42656b91c880",
+      "categories": [
+        "Manage Money"
+      ],
+      "tags": [
+        "travel-insurance",
+        "comparison",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T18:48:45.819Z",
+      "heroImage": "",
+      "toolUrl": "https://indiainsurances.com/compare/travel"
+    },
+    {
       "id": "indiainsurances-insurance-forms-library",
       "slug": "indiainsurances-insurance-forms-library",
       "title": "IndiaInsurances Insurance Forms Library",
@@ -21899,5 +21925,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T18:48:43.883Z"
+  "lastUpdated": "2026-10-25T18:48:47.138Z"
 }
