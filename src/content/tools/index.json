@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiainsurances-bharti-axa-general-insurance",
+      "slug": "indiainsurances-bharti-axa-general-insurance",
+      "title": "IndiaInsurances Bharti AXA General Insurance",
+      "description": "Bharti AXA General Insurance Company Limited: every general insurance ",
+      "author": "Sunny Mittal (IndiaInsurances)",
+      "username": "indiainsurances",
+      "user_id": "0811076b-d5c2-420b-b1a7-42656b91c880",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "insurance",
+        "india",
+        "compare"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:37:39.867Z",
+      "heroImage": "",
+      "toolUrl": "https://indiainsurances.com/insurer/bharti-axa-general-insurance"
+    },
+    {
       "id": "indiainsurances-bajaj-general-insurance",
       "slug": "indiainsurances-bajaj-general-insurance",
       "title": "IndiaInsurances Bajaj General Insurance",
@@ -27933,5 +27959,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:37:37.649Z"
+  "lastUpdated": "2026-10-25T23:37:41.344Z"
 }
