@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-shared-business-addresses",
+      "slug": "indiacos-shared-business-addresses",
+      "title": "IndiaCos Shared Business Addresses",
+      "description": "2,44,921 addresses used by two or more companies, LLPs or GST registra",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "company-addresses",
+        "gst",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T17:31:30.396Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/offices"
+    },
+    {
       "id": "indiacos-sebi-intermediaries-list",
       "slug": "indiacos-sebi-intermediaries-list",
       "title": "IndiaCos SEBI Intermediaries List",
@@ -21429,5 +21455,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T17:31:28.113Z"
+  "lastUpdated": "2026-10-25T17:31:31.772Z"
 }
