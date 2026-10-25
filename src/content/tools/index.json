@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "data-galactica-people-directory",
+      "slug": "data-galactica-people-directory",
+      "title": "Data Galactica People Directory",
+      "description": "Browse 98.4 million people by function, country, city and name, each w",
+      "author": "Sunny Mittal (Data Galactica)",
+      "username": "datagalactica",
+      "user_id": "bb6680d7-72f5-483e-90c5-ab7e44f8f740",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "people-directory",
+        "identity",
+        "galactica-id"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T11:37:07.357Z",
+      "heroImage": "",
+      "toolUrl": "https://datagalactica.com/people"
+    },
+    {
       "id": "indiainsurances-claim-guide",
       "slug": "indiainsurances-claim-guide",
       "title": "IndiaInsurances Claim Guide",
@@ -20253,5 +20279,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T11:37:05.373Z"
+  "lastUpdated": "2026-10-25T11:37:08.817Z"
 }
