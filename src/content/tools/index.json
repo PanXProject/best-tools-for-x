@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "youth4work-accenture-practice-tests",
+      "slug": "youth4work-accenture-practice-tests",
+      "title": "Youth4work Accenture Practice Tests",
+      "description": "Accenture preparation on Youth4work Prep: 1,659 questions and 2 full m",
+      "author": "Sunny Mittal (Youth4work)",
+      "username": "youth4work",
+      "user_id": "a76d2f60-1fe5-44c8-b736-f4e82dcdab43",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "education",
+        "exams",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:35:30.878Z",
+      "heroImage": "",
+      "toolUrl": "https://www.prep.youth4work.com/Placement-Papers/Accenture-Test"
+    },
+    {
       "id": "youth4work-gate-civil-engineering-ce-prep",
       "slug": "youth4work-gate-civil-engineering-ce-prep",
       "title": "Youth4work GATE Civil Engineering (CE) Prep",
@@ -26997,5 +27023,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:35:28.695Z"
+  "lastUpdated": "2026-10-25T23:35:33.082Z"
 }
