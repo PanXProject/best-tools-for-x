@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiarestros-restaurants-in-mumbai",
+      "slug": "indiarestros-restaurants-in-mumbai",
+      "title": "IndiaRestros Restaurants in Mumbai",
+      "description": "52,793 Mumbai restaurants with phone numbers, timings, menus and cuisi",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "restaurants",
+        "food",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T20:31:21.907Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/in/mumbai"
+    },
+    {
       "id": "ipr-bank-auctions-delhi",
       "slug": "ipr-bank-auctions-delhi",
       "title": "IPR Bank Auctions Delhi",
@@ -22861,5 +22887,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T20:31:19.895Z"
+  "lastUpdated": "2026-10-25T20:31:23.398Z"
 }
