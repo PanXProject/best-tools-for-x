@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "india-property-register",
+      "slug": "india-property-register",
+      "title": "India Property Register",
+      "description": "Land and property records of every village and plot in India",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "property-records",
+        "land-records",
+        "india",
+        "real-estate"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T00:57:00.039Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/"
+    },
+    {
       "id": "jurisgrid",
       "slug": "jurisgrid",
       "title": "JurisGrid",
@@ -19207,5 +19234,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T00:53:17.650Z"
+  "lastUpdated": "2026-10-25T00:57:01.695Z"
 }
