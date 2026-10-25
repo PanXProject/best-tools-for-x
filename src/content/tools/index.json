@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ecourtsindia-how-to-find-any-indian-act-or-section",
+      "slug": "ecourtsindia-how-to-find-any-indian-act-or-section",
+      "title": "eCourtsIndia How to Find Any Indian Act or Section",
+      "description": "Find any Indian Act or section on IndiaCode: search BNS 103 or Order 7",
+      "author": "Sunny Mittal (eCourtsIndia)",
+      "username": "ecourtsindia",
+      "user_id": "de71bfde-bac1-47b0-89e2-1b0a2eb468c1",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "courts",
+        "legal",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T22:30:26.804Z",
+      "heroImage": "",
+      "toolUrl": "https://blogs.ecourtsindia.com/2026/08/30/indiacode-search-json-api-guide/"
+    },
+    {
       "id": "ecourtsindia-bns-sections",
       "slug": "ecourtsindia-bns-sections",
       "title": "eCourtsIndia BNS Sections",
@@ -25333,5 +25359,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T22:30:24.721Z"
+  "lastUpdated": "2026-10-25T22:30:28.287Z"
 }
