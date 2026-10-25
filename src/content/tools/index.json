@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "data-galactica-api",
+      "slug": "data-galactica-api",
+      "title": "Data Galactica API",
+      "description": "JSON API and MCP server to resolve any person or company",
+      "author": "Sunny Mittal (Data Galactica)",
+      "username": "datagalactica",
+      "user_id": "bb6680d7-72f5-483e-90c5-ab7e44f8f740",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "api",
+        "mcp",
+        "identity-resolution",
+        "data"
+      ],
+      "pricing": {
+        "model": "pay-per-use"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T04:35:35.270Z",
+      "heroImage": "",
+      "toolUrl": "https://datagalactica.com/api"
+    },
+    {
       "id": "indiacos-api",
       "slug": "indiacos-api",
       "title": "IndiaCos API",
@@ -19586,5 +19613,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T04:35:33.036Z"
+  "lastUpdated": "2026-10-25T04:35:36.678Z"
 }
