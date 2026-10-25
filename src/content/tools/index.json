@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "galactica-entity-standard",
+      "slug": "galactica-entity-standard",
+      "title": "Galactica Entity Standard",
+      "description": "One open schema for every organisation and person: DGC-/DGP- ids, ISIC",
+      "author": "Sunny Mittal (Data Galactica)",
+      "username": "datagalactica",
+      "user_id": "bb6680d7-72f5-483e-90c5-ab7e44f8f740",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "data-standard",
+        "schema",
+        "api"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T16:30:37.430Z",
+      "heroImage": "",
+      "toolUrl": "https://datagalactica.com/standard"
+    },
+    {
       "id": "data-galactica-talent-by-city",
       "slug": "data-galactica-talent-by-city",
       "title": "Data Galactica Talent by City",
@@ -21218,5 +21244,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T16:30:35.170Z"
+  "lastUpdated": "2026-10-25T16:30:39.033Z"
 }
