@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiarestros-restaurants-in-lucknow",
+      "slug": "indiarestros-restaurants-in-lucknow",
+      "title": "IndiaRestros Restaurants in Lucknow",
+      "description": "Restaurants in Lucknow, Uttar Pradesh: 19,956 places with phone number",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "restaurants",
+        "india",
+        "directory"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T22:36:41.236Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/in/lucknow"
+    },
+    {
       "id": "indiarestros-restaurants-in-jaipur",
       "slug": "indiarestros-restaurants-in-jaipur",
       "title": "IndiaRestros Restaurants in Jaipur",
@@ -26477,5 +26503,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T22:36:39.172Z"
+  "lastUpdated": "2026-10-25T22:36:42.608Z"
 }
