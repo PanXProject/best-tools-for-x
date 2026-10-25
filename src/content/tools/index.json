@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "high-court-case-status-guide-india",
+      "slug": "high-court-case-status-guide-india",
+      "title": "High Court Case Status Guide India",
+      "description": "Check any High Court case status by CNR, case number, party or advocat",
+      "author": "Sunny Mittal (eCourtsIndia)",
+      "username": "ecourtsindia",
+      "user_id": "de71bfde-bac1-47b0-89e2-1b0a2eb468c1",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "courts",
+        "legal",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T19:38:28.491Z",
+      "heroImage": "",
+      "toolUrl": "https://blogs.ecourtsindia.com/2026/04/16/high-court-case-status-india-all-25/"
+    },
+    {
       "id": "indian-court-case-type-encyclopedia",
       "slug": "indian-court-case-type-encyclopedia",
       "title": "Indian Court Case Type Encyclopedia",
@@ -22159,5 +22185,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T19:38:26.130Z"
+  "lastUpdated": "2026-10-25T19:38:29.857Z"
 }
