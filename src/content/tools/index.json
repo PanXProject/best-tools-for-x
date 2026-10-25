@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "data-galactica-company-directory",
+      "slug": "data-galactica-company-directory",
+      "title": "Data Galactica Company Directory",
+      "description": "Browse 28.9 million organisations by industry, country, city and name,",
+      "author": "Sunny Mittal (Data Galactica)",
+      "username": "datagalactica",
+      "user_id": "bb6680d7-72f5-483e-90c5-ab7e44f8f740",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "companies",
+        "organisations",
+        "galactica-id"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T12:37:33.344Z",
+      "heroImage": "",
+      "toolUrl": "https://datagalactica.com/companies"
+    },
+    {
       "id": "pomelli-free-ai-marketing-image-generator-2026",
       "slug": "pomelli-free-ai-marketing-image-generator-2026",
       "title": "Pomelli: Free AI Marketing Image Generator (2026)",
@@ -20428,5 +20454,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T11:53:59.533Z"
+  "lastUpdated": "2026-10-25T12:37:34.921Z"
 }
