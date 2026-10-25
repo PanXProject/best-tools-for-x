@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-uttar-pradesh-property-registry",
+      "slug": "ipr-uttar-pradesh-property-registry",
+      "title": "IPR Uttar Pradesh Property Registry",
+      "description": "Uttar Pradesh on one register: 1.7 crore land plots, 57.9 lakh city pr",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "real-estate",
+        "property",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T18:38:10.516Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/ipregistry/uttar-pradesh"
+    },
+    {
       "id": "ipr-haryana-bank-auctions",
       "slug": "ipr-haryana-bank-auctions",
       "title": "IPR Haryana Bank Auctions",
@@ -21768,5 +21794,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T18:38:08.472Z"
+  "lastUpdated": "2026-10-25T18:38:11.773Z"
 }
