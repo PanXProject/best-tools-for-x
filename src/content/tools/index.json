@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-rbi-standalone-primary-dealers",
+      "slug": "indiacos-rbi-standalone-primary-dealers",
+      "title": "IndiaCos RBI Standalone Primary Dealers",
+      "description": "7 RBI-registered Standalone Primary Dealers from the Reserve Bank of I",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "companies",
+        "finance",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:38:56.285Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/nbfc/standalone-primary-dealer"
+    },
+    {
       "id": "indiacos-rbi-infrastructure-debt-funds",
       "slug": "indiacos-rbi-infrastructure-debt-funds",
       "title": "IndiaCos RBI Infrastructure Debt Funds",
@@ -28453,5 +28479,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:38:54.055Z"
+  "lastUpdated": "2026-10-25T23:38:57.680Z"
 }
