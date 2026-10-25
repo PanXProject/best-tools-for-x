@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "india-property-registry-map",
+      "slug": "india-property-registry-map",
+      "title": "India Property Registry Map",
+      "description": "Browse villages, plots, cities and properties in India from a map of I",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "land-records",
+        "property",
+        "villages",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T08:40:04.609Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/ipregistry"
+    },
+    {
       "id": "ipr-bank-auction-finder",
       "slug": "ipr-bank-auction-finder",
       "title": "IPR Bank Auction Finder",
@@ -19716,5 +19743,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T08:40:02.311Z"
+  "lastUpdated": "2026-10-25T08:40:06.073Z"
 }
