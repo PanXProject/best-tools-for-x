@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "data-galactica-organisations-in-jaipur",
+      "slug": "data-galactica-organisations-in-jaipur",
+      "title": "Data Galactica Organisations in Jaipur",
+      "description": "39,654 organisations in Jaipur, each with a Galactica ID, contact reco",
+      "author": "Sunny Mittal (Data Galactica)",
+      "username": "datagalactica",
+      "user_id": "bb6680d7-72f5-483e-90c5-ab7e44f8f740",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "companies",
+        "india",
+        "directory"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T21:46:21.906Z",
+      "heroImage": "",
+      "toolUrl": "https://datagalactica.com/companies/city/in/jaipur"
+    },
+    {
       "id": "data-galactica-organisations-in-ahmedabad",
       "slug": "data-galactica-organisations-in-ahmedabad",
       "title": "Data Galactica Organisations in Ahmedabad",
@@ -24369,5 +24395,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T21:46:19.805Z"
+  "lastUpdated": "2026-10-25T21:46:23.265Z"
 }
