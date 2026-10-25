@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "data-galactica-organisations-in-hyderabad",
+      "slug": "data-galactica-organisations-in-hyderabad",
+      "title": "Data Galactica Organisations in Hyderabad",
+      "description": "68,567 organisations in Hyderabad, each with a Galactica ID, contact r",
+      "author": "Sunny Mittal (Data Galactica)",
+      "username": "datagalactica",
+      "user_id": "bb6680d7-72f5-483e-90c5-ab7e44f8f740",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "companies",
+        "india",
+        "directory"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T21:29:26.364Z",
+      "heroImage": "",
+      "toolUrl": "https://datagalactica.com/companies/city/in/hyderabad"
+    },
+    {
       "id": "data-galactica-top-companies-in-india",
       "slug": "data-galactica-top-companies-in-india",
       "title": "Data Galactica Top Companies in India",
@@ -23719,5 +23745,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T21:29:24.099Z"
+  "lastUpdated": "2026-10-25T21:29:27.750Z"
 }
