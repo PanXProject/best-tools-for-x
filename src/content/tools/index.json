@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ecourtsindia-ipc-to-bns-section-mapping",
+      "slug": "ecourtsindia-ipc-to-bns-section-mapping",
+      "title": "eCourtsIndia IPC to BNS Section Mapping",
+      "description": "IPC 302 is BNS 103(1), 420 is 318(4), 498A is 85. A practitioner's IPC",
+      "author": "Sunny Mittal (eCourtsIndia)",
+      "username": "ecourtsindia",
+      "user_id": "de71bfde-bac1-47b0-89e2-1b0a2eb468c1",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "courts",
+        "legal",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T22:30:15.858Z",
+      "heroImage": "",
+      "toolUrl": "https://blogs.ecourtsindia.com/2026/08/30/ipc-to-bns-section-mapping/"
+    },
+    {
       "id": "ecourtsindia-how-to-enable-case-alerts",
       "slug": "ecourtsindia-how-to-enable-case-alerts",
       "title": "eCourtsIndia How to Enable Case Alerts",
@@ -25255,5 +25281,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T22:30:13.392Z"
+  "lastUpdated": "2026-10-25T22:30:17.285Z"
 }
