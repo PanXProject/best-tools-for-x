@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "youth4work-prep",
+      "slug": "youth4work-prep",
+      "title": "Youth4work Prep",
+      "description": "Free-to-start mock tests for Indian government, banking, railway, defe",
+      "author": "Sunny Mittal (Youth4work)",
+      "username": "youth4work",
+      "user_id": "a76d2f60-1fe5-44c8-b736-f4e82dcdab43",
+      "categories": [
+        "Manage People"
+      ],
+      "tags": [
+        "mock-tests",
+        "government-exams",
+        "banking-exams",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T11:36:53.713Z",
+      "heroImage": "",
+      "toolUrl": "https://www.prep.youth4work.com/"
+    },
+    {
       "id": "ecourtsindia-judge-directory",
       "slug": "ecourtsindia-judge-directory",
       "title": "eCourtsIndia Judge Directory",
@@ -20145,5 +20172,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T11:36:51.557Z"
+  "lastUpdated": "2026-10-25T11:36:55.014Z"
 }
