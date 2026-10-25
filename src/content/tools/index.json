@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "ecourtsindia-advocate-directory",
+      "slug": "ecourtsindia-advocate-directory",
+      "title": "eCourtsIndia Advocate Directory",
+      "description": "Free directory of Indian advocates verified against their Bar Council ",
+      "author": "Sunny Mittal (eCourtsIndia)",
+      "username": "ecourtsindia",
+      "user_id": "de71bfde-bac1-47b0-89e2-1b0a2eb468c1",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "advocates",
+        "lawyers",
+        "courts",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T10:33:46.037Z",
+      "heroImage": "",
+      "toolUrl": "https://ecourtsindia.com/advocate"
+    },
+    {
       "id": "indiainsurances-health-policy-index",
       "slug": "indiainsurances-health-policy-index",
       "title": "IndiaInsurances Health Policy Index",
@@ -20011,5 +20038,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T10:33:43.697Z"
+  "lastUpdated": "2026-10-25T10:33:47.590Z"
 }
