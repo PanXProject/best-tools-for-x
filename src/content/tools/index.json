@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "youth4work-bpsc-prelims-exam-practice-tests",
+      "slug": "youth4work-bpsc-prelims-exam-practice-tests",
+      "title": "Youth4work BPSC Prelims Exam Practice Tests",
+      "description": "BPSC Prelims Exam preparation on Youth4work Prep: 3,204 questions and ",
+      "author": "Sunny Mittal (Youth4work)",
+      "username": "youth4work",
+      "user_id": "a76d2f60-1fe5-44c8-b736-f4e82dcdab43",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "education",
+        "exams",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:37:26.219Z",
+      "heroImage": "",
+      "toolUrl": "https://www.prep.youth4work.com/State-Public-Service-Commission/BPSC-Prelims-Exam-Test"
+    },
+    {
       "id": "youth4work-l-n-t-infotech-practice-tests",
       "slug": "youth4work-l-n-t-infotech-practice-tests",
       "title": "Youth4work L n T Infotech Practice Tests",
@@ -27829,5 +27855,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:37:24.297Z"
+  "lastUpdated": "2026-10-25T23:37:27.556Z"
 }
