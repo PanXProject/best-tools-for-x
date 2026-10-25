@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "youth4work-ssc-cgl-tier-1-practice-tests",
+      "slug": "youth4work-ssc-cgl-tier-1-practice-tests",
+      "title": "Youth4work SSC CGL Tier 1 Practice Tests",
+      "description": "SSC CGL Tier 1 preparation on Youth4work Prep: 7,457 questions and 5 m",
+      "author": "Sunny Mittal (Youth4work)",
+      "username": "youth4work",
+      "user_id": "a76d2f60-1fe5-44c8-b736-f4e82dcdab43",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "education",
+        "exams",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T21:29:43.605Z",
+      "heroImage": "",
+      "toolUrl": "https://www.prep.youth4work.com/Government-Jobs/SSC-CGL-TIER-1-Test"
+    },
+    {
       "id": "youth4work-tcs-placement-practice-tests",
       "slug": "youth4work-tcs-placement-practice-tests",
       "title": "Youth4work TCS Placement Practice Tests",
@@ -23849,5 +23875,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T21:29:41.350Z"
+  "lastUpdated": "2026-10-25T21:29:44.971Z"
 }
