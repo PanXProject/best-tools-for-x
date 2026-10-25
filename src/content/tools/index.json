@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "ecourtsindia-cause-list-search",
+      "slug": "ecourtsindia-cause-list-search",
+      "title": "eCourtsIndia Cause List Search",
+      "description": "Daily cause lists for Indian courts: see what is listed before you rea",
+      "author": "Sunny Mittal (eCourtsIndia)",
+      "username": "ecourtsindia",
+      "user_id": "de71bfde-bac1-47b0-89e2-1b0a2eb468c1",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "cause-list",
+        "courts",
+        "legal",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T08:40:19.145Z",
+      "heroImage": "",
+      "toolUrl": "https://ecourtsindia.com/causelist"
+    },
+    {
       "id": "indiainsurances-policy-compare",
       "slug": "indiainsurances-policy-compare",
       "title": "IndiaInsurances Policy Compare",
@@ -19824,5 +19851,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T08:40:17.031Z"
+  "lastUpdated": "2026-10-25T08:40:20.694Z"
 }
