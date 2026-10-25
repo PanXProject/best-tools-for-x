@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiarestros-vada-pav-price-guide",
+      "slug": "indiarestros-vada-pav-price-guide",
+      "title": "IndiaRestros Vada Pav Price Guide",
+      "description": "Where to eat vada pav in India: 479 places from Rs 20, typical price R",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "restaurants",
+        "food",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T15:32:38.602Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/dish/vada-pav"
+    },
+    {
       "id": "indiarestros-south-indian-restaurants",
       "slug": "indiarestros-south-indian-restaurants",
       "title": "IndiaRestros South Indian Restaurants",
@@ -20983,5 +21009,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T15:32:36.029Z"
+  "lastUpdated": "2026-10-25T15:32:39.999Z"
 }
