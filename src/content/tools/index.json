@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "data-galactica-companies-a-to-z",
+      "slug": "data-galactica-companies-a-to-z",
+      "title": "Data Galactica Companies A to Z",
+      "description": "Browse company records alphabetically: 1,144,239 companies start with ",
+      "author": "Sunny Mittal (Data Galactica)",
+      "username": "datagalactica",
+      "user_id": "bb6680d7-72f5-483e-90c5-ab7e44f8f740",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "data",
+        "api",
+        "companies"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T19:37:59.959Z",
+      "heroImage": "",
+      "toolUrl": "https://datagalactica.com/companies/a"
+    },
+    {
       "id": "data-galactica-api-reference",
       "slug": "data-galactica-api-reference",
       "title": "Data Galactica API Reference",
@@ -21951,5 +21977,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T19:37:57.872Z"
+  "lastUpdated": "2026-10-25T19:38:01.951Z"
 }
