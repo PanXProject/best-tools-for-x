@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-factory-manufacturing-businesses-in",
+      "slug": "indiacos-factory-manufacturing-businesses-in",
+      "title": "IndiaCos Factory / Manufacturing businesses in",
+      "description": "3,60,671 factory / manufacturing businesses in India registered under ",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "gst",
+        "companies",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:45:16.207Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/business-type/manufacturing"
+    },
+    {
       "id": "indiacos-office-sale-office-businesses-in-india",
       "slug": "indiacos-office-sale-office-businesses-in-india",
       "title": "IndiaCos Office / Sale Office businesses in India",
@@ -29519,5 +29545,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:45:13.929Z"
+  "lastUpdated": "2026-10-25T23:45:17.828Z"
 }
