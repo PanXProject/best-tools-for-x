@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiainsurances-bajaj-general-insurance",
+      "slug": "indiainsurances-bajaj-general-insurance",
+      "title": "IndiaInsurances Bajaj General Insurance",
+      "description": "Bajaj General Insurance Limited: every general insurance product with ",
+      "author": "Sunny Mittal (IndiaInsurances)",
+      "username": "indiainsurances",
+      "user_id": "0811076b-d5c2-420b-b1a7-42656b91c880",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "insurance",
+        "india",
+        "compare"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:37:36.259Z",
+      "heroImage": "",
+      "toolUrl": "https://indiainsurances.com/insurer/bajaj-general-insurance"
+    },
+    {
       "id": "indiainsurances-acko-general-insurance",
       "slug": "indiainsurances-acko-general-insurance",
       "title": "IndiaInsurances Acko General Insurance",
@@ -27907,5 +27933,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:37:34.157Z"
+  "lastUpdated": "2026-10-25T23:37:37.649Z"
 }
