@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "youth4work-sarkari-naukri",
+      "slug": "youth4work-sarkari-naukri",
+      "title": "Youth4work Sarkari Naukri",
+      "description": "Government job (sarkari naukri) updates and preparation tests from You",
+      "author": "Sunny Mittal (Youth4work)",
+      "username": "youth4work",
+      "user_id": "a76d2f60-1fe5-44c8-b736-f4e82dcdab43",
+      "categories": [
+        "Manage People"
+      ],
+      "tags": [
+        "government-jobs",
+        "sarkari-naukri",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T16:30:25.560Z",
+      "heroImage": "",
+      "toolUrl": "https://www.sarkari-naukri.youth4work.com/"
+    },
+    {
       "id": "youth4work-people-directory",
       "slug": "youth4work-people-directory",
       "title": "Youth4work People Directory",
@@ -21140,5 +21166,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T16:30:23.533Z"
+  "lastUpdated": "2026-10-25T16:30:27.371Z"
 }
