@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ecourtsindia-income-tax-act-1961-vs-2025-mapping",
+      "slug": "ecourtsindia-income-tax-act-1961-vs-2025-mapping",
+      "title": "eCourtsIndia Income-tax Act 1961 vs 2025 Mapping",
+      "description": "Find the new Income-tax Act 2025 section for any 1961 section: 115BAC ",
+      "author": "Sunny Mittal (eCourtsIndia)",
+      "username": "ecourtsindia",
+      "user_id": "de71bfde-bac1-47b0-89e2-1b0a2eb468c1",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "courts",
+        "legal",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T22:30:44.182Z",
+      "heroImage": "",
+      "toolUrl": "https://blogs.ecourtsindia.com/2026/09/25/income-tax-act-1961-vs-2025-section-mapping/"
+    },
+    {
       "id": "ecourtsindia-court-record-check-vs-police",
       "slug": "ecourtsindia-court-record-check-vs-police",
       "title": "eCourtsIndia Court Record Check vs Police",
@@ -25463,5 +25489,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T22:30:42.323Z"
+  "lastUpdated": "2026-10-25T22:30:45.491Z"
 }
