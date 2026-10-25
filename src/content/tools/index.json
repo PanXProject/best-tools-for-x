@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-west-bengal-gst-businesses",
+      "slug": "indiacos-west-bengal-gst-businesses",
+      "title": "IndiaCos West Bengal GST Businesses",
+      "description": "1,67,878 GST registered businesses in West Bengal with GSTIN, status a",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "companies",
+        "india",
+        "data"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T20:38:38.562Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/state/west-bengal"
+    },
+    {
       "id": "indiacos-uttar-pradesh-gst-businesses",
       "slug": "indiacos-uttar-pradesh-gst-businesses",
       "title": "IndiaCos Uttar Pradesh GST Businesses",
@@ -23173,5 +23199,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T20:38:36.311Z"
+  "lastUpdated": "2026-10-25T20:38:39.919Z"
 }
