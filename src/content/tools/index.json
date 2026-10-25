@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "youth4work-colleges-by-city",
+      "slug": "youth4work-colleges-by-city",
+      "title": "Youth4work Colleges by City",
+      "description": "Find and compare colleges in Indian cities on Youth4work University",
+      "author": "Sunny Mittal (Youth4work)",
+      "username": "youth4work",
+      "user_id": "a76d2f60-1fe5-44c8-b736-f4e82dcdab43",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "education",
+        "careers",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T19:38:10.944Z",
+      "heroImage": "",
+      "toolUrl": "https://www.university.youth4work.com/colleges-in-cities"
+    },
+    {
       "id": "youth4work-study-material",
       "slug": "youth4work-study-material",
       "title": "Youth4work Study Material",
@@ -22029,5 +22055,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T19:38:08.915Z"
+  "lastUpdated": "2026-10-25T19:38:12.590Z"
 }
