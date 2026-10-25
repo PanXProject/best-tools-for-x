@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "data-galactica-people-a-to-z",
+      "slug": "data-galactica-people-a-to-z",
+      "title": "Data Galactica People A to Z",
+      "description": "Browse people records alphabetically: 1,197,682 people start with A, e",
+      "author": "Sunny Mittal (Data Galactica)",
+      "username": "datagalactica",
+      "user_id": "bb6680d7-72f5-483e-90c5-ab7e44f8f740",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "data",
+        "api",
+        "companies"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T19:38:03.960Z",
+      "heroImage": "",
+      "toolUrl": "https://datagalactica.com/people/a"
+    },
+    {
       "id": "data-galactica-companies-a-to-z",
       "slug": "data-galactica-companies-a-to-z",
       "title": "Data Galactica Companies A to Z",
@@ -21977,5 +22003,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T19:38:01.951Z"
+  "lastUpdated": "2026-10-25T19:38:05.273Z"
 }
