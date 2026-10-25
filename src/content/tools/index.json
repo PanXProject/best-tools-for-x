@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "india-property-register-api",
+      "slug": "india-property-register-api",
+      "title": "India Property Register API",
+      "description": "API and MCP server for Indian land and property records",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "api",
+        "mcp",
+        "property-records",
+        "land-records",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T04:35:14.601Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/api"
+    },
+    {
       "id": "zombiecouple",
       "slug": "zombiecouple",
       "title": "ZombieCouple",
@@ -19447,5 +19475,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T04:29:22.435Z"
+  "lastUpdated": "2026-10-25T04:35:16.154Z"
 }
