@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "ecourtsindia-judge-directory",
+      "slug": "ecourtsindia-judge-directory",
+      "title": "eCourtsIndia Judge Directory",
+      "description": "Look up judges of Indian courts and tribunals with the public case rec",
+      "author": "Sunny Mittal (eCourtsIndia)",
+      "username": "ecourtsindia",
+      "user_id": "de71bfde-bac1-47b0-89e2-1b0a2eb468c1",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "judges",
+        "courts",
+        "case-records",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T11:36:50.178Z",
+      "heroImage": "",
+      "toolUrl": "https://ecourtsindia.com/judge"
+    },
+    {
       "id": "indiarestros-restaurants-by-state",
       "slug": "indiarestros-restaurants-by-state",
       "title": "IndiaRestros Restaurants by State",
@@ -20118,5 +20145,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T10:33:58.513Z"
+  "lastUpdated": "2026-10-25T11:36:51.557Z"
 }
