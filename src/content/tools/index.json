@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiainsurances-motor-add-ons-compared",
+      "slug": "indiainsurances-motor-add-ons-compared",
+      "title": "IndiaInsurances Motor add-ons Compared",
+      "description": "39 motor add-ons policies sold in India in one table: claim settlement",
+      "author": "Sunny Mittal (IndiaInsurances)",
+      "username": "indiainsurances",
+      "user_id": "0811076b-d5c2-420b-b1a7-42656b91c880",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "insurance",
+        "compare",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:43:29.745Z",
+      "heroImage": "",
+      "toolUrl": "https://indiainsurances.com/compare/motor-addon"
+    },
+    {
       "id": "youth4work-ssc-je-junior-engineer-practice-tests",
       "slug": "youth4work-ssc-je-junior-engineer-practice-tests",
       "title": "Youth4work SSC JE Junior Engineer Practice Tests",
@@ -28817,5 +28843,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:43:27.489Z"
+  "lastUpdated": "2026-10-25T23:43:31.324Z"
 }
