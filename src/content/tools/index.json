@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "data-galactica-talent-in-pune",
+      "slug": "data-galactica-talent-in-pune",
+      "title": "Data Galactica Talent in Pune",
+      "description": "Top roles and skills of about 10,12,281 people in Pune, as counts, wit",
+      "author": "Sunny Mittal (Data Galactica)",
+      "username": "datagalactica",
+      "user_id": "bb6680d7-72f5-483e-90c5-ab7e44f8f740",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "talent",
+        "skills",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T21:28:57.613Z",
+      "heroImage": "",
+      "toolUrl": "https://datagalactica.com/talent/pune"
+    },
+    {
       "id": "data-galactica-talent-in-hyderabad",
       "slug": "data-galactica-talent-in-hyderabad",
       "title": "Data Galactica Talent in Hyderabad",
@@ -23511,5 +23537,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T21:28:55.448Z"
+  "lastUpdated": "2026-10-25T21:28:58.969Z"
 }
