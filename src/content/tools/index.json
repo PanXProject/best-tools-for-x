@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ecourtsindia-tdsat-and-aptel-case-status",
+      "slug": "ecourtsindia-tdsat-and-aptel-case-status",
+      "title": "eCourtsIndia TDSAT and APTEL Case Status",
+      "description": "Check TDSAT and APTEL case status free: search telecom, broadcasting, ",
+      "author": "Sunny Mittal (eCourtsIndia)",
+      "username": "ecourtsindia",
+      "user_id": "de71bfde-bac1-47b0-89e2-1b0a2eb468c1",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "courts",
+        "legal",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T22:29:40.064Z",
+      "heroImage": "",
+      "toolUrl": "https://blogs.ecourtsindia.com/2026/06/13/tdsat-aptel-case-status-search-ecourtsindia/"
+    },
+    {
       "id": "drt-and-drat-case-status-on-ecourtsindia",
       "slug": "drt-and-drat-case-status-on-ecourtsindia",
       "title": "DRT and DRAT Case Status on eCourtsIndia",
@@ -24995,5 +25021,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T22:29:38.129Z"
+  "lastUpdated": "2026-10-25T22:29:41.452Z"
 }
