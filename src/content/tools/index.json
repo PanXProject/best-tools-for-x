@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "data-galactica-talent-in-chennai",
+      "slug": "data-galactica-talent-in-chennai",
+      "title": "Data Galactica Talent in Chennai",
+      "description": "Top roles and skills of about 13,25,270 people in Chennai, as counts, ",
+      "author": "Sunny Mittal (Data Galactica)",
+      "username": "datagalactica",
+      "user_id": "bb6680d7-72f5-483e-90c5-ab7e44f8f740",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "talent",
+        "skills",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T21:29:01.116Z",
+      "heroImage": "",
+      "toolUrl": "https://datagalactica.com/talent/chennai"
+    },
+    {
       "id": "data-galactica-talent-in-pune",
       "slug": "data-galactica-talent-in-pune",
       "title": "Data Galactica Talent in Pune",
@@ -23537,5 +23563,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T21:28:58.969Z"
+  "lastUpdated": "2026-10-25T21:29:02.652Z"
 }
