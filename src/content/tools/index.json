@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "ipr-land-record-sources-and-coverage",
+      "slug": "ipr-land-record-sources-and-coverage",
+      "title": "IPR Land Record Sources and Coverage",
+      "description": "Every government source behind India Property Register, and what is lo",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "land-records",
+        "open-data",
+        "government-sources",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T11:36:57.059Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/sources"
+    },
+    {
       "id": "youth4work-prep",
       "slug": "youth4work-prep",
       "title": "Youth4work Prep",
@@ -20172,5 +20199,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T11:36:55.014Z"
+  "lastUpdated": "2026-10-25T11:36:58.402Z"
 }
