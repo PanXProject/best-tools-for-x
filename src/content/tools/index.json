@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacode-by-ecourtsindia",
+      "slug": "indiacode-by-ecourtsindia",
+      "title": "IndiaCode by eCourtsIndia",
+      "description": "IndiaCode by eCourtsIndia: 10,000+ Central and State Acts, one free pa",
+      "author": "Sunny Mittal (eCourtsIndia)",
+      "username": "ecourtsindia",
+      "user_id": "de71bfde-bac1-47b0-89e2-1b0a2eb468c1",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "courts",
+        "legal",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T22:35:30.185Z",
+      "heroImage": "",
+      "toolUrl": "https://blogs.ecourtsindia.com/2026/08/24/indiacode-bare-acts-india-sections-judgments/"
+    },
+    {
       "id": "ecourtsindia-meet-the-ai-clerk",
       "slug": "ecourtsindia-meet-the-ai-clerk",
       "title": "eCourtsIndia Meet the AI Clerk",
@@ -26269,5 +26295,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T22:35:28.152Z"
+  "lastUpdated": "2026-10-25T22:35:31.731Z"
 }
