@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "ecourtsindia",
+      "slug": "ecourtsindia",
+      "title": "eCourtsIndia",
+      "description": "Search any case in any Indian court, free",
+      "author": "Sunny Mittal (eCourtsIndia)",
+      "username": "ecourtsindia",
+      "user_id": "de71bfde-bac1-47b0-89e2-1b0a2eb468c1",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "legal",
+        "court-cases",
+        "india",
+        "legal-research"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T00:57:10.900Z",
+      "heroImage": "",
+      "toolUrl": "https://ecourtsindia.com/"
+    },
+    {
       "id": "indiarestros",
       "slug": "indiarestros",
       "title": "IndiaRestros",
@@ -19262,5 +19289,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T00:57:07.002Z"
+  "lastUpdated": "2026-10-25T00:57:12.669Z"
 }
