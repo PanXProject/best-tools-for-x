@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ecourtsindia-your-cnr-your-case-your-phone",
+      "slug": "ecourtsindia-your-cnr-your-case-your-phone",
+      "title": "eCourtsIndia Your CNR, Your Case, Your Phone",
+      "description": "Have a CNR but can't follow your case? Open it on eCourtsIndia, ask th",
+      "author": "Sunny Mittal (eCourtsIndia)",
+      "username": "ecourtsindia",
+      "user_id": "de71bfde-bac1-47b0-89e2-1b0a2eb468c1",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "courts",
+        "legal",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T22:34:53.493Z",
+      "heroImage": "",
+      "toolUrl": "https://blogs.ecourtsindia.com/2026/04/24/litigant-track-case-plain-english-ai/"
+    },
+    {
       "id": "ecourtsindia-from-rti-to-api",
       "slug": "ecourtsindia-from-rti-to-api",
       "title": "eCourtsIndia From RTI to API",
@@ -26035,5 +26061,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T22:34:51.494Z"
+  "lastUpdated": "2026-10-25T22:34:55.256Z"
 }
