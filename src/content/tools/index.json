@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-rbi-nbfc-type-i-no-public-funds-no",
+      "slug": "indiacos-rbi-nbfc-type-i-no-public-funds-no",
+      "title": "IndiaCos RBI NBFC Type I (no public funds, no",
+      "description": "150 RBI-registered NBFC Type I (no public funds, no customer interface",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "companies",
+        "finance",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:39:00.009Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/nbfc/nbfc-type-i-no-public-funds-no-customer-interface"
+    },
+    {
       "id": "indiacos-rbi-standalone-primary-dealers",
       "slug": "indiacos-rbi-standalone-primary-dealers",
       "title": "IndiaCos RBI Standalone Primary Dealers",
@@ -28479,5 +28505,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:38:57.680Z"
+  "lastUpdated": "2026-10-25T23:39:01.507Z"
 }
