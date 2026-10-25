@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-shared-offices-in-karnataka",
+      "slug": "indiacos-shared-offices-in-karnataka",
+      "title": "IndiaCos Shared Offices in Karnataka",
+      "description": "14,378 Karnataka addresses used by two or more companies, LLPs or GST ",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "companies",
+        "india",
+        "data"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T20:38:31.270Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/offices/karnataka"
+    },
+    {
       "id": "indiacos-shared-offices-in-maharashtra",
       "slug": "indiacos-shared-offices-in-maharashtra",
       "title": "IndiaCos Shared Offices in Maharashtra",
@@ -23121,5 +23147,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T20:38:29.129Z"
+  "lastUpdated": "2026-10-25T20:38:32.954Z"
 }
