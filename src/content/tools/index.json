@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "indiacos-gstin-search",
+      "slug": "indiacos-gstin-search",
+      "title": "IndiaCos GSTIN Search",
+      "description": "Verify a 15-character GST number and decode its state and PAN",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "gst",
+        "gstin",
+        "company-check",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T08:40:12.002Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/gstin-search"
+    },
+    {
       "id": "indiarestros-dish-catalog",
       "slug": "indiarestros-dish-catalog",
       "title": "IndiaRestros Dish Catalog",
@@ -19770,5 +19797,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T08:40:09.750Z"
+  "lastUpdated": "2026-10-25T08:40:13.396Z"
 }
