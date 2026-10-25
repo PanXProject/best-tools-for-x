@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "indiainsurances",
+      "slug": "indiainsurances",
+      "title": "IndiaInsurances",
+      "description": "Compare Indian insurance policies, clause by clause",
+      "author": "Sunny Mittal (IndiaInsurances)",
+      "username": "indiainsurances",
+      "user_id": "0811076b-d5c2-420b-b1a7-42656b91c880",
+      "categories": [
+        "Manage Money"
+      ],
+      "tags": [
+        "insurance",
+        "health-insurance",
+        "india",
+        "policy-comparison"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T00:57:20.455Z",
+      "heroImage": "",
+      "toolUrl": "https://indiainsurances.com/"
+    },
+    {
       "id": "data-galactica",
       "slug": "data-galactica",
       "title": "Data Galactica",
@@ -19316,5 +19343,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T00:57:17.157Z"
+  "lastUpdated": "2026-10-25T00:57:22.141Z"
 }
