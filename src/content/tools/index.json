@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "indian-court-codes-reference-for-ai",
+      "slug": "indian-court-codes-reference-for-ai",
+      "title": "Indian Court Codes Reference for AI",
+      "description": "Machine-readable list of Indian court, bench, tribunal, case-type and ",
+      "author": "Sunny Mittal (eCourtsIndia)",
+      "username": "ecourtsindia",
+      "user_id": "de71bfde-bac1-47b0-89e2-1b0a2eb468c1",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "court-codes",
+        "llmstxt",
+        "ai",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T14:33:12.468Z",
+      "heroImage": "",
+      "toolUrl": "https://blogs.ecourtsindia.com/2026/04/17/llms-txt-indian-courts-ai-ready-directory/"
+    },
+    {
       "id": "ecourtsindia-search-guide",
       "slug": "ecourtsindia-search-guide",
       "title": "eCourtsIndia Search Guide",
@@ -20799,5 +20826,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T14:33:09.855Z"
+  "lastUpdated": "2026-10-25T14:33:14.240Z"
 }
