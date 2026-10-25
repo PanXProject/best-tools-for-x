@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiainsurances-complaint-helper",
+      "slug": "indiainsurances-complaint-helper",
+      "title": "IndiaInsurances Complaint Helper",
+      "description": "Every Indian insurer's claim and grievance contacts, its forms, a comp",
+      "author": "Sunny Mittal (IndiaInsurances)",
+      "username": "indiainsurances",
+      "user_id": "0811076b-d5c2-420b-b1a7-42656b91c880",
+      "categories": [
+        "Manage Money"
+      ],
+      "tags": [
+        "insurance-complaints",
+        "grievance",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T17:31:41.601Z",
+      "heroImage": "",
+      "toolUrl": "https://indiainsurances.com/complain"
+    },
+    {
       "id": "indiainsurances-claim-rejected-guide",
       "slug": "indiainsurances-claim-rejected-guide",
       "title": "IndiaInsurances Claim Rejected Guide",
@@ -21507,5 +21533,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T17:31:39.393Z"
+  "lastUpdated": "2026-10-25T17:31:43.112Z"
 }
