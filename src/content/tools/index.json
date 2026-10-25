@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "data-galactica-bangalore-companies",
+      "slug": "data-galactica-bangalore-companies",
+      "title": "Data Galactica Bangalore Companies",
+      "description": "Browse 146,059 organisations in Bangalore, each with a permanent Galac",
+      "author": "Sunny Mittal (Data Galactica)",
+      "username": "datagalactica",
+      "user_id": "bb6680d7-72f5-483e-90c5-ab7e44f8f740",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "data",
+        "api",
+        "companies"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T19:43:16.367Z",
+      "heroImage": "",
+      "toolUrl": "https://datagalactica.com/companies/city/in/bangalore"
+    },
+    {
       "id": "data-galactica-united-kingdom-companies",
       "slug": "data-galactica-united-kingdom-companies",
       "title": "Data Galactica United Kingdom Companies",
@@ -22289,5 +22315,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T19:43:14.028Z"
+  "lastUpdated": "2026-10-25T19:43:17.807Z"
 }
