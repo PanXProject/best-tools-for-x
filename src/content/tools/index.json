@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "indiacos",
+      "slug": "indiacos",
+      "title": "IndiaCos",
+      "description": "Company, LLP and GST reports for every Indian business",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "company-data",
+        "gst",
+        "india",
+        "api"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T00:58:28.653Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/"
+    },
+    {
       "id": "indiainsurances",
       "slug": "indiainsurances",
       "title": "IndiaInsurances",
@@ -19343,5 +19370,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T00:57:22.141Z"
+  "lastUpdated": "2026-10-25T00:58:30.181Z"
 }
