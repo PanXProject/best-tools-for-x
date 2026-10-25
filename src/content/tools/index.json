@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiainsurances-new-india-assurance",
+      "slug": "indiainsurances-new-india-assurance",
+      "title": "IndiaInsurances New India Assurance",
+      "description": "The New India Assurance Company Limited: every general insurance produ",
+      "author": "Sunny Mittal (IndiaInsurances)",
+      "username": "indiainsurances",
+      "user_id": "0811076b-d5c2-420b-b1a7-42656b91c880",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "insurance",
+        "india",
+        "compare"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:44:41.717Z",
+      "heroImage": "",
+      "toolUrl": "https://indiainsurances.com/insurer/new-india-assurance"
+    },
+    {
       "id": "indiainsurances-navi-general-insurance",
       "slug": "indiainsurances-navi-general-insurance",
       "title": "IndiaInsurances Navi General Insurance",
@@ -29285,5 +29311,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:44:39.650Z"
+  "lastUpdated": "2026-10-25T23:44:43.304Z"
 }
