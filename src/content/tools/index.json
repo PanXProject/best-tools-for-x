@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "data-galactica",
+      "slug": "data-galactica",
+      "title": "Data Galactica",
+      "description": "A permanent ID for every person and company",
+      "author": "Sunny Mittal (Data Galactica)",
+      "username": "datagalactica",
+      "user_id": "bb6680d7-72f5-483e-90c5-ab7e44f8f740",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "data",
+        "identity-resolution",
+        "api",
+        "mcp"
+      ],
+      "pricing": {
+        "model": "pay-per-use"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T00:57:15.820Z",
+      "heroImage": "",
+      "toolUrl": "https://datagalactica.com/"
+    },
+    {
       "id": "ecourtsindia",
       "slug": "ecourtsindia",
       "title": "eCourtsIndia",
@@ -19289,5 +19316,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T00:57:12.669Z"
+  "lastUpdated": "2026-10-25T00:57:17.157Z"
 }
