@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "indiacos-msme-directory",
+      "slug": "indiacos-msme-directory",
+      "title": "IndiaCos MSME Directory",
+      "description": "4.41 crore Udyam registered MSMEs in India by state, district and indu",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "msme",
+        "udyam",
+        "companies",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T10:33:39.080Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/msme"
+    },
+    {
       "id": "ipr-rera-project-finder",
       "slug": "ipr-rera-project-finder",
       "title": "IPR RERA Project Finder",
@@ -19957,5 +19984,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T10:33:36.596Z"
+  "lastUpdated": "2026-10-25T10:33:40.396Z"
 }
