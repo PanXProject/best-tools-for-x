@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "youth4work-gate-electronics-and-communication-prep",
+      "slug": "youth4work-gate-electronics-and-communication-prep",
+      "title": "Youth4work GATE Electronics and Communication Prep",
+      "description": "GATE Electronics and Communication preparation on Youth4work Prep: 3,2",
+      "author": "Sunny Mittal (Youth4work)",
+      "username": "youth4work",
+      "user_id": "a76d2f60-1fe5-44c8-b736-f4e82dcdab43",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "education",
+        "exams",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:35:23.326Z",
+      "heroImage": "",
+      "toolUrl": "https://www.prep.youth4work.com/Engineering/GATE-Electronics-and-Communication-Test"
+    },
+    {
       "id": "youth4work-course-on-computer-concepts-ccc-prep",
       "slug": "youth4work-course-on-computer-concepts-ccc-prep",
       "title": "Youth4work Course on Computer Concepts (CCC) Prep",
@@ -26945,5 +26971,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:35:21.217Z"
+  "lastUpdated": "2026-10-25T23:35:24.994Z"
 }
