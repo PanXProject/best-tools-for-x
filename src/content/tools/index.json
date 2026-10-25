@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-rbi-nbfc-factors",
+      "slug": "indiacos-rbi-nbfc-factors",
+      "title": "IndiaCos RBI NBFC-Factors",
+      "description": "9 RBI-registered NBFC-Factors from the Reserve Bank of India's list, w",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "companies",
+        "finance",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:38:45.395Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/nbfc/nbfc-factor"
+    },
+    {
       "id": "indiacos-rbi-account-aggregators",
       "slug": "indiacos-rbi-account-aggregators",
       "title": "IndiaCos RBI Account Aggregators",
@@ -28375,5 +28401,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:38:43.093Z"
+  "lastUpdated": "2026-10-25T23:38:46.794Z"
 }
