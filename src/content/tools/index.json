@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-bank-auctions-telangana",
+      "slug": "ipr-bank-auctions-telangana",
+      "title": "IPR Bank Auctions Telangana",
+      "description": "2,456 bank auction property listings in Telangana with reserve price, ",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "real-estate",
+        "rera",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T20:38:52.560Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/auctions/telangana"
+    },
+    {
       "id": "ipr-rera-projects-haryana",
       "slug": "ipr-rera-projects-haryana",
       "title": "IPR RERA Projects Haryana",
@@ -23277,5 +23303,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T20:38:50.433Z"
+  "lastUpdated": "2026-10-25T20:38:54.112Z"
 }
