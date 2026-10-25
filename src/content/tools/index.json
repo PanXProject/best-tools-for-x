@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiainsurances-marine-and-transit-policies",
+      "slug": "indiainsurances-marine-and-transit-policies",
+      "title": "IndiaInsurances Marine and transit policies",
+      "description": "51 marine and transit policies sold in India in one table: claim settl",
+      "author": "Sunny Mittal (IndiaInsurances)",
+      "username": "indiainsurances",
+      "user_id": "0811076b-d5c2-420b-b1a7-42656b91c880",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "insurance",
+        "india",
+        "compare"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T22:37:09.697Z",
+      "heroImage": "",
+      "toolUrl": "https://indiainsurances.com/compare/marine"
+    },
+    {
       "id": "indiainsurances-micro-and-social-insurance",
       "slug": "indiainsurances-micro-and-social-insurance",
       "title": "IndiaInsurances Micro and social insurance",
@@ -26685,5 +26711,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T22:37:07.607Z"
+  "lastUpdated": "2026-10-25T22:37:11.268Z"
 }
