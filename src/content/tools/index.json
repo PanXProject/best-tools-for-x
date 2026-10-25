@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiainsurances-royal-sundaram-general-insurance",
+      "slug": "indiainsurances-royal-sundaram-general-insurance",
+      "title": "IndiaInsurances Royal Sundaram General Insurance",
+      "description": "Royal Sundaram General Insurance Company Limited: every general insura",
+      "author": "Sunny Mittal (IndiaInsurances)",
+      "username": "indiainsurances",
+      "user_id": "0811076b-d5c2-420b-b1a7-42656b91c880",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "insurance",
+        "india",
+        "compare"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:44:52.984Z",
+      "heroImage": "",
+      "toolUrl": "https://indiainsurances.com/insurer/royal-sundaram-general-insurance"
+    },
+    {
       "id": "indiainsurances-raheja-qbe-general-insurance",
       "slug": "indiainsurances-raheja-qbe-general-insurance",
       "title": "IndiaInsurances Raheja QBE General Insurance",
@@ -29363,5 +29389,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:44:50.710Z"
+  "lastUpdated": "2026-10-25T23:44:54.312Z"
 }
