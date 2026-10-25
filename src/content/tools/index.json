@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiainsurances-go-digit-general-insurance",
+      "slug": "indiainsurances-go-digit-general-insurance",
+      "title": "IndiaInsurances Go Digit General Insurance",
+      "description": "Go Digit General Insurance Limited: every general insurance product wi",
+      "author": "Sunny Mittal (IndiaInsurances)",
+      "username": "indiainsurances",
+      "user_id": "0811076b-d5c2-420b-b1a7-42656b91c880",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "insurance",
+        "india",
+        "compare"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:37:55.548Z",
+      "heroImage": "",
+      "toolUrl": "https://indiainsurances.com/insurer/go-digit-general-insurance"
+    },
+    {
       "id": "indiainsurances-generali-central-insurance",
       "slug": "indiainsurances-generali-central-insurance",
       "title": "IndiaInsurances Generali Central Insurance",
@@ -28037,5 +28063,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:37:53.243Z"
+  "lastUpdated": "2026-10-25T23:37:57.006Z"
 }
