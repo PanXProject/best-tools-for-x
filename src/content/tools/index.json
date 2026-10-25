@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ecourtsindia-building-a-legal-due-diligence",
+      "slug": "ecourtsindia-building-a-legal-due-diligence",
+      "title": "eCourtsIndia Building a Legal Due Diligence",
+      "description": "Engineering guide to court-record due diligence in India: search the l",
+      "author": "Sunny Mittal (eCourtsIndia)",
+      "username": "ecourtsindia",
+      "user_id": "de71bfde-bac1-47b0-89e2-1b0a2eb468c1",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "courts",
+        "legal",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T22:35:22.463Z",
+      "heroImage": "",
+      "toolUrl": "https://blogs.ecourtsindia.com/2026/05/29/build-legal-due-diligence-ecourtsindia-api/"
+    },
+    {
       "id": "how-to-use-the-ecourtsindia-api",
       "slug": "how-to-use-the-ecourtsindia-api",
       "title": "How to Use the eCourtsIndia API",
@@ -26217,5 +26243,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T22:35:19.949Z"
+  "lastUpdated": "2026-10-25T22:35:24.087Z"
 }
