@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiainsurances-acko-general-insurance",
+      "slug": "indiainsurances-acko-general-insurance",
+      "title": "IndiaInsurances Acko General Insurance",
+      "description": "Acko General Insurance Limited: every general insurance product with i",
+      "author": "Sunny Mittal (IndiaInsurances)",
+      "username": "indiainsurances",
+      "user_id": "0811076b-d5c2-420b-b1a7-42656b91c880",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "insurance",
+        "india",
+        "compare"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:37:32.895Z",
+      "heroImage": "",
+      "toolUrl": "https://indiainsurances.com/insurer/acko-general-insurance"
+    },
+    {
       "id": "indiainsurances-aic",
       "slug": "indiainsurances-aic",
       "title": "IndiaInsurances AIC",
@@ -27881,5 +27907,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:37:30.956Z"
+  "lastUpdated": "2026-10-25T23:37:34.157Z"
 }
