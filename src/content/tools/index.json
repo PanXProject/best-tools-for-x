@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "galactica-id",
+      "slug": "galactica-id",
+      "title": "Galactica ID",
+      "description": "Permanent identifiers for people (DGP-) and organisations (DGC-) with ",
+      "author": "Sunny Mittal (Data Galactica)",
+      "username": "datagalactica",
+      "user_id": "bb6680d7-72f5-483e-90c5-ab7e44f8f740",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "identifiers",
+        "company-data",
+        "people-data"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T08:40:27.032Z",
+      "heroImage": "",
+      "toolUrl": "https://datagalactica.com/galactica-id"
+    },
+    {
       "id": "youth4work-online-talent-tests",
       "slug": "youth4work-online-talent-tests",
       "title": "Youth4work Online Talent Tests",
@@ -19878,5 +19904,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T08:40:24.391Z"
+  "lastUpdated": "2026-10-25T08:40:28.449Z"
 }
