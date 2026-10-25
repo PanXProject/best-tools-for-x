@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "galactica-check",
+      "slug": "galactica-check",
+      "title": "Galactica Check",
+      "description": "See, claim, hide or remove the Data Galactica records linked to your e",
+      "author": "Sunny Mittal (Data Galactica)",
+      "username": "datagalactica",
+      "user_id": "bb6680d7-72f5-483e-90c5-ab7e44f8f740",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "privacy",
+        "data-removal",
+        "identity"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T10:33:53.545Z",
+      "heroImage": "",
+      "toolUrl": "https://datagalactica.com/check"
+    },
+    {
       "id": "yassess-by-youth4work",
       "slug": "yassess-by-youth4work",
       "title": "yAssess by Youth4work",
@@ -20065,5 +20091,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T10:33:51.198Z"
+  "lastUpdated": "2026-10-25T10:33:54.832Z"
 }
