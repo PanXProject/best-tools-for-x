@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiainsurances-group-health-policies-compared",
+      "slug": "indiainsurances-group-health-policies-compared",
+      "title": "IndiaInsurances Group health policies compared",
+      "description": "68 group health policies sold in India in one table: claim settlement ",
+      "author": "Sunny Mittal (IndiaInsurances)",
+      "username": "indiainsurances",
+      "user_id": "0811076b-d5c2-420b-b1a7-42656b91c880",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "insurance",
+        "india",
+        "compare"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T22:37:02.114Z",
+      "heroImage": "",
+      "toolUrl": "https://indiainsurances.com/compare/group-health"
+    },
+    {
       "id": "indiainsurances-child-plans-policies-compared",
       "slug": "indiainsurances-child-plans-policies-compared",
       "title": "IndiaInsurances Child plans policies compared",
@@ -26633,5 +26659,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T22:36:59.911Z"
+  "lastUpdated": "2026-10-25T22:37:03.854Z"
 }
