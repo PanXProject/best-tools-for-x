@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiarestros-restaurants-in-kochi",
+      "slug": "indiarestros-restaurants-in-kochi",
+      "title": "IndiaRestros Restaurants in Kochi",
+      "description": "Restaurants in Kochi, Kerala: 1,353 places with phone numbers, timings",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "restaurants",
+        "india",
+        "directory"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T22:36:47.901Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/in/kochi"
+    },
+    {
       "id": "indiarestros-restaurants-in-chandigarh",
       "slug": "indiarestros-restaurants-in-chandigarh",
       "title": "IndiaRestros Restaurants in Chandigarh",
@@ -26529,5 +26555,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T22:36:45.896Z"
+  "lastUpdated": "2026-10-25T22:36:49.317Z"
 }
