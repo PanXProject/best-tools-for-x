@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiainsurances-iffco-tokio-general-insurance",
+      "slug": "indiainsurances-iffco-tokio-general-insurance",
+      "title": "IndiaInsurances IFFCO TOKIO General Insurance",
+      "description": "IFFCO TOKIO General Insurance Company Limited: every general insurance",
+      "author": "Sunny Mittal (IndiaInsurances)",
+      "username": "indiainsurances",
+      "user_id": "0811076b-d5c2-420b-b1a7-42656b91c880",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "insurance",
+        "india",
+        "compare"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:38:07.046Z",
+      "heroImage": "",
+      "toolUrl": "https://indiainsurances.com/insurer/iffco-tokio-general-insurance"
+    },
+    {
       "id": "indiainsurances-icici-lombard-general-insurance",
       "slug": "indiainsurances-icici-lombard-general-insurance",
       "title": "IndiaInsurances ICICI Lombard General Insurance",
@@ -28115,5 +28141,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:38:05.027Z"
+  "lastUpdated": "2026-10-25T23:38:08.723Z"
 }
