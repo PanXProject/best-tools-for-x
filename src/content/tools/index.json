@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiainsurances-aic",
+      "slug": "indiainsurances-aic",
+      "title": "IndiaInsurances AIC",
+      "description": "Agriculture Insurance Company of India Limited: every general insuranc",
+      "author": "Sunny Mittal (IndiaInsurances)",
+      "username": "indiainsurances",
+      "user_id": "0811076b-d5c2-420b-b1a7-42656b91c880",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "insurance",
+        "india",
+        "compare"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:37:29.693Z",
+      "heroImage": "",
+      "toolUrl": "https://indiainsurances.com/insurer/aic"
+    },
+    {
       "id": "youth4work-bpsc-prelims-exam-practice-tests",
       "slug": "youth4work-bpsc-prelims-exam-practice-tests",
       "title": "Youth4work BPSC Prelims Exam Practice Tests",
@@ -27855,5 +27881,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:37:27.556Z"
+  "lastUpdated": "2026-10-25T23:37:30.956Z"
 }
