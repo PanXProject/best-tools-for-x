@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-rbi-core-investment-companies",
+      "slug": "indiacos-rbi-core-investment-companies",
+      "title": "IndiaCos RBI Core Investment Companies",
+      "description": "60 RBI-registered Core Investment Companies from the Reserve Bank of I",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "companies",
+        "finance",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:38:30.652Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/nbfc/core-investment-company"
+    },
+    {
       "id": "indiainsurances-ombudsman-assam",
       "slug": "indiainsurances-ombudsman-assam",
       "title": "IndiaInsurances Ombudsman Assam",
@@ -28271,5 +28297,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:38:28.257Z"
+  "lastUpdated": "2026-10-25T23:38:32.119Z"
 }
