@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "youth4work-study-material",
+      "slug": "youth4work-study-material",
+      "title": "Youth4work Study Material",
+      "description": "Free study material on Youth4work University for students preparing fo",
+      "author": "Sunny Mittal (Youth4work)",
+      "username": "youth4work",
+      "user_id": "a76d2f60-1fe5-44c8-b736-f4e82dcdab43",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "education",
+        "careers",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T19:38:07.450Z",
+      "heroImage": "",
+      "toolUrl": "https://www.university.youth4work.com/study-material"
+    },
+    {
       "id": "data-galactica-people-a-to-z",
       "slug": "data-galactica-people-a-to-z",
       "title": "Data Galactica People A to Z",
@@ -22003,5 +22029,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T19:38:05.273Z"
+  "lastUpdated": "2026-10-25T19:38:08.915Z"
 }
