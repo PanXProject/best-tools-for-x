@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "youth4work-niacl-prelim-exam-practice-tests",
+      "slug": "youth4work-niacl-prelim-exam-practice-tests",
+      "title": "Youth4work NIACL Prelim Exam Practice Tests",
+      "description": "NIACL Prelim Exam preparation on Youth4work Prep: 2,528 questions and ",
+      "author": "Sunny Mittal (Youth4work)",
+      "username": "youth4work",
+      "user_id": "a76d2f60-1fe5-44c8-b736-f4e82dcdab43",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "education",
+        "exams",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:42:59.140Z",
+      "heroImage": "",
+      "toolUrl": "https://www.prep.youth4work.com/Government-Jobs/NIACL-Prelim-Exam-Test"
+    },
+    {
       "id": "youth4work-railway-group-d-practice-tests",
       "slug": "youth4work-railway-group-d-practice-tests",
       "title": "Youth4work Railway Group D Practice Tests",
@@ -28609,5 +28635,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:42:56.989Z"
+  "lastUpdated": "2026-10-25T23:43:00.592Z"
 }
