@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "drt-and-drat-case-status-on-ecourtsindia",
+      "slug": "drt-and-drat-case-status-on-ecourtsindia",
+      "title": "DRT and DRAT Case Status on eCourtsIndia",
+      "description": "Check DRT and DRAT case status free across all 39 Debt Recovery Tribun",
+      "author": "Sunny Mittal (eCourtsIndia)",
+      "username": "ecourtsindia",
+      "user_id": "de71bfde-bac1-47b0-89e2-1b0a2eb468c1",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "courts",
+        "legal",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T22:29:36.758Z",
+      "heroImage": "",
+      "toolUrl": "https://blogs.ecourtsindia.com/2026/06/13/drt-drat-case-status-search-ecourtsindia/"
+    },
+    {
       "id": "sat-case-status-on-ecourtsindia",
       "slug": "sat-case-status-on-ecourtsindia",
       "title": "SAT Case Status on eCourtsIndia",
@@ -24969,5 +24995,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T22:29:34.489Z"
+  "lastUpdated": "2026-10-25T22:29:38.129Z"
 }
