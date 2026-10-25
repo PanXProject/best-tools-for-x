@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiarestros-biryani-restaurants",
+      "slug": "indiarestros-biryani-restaurants",
+      "title": "IndiaRestros Biryani Restaurants",
+      "description": "1,37,945 biryani places across India with phones, timings, menus and p",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "restaurants",
+        "food",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T15:32:31.021Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/cuisine/biryani"
+    },
+    {
       "id": "indiarestros-street-food-finder",
       "slug": "indiarestros-street-food-finder",
       "title": "IndiaRestros Street Food Finder",
@@ -20931,5 +20957,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T15:32:28.387Z"
+  "lastUpdated": "2026-10-25T15:32:32.385Z"
 }
