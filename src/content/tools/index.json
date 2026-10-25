@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "youth4work-psychometric-test",
+      "slug": "youth4work-psychometric-test",
+      "title": "Youth4work Psychometric Test",
+      "description": "Free online psychometric test from Youth4work, India's talent assessme",
+      "author": "Sunny Mittal (Youth4work)",
+      "username": "youth4work",
+      "user_id": "a76d2f60-1fe5-44c8-b736-f4e82dcdab43",
+      "categories": [
+        "Manage People"
+      ],
+      "tags": [
+        "psychometric-test",
+        "careers",
+        "assessment",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T12:37:51.944Z",
+      "heroImage": "",
+      "toolUrl": "https://www.youth4work.com/psychometrictest/instruction/1"
+    },
+    {
       "id": "ask-india-property-register",
       "slug": "ask-india-property-register",
       "title": "Ask India Property Register",
@@ -20561,5 +20588,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T12:37:49.830Z"
+  "lastUpdated": "2026-10-25T12:37:53.487Z"
 }
