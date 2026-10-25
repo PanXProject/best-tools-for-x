@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiarestros-bakeries-in-india",
+      "slug": "indiarestros-bakeries-in-india",
+      "title": "IndiaRestros Bakeries in India",
+      "description": "1,46,454 bakeries across India with phone numbers, timings, menus and ",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "restaurants",
+        "food",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T20:39:10.825Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/kind/bakery"
+    },
+    {
       "id": "indiarestros-where-to-eat-paneer-tikka",
       "slug": "indiarestros-where-to-eat-paneer-tikka",
       "title": "IndiaRestros Where to Eat Paneer Tikka",
@@ -23407,5 +23433,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T20:39:08.840Z"
+  "lastUpdated": "2026-10-25T20:39:12.374Z"
 }
