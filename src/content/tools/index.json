@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "itat-and-cestat-case-status-on-ecourtsindia",
+      "slug": "itat-and-cestat-case-status-on-ecourtsindia",
+      "title": "ITAT and CESTAT Case Status on eCourtsIndia",
+      "description": "Check ITAT and CESTAT case status free: every ITAT bench city and all ",
+      "author": "Sunny Mittal (eCourtsIndia)",
+      "username": "ecourtsindia",
+      "user_id": "de71bfde-bac1-47b0-89e2-1b0a2eb468c1",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "courts",
+        "legal",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T22:29:29.568Z",
+      "heroImage": "",
+      "toolUrl": "https://blogs.ecourtsindia.com/2026/06/12/itat-cestat-case-status-search-ecourtsindia/"
+    },
+    {
       "id": "litigant-search-on-ecourtsindia",
       "slug": "litigant-search-on-ecourtsindia",
       "title": "Litigant Search on eCourtsIndia",
@@ -24917,5 +24943,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T22:29:27.672Z"
+  "lastUpdated": "2026-10-25T22:29:31.011Z"
 }
