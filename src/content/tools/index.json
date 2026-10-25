@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiarestros-dhabas-in-india",
+      "slug": "indiarestros-dhabas-in-india",
+      "title": "IndiaRestros Dhabas in India",
+      "description": "49,548 dhabas across India with phone numbers, timings, menus and phot",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "restaurants",
+        "food",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T18:34:32.132Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/kind/dhaba"
+    },
+    {
       "id": "youth4work-college-finder",
       "slug": "youth4work-college-finder",
       "title": "Youth4work College Finder",
@@ -21560,5 +21586,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T17:31:47.331Z"
+  "lastUpdated": "2026-10-25T18:34:33.936Z"
 }
