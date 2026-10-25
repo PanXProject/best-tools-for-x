@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "data-galactica-talent-in-noida",
+      "slug": "data-galactica-talent-in-noida",
+      "title": "Data Galactica Talent in Noida",
+      "description": "Top roles and skills of about 2,60,117 people in Noida, as counts, wit",
+      "author": "Sunny Mittal (Data Galactica)",
+      "username": "datagalactica",
+      "user_id": "bb6680d7-72f5-483e-90c5-ab7e44f8f740",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "talent",
+        "skills",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T21:45:53.403Z",
+      "heroImage": "",
+      "toolUrl": "https://datagalactica.com/talent/noida"
+    },
+    {
       "id": "data-galactica-talent-in-gurgaon",
       "slug": "data-galactica-talent-in-gurgaon",
       "title": "Data Galactica Talent in Gurgaon",
@@ -24161,5 +24187,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T21:45:51.058Z"
+  "lastUpdated": "2026-10-25T21:45:54.936Z"
 }
