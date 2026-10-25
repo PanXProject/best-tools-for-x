@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "data-galactica-api-reference",
+      "slug": "data-galactica-api-reference",
+      "title": "Data Galactica API Reference",
+      "description": "API reference to verify companies and people, resolve any id, match CR",
+      "author": "Sunny Mittal (Data Galactica)",
+      "username": "datagalactica",
+      "user_id": "bb6680d7-72f5-483e-90c5-ab7e44f8f740",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "data",
+        "api",
+        "companies"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T19:37:56.327Z",
+      "heroImage": "",
+      "toolUrl": "https://datagalactica.com/api/docs"
+    },
+    {
       "id": "indiainsurances-travel-policy-comparison",
       "slug": "indiainsurances-travel-policy-comparison",
       "title": "IndiaInsurances Travel Policy Comparison",
@@ -21925,5 +21951,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T18:48:47.138Z"
+  "lastUpdated": "2026-10-25T19:37:57.872Z"
 }
