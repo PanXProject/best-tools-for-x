@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "data-galactica-talent-in-jaipur",
+      "slug": "data-galactica-talent-in-jaipur",
+      "title": "Data Galactica Talent in Jaipur",
+      "description": "Top roles and skills of about 3,41,288 people in Jaipur, as counts, wi",
+      "author": "Sunny Mittal (Data Galactica)",
+      "username": "datagalactica",
+      "user_id": "bb6680d7-72f5-483e-90c5-ab7e44f8f740",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "talent",
+        "skills",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T21:45:57.050Z",
+      "heroImage": "",
+      "toolUrl": "https://datagalactica.com/talent/jaipur"
+    },
+    {
       "id": "data-galactica-talent-in-noida",
       "slug": "data-galactica-talent-in-noida",
       "title": "Data Galactica Talent in Noida",
@@ -24187,5 +24213,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T21:45:54.936Z"
+  "lastUpdated": "2026-10-25T21:45:58.537Z"
 }
