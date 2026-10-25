@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-shared-offices-in-delhi",
+      "slug": "indiacos-shared-offices-in-delhi",
+      "title": "IndiaCos Shared Offices in Delhi",
+      "description": "48,361 Delhi addresses used by two or more companies, LLPs or GST regi",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "companies",
+        "india",
+        "data"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T20:30:46.305Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/offices/delhi"
+    },
+    {
       "id": "indiacos-stakeholders-a-to-z",
       "slug": "indiacos-stakeholders-a-to-z",
       "title": "IndiaCos Stakeholders A to Z",
@@ -22627,5 +22653,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T20:30:44.351Z"
+  "lastUpdated": "2026-10-25T20:30:47.591Z"
 }
