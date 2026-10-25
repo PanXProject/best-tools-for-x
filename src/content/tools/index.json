@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-tamil-nadu-bank-auctions",
+      "slug": "ipr-tamil-nadu-bank-auctions",
+      "title": "IPR Tamil Nadu Bank Auctions",
+      "description": "9,240 bank auction (SARFAESI) property listings in Tamil Nadu: reserve",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "real-estate",
+        "property",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T18:38:03.224Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/auctions/tamil-nadu"
+    },
+    {
       "id": "ipr-karnataka-rera-projects",
       "slug": "ipr-karnataka-rera-projects",
       "title": "IPR Karnataka RERA Projects",
@@ -21716,5 +21742,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T18:38:00.633Z"
+  "lastUpdated": "2026-10-25T18:38:04.655Z"
 }
