@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiainsurances-indusind-general-insurance",
+      "slug": "indiainsurances-indusind-general-insurance",
+      "title": "IndiaInsurances IndusInd General Insurance",
+      "description": "IndusInd General Insurance Company Limited: every general insurance pr",
+      "author": "Sunny Mittal (IndiaInsurances)",
+      "username": "indiainsurances",
+      "user_id": "0811076b-d5c2-420b-b1a7-42656b91c880",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "insurance",
+        "india",
+        "compare"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:38:10.813Z",
+      "heroImage": "",
+      "toolUrl": "https://indiainsurances.com/insurer/indusind-general-insurance"
+    },
+    {
       "id": "indiainsurances-iffco-tokio-general-insurance",
       "slug": "indiainsurances-iffco-tokio-general-insurance",
       "title": "IndiaInsurances IFFCO TOKIO General Insurance",
@@ -28141,5 +28167,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:38:08.723Z"
+  "lastUpdated": "2026-10-25T23:38:12.305Z"
 }
