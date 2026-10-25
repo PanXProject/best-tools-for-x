@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "data-galactica-organisations-in-kolkata",
+      "slug": "data-galactica-organisations-in-kolkata",
+      "title": "Data Galactica Organisations in Kolkata",
+      "description": "89,189 organisations in Kolkata, each with a Galactica ID, contact rec",
+      "author": "Sunny Mittal (Data Galactica)",
+      "username": "datagalactica",
+      "user_id": "bb6680d7-72f5-483e-90c5-ab7e44f8f740",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "companies",
+        "india",
+        "directory"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T21:46:14.930Z",
+      "heroImage": "",
+      "toolUrl": "https://datagalactica.com/companies/city/in/kolkata"
+    },
+    {
       "id": "data-galactica-top-companies-in-japan",
       "slug": "data-galactica-top-companies-in-japan",
       "title": "Data Galactica Top Companies in Japan",
@@ -24317,5 +24343,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T21:46:12.792Z"
+  "lastUpdated": "2026-10-25T21:46:16.381Z"
 }
