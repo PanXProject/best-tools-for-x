@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "indiarestros-api-and-mcp",
+      "slug": "indiarestros-api-and-mcp",
+      "title": "IndiaRestros API and MCP",
+      "description": "Free restaurant, menu and dish API and MCP server for India",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "api",
+        "mcp",
+        "restaurants",
+        "india",
+        "food-data"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T04:35:18.645Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/for-agents"
+    },
+    {
       "id": "india-property-register-api",
       "slug": "india-property-register-api",
       "title": "India Property Register API",
@@ -19475,5 +19503,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T04:35:16.154Z"
+  "lastUpdated": "2026-10-25T04:35:20.168Z"
 }
