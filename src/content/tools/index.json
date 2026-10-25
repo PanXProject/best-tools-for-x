@@ -1,6 +1,30 @@
 {
   "tools": [
     {
+      "id": "zombiecouple",
+      "slug": "zombiecouple",
+      "title": "ZombieCouple",
+      "description": "Turn two photos into an AI zombie couple video",
+      "author": "sirius zhong",
+      "username": "siriuszhong",
+      "user_id": "ca653b4d-1c7f-4708-9815-7b3730b0987e",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai-video"
+      ],
+      "pricing": {
+        "model": "one-time-payment"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T04:29:20.765Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792902503/waybyg6z9lb5wujgmysb.png",
+      "toolUrl": "https://zombiecouple.tv/"
+    },
+    {
       "id": "image-to-image",
       "slug": "image-to-image",
       "title": "Image to Image",
@@ -19423,5 +19447,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T03:42:03.411Z"
+  "lastUpdated": "2026-10-25T04:29:22.435Z"
 }
