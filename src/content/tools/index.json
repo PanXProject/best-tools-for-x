@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiainsurances-ombudsman-guide",
+      "slug": "indiainsurances-ombudsman-guide",
+      "title": "IndiaInsurances Ombudsman Guide",
+      "description": "How to complain to the Insurance Ombudsman in India: offices, time lim",
+      "author": "Sunny Mittal (IndiaInsurances)",
+      "username": "indiainsurances",
+      "user_id": "0811076b-d5c2-420b-b1a7-42656b91c880",
+      "categories": [
+        "Manage Money"
+      ],
+      "tags": [
+        "insurance-ombudsman",
+        "complaints",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T12:37:41.083Z",
+      "heroImage": "",
+      "toolUrl": "https://indiainsurances.com/ombudsman"
+    },
+    {
       "id": "indiacos-companies-by-industry",
       "slug": "indiacos-companies-by-industry",
       "title": "IndiaCos Companies by Industry",
@@ -20481,5 +20507,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T12:37:38.919Z"
+  "lastUpdated": "2026-10-25T12:37:42.595Z"
 }
