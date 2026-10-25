@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-businesses-in-rajasthan",
+      "slug": "indiacos-businesses-in-rajasthan",
+      "title": "IndiaCos Businesses in Rajasthan",
+      "description": "2,34,108 GST registered businesses in Rajasthan: companies, LLPs, part",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "companies",
+        "gst",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T22:37:32.125Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/state/rajasthan"
+    },
+    {
       "id": "indiacos-offices-in-uttar-pradesh",
       "slug": "indiacos-offices-in-uttar-pradesh",
       "title": "IndiaCos Offices in Uttar Pradesh",
@@ -26841,5 +26867,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T22:37:29.757Z"
+  "lastUpdated": "2026-10-25T22:37:33.769Z"
 }
