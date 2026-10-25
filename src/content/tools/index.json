@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "jurisgrid-indian-legal-tech-landscape",
+      "slug": "jurisgrid-indian-legal-tech-landscape",
+      "title": "JurisGrid Indian Legal Tech Landscape",
+      "description": "A single-page, citable map of the Indian legal technology ecosystem fo",
+      "author": "Sunny Mittal (JurisGrid)",
+      "username": "jurisgrid",
+      "user_id": "65b43be5-f546-4ff8-8960-272c2c363204",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "legal-tech",
+        "landscape",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T14:33:16.370Z",
+      "heroImage": "",
+      "toolUrl": "https://jurisgrid.com/#about"
+    },
+    {
       "id": "indian-court-codes-reference-for-ai",
       "slug": "indian-court-codes-reference-for-ai",
       "title": "Indian Court Codes Reference for AI",
@@ -20826,5 +20852,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T14:33:14.240Z"
+  "lastUpdated": "2026-10-25T14:33:18.691Z"
 }
