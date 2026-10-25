@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-uttar-pradesh-gst-businesses",
+      "slug": "indiacos-uttar-pradesh-gst-businesses",
+      "title": "IndiaCos Uttar Pradesh GST Businesses",
+      "description": "5,67,261 GST registered businesses in Uttar Pradesh with GSTIN, status",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "companies",
+        "india",
+        "data"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T20:38:34.890Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/state/uttar-pradesh"
+    },
+    {
       "id": "indiacos-shared-offices-in-karnataka",
       "slug": "indiacos-shared-offices-in-karnataka",
       "title": "IndiaCos Shared Offices in Karnataka",
@@ -23147,5 +23173,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T20:38:32.954Z"
+  "lastUpdated": "2026-10-25T20:38:36.311Z"
 }
