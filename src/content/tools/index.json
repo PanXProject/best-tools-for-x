@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-rera-projects-tamil-nadu",
+      "slug": "ipr-rera-projects-tamil-nadu",
+      "title": "IPR RERA Projects Tamil Nadu",
+      "description": "37,117 RERA registered projects in Tamil Nadu with promoter, location ",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "real-estate",
+        "rera",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T20:31:05.287Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/rera/tamil-nadu"
+    },
+    {
       "id": "ipr-rera-projects-gujarat",
       "slug": "ipr-rera-projects-gujarat",
       "title": "IPR RERA Projects Gujarat",
@@ -22757,5 +22783,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T20:31:02.760Z"
+  "lastUpdated": "2026-10-25T20:31:08.120Z"
 }
