@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiainsurances-two-wheeler-insurance-comparison",
+      "slug": "indiainsurances-two-wheeler-insurance-comparison",
+      "title": "IndiaInsurances Two-Wheeler Insurance Comparison",
+      "description": "86 two-wheeler insurance policies sold in India compared in one table",
+      "author": "Sunny Mittal (IndiaInsurances)",
+      "username": "indiainsurances",
+      "user_id": "0811076b-d5c2-420b-b1a7-42656b91c880",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "insurance",
+        "india",
+        "compare"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T20:38:12.702Z",
+      "heroImage": "",
+      "toolUrl": "https://indiainsurances.com/compare/motor-two-wheeler"
+    },
+    {
       "id": "indiarestros-where-to-eat-masala-dosa",
       "slug": "indiarestros-where-to-eat-masala-dosa",
       "title": "IndiaRestros Where to Eat Masala Dosa",
@@ -22991,5 +23017,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T20:31:38.481Z"
+  "lastUpdated": "2026-10-25T20:38:14.259Z"
 }
