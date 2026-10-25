@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ecourtsindia-from-scrape-to-sla",
+      "slug": "ecourtsindia-from-scrape-to-sla",
+      "title": "eCourtsIndia From Scrape to SLA",
+      "description": "Scraping services.ecourts.gov.in breaks on CAPTCHAs and layout changes",
+      "author": "Sunny Mittal (eCourtsIndia)",
+      "username": "ecourtsindia",
+      "user_id": "de71bfde-bac1-47b0-89e2-1b0a2eb468c1",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "courts",
+        "legal",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T22:34:39.463Z",
+      "heroImage": "",
+      "toolUrl": "https://blogs.ecourtsindia.com/2026/04/24/from-scraping-to-production-indian-court-data/"
+    },
+    {
       "id": "ecourtsindia-the-5-am-cause-list-problem-and-how",
       "slug": "ecourtsindia-the-5-am-cause-list-problem-and-how",
       "title": "eCourtsIndia The 5 AM Cause List Problem, and How",
@@ -25931,5 +25957,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T22:34:37.074Z"
+  "lastUpdated": "2026-10-25T22:34:40.786Z"
 }
