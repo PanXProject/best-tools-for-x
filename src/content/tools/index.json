@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-bank-auctions-uttar-pradesh",
+      "slug": "ipr-bank-auctions-uttar-pradesh",
+      "title": "IPR Bank Auctions Uttar Pradesh",
+      "description": "10,943 bank auction property listings in Uttar Pradesh with reserve pr",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "real-estate",
+        "rera",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T20:38:56.116Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/auctions/uttar-pradesh"
+    },
+    {
       "id": "ipr-bank-auctions-telangana",
       "slug": "ipr-bank-auctions-telangana",
       "title": "IPR Bank Auctions Telangana",
@@ -23303,5 +23329,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T20:38:54.112Z"
+  "lastUpdated": "2026-10-25T20:38:57.513Z"
 }
