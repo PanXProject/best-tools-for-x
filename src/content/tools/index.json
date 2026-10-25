@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ecourtsindia-how-to-research-a-judge-s-case",
+      "slug": "ecourtsindia-how-to-research-a-judge-s-case",
+      "title": "eCourtsIndia How to Research a Judge's Case",
+      "description": "Look up the cases a judge has heard in India, filter by case type and ",
+      "author": "Sunny Mittal (eCourtsIndia)",
+      "username": "ecourtsindia",
+      "user_id": "de71bfde-bac1-47b0-89e2-1b0a2eb468c1",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "courts",
+        "legal",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T22:33:49.959Z",
+      "heroImage": "",
+      "toolUrl": "https://blogs.ecourtsindia.com/2026/04/16/research-judge-profiles-court-patterns-ecourtsindia/"
+    },
+    {
       "id": "ecourtsindia-how-to-search-court-cases-online",
       "slug": "ecourtsindia-how-to-search-court-cases-online",
       "title": "eCourtsIndia How to Search Court Cases Online",
@@ -25593,5 +25619,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T22:33:47.569Z"
+  "lastUpdated": "2026-10-25T22:33:51.589Z"
 }
