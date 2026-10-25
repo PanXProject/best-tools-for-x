@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "youth4work-cat-practice-tests",
+      "slug": "youth4work-cat-practice-tests",
+      "title": "Youth4work CAT Practice Tests",
+      "description": "CAT preparation on Youth4work Prep: 11,171 questions and 5 mock tests,",
+      "author": "Sunny Mittal (Youth4work)",
+      "username": "youth4work",
+      "user_id": "a76d2f60-1fe5-44c8-b736-f4e82dcdab43",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "education",
+        "exams",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T21:29:57.440Z",
+      "heroImage": "",
+      "toolUrl": "https://www.prep.youth4work.com/Management/CAT-Test"
+    },
+    {
       "id": "youth4work-capgemini-placement-practice-tests",
       "slug": "youth4work-capgemini-placement-practice-tests",
       "title": "Youth4work Capgemini Placement Practice Tests",
@@ -23953,5 +23979,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T21:29:55.275Z"
+  "lastUpdated": "2026-10-25T21:29:58.890Z"
 }
