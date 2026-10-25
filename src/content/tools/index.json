@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indian-court-case-type-encyclopedia",
+      "slug": "indian-court-case-type-encyclopedia",
+      "title": "Indian Court Case Type Encyclopedia",
+      "description": "What WP_C, BA, SLP_C, CP_IBC, OA_DRT and 260+ other Indian case type c",
+      "author": "Sunny Mittal (eCourtsIndia)",
+      "username": "ecourtsindia",
+      "user_id": "de71bfde-bac1-47b0-89e2-1b0a2eb468c1",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "courts",
+        "legal",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T19:38:24.710Z",
+      "heroImage": "",
+      "toolUrl": "https://blogs.ecourtsindia.com/2026/04/17/case-type-encyclopedia/"
+    },
+    {
       "id": "indian-court-case-status-dictionary",
       "slug": "indian-court-case-status-dictionary",
       "title": "Indian Court Case Status Dictionary",
@@ -22133,5 +22159,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T19:38:22.756Z"
+  "lastUpdated": "2026-10-25T19:38:26.130Z"
 }
