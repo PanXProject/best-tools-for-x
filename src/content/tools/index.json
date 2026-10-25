@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "indian-legaltech-startups-directory-2026",
+      "slug": "indian-legaltech-startups-directory-2026",
+      "title": "Indian Legaltech Startups Directory 2026",
+      "description": "120 Indian legaltech startups in 13 categories, with founders and date",
+      "author": "Sunny Mittal (eCourtsIndia)",
+      "username": "ecourtsindia",
+      "user_id": "de71bfde-bac1-47b0-89e2-1b0a2eb468c1",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "legal-tech",
+        "startups",
+        "directory",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T14:33:29.937Z",
+      "heroImage": "",
+      "toolUrl": "https://blogs.ecourtsindia.com/2026/04/16/the-complete-list-of-legaltech-startups-and-companies-in-india-2026-directory/"
+    },
+    {
       "id": "jurisgrid-numbered-legal-tech-grid",
       "slug": "jurisgrid-numbered-legal-tech-grid",
       "title": "JurisGrid Numbered Legal Tech Grid",
@@ -20878,5 +20905,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T14:33:22.818Z"
+  "lastUpdated": "2026-10-25T14:33:31.552Z"
 }
