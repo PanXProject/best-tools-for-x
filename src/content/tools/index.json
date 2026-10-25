@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiainsurances-commercial-vehicle-insurance",
+      "slug": "indiainsurances-commercial-vehicle-insurance",
+      "title": "IndiaInsurances Commercial vehicle insurance",
+      "description": "71 commercial vehicle insurance policies sold in India in one table: c",
+      "author": "Sunny Mittal (IndiaInsurances)",
+      "username": "indiainsurances",
+      "user_id": "0811076b-d5c2-420b-b1a7-42656b91c880",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "insurance",
+        "compare",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:44:14.038Z",
+      "heroImage": "",
+      "toolUrl": "https://indiainsurances.com/compare/motor-commercial"
+    },
+    {
       "id": "indiainsurances-disease-specific-cover-compared",
       "slug": "indiainsurances-disease-specific-cover-compared",
       "title": "IndiaInsurances Disease-specific cover Compared",
@@ -29103,5 +29129,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:44:11.872Z"
+  "lastUpdated": "2026-10-25T23:44:15.850Z"
 }
