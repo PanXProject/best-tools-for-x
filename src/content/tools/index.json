@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiainsurances-ombudsman-andaman-and-nicobar",
+      "slug": "indiainsurances-ombudsman-andaman-and-nicobar",
+      "title": "IndiaInsurances Ombudsman Andaman and Nicobar",
+      "description": "Insurance Ombudsman for Andaman and Nicobar Islands: the Kolkata offic",
+      "author": "Sunny Mittal (IndiaInsurances)",
+      "username": "indiainsurances",
+      "user_id": "0811076b-d5c2-420b-b1a7-42656b91c880",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "insurance",
+        "complaints",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:38:14.609Z",
+      "heroImage": "",
+      "toolUrl": "https://indiainsurances.com/ombudsman/andaman-and-nicobar-islands"
+    },
+    {
       "id": "indiainsurances-indusind-general-insurance",
       "slug": "indiainsurances-indusind-general-insurance",
       "title": "IndiaInsurances IndusInd General Insurance",
@@ -28167,5 +28193,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:38:12.305Z"
+  "lastUpdated": "2026-10-25T23:38:16.468Z"
 }
