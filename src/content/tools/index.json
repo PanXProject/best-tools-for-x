@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiainsurances-personal-accident-comparison",
+      "slug": "indiainsurances-personal-accident-comparison",
+      "title": "IndiaInsurances Personal Accident Comparison",
+      "description": "112 personal accident policies sold in India compared in one table",
+      "author": "Sunny Mittal (IndiaInsurances)",
+      "username": "indiainsurances",
+      "user_id": "0811076b-d5c2-420b-b1a7-42656b91c880",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "insurance",
+        "india",
+        "compare"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T20:38:20.285Z",
+      "heroImage": "",
+      "toolUrl": "https://indiainsurances.com/compare/personal-accident"
+    },
+    {
       "id": "indiainsurances-home-insurance-comparison",
       "slug": "indiainsurances-home-insurance-comparison",
       "title": "IndiaInsurances Home Insurance Comparison",
@@ -23043,5 +23069,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T20:38:18.174Z"
+  "lastUpdated": "2026-10-25T20:38:21.810Z"
 }
