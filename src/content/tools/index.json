@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ecourtsindia-what-is-mcp-a-guide-for-indian",
+      "slug": "ecourtsindia-what-is-mcp-a-guide-for-indian",
+      "title": "eCourtsIndia What Is MCP? A Guide for Indian",
+      "description": "What Model Context Protocol (MCP) is, how it links Claude or ChatGPT t",
+      "author": "Sunny Mittal (eCourtsIndia)",
+      "username": "ecourtsindia",
+      "user_id": "de71bfde-bac1-47b0-89e2-1b0a2eb468c1",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "courts",
+        "legal",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T22:34:28.533Z",
+      "heroImage": "",
+      "toolUrl": "https://blogs.ecourtsindia.com/2026/04/24/mcp-101-for-legal-teams-india/"
+    },
+    {
       "id": "ecourtsindia-court-data-is-a-fintech-dataset",
       "slug": "ecourtsindia-court-data-is-a-fintech-dataset",
       "title": "eCourtsIndia Court Data Is a FinTech Dataset",
@@ -25853,5 +25879,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T22:34:26.209Z"
+  "lastUpdated": "2026-10-25T22:34:29.910Z"
 }
