@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "youth4work-ssc-mts-multi-tasking-staff-prep",
+      "slug": "youth4work-ssc-mts-multi-tasking-staff-prep",
+      "title": "Youth4work SSC MTS Multi Tasking Staff Prep",
+      "description": "SSC MTS Multi Tasking Staff preparation on Youth4work Prep: 3,534 ques",
+      "author": "Sunny Mittal (Youth4work)",
+      "username": "youth4work",
+      "user_id": "a76d2f60-1fe5-44c8-b736-f4e82dcdab43",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "education",
+        "exams",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:35:58.108Z",
+      "heroImage": "",
+      "toolUrl": "https://www.prep.youth4work.com/Government-Jobs/SSC-MTS-Multi-Tasking-Staff-Test"
+    },
+    {
       "id": "youth4work-cmat-practice-tests",
       "slug": "youth4work-cmat-practice-tests",
       "title": "Youth4work CMAT Practice Tests",
@@ -27179,5 +27205,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:35:55.991Z"
+  "lastUpdated": "2026-10-25T23:35:59.847Z"
 }
