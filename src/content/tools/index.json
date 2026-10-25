@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiainsurances-health-plan-comparison",
+      "slug": "indiainsurances-health-plan-comparison",
+      "title": "IndiaInsurances Health Plan Comparison",
+      "description": "266 Indian health insurance policies in one table: PED and specific il",
+      "author": "Sunny Mittal (IndiaInsurances)",
+      "username": "indiainsurances",
+      "user_id": "0811076b-d5c2-420b-b1a7-42656b91c880",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "insurance",
+        "india",
+        "compare"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T20:30:20.621Z",
+      "heroImage": "",
+      "toolUrl": "https://indiainsurances.com/compare/health-indemnity"
+    },
+    {
       "id": "company-litigation-search-guide-india",
       "slug": "company-litigation-search-guide-india",
       "title": "Company Litigation Search Guide India",
@@ -22445,5 +22471,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T19:43:36.940Z"
+  "lastUpdated": "2026-10-25T20:30:22.189Z"
 }
