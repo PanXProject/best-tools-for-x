@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "youth4work-sarkari-naukri-updates",
+      "slug": "youth4work-sarkari-naukri-updates",
+      "title": "Youth4work Sarkari Naukri Updates",
+      "description": "Government job (sarkari naukri) updates and preparation tests from You",
+      "author": "Sunny Mittal (Youth4work)",
+      "username": "youth4work",
+      "user_id": "a76d2f60-1fe5-44c8-b736-f4e82dcdab43",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "education",
+        "careers",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T19:38:17.878Z",
+      "heroImage": "",
+      "toolUrl": "https://www.sarkari-naukri.youth4work.com/government-jobs"
+    },
+    {
       "id": "youth4work-colleges-by-course",
       "slug": "youth4work-colleges-by-course",
       "title": "Youth4work Colleges by Course",
@@ -22081,5 +22107,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T19:38:15.892Z"
+  "lastUpdated": "2026-10-25T19:38:19.291Z"
 }
