@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiainsurances-national-insurance",
+      "slug": "indiainsurances-national-insurance",
+      "title": "IndiaInsurances National Insurance",
+      "description": "National Insurance Company Limited: every general insurance product wi",
+      "author": "Sunny Mittal (IndiaInsurances)",
+      "username": "indiainsurances",
+      "user_id": "0811076b-d5c2-420b-b1a7-42656b91c880",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "insurance",
+        "india",
+        "compare"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:44:33.525Z",
+      "heroImage": "",
+      "toolUrl": "https://indiainsurances.com/insurer/national-insurance"
+    },
+    {
       "id": "indiainsurances-magma-general-insurance",
       "slug": "indiainsurances-magma-general-insurance",
       "title": "IndiaInsurances Magma General Insurance",
@@ -29233,5 +29259,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:44:31.308Z"
+  "lastUpdated": "2026-10-25T23:44:34.944Z"
 }
