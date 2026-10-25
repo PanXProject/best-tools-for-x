@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ecourtsindia-before-you-onboard-a-vendor",
+      "slug": "ecourtsindia-before-you-onboard-a-vendor",
+      "title": "eCourtsIndia Before You Onboard a Vendor",
+      "description": "Before you pay a vendor advance or accept a job offer, check the compa",
+      "author": "Sunny Mittal (eCourtsIndia)",
+      "username": "ecourtsindia",
+      "user_id": "de71bfde-bac1-47b0-89e2-1b0a2eb468c1",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "courts",
+        "legal",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T22:35:49.940Z",
+      "heroImage": "",
+      "toolUrl": "https://blogs.ecourtsindia.com/2026/10/05/vendor-employer-legal-check-india/"
+    },
+    {
       "id": "ecourtsindia-falsely-accused-how-court-records",
       "slug": "ecourtsindia-falsely-accused-how-court-records",
       "title": "eCourtsIndia Falsely Accused? How Court Records",
@@ -26399,5 +26425,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T22:35:47.770Z"
+  "lastUpdated": "2026-10-25T22:35:51.670Z"
 }
