@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiarestros-butter-chicken-finder",
+      "slug": "indiarestros-butter-chicken-finder",
+      "title": "IndiaRestros Butter Chicken Finder",
+      "description": "Where to eat butter chicken in India: 1,309 places, priced Rs 19 to Rs",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "restaurants",
+        "food",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T18:35:23.027Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/dish/butter-chicken"
+    },
+    {
       "id": "indiarestros-kolkata-restaurant-guide",
       "slug": "indiarestros-kolkata-restaurant-guide",
       "title": "IndiaRestros Kolkata Restaurant Guide",
@@ -21664,5 +21690,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T18:34:45.611Z"
+  "lastUpdated": "2026-10-25T18:35:24.442Z"
 }
