@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "youth4work-online-talent-tests",
+      "slug": "youth4work-online-talent-tests",
+      "title": "Youth4work Online Talent Tests",
+      "description": "Free online skill and aptitude tests with a percentile against other t",
+      "author": "Sunny Mittal (Youth4work)",
+      "username": "youth4work",
+      "user_id": "a76d2f60-1fe5-44c8-b736-f4e82dcdab43",
+      "categories": [
+        "Manage People"
+      ],
+      "tags": [
+        "skill-test",
+        "aptitude-test",
+        "careers",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T08:40:22.910Z",
+      "heroImage": "",
+      "toolUrl": "https://www.youth4work.com/onlinetalenttest"
+    },
+    {
       "id": "ecourtsindia-cause-list-search",
       "slug": "ecourtsindia-cause-list-search",
       "title": "eCourtsIndia Cause List Search",
@@ -19851,5 +19878,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T08:40:20.694Z"
+  "lastUpdated": "2026-10-25T08:40:24.391Z"
 }
