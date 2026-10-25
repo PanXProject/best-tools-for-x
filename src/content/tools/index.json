@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-karnataka-businesses",
+      "slug": "indiacos-karnataka-businesses",
+      "title": "IndiaCos Karnataka Businesses",
+      "description": "2,35,422 GST-registered businesses in Karnataka by district, with GSTI",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "gst",
+        "businesses",
+        "karnataka"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T18:48:39.058Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/state/karnataka"
+    },
+    {
       "id": "indiacos-maharashtra-businesses",
       "slug": "indiacos-maharashtra-businesses",
       "title": "IndiaCos Maharashtra Businesses",
@@ -21847,5 +21873,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T18:48:36.489Z"
+  "lastUpdated": "2026-10-25T18:48:40.406Z"
 }
