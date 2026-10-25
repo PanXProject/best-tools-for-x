@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiainsurances-home-insurance-comparison",
+      "slug": "indiainsurances-home-insurance-comparison",
+      "title": "IndiaInsurances Home Insurance Comparison",
+      "description": "72 home insurance policies sold in India compared in one table",
+      "author": "Sunny Mittal (IndiaInsurances)",
+      "username": "indiainsurances",
+      "user_id": "0811076b-d5c2-420b-b1a7-42656b91c880",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "insurance",
+        "india",
+        "compare"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T20:38:16.774Z",
+      "heroImage": "",
+      "toolUrl": "https://indiainsurances.com/compare/home"
+    },
+    {
       "id": "indiainsurances-two-wheeler-insurance-comparison",
       "slug": "indiainsurances-two-wheeler-insurance-comparison",
       "title": "IndiaInsurances Two-Wheeler Insurance Comparison",
@@ -23017,5 +23043,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T20:38:14.259Z"
+  "lastUpdated": "2026-10-25T20:38:18.174Z"
 }
