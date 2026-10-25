@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "flux-3-generator-edit-studio",
+      "slug": "flux-3-generator-edit-studio",
+      "title": "Flux 3 Generator & Edit Studio",
+      "description": "AI image generator and editor. Free to start.",
+      "author": "Lisa",
+      "username": "lisasongfinder",
+      "user_id": "fbf72af8-75de-45da-a4df-90665d4040c7",
+      "categories": [
+        "Get & Keep Customers",
+        "Create & Build"
+      ],
+      "tags": [
+        "ai",
+        "image-generator"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T11:53:45.957Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792929212/m96h7ckv83yn2rovcqlt.jpg",
+      "toolUrl": "https://www.flux-3.org/"
+    },
+    {
       "id": "pomelli",
       "slug": "pomelli",
       "title": "Pomelli",
@@ -20378,5 +20404,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T11:52:43.966Z"
+  "lastUpdated": "2026-10-25T11:53:47.753Z"
 }
