@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ecourtsindia-court-data-is-a-fintech-dataset",
+      "slug": "ecourtsindia-court-data-is-a-fintech-dataset",
+      "title": "eCourtsIndia Court Data Is a FinTech Dataset",
+      "description": "Why banks, NBFCs, insurers and BGV firms use Indian court records for ",
+      "author": "Sunny Mittal (eCourtsIndia)",
+      "username": "ecourtsindia",
+      "user_id": "de71bfde-bac1-47b0-89e2-1b0a2eb468c1",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "courts",
+        "legal",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T22:34:24.680Z",
+      "heroImage": "",
+      "toolUrl": "https://blogs.ecourtsindia.com/2026/04/17/court-data-fintech-regtech-bgv-dataset/"
+    },
+    {
       "id": "ecourtsindia-a-short-history-of-indian-legaltech",
       "slug": "ecourtsindia-a-short-history-of-indian-legaltech",
       "title": "eCourtsIndia A Short History of Indian Legaltech",
@@ -25827,5 +25853,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T22:34:22.375Z"
+  "lastUpdated": "2026-10-25T22:34:26.209Z"
 }
