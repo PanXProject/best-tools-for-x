@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ecourtsindia-litigation-portfolio-monitoring",
+      "slug": "ecourtsindia-litigation-portfolio-monitoring",
+      "title": "eCourtsIndia Litigation Portfolio Monitoring",
+      "description": "Litigation portfolio monitoring for GCs: a weekly board-ready view of ",
+      "author": "Sunny Mittal (eCourtsIndia)",
+      "username": "ecourtsindia",
+      "user_id": "de71bfde-bac1-47b0-89e2-1b0a2eb468c1",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "courts",
+        "legal",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T22:34:46.414Z",
+      "heroImage": "",
+      "toolUrl": "https://blogs.ecourtsindia.com/2026/04/24/general-counsel-litigation-portfolio-mcp/"
+    },
+    {
       "id": "ecourtsindia-one-advocate-nine-courts-one",
       "slug": "ecourtsindia-one-advocate-nine-courts-one",
       "title": "eCourtsIndia One Advocate, Nine Courts, One",
@@ -25983,5 +26009,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T22:34:44.430Z"
+  "lastUpdated": "2026-10-25T22:34:47.811Z"
 }
