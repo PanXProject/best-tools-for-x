@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "ipr-rera-project-finder",
+      "slug": "ipr-rera-project-finder",
+      "title": "IPR RERA Project Finder",
+      "description": "1,68,633 RERA registered real estate projects in India by state, with ",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "rera",
+        "real-estate-projects",
+        "property",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T10:33:35.031Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/rera"
+    },
+    {
       "id": "svg-animation",
       "slug": "svg-animation",
       "title": "SVG Animation",
@@ -19930,5 +19957,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T09:22:21.608Z"
+  "lastUpdated": "2026-10-25T10:33:36.596Z"
 }
