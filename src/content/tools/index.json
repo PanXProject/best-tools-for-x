@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiarestros-street-food-finder",
+      "slug": "indiarestros-street-food-finder",
+      "title": "IndiaRestros Street Food Finder",
+      "description": "94,791 street food places across India with phones, timings, menus and",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "restaurants",
+        "food",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T15:32:26.143Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/cuisine/street-food"
+    },
+    {
       "id": "indian-legaltech-startups-directory-2026",
       "slug": "indian-legaltech-startups-directory-2026",
       "title": "Indian Legaltech Startups Directory 2026",
@@ -20905,5 +20931,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T14:33:31.552Z"
+  "lastUpdated": "2026-10-25T15:32:28.387Z"
 }
