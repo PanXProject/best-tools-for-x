@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "youth4work-amcat-practice-tests",
+      "slug": "youth4work-amcat-practice-tests",
+      "title": "Youth4work AMCAT Practice Tests",
+      "description": "AMCAT preparation on Youth4work Prep: 6,097 questions and 5 mock tests",
+      "author": "Sunny Mittal (Youth4work)",
+      "username": "youth4work",
+      "user_id": "a76d2f60-1fe5-44c8-b736-f4e82dcdab43",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "education",
+        "exams",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T21:46:39.487Z",
+      "heroImage": "",
+      "toolUrl": "https://www.prep.youth4work.com/Practice-_Test_s/AMCAT--_Test_-Test"
+    },
+    {
       "id": "youth4work-ibps-clerk-prelims-practice-tests",
       "slug": "youth4work-ibps-clerk-prelims-practice-tests",
       "title": "Youth4work IBPS Clerk Prelims Practice Tests",
@@ -24499,5 +24525,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T21:46:37.380Z"
+  "lastUpdated": "2026-10-25T21:46:40.839Z"
 }
