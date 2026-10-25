@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "rct-case-status-on-ecourtsindia",
+      "slug": "rct-case-status-on-ecourtsindia",
+      "title": "RCT Case Status on eCourtsIndia",
+      "description": "Check Railway Claims Tribunal case status free by claimant name or CNR",
+      "author": "Sunny Mittal (eCourtsIndia)",
+      "username": "ecourtsindia",
+      "user_id": "de71bfde-bac1-47b0-89e2-1b0a2eb468c1",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "courts",
+        "legal",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T22:29:57.033Z",
+      "heroImage": "",
+      "toolUrl": "https://blogs.ecourtsindia.com/2026/07/10/rct-case-status-search-ecourtsindia/"
+    },
+    {
       "id": "ecourtsindia-aft-case-status",
       "slug": "ecourtsindia-aft-case-status",
       "title": "eCourtsIndia AFT Case Status",
@@ -25125,5 +25151,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T22:29:55.046Z"
+  "lastUpdated": "2026-10-25T22:29:58.351Z"
 }
