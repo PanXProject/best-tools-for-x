@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ecourtsindia-chief-metropolitan-magistrate-courts",
+      "slug": "ecourtsindia-chief-metropolitan-magistrate-courts",
+      "title": "eCourtsIndia Chief Metropolitan Magistrate Courts",
+      "description": "What a Chief Metropolitan Magistrate court is, how the BNSS changed it",
+      "author": "Sunny Mittal (eCourtsIndia)",
+      "username": "ecourtsindia",
+      "user_id": "de71bfde-bac1-47b0-89e2-1b0a2eb468c1",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "courts",
+        "legal",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T22:28:53.920Z",
+      "heroImage": "",
+      "toolUrl": "https://blogs.ecourtsindia.com/2026/04/17/chief-metropolitan-magistrate-courts-india/"
+    },
+    {
       "id": "ecourtsindia-india-courts-and-ecourts-access",
       "slug": "ecourtsindia-india-courts-and-ecourts-access",
       "title": "eCourtsIndia India Courts and eCourts Access",
@@ -24657,5 +24683,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T22:28:51.804Z"
+  "lastUpdated": "2026-10-25T22:28:55.321Z"
 }
