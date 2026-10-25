@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-karnataka-rera-projects",
+      "slug": "ipr-karnataka-rera-projects",
+      "title": "IPR Karnataka RERA Projects",
+      "description": "9,021 RERA-registered projects in Karnataka with promoter, location, r",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "real-estate",
+        "property",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T18:37:59.153Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/rera/karnataka"
+    },
+    {
       "id": "indiarestros-butter-chicken-finder",
       "slug": "indiarestros-butter-chicken-finder",
       "title": "IndiaRestros Butter Chicken Finder",
@@ -21690,5 +21716,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T18:35:24.442Z"
+  "lastUpdated": "2026-10-25T18:38:00.633Z"
 }
