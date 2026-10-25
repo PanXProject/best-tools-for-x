@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "youth4work-gate-civil-engineering-ce-prep",
+      "slug": "youth4work-gate-civil-engineering-ce-prep",
+      "title": "Youth4work GATE Civil Engineering (CE) Prep",
+      "description": "GATE Civil Engineering (CE) preparation on Youth4work Prep: 2,512 ques",
+      "author": "Sunny Mittal (Youth4work)",
+      "username": "youth4work",
+      "user_id": "a76d2f60-1fe5-44c8-b736-f4e82dcdab43",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "education",
+        "exams",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:35:27.075Z",
+      "heroImage": "",
+      "toolUrl": "https://www.prep.youth4work.com/Engineering/GATE-Civil-Engineering-(CE)-Test"
+    },
+    {
       "id": "youth4work-gate-electronics-and-communication-prep",
       "slug": "youth4work-gate-electronics-and-communication-prep",
       "title": "Youth4work GATE Electronics and Communication Prep",
@@ -26971,5 +26997,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:35:24.994Z"
+  "lastUpdated": "2026-10-25T23:35:28.695Z"
 }
