@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "indiarestros-restaurants-by-state",
+      "slug": "indiarestros-restaurants-by-state",
+      "title": "IndiaRestros Restaurants by State",
+      "description": "15,71,714 restaurants, cafes, dhabas and sweet shops across every Indi",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "restaurants",
+        "cafes",
+        "cities",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T10:33:56.872Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/in"
+    },
+    {
       "id": "galactica-check",
       "slug": "galactica-check",
       "title": "Galactica Check",
@@ -20091,5 +20118,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T10:33:54.832Z"
+  "lastUpdated": "2026-10-25T10:33:58.513Z"
 }
