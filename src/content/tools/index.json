@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "youth4work-deloitte-placement-practice-tests",
+      "slug": "youth4work-deloitte-placement-practice-tests",
+      "title": "Youth4work Deloitte Placement Practice Tests",
+      "description": "Deloitte Placement preparation on Youth4work Prep: 1,901 questions and",
+      "author": "Sunny Mittal (Youth4work)",
+      "username": "youth4work",
+      "user_id": "a76d2f60-1fe5-44c8-b736-f4e82dcdab43",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "education",
+        "exams",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T21:46:28.989Z",
+      "heroImage": "",
+      "toolUrl": "https://www.prep.youth4work.com/Placement-Papers/Deloitte-Test"
+    },
+    {
       "id": "youth4work-gate-electrical-practice-tests",
       "slug": "youth4work-gate-electrical-practice-tests",
       "title": "Youth4work GATE Electrical Practice Tests",
@@ -24421,5 +24447,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T21:46:26.944Z"
+  "lastUpdated": "2026-10-25T21:46:30.746Z"
 }
