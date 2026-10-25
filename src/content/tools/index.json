@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ecourtsindia-bank-litigation-index",
+      "slug": "ecourtsindia-bank-litigation-index",
+      "title": "eCourtsIndia Bank Litigation Index",
+      "description": "HDFC Bank is named in 20 lakh+ court records, about twice SBI. How Ind",
+      "author": "Sunny Mittal (eCourtsIndia)",
+      "username": "ecourtsindia",
+      "user_id": "de71bfde-bac1-47b0-89e2-1b0a2eb468c1",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "courts",
+        "legal",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T22:34:57.958Z",
+      "heroImage": "",
+      "toolUrl": "https://blogs.ecourtsindia.com/2026/04/25/bank-litigation-index-india-hdfc-sbi-court-cases/"
+    },
+    {
       "id": "ecourtsindia-your-cnr-your-case-your-phone",
       "slug": "ecourtsindia-your-cnr-your-case-your-phone",
       "title": "eCourtsIndia Your CNR, Your Case, Your Phone",
@@ -26061,5 +26087,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T22:34:55.256Z"
+  "lastUpdated": "2026-10-25T22:34:59.567Z"
 }
