@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "youth4work-xat-practice-tests",
+      "slug": "youth4work-xat-practice-tests",
+      "title": "Youth4work XAT Practice Tests",
+      "description": "XAT preparation on Youth4work Prep: 2,752 questions and 5 full mock te",
+      "author": "Sunny Mittal (Youth4work)",
+      "username": "youth4work",
+      "user_id": "a76d2f60-1fe5-44c8-b736-f4e82dcdab43",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "education",
+        "exams",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:37:09.385Z",
+      "heroImage": "",
+      "toolUrl": "https://www.prep.youth4work.com/Management/XAT-Test"
+    },
+    {
       "id": "youth4work-uptu-practice-tests",
       "slug": "youth4work-uptu-practice-tests",
       "title": "Youth4work UPTU Practice Tests",
@@ -27699,5 +27725,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:37:07.419Z"
+  "lastUpdated": "2026-10-25T23:37:10.656Z"
 }
