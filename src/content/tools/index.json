@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ecourtsindia-legalcheck",
+      "slug": "ecourtsindia-legalcheck",
+      "title": "eCourtsIndia LegalCheck",
+      "description": "LegalCheck screens a person or company against 30 crore+ Indian court ",
+      "author": "Sunny Mittal (eCourtsIndia)",
+      "username": "ecourtsindia",
+      "user_id": "de71bfde-bac1-47b0-89e2-1b0a2eb468c1",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "courts",
+        "legal",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T22:30:30.245Z",
+      "heroImage": "",
+      "toolUrl": "https://blogs.ecourtsindia.com/2026/09/14/legalcheck-launch-india-legal-background-check/"
+    },
+    {
       "id": "ecourtsindia-how-to-find-any-indian-act-or-section",
       "slug": "ecourtsindia-how-to-find-any-indian-act-or-section",
       "title": "eCourtsIndia How to Find Any Indian Act or Section",
@@ -25359,5 +25385,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T22:30:28.287Z"
+  "lastUpdated": "2026-10-25T22:30:31.706Z"
 }
