@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "indiacos-api",
+      "slug": "indiacos-api",
+      "title": "IndiaCos API",
+      "description": "API and MCP server for Indian company, GST and contact data",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "api",
+        "mcp",
+        "company-data",
+        "gst",
+        "india"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T04:35:31.498Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/api"
+    },
+    {
       "id": "indiainsurances-mcp-and-api",
       "slug": "indiainsurances-mcp-and-api",
       "title": "IndiaInsurances MCP and API",
@@ -19558,5 +19586,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T04:35:29.372Z"
+  "lastUpdated": "2026-10-25T04:35:33.036Z"
 }
