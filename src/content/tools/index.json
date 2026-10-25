@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiarestros-cafes-in-india",
+      "slug": "indiarestros-cafes-in-india",
+      "title": "IndiaRestros Cafes in India",
+      "description": "2,28,659 cafes across India with phone numbers, timings, menus and pho",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "restaurants",
+        "india",
+        "directory"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T22:36:51.249Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/kind/cafe"
+    },
+    {
       "id": "indiarestros-restaurants-in-kochi",
       "slug": "indiarestros-restaurants-in-kochi",
       "title": "IndiaRestros Restaurants in Kochi",
@@ -26555,5 +26581,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T22:36:49.317Z"
+  "lastUpdated": "2026-10-25T22:36:52.695Z"
 }
