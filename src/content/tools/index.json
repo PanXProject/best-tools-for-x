@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiainsurances-oriental-insurance",
+      "slug": "indiainsurances-oriental-insurance",
+      "title": "IndiaInsurances Oriental Insurance",
+      "description": "The Oriental Insurance Company Limited: every general insurance produc",
+      "author": "Sunny Mittal (IndiaInsurances)",
+      "username": "indiainsurances",
+      "user_id": "0811076b-d5c2-420b-b1a7-42656b91c880",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "insurance",
+        "india",
+        "compare"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:44:45.553Z",
+      "heroImage": "",
+      "toolUrl": "https://indiainsurances.com/insurer/oriental-insurance"
+    },
+    {
       "id": "indiainsurances-new-india-assurance",
       "slug": "indiainsurances-new-india-assurance",
       "title": "IndiaInsurances New India Assurance",
@@ -29311,5 +29337,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:44:43.304Z"
+  "lastUpdated": "2026-10-25T23:44:47.129Z"
 }
