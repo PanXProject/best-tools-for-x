@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "jurisgrid-legal-tech-startup-directory",
+      "slug": "jurisgrid-legal-tech-startup-directory",
+      "title": "JurisGrid Legal Tech Startup Directory",
+      "description": "Searchable directory of 127 Indian legal tech startups, filterable by ",
+      "author": "Sunny Mittal (JurisGrid)",
+      "username": "jurisgrid",
+      "user_id": "65b43be5-f546-4ff8-8960-272c2c363204",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "legal-tech",
+        "startups",
+        "directory",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T13:33:39.615Z",
+      "heroImage": "",
+      "toolUrl": "https://jurisgrid.com/#directory"
+    },
+    {
       "id": "ecourtsindia-lawyer-case-records",
       "slug": "ecourtsindia-lawyer-case-records",
       "title": "eCourtsIndia Lawyer Case Records",
@@ -20692,5 +20719,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T13:33:37.508Z"
+  "lastUpdated": "2026-10-25T13:33:41.088Z"
 }
