@@ -1,6 +1,30 @@
 {
   "tools": [
     {
+      "id": "toty",
+      "slug": "toty",
+      "title": "Toty",
+      "description": "Generate AI images and videos with multiple models",
+      "author": "Logan Mitchell",
+      "username": "isavetik",
+      "user_id": "0ae04e36-e791-4485-8f6c-3e0c778cf181",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "image-generation"
+      ],
+      "pricing": {
+        "model": "pay-per-use"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T08:25:06.602Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792916610/yhj3dx55kuwqhxp7q9sz.png",
+      "toolUrl": "https://toty.ai/"
+    },
+    {
       "id": "flyingcarai-io",
       "slug": "flyingcarai-io",
       "title": "FlyingCarAI.io",
@@ -19665,5 +19689,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T05:53:00.430Z"
+  "lastUpdated": "2026-10-25T08:25:08.144Z"
 }
