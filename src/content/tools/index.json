@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiainsurances-disease-specific-cover-compared",
+      "slug": "indiainsurances-disease-specific-cover-compared",
+      "title": "IndiaInsurances Disease-specific cover Compared",
+      "description": "15 disease-specific cover policies sold in India in one table: claim s",
+      "author": "Sunny Mittal (IndiaInsurances)",
+      "username": "indiainsurances",
+      "user_id": "0811076b-d5c2-420b-b1a7-42656b91c880",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "insurance",
+        "compare",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:44:09.793Z",
+      "heroImage": "",
+      "toolUrl": "https://indiainsurances.com/compare/disease-specific"
+    },
+    {
       "id": "indiainsurances-engineering-compared",
       "slug": "indiainsurances-engineering-compared",
       "title": "IndiaInsurances Engineering Compared",
@@ -29077,5 +29103,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:44:07.231Z"
+  "lastUpdated": "2026-10-25T23:44:11.872Z"
 }
