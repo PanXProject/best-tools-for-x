@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "indiacos-cirp-tracker",
+      "slug": "indiacos-cirp-tracker",
+      "title": "IndiaCos CIRP Tracker",
+      "description": "9,214 corporate insolvency resolution process announcements from IBBI,",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "insolvency",
+        "ibbi",
+        "companies",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T18:48:30.906Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/insolvency/cirp"
+    },
+    {
       "id": "ipr-uttar-pradesh-property-registry",
       "slug": "ipr-uttar-pradesh-property-registry",
       "title": "IPR Uttar Pradesh Property Registry",
@@ -21794,5 +21821,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T18:38:11.773Z"
+  "lastUpdated": "2026-10-25T18:48:32.506Z"
 }
