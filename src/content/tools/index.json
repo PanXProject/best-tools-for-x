@@ -1,6 +1,30 @@
 {
   "tools": [
     {
+      "id": "pomelli",
+      "slug": "pomelli",
+      "title": "Pomelli",
+      "description": "Free on-brand marketing images for social posts.",
+      "author": "Lisa",
+      "username": "lisasongfinder",
+      "user_id": "fbf72af8-75de-45da-a4df-90665d4040c7",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "marketing"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T11:52:42.593Z",
+      "heroImage": "",
+      "toolUrl": "https://www.pomelliai.app/"
+    },
+    {
       "id": "flux-3-ai-image-generator-editor",
       "slug": "flux-3-ai-image-generator-editor",
       "title": "Flux 3 | AI Image Generator & Editor",
@@ -20354,5 +20378,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T11:52:15.802Z"
+  "lastUpdated": "2026-10-25T11:52:43.966Z"
 }
