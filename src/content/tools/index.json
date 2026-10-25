@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "youth4work-tcs-placement-practice-tests",
+      "slug": "youth4work-tcs-placement-practice-tests",
+      "title": "Youth4work TCS Placement Practice Tests",
+      "description": "TCS Placement preparation on Youth4work Prep: 2,894 questions and 5 mo",
+      "author": "Sunny Mittal (Youth4work)",
+      "username": "youth4work",
+      "user_id": "a76d2f60-1fe5-44c8-b736-f4e82dcdab43",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "education",
+        "exams",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T21:29:39.980Z",
+      "heroImage": "",
+      "toolUrl": "https://www.prep.youth4work.com/Placement-Papers/TCS-Test"
+    },
+    {
       "id": "youth4work-infosys-placement-practice-tests",
       "slug": "youth4work-infosys-placement-practice-tests",
       "title": "Youth4work Infosys Placement Practice Tests",
@@ -23823,5 +23849,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T21:29:37.960Z"
+  "lastUpdated": "2026-10-25T21:29:41.350Z"
 }
