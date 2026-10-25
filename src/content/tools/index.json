@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ecourtsindia-aft-case-status",
+      "slug": "ecourtsindia-aft-case-status",
+      "title": "eCourtsIndia AFT Case Status",
+      "description": "Check Armed Forces Tribunal (AFT) case status free by name or CNR. Rea",
+      "author": "Sunny Mittal (eCourtsIndia)",
+      "username": "ecourtsindia",
+      "user_id": "de71bfde-bac1-47b0-89e2-1b0a2eb468c1",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "courts",
+        "legal",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T22:29:53.611Z",
+      "heroImage": "",
+      "toolUrl": "https://blogs.ecourtsindia.com/2026/07/10/aft-case-status-search-ecourtsindia/"
+    },
+    {
       "id": "ngt-case-status-on-ecourtsindia",
       "slug": "ngt-case-status-on-ecourtsindia",
       "title": "NGT Case Status on eCourtsIndia",
@@ -25099,5 +25125,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T22:29:51.613Z"
+  "lastUpdated": "2026-10-25T22:29:55.046Z"
 }
