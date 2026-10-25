@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiarestros-restaurants-in-chandigarh",
+      "slug": "indiarestros-restaurants-in-chandigarh",
+      "title": "IndiaRestros Restaurants in Chandigarh",
+      "description": "Restaurants in Chandigarh, Chandigarh: 4,388 places with phone numbers",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "restaurants",
+        "india",
+        "directory"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T22:36:44.526Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/in/chandigarh"
+    },
+    {
       "id": "indiarestros-restaurants-in-lucknow",
       "slug": "indiarestros-restaurants-in-lucknow",
       "title": "IndiaRestros Restaurants in Lucknow",
@@ -26503,5 +26529,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T22:36:42.608Z"
+  "lastUpdated": "2026-10-25T22:36:45.896Z"
 }
