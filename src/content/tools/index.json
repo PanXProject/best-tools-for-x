@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-businesses-in-kerala",
+      "slug": "indiacos-businesses-in-kerala",
+      "title": "IndiaCos Businesses in Kerala",
+      "description": "86,627 GST registered businesses in Kerala: companies, LLPs, partnersh",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "companies",
+        "gst",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T22:37:36.073Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/state/kerala"
+    },
+    {
       "id": "indiacos-businesses-in-rajasthan",
       "slug": "indiacos-businesses-in-rajasthan",
       "title": "IndiaCos Businesses in Rajasthan",
@@ -26867,5 +26893,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T22:37:33.769Z"
+  "lastUpdated": "2026-10-25T22:37:37.409Z"
 }
