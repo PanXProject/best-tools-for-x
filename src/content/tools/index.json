@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ecourtsindia-family-property-dispute-index-2026",
+      "slug": "ecourtsindia-family-property-dispute-index-2026",
+      "title": "eCourtsIndia Family Property Dispute Index 2026",
+      "description": "How many partition and probate cases are in Indian courts, how many ar",
+      "author": "Sunny Mittal (eCourtsIndia)",
+      "username": "ecourtsindia",
+      "user_id": "de71bfde-bac1-47b0-89e2-1b0a2eb468c1",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "courts",
+        "legal",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T22:35:10.658Z",
+      "heroImage": "",
+      "toolUrl": "https://blogs.ecourtsindia.com/2026/04/27/family-property-dispute-index-2026/"
+    },
+    {
       "id": "ecourtsindia-the-indian-disposal-time-index-2026",
       "slug": "ecourtsindia-the-indian-disposal-time-index-2026",
       "title": "eCourtsIndia The Indian Disposal-Time Index 2026",
@@ -26139,5 +26165,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T22:35:08.372Z"
+  "lastUpdated": "2026-10-25T22:35:12.229Z"
 }
