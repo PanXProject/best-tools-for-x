@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "ecourtsindia-mcp-server",
+      "slug": "ecourtsindia-mcp-server",
+      "title": "eCourtsIndia MCP Server",
+      "description": "Remote MCP server for Indian court case data",
+      "author": "Sunny Mittal (eCourtsIndia)",
+      "username": "ecourtsindia",
+      "user_id": "de71bfde-bac1-47b0-89e2-1b0a2eb468c1",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "mcp",
+        "api",
+        "legal",
+        "court-cases",
+        "india"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T04:35:24.550Z",
+      "heroImage": "",
+      "toolUrl": "https://ecourtsindia.com/api/mcp"
+    },
+    {
       "id": "indiarestros-api-and-mcp",
       "slug": "indiarestros-api-and-mcp",
       "title": "IndiaRestros API and MCP",
@@ -19503,5 +19531,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T04:35:20.168Z"
+  "lastUpdated": "2026-10-25T04:35:25.874Z"
 }
