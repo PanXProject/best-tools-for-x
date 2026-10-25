@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "youth4work-hpas-practice-tests",
+      "slug": "youth4work-hpas-practice-tests",
+      "title": "Youth4work HPAS Practice Tests",
+      "description": "HPAS preparation on Youth4work Prep: 2,401 questions and 4 full mock t",
+      "author": "Sunny Mittal (Youth4work)",
+      "username": "youth4work",
+      "user_id": "a76d2f60-1fe5-44c8-b736-f4e82dcdab43",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "education",
+        "exams",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:43:02.964Z",
+      "heroImage": "",
+      "toolUrl": "https://www.prep.youth4work.com/State-Public-Service-Commission/HPAS-Test"
+    },
+    {
       "id": "youth4work-niacl-prelim-exam-practice-tests",
       "slug": "youth4work-niacl-prelim-exam-practice-tests",
       "title": "Youth4work NIACL Prelim Exam Practice Tests",
@@ -28635,5 +28661,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:43:00.592Z"
+  "lastUpdated": "2026-10-25T23:43:04.522Z"
 }
