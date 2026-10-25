@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiarestros-where-to-eat-biryani-combo-in-india",
+      "slug": "indiarestros-where-to-eat-biryani-combo-in-india",
+      "title": "IndiaRestros Where to eat Biryani Combo in India",
+      "description": "Biryani Combo in India: 106 places serve it, from Rs 100 to Rs 1,549, ",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "restaurants",
+        "india",
+        "directory"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T22:36:54.624Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/dish/biryani"
+    },
+    {
       "id": "indiarestros-cafes-in-india",
       "slug": "indiarestros-cafes-in-india",
       "title": "IndiaRestros Cafes in India",
@@ -26581,5 +26607,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T22:36:52.695Z"
+  "lastUpdated": "2026-10-25T22:36:55.970Z"
 }
