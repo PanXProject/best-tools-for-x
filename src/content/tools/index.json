@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "youth4work-uptu-practice-tests",
+      "slug": "youth4work-uptu-practice-tests",
+      "title": "Youth4work UPTU Practice Tests",
+      "description": "UPTU preparation on Youth4work Prep: 2,619 questions and 5 full mock t",
+      "author": "Sunny Mittal (Youth4work)",
+      "username": "youth4work",
+      "user_id": "a76d2f60-1fe5-44c8-b736-f4e82dcdab43",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "education",
+        "exams",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:37:06.230Z",
+      "heroImage": "",
+      "toolUrl": "https://www.prep.youth4work.com/Engineering/UPTU-Test"
+    },
+    {
       "id": "youth4work-indian-air-force-y-group-exam-prep",
       "slug": "youth4work-indian-air-force-y-group-exam-prep",
       "title": "Youth4work Indian Air Force Y Group Exam Prep",
@@ -27673,5 +27699,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:37:04.276Z"
+  "lastUpdated": "2026-10-25T23:37:07.419Z"
 }
