@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiainsurances-health-insurance-for-parents-and",
+      "slug": "indiainsurances-health-insurance-for-parents-and",
+      "title": "IndiaInsurances Health insurance for parents and",
+      "description": "14 senior citizen health policies sold in India in one table: pre-exis",
+      "author": "Sunny Mittal (IndiaInsurances)",
+      "username": "indiainsurances",
+      "user_id": "0811076b-d5c2-420b-b1a7-42656b91c880",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "insurance",
+        "compare",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:44:01.796Z",
+      "heroImage": "",
+      "toolUrl": "https://indiainsurances.com/compare/health-senior"
+    },
+    {
       "id": "indiainsurances-liability-compared",
       "slug": "indiainsurances-liability-compared",
       "title": "IndiaInsurances Liability Compared",
@@ -29025,5 +29051,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:43:58.551Z"
+  "lastUpdated": "2026-10-25T23:44:03.314Z"
 }
