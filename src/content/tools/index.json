@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ecourtsindia-delhi-cause-lists",
+      "slug": "ecourtsindia-delhi-cause-lists",
+      "title": "eCourtsIndia Delhi Cause Lists",
+      "description": "We read 80 Delhi district cause-list rows from two days in April 2026.",
+      "author": "Sunny Mittal (eCourtsIndia)",
+      "username": "ecourtsindia",
+      "user_id": "de71bfde-bac1-47b0-89e2-1b0a2eb468c1",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "courts",
+        "legal",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T22:34:32.085Z",
+      "heroImage": "",
+      "toolUrl": "https://blogs.ecourtsindia.com/2026/04/24/one-week-of-delhi-cause-lists-the-miscellaneous-problem/"
+    },
+    {
       "id": "ecourtsindia-what-is-mcp-a-guide-for-indian",
       "slug": "ecourtsindia-what-is-mcp-a-guide-for-indian",
       "title": "eCourtsIndia What Is MCP? A Guide for Indian",
@@ -25879,5 +25905,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T22:34:29.910Z"
+  "lastUpdated": "2026-10-25T22:34:33.508Z"
 }
