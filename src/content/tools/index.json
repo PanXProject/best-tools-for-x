@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "indiacos-rbi-nbfc-register",
+      "slug": "indiacos-rbi-nbfc-register",
+      "title": "IndiaCos RBI NBFC Register",
+      "description": "8,529 RBI-registered NBFCs and ARCs, A to Z, with NBFC type, regulator",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "nbfc",
+        "rbi",
+        "companies",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T17:31:22.590Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/nbfc"
+    },
+    {
       "id": "indiacos-insolvency-announcements",
       "slug": "indiacos-insolvency-announcements",
       "title": "IndiaCos Insolvency Announcements",
@@ -21375,5 +21402,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T17:31:19.633Z"
+  "lastUpdated": "2026-10-25T17:31:24.038Z"
 }
