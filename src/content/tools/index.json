@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "youth4work-cmat-practice-tests",
+      "slug": "youth4work-cmat-practice-tests",
+      "title": "Youth4work CMAT Practice Tests",
+      "description": "CMAT preparation on Youth4work Prep: 5,137 questions and 5 full mock t",
+      "author": "Sunny Mittal (Youth4work)",
+      "username": "youth4work",
+      "user_id": "a76d2f60-1fe5-44c8-b736-f4e82dcdab43",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "education",
+        "exams",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:35:54.445Z",
+      "heroImage": "",
+      "toolUrl": "https://www.prep.youth4work.com/Management/CMAT-Test"
+    },
+    {
       "id": "youth4work-mht-cet-practice-tests",
       "slug": "youth4work-mht-cet-practice-tests",
       "title": "Youth4work MHT CET Practice Tests",
@@ -27153,5 +27179,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:35:52.366Z"
+  "lastUpdated": "2026-10-25T23:35:55.991Z"
 }
