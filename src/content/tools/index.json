@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "jurisgrid-indian-legal-tech-faq",
+      "slug": "jurisgrid-indian-legal-tech-faq",
+      "title": "JurisGrid Indian Legal Tech FAQ",
+      "description": "Quick answers on Indian legal tech: how many startups, the main sector",
+      "author": "Sunny Mittal (JurisGrid)",
+      "username": "jurisgrid",
+      "user_id": "65b43be5-f546-4ff8-8960-272c2c363204",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "legal-tech",
+        "faq",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T13:33:47.157Z",
+      "heroImage": "",
+      "toolUrl": "https://jurisgrid.com/#faq"
+    },
+    {
       "id": "jurisgrid-llms-txt-for-ai-assistants",
       "slug": "jurisgrid-llms-txt-for-ai-assistants",
       "title": "JurisGrid llms.txt for AI Assistants",
@@ -20746,5 +20772,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T13:33:44.544Z"
+  "lastUpdated": "2026-10-25T13:33:48.573Z"
 }
