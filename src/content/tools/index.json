@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiarestros-restaurants-in-delhi",
+      "slug": "indiarestros-restaurants-in-delhi",
+      "title": "IndiaRestros Restaurants in Delhi",
+      "description": "58,669 Delhi restaurants with phone numbers, timings, menus and cuisin",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "restaurants",
+        "food",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T20:31:25.733Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/in/delhi"
+    },
+    {
       "id": "indiarestros-restaurants-in-mumbai",
       "slug": "indiarestros-restaurants-in-mumbai",
       "title": "IndiaRestros Restaurants in Mumbai",
@@ -22887,5 +22913,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T20:31:23.398Z"
+  "lastUpdated": "2026-10-25T20:31:27.145Z"
 }
