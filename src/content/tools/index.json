@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "indiacos-sebi-intermediaries-list",
+      "slug": "indiacos-sebi-intermediaries-list",
+      "title": "IndiaCos SEBI Intermediaries List",
+      "description": "27,526 SEBI registrations in 23 categories: brokers, advisers, researc",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "sebi",
+        "brokers",
+        "advisers",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T17:31:26.512Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/sebi-registered"
+    },
+    {
       "id": "indiacos-rbi-nbfc-register",
       "slug": "indiacos-rbi-nbfc-register",
       "title": "IndiaCos RBI NBFC Register",
@@ -21402,5 +21429,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T17:31:24.038Z"
+  "lastUpdated": "2026-10-25T17:31:28.113Z"
 }
