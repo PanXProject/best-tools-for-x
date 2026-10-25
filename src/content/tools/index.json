@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiainsurances-pension-plan-comparison",
+      "slug": "indiainsurances-pension-plan-comparison",
+      "title": "IndiaInsurances Pension Plan Comparison",
+      "description": "106 pension and annuity policies in India compared on annuity options ",
+      "author": "Sunny Mittal (IndiaInsurances)",
+      "username": "indiainsurances",
+      "user_id": "0811076b-d5c2-420b-b1a7-42656b91c880",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "insurance",
+        "india",
+        "compare"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T20:30:39.445Z",
+      "heroImage": "",
+      "toolUrl": "https://indiainsurances.com/compare/pension-annuity"
+    },
+    {
       "id": "indiainsurances-compare-insurers",
       "slug": "indiainsurances-compare-insurers",
       "title": "IndiaInsurances Compare Insurers",
@@ -22575,5 +22601,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T20:30:37.370Z"
+  "lastUpdated": "2026-10-25T20:30:40.910Z"
 }
