@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "youth4work-ssc-stenographer-practice-tests",
+      "slug": "youth4work-ssc-stenographer-practice-tests",
+      "title": "Youth4work SSC Stenographer Practice Tests",
+      "description": "SSC Stenographer preparation on Youth4work Prep: 3,372 questions and 5",
+      "author": "Sunny Mittal (Youth4work)",
+      "username": "youth4work",
+      "user_id": "a76d2f60-1fe5-44c8-b736-f4e82dcdab43",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "education",
+        "exams",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:36:16.636Z",
+      "heroImage": "",
+      "toolUrl": "https://www.prep.youth4work.com/Government-Jobs/SSC-Stenographer-Test"
+    },
+    {
       "id": "youth4work-ibps-specialist-officer-practice-tests",
       "slug": "youth4work-ibps-specialist-officer-practice-tests",
       "title": "Youth4work IBPS Specialist Officer Practice Tests",
@@ -27309,5 +27335,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:36:14.453Z"
+  "lastUpdated": "2026-10-25T23:36:18.031Z"
 }
