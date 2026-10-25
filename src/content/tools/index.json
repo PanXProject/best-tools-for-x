@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-office-sale-office-businesses-in-india",
+      "slug": "indiacos-office-sale-office-businesses-in-india",
+      "title": "IndiaCos Office / Sale Office businesses in India",
+      "description": "5,23,503 office / sale office businesses in India registered under GST",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "gst",
+        "companies",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:45:12.364Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/business-type/office"
+    },
+    {
       "id": "indiacos-works-contract-businesses-in-india",
       "slug": "indiacos-works-contract-businesses-in-india",
       "title": "IndiaCos Works Contract businesses in India",
@@ -29493,5 +29519,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:45:09.974Z"
+  "lastUpdated": "2026-10-25T23:45:13.929Z"
 }
