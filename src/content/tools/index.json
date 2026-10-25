@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiarestros-where-to-eat-masala-dosa",
+      "slug": "indiarestros-where-to-eat-masala-dosa",
+      "title": "IndiaRestros Where to Eat Masala Dosa",
+      "description": "763 places in India serving masala dosa, from Rs 15 to Rs 275, with ve",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "restaurants",
+        "food",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T20:31:37.063Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/dish/masala-dosa"
+    },
+    {
       "id": "indiarestros-north-indian-restaurants",
       "slug": "indiarestros-north-indian-restaurants",
       "title": "IndiaRestros North Indian Restaurants",
@@ -22965,5 +22991,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T20:31:34.656Z"
+  "lastUpdated": "2026-10-25T20:31:38.481Z"
 }
