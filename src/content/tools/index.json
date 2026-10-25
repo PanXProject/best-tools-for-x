@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "youth4work-nmat-practice-tests",
+      "slug": "youth4work-nmat-practice-tests",
+      "title": "Youth4work NMAT Practice Tests",
+      "description": "NMAT preparation on Youth4work Prep: 1,957 questions and 5 full mock t",
+      "author": "Sunny Mittal (Youth4work)",
+      "username": "youth4work",
+      "user_id": "a76d2f60-1fe5-44c8-b736-f4e82dcdab43",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "education",
+        "exams",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:43:15.244Z",
+      "heroImage": "",
+      "toolUrl": "https://www.prep.youth4work.com/Management/NMAT-Test"
+    },
+    {
       "id": "youth4work-rrb-je-practice-tests",
       "slug": "youth4work-rrb-je-practice-tests",
       "title": "Youth4work RRB JE Practice Tests",
@@ -28713,5 +28739,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:43:12.746Z"
+  "lastUpdated": "2026-10-25T23:43:16.568Z"
 }
