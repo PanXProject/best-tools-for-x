@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "data-galactica-top-companies-in-the-united-kingdom",
+      "slug": "data-galactica-top-companies-in-the-united-kingdom",
+      "title": "Data Galactica Top Companies in the United Kingdom",
+      "description": "The best-known companies in the United Kingdom, each with a Galactica ",
+      "author": "Sunny Mittal (Data Galactica)",
+      "username": "datagalactica",
+      "user_id": "bb6680d7-72f5-483e-90c5-ab7e44f8f740",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "companies",
+        "data",
+        "directory"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T21:29:11.729Z",
+      "heroImage": "",
+      "toolUrl": "https://datagalactica.com/companies/top/gb"
+    },
+    {
       "id": "data-galactica-top-companies-in-the-united-states",
       "slug": "data-galactica-top-companies-in-the-united-states",
       "title": "Data Galactica Top Companies in the United States",
@@ -23615,5 +23641,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T21:29:09.415Z"
+  "lastUpdated": "2026-10-25T21:29:13.091Z"
 }
