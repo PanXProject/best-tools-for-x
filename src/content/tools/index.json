@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "youth4work-ssc-chsl-practice-tests",
+      "slug": "youth4work-ssc-chsl-practice-tests",
+      "title": "Youth4work SSC CHSL Practice Tests",
+      "description": "SSC CHSL preparation on Youth4work Prep: 8,073 questions and 5 mock te",
+      "author": "Sunny Mittal (Youth4work)",
+      "username": "youth4work",
+      "user_id": "a76d2f60-1fe5-44c8-b736-f4e82dcdab43",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "education",
+        "exams",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T21:30:08.445Z",
+      "heroImage": "",
+      "toolUrl": "https://www.prep.youth4work.com/Government-Jobs/SSC-CHSL-Test"
+    },
+    {
       "id": "youth4work-aiims-practice-tests",
       "slug": "youth4work-aiims-practice-tests",
       "title": "Youth4work AIIMS Practice Tests",
@@ -24031,5 +24057,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T21:30:05.772Z"
+  "lastUpdated": "2026-10-25T21:30:10.309Z"
 }
