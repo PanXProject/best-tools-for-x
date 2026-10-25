@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "how-to-import-your-cases-from-the-ecourts",
+      "slug": "how-to-import-your-cases-from-the-ecourts",
+      "title": "How to Import Your Cases From the eCourts",
+      "description": "Move saved cases from the eCourts Services app in one go: export My Ca",
+      "author": "Sunny Mittal (eCourtsIndia)",
+      "username": "ecourtsindia",
+      "user_id": "de71bfde-bac1-47b0-89e2-1b0a2eb468c1",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "courts",
+        "legal",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T22:30:54.597Z",
+      "heroImage": "",
+      "toolUrl": "https://blogs.ecourtsindia.com/2026/10/07/import-cases-ecourts-services-app-bulk-cnr-upload/"
+    },
+    {
       "id": "ecourtsindia-hiring-a-driver-maid-or-caregiver",
       "slug": "ecourtsindia-hiring-a-driver-maid-or-caregiver",
       "title": "eCourtsIndia Hiring a Driver, Maid or Caregiver",
@@ -25541,5 +25567,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T22:30:52.419Z"
+  "lastUpdated": "2026-10-25T22:30:56.007Z"
 }
