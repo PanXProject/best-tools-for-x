@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "india-property-register-maharashtra-rera-projects",
+      "slug": "india-property-register-maharashtra-rera-projects",
+      "title": "India Property Register Maharashtra RERA Projects",
+      "description": "50,114 MahaRERA-registered projects with promoter, location, registrat",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "rera",
+        "maharashtra",
+        "real-estate"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T16:30:49.538Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/rera/maharashtra"
+    },
+    {
       "id": "india-property-register-land-records-by-state",
       "slug": "india-property-register-land-records-by-state",
       "title": "India Property Register Land Records by State",
@@ -21296,5 +21322,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T16:30:46.655Z"
+  "lastUpdated": "2026-10-25T16:30:51.352Z"
 }
