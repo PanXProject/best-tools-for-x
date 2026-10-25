@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ecourtsindia-litigant-directory",
+      "slug": "ecourtsindia-litigant-directory",
+      "title": "eCourtsIndia Litigant Directory",
+      "description": "Find the court cases of a party, company or public body in India, brow",
+      "author": "Sunny Mittal (eCourtsIndia)",
+      "username": "ecourtsindia",
+      "user_id": "de71bfde-bac1-47b0-89e2-1b0a2eb468c1",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "litigants",
+        "court-records",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T13:33:31.396Z",
+      "heroImage": "",
+      "toolUrl": "https://ecourtsindia.com/litigant"
+    },
+    {
       "id": "ecourtsindia-case-search",
       "slug": "ecourtsindia-case-search",
       "title": "eCourtsIndia Case Search",
@@ -20640,5 +20666,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T13:33:29.186Z"
+  "lastUpdated": "2026-10-25T13:33:33.149Z"
 }
