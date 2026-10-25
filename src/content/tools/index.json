@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-rbi-nbfc-microfinance-institutions",
+      "slug": "indiacos-rbi-nbfc-microfinance-institutions",
+      "title": "IndiaCos RBI NBFC-Microfinance Institutions",
+      "description": "93 RBI-registered NBFC-Microfinance Institutions from the Reserve Bank",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "companies",
+        "finance",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:39:03.992Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/nbfc/nbfc-microfinance-institution"
+    },
+    {
       "id": "indiacos-rbi-nbfc-type-i-no-public-funds-no",
       "slug": "indiacos-rbi-nbfc-type-i-no-public-funds-no",
       "title": "IndiaCos RBI NBFC Type I (no public funds, no",
@@ -28505,5 +28531,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:39:01.507Z"
+  "lastUpdated": "2026-10-25T23:39:05.388Z"
 }
