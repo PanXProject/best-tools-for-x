@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "youth4work-army-welfare-education-society-awes",
+      "slug": "youth4work-army-welfare-education-society-awes",
+      "title": "Youth4work Army Welfare Education Society (AWES)",
+      "description": "Army Welfare Education Society (AWES) PGT TGT PRT preparation on Youth",
+      "author": "Sunny Mittal (Youth4work)",
+      "username": "youth4work",
+      "user_id": "a76d2f60-1fe5-44c8-b736-f4e82dcdab43",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "education",
+        "exams",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:36:59.310Z",
+      "heroImage": "",
+      "toolUrl": "https://www.prep.youth4work.com/Government-Jobs/Army-Welfare-Education-Society-(AWES)-PGT-TGT-PRT-Test"
+    },
+    {
       "id": "youth4work-cbse-class-10-practice-tests",
       "slug": "youth4work-cbse-class-10-practice-tests",
       "title": "Youth4work CBSE Class 10 Practice Tests",
@@ -27621,5 +27647,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:36:57.316Z"
+  "lastUpdated": "2026-10-25T23:37:00.740Z"
 }
