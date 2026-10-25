@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-rera-projects-uttar-pradesh",
+      "slug": "ipr-rera-projects-uttar-pradesh",
+      "title": "IPR RERA Projects Uttar Pradesh",
+      "description": "3,832 RERA registered projects in Uttar Pradesh with promoter, locatio",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "real-estate",
+        "rera",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T20:31:10.365Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/rera/uttar-pradesh"
+    },
+    {
       "id": "ipr-rera-projects-tamil-nadu",
       "slug": "ipr-rera-projects-tamil-nadu",
       "title": "IPR RERA Projects Tamil Nadu",
@@ -22783,5 +22809,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T20:31:08.120Z"
+  "lastUpdated": "2026-10-25T20:31:12.018Z"
 }
