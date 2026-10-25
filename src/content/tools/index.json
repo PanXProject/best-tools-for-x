@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiainsurances-hospital-daily-cash-compared",
+      "slug": "indiainsurances-hospital-daily-cash-compared",
+      "title": "IndiaInsurances Hospital daily cash Compared",
+      "description": "33 hospital daily cash policies sold in India in one table: daily amou",
+      "author": "Sunny Mittal (IndiaInsurances)",
+      "username": "indiainsurances",
+      "user_id": "0811076b-d5c2-420b-b1a7-42656b91c880",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "insurance",
+        "compare",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:43:53.108Z",
+      "heroImage": "",
+      "toolUrl": "https://indiainsurances.com/compare/hospital-cash"
+    },
+    {
       "id": "indiainsurances-endowment-and-savings-plans",
       "slug": "indiainsurances-endowment-and-savings-plans",
       "title": "IndiaInsurances Endowment and savings plans",
@@ -28973,5 +28999,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:43:50.663Z"
+  "lastUpdated": "2026-10-25T23:43:54.624Z"
 }
