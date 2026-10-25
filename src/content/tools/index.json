@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ecourtsindia-how-to-enable-case-alerts",
+      "slug": "ecourtsindia-how-to-enable-case-alerts",
+      "title": "eCourtsIndia How to Enable Case Alerts",
+      "description": "Get WhatsApp and email alerts when your court case gets a new order, h",
+      "author": "Sunny Mittal (eCourtsIndia)",
+      "username": "ecourtsindia",
+      "user_id": "de71bfde-bac1-47b0-89e2-1b0a2eb468c1",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "courts",
+        "legal",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T22:30:12.140Z",
+      "heroImage": "",
+      "toolUrl": "https://blogs.ecourtsindia.com/2026/07/23/enable-case-alerts-court-case-india/"
+    },
+    {
       "id": "how-to-connect-the-ecourtsindia-mcp-to-claude",
       "slug": "how-to-connect-the-ecourtsindia-mcp-to-claude",
       "title": "How to Connect the eCourtsIndia MCP to Claude",
@@ -25229,5 +25255,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T22:30:10.027Z"
+  "lastUpdated": "2026-10-25T22:30:13.392Z"
 }
