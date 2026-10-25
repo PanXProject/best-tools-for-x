@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-rbi-asset-reconstruction-companies",
+      "slug": "indiacos-rbi-asset-reconstruction-companies",
+      "title": "IndiaCos RBI Asset Reconstruction Companies",
+      "description": "27 RBI-registered Asset Reconstruction Companies from the Reserve Bank",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "companies",
+        "finance",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:38:34.232Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/nbfc/asset-reconstruction-company"
+    },
+    {
       "id": "indiacos-rbi-core-investment-companies",
       "slug": "indiacos-rbi-core-investment-companies",
       "title": "IndiaCos RBI Core Investment Companies",
@@ -28297,5 +28323,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:38:32.119Z"
+  "lastUpdated": "2026-10-25T23:38:35.674Z"
 }
