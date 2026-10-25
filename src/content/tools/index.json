@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "data-galactica-united-kingdom-companies",
+      "slug": "data-galactica-united-kingdom-companies",
+      "title": "Data Galactica United Kingdom Companies",
+      "description": "Browse 5,858,274 organisations in United Kingdom, each with a permanen",
+      "author": "Sunny Mittal (Data Galactica)",
+      "username": "datagalactica",
+      "user_id": "bb6680d7-72f5-483e-90c5-ab7e44f8f740",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "data",
+        "api",
+        "companies"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T19:43:12.386Z",
+      "heroImage": "",
+      "toolUrl": "https://datagalactica.com/companies/country/gb"
+    },
+    {
       "id": "data-galactica-india-companies",
       "slug": "data-galactica-india-companies",
       "title": "Data Galactica India Companies",
@@ -22263,5 +22289,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T19:43:09.889Z"
+  "lastUpdated": "2026-10-25T19:43:14.028Z"
 }
