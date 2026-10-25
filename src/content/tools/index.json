@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "svg-animation",
+      "slug": "svg-animation",
+      "title": "SVG Animation",
+      "description": "Animate vector artwork, refine motion and export SVG, GIF or MP4",
+      "author": "Bank Statement Converter",
+      "username": "bankstmt",
+      "user_id": "462d77a9-48f3-46ed-89f9-3c44991d1a29",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "svg",
+        "animation",
+        "design"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T09:22:19.926Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792920068/ci1wxz48yoezomrtgy72.png",
+      "toolUrl": "https://svganimation.app/"
+    },
+    {
       "id": "galactica-id",
       "slug": "galactica-id",
       "title": "Galactica ID",
@@ -19904,5 +19930,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T08:40:28.449Z"
+  "lastUpdated": "2026-10-25T09:22:21.608Z"
 }
