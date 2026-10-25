@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "youth4work-college-finder",
+      "slug": "youth4work-college-finder",
+      "title": "Youth4work College Finder",
+      "description": "Explore and compare colleges and courses in India, with college forums",
+      "author": "Sunny Mittal (Youth4work)",
+      "username": "youth4work",
+      "user_id": "a76d2f60-1fe5-44c8-b736-f4e82dcdab43",
+      "categories": [
+        "Manage People"
+      ],
+      "tags": [
+        "colleges",
+        "courses",
+        "students",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T17:31:45.560Z",
+      "heroImage": "",
+      "toolUrl": "https://www.university.youth4work.com/"
+    },
+    {
       "id": "indiainsurances-complaint-helper",
       "slug": "indiainsurances-complaint-helper",
       "title": "IndiaInsurances Complaint Helper",
@@ -21533,5 +21560,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T17:31:43.112Z"
+  "lastUpdated": "2026-10-25T17:31:47.331Z"
 }
