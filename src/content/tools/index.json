@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-rbi-investment-and-credit-companies",
+      "slug": "indiacos-rbi-investment-and-credit-companies",
+      "title": "IndiaCos RBI Investment and Credit Companies",
+      "description": "8,033 RBI-registered Investment and Credit Companies from the Reserve ",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "companies",
+        "finance",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:39:07.510Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/nbfc/investment-and-credit-company"
+    },
+    {
       "id": "indiacos-rbi-nbfc-microfinance-institutions",
       "slug": "indiacos-rbi-nbfc-microfinance-institutions",
       "title": "IndiaCos RBI NBFC-Microfinance Institutions",
@@ -28531,5 +28557,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:39:05.388Z"
+  "lastUpdated": "2026-10-25T23:39:08.953Z"
 }
