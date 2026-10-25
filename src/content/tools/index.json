@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiarestros-restaurants-in-pune",
+      "slug": "indiarestros-restaurants-in-pune",
+      "title": "IndiaRestros Restaurants in Pune",
+      "description": "35,112 Pune restaurants with phone numbers, timings, menus and cuisine",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "restaurants",
+        "food",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T20:39:03.525Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/in/pune"
+    },
+    {
       "id": "indiarestros-restaurants-in-chennai",
       "slug": "indiarestros-restaurants-in-chennai",
       "title": "IndiaRestros Restaurants in Chennai",
@@ -23355,5 +23381,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T20:39:01.372Z"
+  "lastUpdated": "2026-10-25T20:39:05.097Z"
 }
