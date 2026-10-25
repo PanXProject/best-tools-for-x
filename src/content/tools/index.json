@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "data-galactica-talent-by-city",
+      "slug": "data-galactica-talent-by-city",
+      "title": "Data Galactica Talent by City",
+      "description": "Roles and skills people list in 1,199 cities, as counts only with no p",
+      "author": "Sunny Mittal (Data Galactica)",
+      "username": "datagalactica",
+      "user_id": "bb6680d7-72f5-483e-90c5-ab7e44f8f740",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "talent",
+        "cities",
+        "labour-market"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T16:30:33.567Z",
+      "heroImage": "",
+      "toolUrl": "https://datagalactica.com/talent"
+    },
+    {
       "id": "data-galactica-top-companies-by-country",
       "slug": "data-galactica-top-companies-by-country",
       "title": "Data Galactica Top Companies by Country",
@@ -21192,5 +21218,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T16:30:31.254Z"
+  "lastUpdated": "2026-10-25T16:30:35.170Z"
 }
