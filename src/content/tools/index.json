@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "data-galactica-talent-in-mumbai",
+      "slug": "data-galactica-talent-in-mumbai",
+      "title": "Data Galactica Talent in Mumbai",
+      "description": "Top roles and skills of about 12,90,134 people in Mumbai, as counts, w",
+      "author": "Sunny Mittal (Data Galactica)",
+      "username": "datagalactica",
+      "user_id": "bb6680d7-72f5-483e-90c5-ab7e44f8f740",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "talent",
+        "skills",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T21:28:50.489Z",
+      "heroImage": "",
+      "toolUrl": "https://datagalactica.com/talent/mumbai"
+    },
+    {
       "id": "data-galactica-talent-in-bangalore",
       "slug": "data-galactica-talent-in-bangalore",
       "title": "Data Galactica Talent in Bangalore",
@@ -23459,5 +23485,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T21:28:48.116Z"
+  "lastUpdated": "2026-10-25T21:28:51.951Z"
 }
