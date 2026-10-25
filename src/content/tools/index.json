@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "youth4work-cbse-class-10-practice-tests",
+      "slug": "youth4work-cbse-class-10-practice-tests",
+      "title": "Youth4work CBSE Class 10 Practice Tests",
+      "description": "CBSE Class 10 preparation on Youth4work Prep: 4,714 questions and 5 fu",
+      "author": "Sunny Mittal (Youth4work)",
+      "username": "youth4work",
+      "user_id": "a76d2f60-1fe5-44c8-b736-f4e82dcdab43",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "education",
+        "exams",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:36:55.976Z",
+      "heroImage": "",
+      "toolUrl": "https://www.prep.youth4work.com/Central-Board-of-Secondary-Education(CBSE)/Class-10-Test"
+    },
+    {
       "id": "youth4work-mpsc-practice-tests",
       "slug": "youth4work-mpsc-practice-tests",
       "title": "Youth4work MPSC Practice Tests",
@@ -27595,5 +27621,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:36:53.878Z"
+  "lastUpdated": "2026-10-25T23:36:57.316Z"
 }
