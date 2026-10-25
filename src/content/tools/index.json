@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "indiainsurances-policy-compare",
+      "slug": "indiainsurances-policy-compare",
+      "title": "IndiaInsurances Policy Compare",
+      "description": "Compare Indian insurance policies and insurers side by side, clause by",
+      "author": "Sunny Mittal (IndiaInsurances)",
+      "username": "indiainsurances",
+      "user_id": "0811076b-d5c2-420b-b1a7-42656b91c880",
+      "categories": [
+        "Manage Money"
+      ],
+      "tags": [
+        "insurance",
+        "compare",
+        "policies",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T08:40:15.506Z",
+      "heroImage": "",
+      "toolUrl": "https://indiainsurances.com/compare"
+    },
+    {
       "id": "indiacos-gstin-search",
       "slug": "indiacos-gstin-search",
       "title": "IndiaCos GSTIN Search",
@@ -19797,5 +19824,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T08:40:13.396Z"
+  "lastUpdated": "2026-10-25T08:40:17.031Z"
 }
