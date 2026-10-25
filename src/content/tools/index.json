@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ecourtsindia-case-search",
+      "slug": "ecourtsindia-case-search",
+      "title": "eCourtsIndia Case Search",
+      "description": "Search Indian court and tribunal cases by party, advocate, judge, cour",
+      "author": "Sunny Mittal (eCourtsIndia)",
+      "username": "ecourtsindia",
+      "user_id": "de71bfde-bac1-47b0-89e2-1b0a2eb468c1",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "court-cases",
+        "legal-research",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T13:33:27.387Z",
+      "heroImage": "",
+      "toolUrl": "https://ecourtsindia.com/search"
+    },
+    {
       "id": "indiarestros-ranking-formula",
       "slug": "indiarestros-ranking-formula",
       "title": "IndiaRestros Ranking Formula",
@@ -20614,5 +20640,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T12:37:57.033Z"
+  "lastUpdated": "2026-10-25T13:33:29.186Z"
 }
