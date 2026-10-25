@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "your-advocate-profile-on-ecourtsindia-is-free",
+      "slug": "your-advocate-profile-on-ecourtsindia-is-free",
+      "title": "Your Advocate Profile on eCourtsIndia Is Free",
+      "description": "List a free, Bar Card verified advocate profile on eCourtsIndia so cli",
+      "author": "Sunny Mittal (eCourtsIndia)",
+      "username": "ecourtsindia",
+      "user_id": "de71bfde-bac1-47b0-89e2-1b0a2eb468c1",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "courts",
+        "legal",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T22:29:18.842Z",
+      "heroImage": "",
+      "toolUrl": "https://blogs.ecourtsindia.com/2026/05/23/claim-free-advocate-profile-ecourtsindia/"
+    },
+    {
       "id": "ecourtsindia-section-138-case-tracking-for-banks",
       "slug": "ecourtsindia-section-138-case-tracking-for-banks",
       "title": "eCourtsIndia Section 138 Case Tracking for Banks",
@@ -24839,5 +24865,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T22:29:16.680Z"
+  "lastUpdated": "2026-10-25T22:29:20.375Z"
 }
