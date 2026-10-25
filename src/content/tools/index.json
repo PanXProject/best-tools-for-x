@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiarestros-north-indian-restaurants",
+      "slug": "indiarestros-north-indian-restaurants",
+      "title": "IndiaRestros North Indian Restaurants",
+      "description": "3,50,260 North Indian restaurants across India by city and area, with ",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "restaurants",
+        "food",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T20:31:33.147Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/cuisine/north-indian"
+    },
+    {
       "id": "indiarestros-restaurants-in-bengaluru",
       "slug": "indiarestros-restaurants-in-bengaluru",
       "title": "IndiaRestros Restaurants in Bengaluru",
@@ -22939,5 +22965,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T20:31:31.156Z"
+  "lastUpdated": "2026-10-25T20:31:34.656Z"
 }
