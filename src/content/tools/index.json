@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiainsurances-kshema-general-insurance",
+      "slug": "indiainsurances-kshema-general-insurance",
+      "title": "IndiaInsurances Kshema General Insurance",
+      "description": "Kshema General Insurance Limited: every general insurance product with",
+      "author": "Sunny Mittal (IndiaInsurances)",
+      "username": "indiainsurances",
+      "user_id": "0811076b-d5c2-420b-b1a7-42656b91c880",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "insurance",
+        "india",
+        "compare"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:44:22.096Z",
+      "heroImage": "",
+      "toolUrl": "https://indiainsurances.com/insurer/kshema-general-insurance"
+    },
+    {
       "id": "indiainsurances-kiwi-general-insurance",
       "slug": "indiainsurances-kiwi-general-insurance",
       "title": "IndiaInsurances Kiwi General Insurance",
@@ -29155,5 +29181,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:44:19.926Z"
+  "lastUpdated": "2026-10-25T23:44:24.005Z"
 }
