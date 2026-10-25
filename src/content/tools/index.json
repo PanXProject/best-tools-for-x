@@ -1,6 +1,33 @@
 {
   "tools": [
     {
+      "id": "jurisgrid-llms-txt-for-ai-assistants",
+      "slug": "jurisgrid-llms-txt-for-ai-assistants",
+      "title": "JurisGrid llms.txt for AI Assistants",
+      "description": "A plain-text, AI-readable summary of the Indian legal tech landscape f",
+      "author": "Sunny Mittal (JurisGrid)",
+      "username": "jurisgrid",
+      "user_id": "65b43be5-f546-4ff8-8960-272c2c363204",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "legal-tech",
+        "llmstxt",
+        "ai",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T13:33:43.126Z",
+      "heroImage": "",
+      "toolUrl": "https://jurisgrid.com/llms.txt"
+    },
+    {
       "id": "jurisgrid-legal-tech-startup-directory",
       "slug": "jurisgrid-legal-tech-startup-directory",
       "title": "JurisGrid Legal Tech Startup Directory",
@@ -20719,5 +20746,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T13:33:41.088Z"
+  "lastUpdated": "2026-10-25T13:33:44.544Z"
 }
