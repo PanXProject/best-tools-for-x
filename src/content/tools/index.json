@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-rera-projects-kerala",
+      "slug": "ipr-rera-projects-kerala",
+      "title": "IPR RERA Projects Kerala",
+      "description": "1,686 RERA registered projects in Kerala with promoter, location and c",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "real-estate",
+        "rera",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T20:38:45.337Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/rera/kerala"
+    },
+    {
       "id": "indiacos-telangana-gst-businesses",
       "slug": "indiacos-telangana-gst-businesses",
       "title": "IndiaCos Telangana GST Businesses",
@@ -23225,5 +23251,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T20:38:43.409Z"
+  "lastUpdated": "2026-10-25T20:38:46.812Z"
 }
