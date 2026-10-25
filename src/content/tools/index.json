@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "youth4work",
+      "slug": "youth4work",
+      "title": "Youth4work",
+      "description": "Identify, improve and showcase your talents",
+      "author": "Sunny Mittal (Youth4work)",
+      "username": "youth4work",
+      "user_id": "a76d2f60-1fe5-44c8-b736-f4e82dcdab43",
+      "categories": [
+        "Manage People"
+      ],
+      "tags": [
+        "skill-tests",
+        "assessments",
+        "jobs",
+        "india",
+        "careers"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T00:58:35.589Z",
+      "heroImage": "",
+      "toolUrl": "https://www.youth4work.com/"
+    },
+    {
       "id": "indiacos",
       "slug": "indiacos",
       "title": "IndiaCos",
@@ -19370,5 +19398,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T00:58:30.181Z"
+  "lastUpdated": "2026-10-25T00:58:37.214Z"
 }
