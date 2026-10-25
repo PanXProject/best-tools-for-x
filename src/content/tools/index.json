@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiainsurances-hdfc-ergo-general-insurance",
+      "slug": "indiainsurances-hdfc-ergo-general-insurance",
+      "title": "IndiaInsurances HDFC ERGO General Insurance",
+      "description": "HDFC ERGO General Insurance Company Limited: every general insurance p",
+      "author": "Sunny Mittal (IndiaInsurances)",
+      "username": "indiainsurances",
+      "user_id": "0811076b-d5c2-420b-b1a7-42656b91c880",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "insurance",
+        "india",
+        "compare"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T23:37:59.264Z",
+      "heroImage": "",
+      "toolUrl": "https://indiainsurances.com/insurer/hdfc-ergo-general-insurance"
+    },
+    {
       "id": "indiainsurances-go-digit-general-insurance",
       "slug": "indiainsurances-go-digit-general-insurance",
       "title": "IndiaInsurances Go Digit General Insurance",
@@ -28063,5 +28089,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:37:57.006Z"
+  "lastUpdated": "2026-10-25T23:38:01.290Z"
 }
