@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ecourtsindia-the-5-am-cause-list-problem-and-how",
+      "slug": "ecourtsindia-the-5-am-cause-list-problem-and-how",
+      "title": "eCourtsIndia The 5 AM Cause List Problem, and How",
+      "description": "Get tomorrow's district court cause list by your name: free search, a ",
+      "author": "Sunny Mittal (eCourtsIndia)",
+      "username": "ecourtsindia",
+      "user_id": "de71bfde-bac1-47b0-89e2-1b0a2eb468c1",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "courts",
+        "legal",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-25T22:34:35.583Z",
+      "heroImage": "",
+      "toolUrl": "https://blogs.ecourtsindia.com/2026/04/24/5am-cause-list-automation-claude-mcp/"
+    },
+    {
       "id": "ecourtsindia-delhi-cause-lists",
       "slug": "ecourtsindia-delhi-cause-lists",
       "title": "eCourtsIndia Delhi Cause Lists",
@@ -25905,5 +25931,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T22:34:33.508Z"
+  "lastUpdated": "2026-10-25T22:34:37.074Z"
 }
