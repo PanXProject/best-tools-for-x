@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-bank-auctions-odisha",
+      "slug": "ipr-bank-auctions-odisha",
+      "title": "IPR Bank Auctions Odisha",
+      "description": "1,753 bank auction property listings in Odisha with reserve price, ban",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "real-estate",
+        "property",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:45:35.147Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/auctions/odisha"
+    },
+    {
       "id": "ipr-bank-auctions-nagaland",
       "slug": "ipr-bank-auctions-nagaland",
       "title": "IPR Bank Auctions Nagaland",
@@ -32665,5 +32691,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:45:32.748Z"
+  "lastUpdated": "2026-10-26T00:45:37.087Z"
 }
