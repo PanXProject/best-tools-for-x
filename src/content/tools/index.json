@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-fcra-associations-in-karnataka",
+      "slug": "indiacos-fcra-associations-in-karnataka",
+      "title": "IndiaCos FCRA Associations in Karnataka",
+      "description": "1,353 associations in Karnataka with an active FCRA registration, with",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "ngo",
+        "fcra",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:37:49.572Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/fcra/karnataka"
+    },
+    {
       "id": "indiacos-fcra-associations-in-jharkhand",
       "slug": "indiacos-fcra-associations-in-jharkhand",
       "title": "IndiaCos FCRA Associations in Jharkhand",
@@ -35817,5 +35843,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:37:47.417Z"
+  "lastUpdated": "2026-10-26T01:37:50.979Z"
 }
