@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-shared-business-addresses-in-odisha",
+      "slug": "indiacos-shared-business-addresses-in-odisha",
+      "title": "IndiaCos Shared Business Addresses in Odisha",
+      "description": "2,882 addresses in Odisha used by two or more companies, LLPs or GST r",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "companies",
+        "addresses",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:33:58.950Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/offices/odisha"
+    },
+    {
       "id": "indiacos-shared-business-addresses-in-jharkhand",
       "slug": "indiacos-shared-business-addresses-in-jharkhand",
       "title": "IndiaCos Shared Business Addresses in Jharkhand",
@@ -34205,5 +34231,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:33:56.905Z"
+  "lastUpdated": "2026-10-26T01:34:00.485Z"
 }
