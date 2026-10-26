@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-fcra-associations-in-bihar",
+      "slug": "indiacos-fcra-associations-in-bihar",
+      "title": "IndiaCos FCRA Associations in Bihar",
+      "description": "318 associations in Bihar with an active FCRA registration, with regis",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "ngo",
+        "fcra",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:37:13.413Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/fcra/bihar"
+    },
+    {
       "id": "indiacos-fcra-associations-in-assam",
       "slug": "indiacos-fcra-associations-in-assam",
       "title": "IndiaCos FCRA Associations in Assam",
@@ -35557,5 +35583,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:37:11.358Z"
+  "lastUpdated": "2026-10-26T01:37:14.899Z"
 }
