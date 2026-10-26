@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-fcra-associations-in-jharkhand",
+      "slug": "indiacos-fcra-associations-in-jharkhand",
+      "title": "IndiaCos FCRA Associations in Jharkhand",
+      "description": "219 associations in Jharkhand with an active FCRA registration, with r",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "ngo",
+        "fcra",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:37:46.023Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/fcra/jharkhand"
+    },
+    {
       "id": "indiacos-fcra-associations-in-jammu-kashmir",
       "slug": "indiacos-fcra-associations-in-jammu-kashmir",
       "title": "IndiaCos FCRA Associations in Jammu & Kashmir",
@@ -35791,5 +35817,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:37:43.955Z"
+  "lastUpdated": "2026-10-26T01:37:47.417Z"
 }
