@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-fcra-associations-in-ladhakh",
+      "slug": "indiacos-fcra-associations-in-ladhakh",
+      "title": "IndiaCos FCRA Associations in Ladhakh",
+      "description": "46 associations in Ladhakh with an active FCRA registration, with regi",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "ngo",
+        "fcra",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:37:56.692Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/fcra/ladhakh"
+    },
+    {
       "id": "indiacos-fcra-associations-in-kerala",
       "slug": "indiacos-fcra-associations-in-kerala",
       "title": "IndiaCos FCRA Associations in Kerala",
@@ -35869,5 +35895,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:37:54.655Z"
+  "lastUpdated": "2026-10-26T01:37:58.092Z"
 }
