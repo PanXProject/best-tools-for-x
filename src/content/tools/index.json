@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-shared-business-addresses-in-uttarakhand",
+      "slug": "indiacos-shared-business-addresses-in-uttarakhand",
+      "title": "IndiaCos Shared Business Addresses in Uttarakhand",
+      "description": "1,603 addresses in Uttarakhand used by two or more companies, LLPs or ",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "companies",
+        "addresses",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:34:52.943Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/offices/uttarakhand"
+    },
+    {
       "id": "indiacos-shared-business-addresses-in-chandigarh",
       "slug": "indiacos-shared-business-addresses-in-chandigarh",
       "title": "IndiaCos Shared Business Addresses in Chandigarh",
@@ -34569,5 +34595,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:34:50.458Z"
+  "lastUpdated": "2026-10-26T01:34:54.479Z"
 }
