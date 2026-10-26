@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-fcra-associations-in-chhattisgarh",
+      "slug": "indiacos-fcra-associations-in-chhattisgarh",
+      "title": "IndiaCos FCRA Associations in Chhattisgarh",
+      "description": "137 associations in Chhattisgarh with an active FCRA registration, wit",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "ngo",
+        "fcra",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:37:20.695Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/fcra/chhattisgarh"
+    },
+    {
       "id": "indiacos-fcra-associations-in-chandigarh",
       "slug": "indiacos-fcra-associations-in-chandigarh",
       "title": "IndiaCos FCRA Associations in Chandigarh",
@@ -35609,5 +35635,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:37:18.653Z"
+  "lastUpdated": "2026-10-26T01:37:22.121Z"
 }
