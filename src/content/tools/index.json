@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiarestros-restaurants-in-ludhiana",
+      "slug": "indiarestros-restaurants-in-ludhiana",
+      "title": "IndiaRestros Restaurants in Ludhiana",
+      "description": "9,133 Ludhiana restaurants with phone numbers, timings, menus and cuis",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "restaurants",
+        "india",
+        "directory"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:38:09.556Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/in/ludhiana"
+    },
+    {
       "id": "indiarestros-restaurants-in-dehradun",
       "slug": "indiarestros-restaurants-in-dehradun",
       "title": "IndiaRestros Restaurants in Dehradun",
@@ -31703,5 +31729,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:38:07.548Z"
+  "lastUpdated": "2026-10-26T00:38:10.895Z"
 }
