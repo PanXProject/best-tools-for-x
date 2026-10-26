@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-pans-held-by-artificial-juridical-persons",
+      "slug": "indiacos-pans-held-by-artificial-juridical-persons",
+      "title": "IndiaCos PANs held by artificial juridical persons",
+      "description": "763 PANs whose 4th character is \"J\" (Artificial Juridical Person), eac",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "gst",
+        "pan",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:35:34.830Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/pan-type/artificial-juridical-person"
+    },
+    {
       "id": "indiacos-pans-held-by-government-bodies",
       "slug": "indiacos-pans-held-by-government-bodies",
       "title": "IndiaCos PANs held by government bodies",
@@ -34855,5 +34881,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:35:32.463Z"
+  "lastUpdated": "2026-10-26T01:35:36.354Z"
 }
