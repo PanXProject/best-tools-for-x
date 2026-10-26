@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-ibbi-claims-register",
+      "slug": "indiacos-ibbi-claims-register",
+      "title": "IndiaCos IBBI Claims Register",
+      "description": "7,864 companies and LLPs whose insolvency professional publishes a lis",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "insolvency",
+        "ibbi",
+        "companies"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:36:48.072Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/insolvency/claims"
+    },
+    {
       "id": "indiacos-gst-registrations-producer-company",
       "slug": "indiacos-gst-registrations-producer-company",
       "title": "IndiaCos GST Registrations: Producer Company",
@@ -35375,5 +35401,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:36:45.832Z"
+  "lastUpdated": "2026-10-26T01:36:49.411Z"
 }
