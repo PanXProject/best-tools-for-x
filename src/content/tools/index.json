@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-bank-auctions-tripura",
+      "slug": "ipr-bank-auctions-tripura",
+      "title": "IPR Bank Auctions Tripura",
+      "description": "190 bank auction property listings in Tripura with reserve price, bank",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "real-estate",
+        "property",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:45:54.480Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/auctions/tripura"
+    },
+    {
       "id": "ipr-bank-auctions-sikkim",
       "slug": "ipr-bank-auctions-sikkim",
       "title": "IPR Bank Auctions Sikkim",
@@ -32795,5 +32821,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:45:52.189Z"
+  "lastUpdated": "2026-10-26T00:45:55.932Z"
 }
