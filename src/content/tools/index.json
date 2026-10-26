@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-rajasthan-land-and-property-records",
+      "slug": "ipr-rajasthan-land-and-property-records",
+      "title": "IPR Rajasthan Land and Property Records",
+      "description": "Rajasthan: 50 districts and 36,321 villages. How to check land records",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "land-records",
+        "property",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:36:27.160Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/state/rajasthan"
+    },
+    {
       "id": "ipr-nagaland-land-and-property-records",
       "slug": "ipr-nagaland-land-and-property-records",
       "title": "IPR Nagaland Land and Property Records",
@@ -30923,5 +30949,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:36:25.167Z"
+  "lastUpdated": "2026-10-26T00:36:28.495Z"
 }
