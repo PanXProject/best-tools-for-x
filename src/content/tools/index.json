@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-gst-registrations-government-department",
+      "slug": "indiacos-gst-registrations-government-department",
+      "title": "IndiaCos GST Registrations: Government Department",
+      "description": "List of 31,658 government department registrations in India under GST,",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "gst",
+        "businesses",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:35:53.568Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/constitution/government-department"
+    },
+    {
       "id": "indiacos-gst-registrations-llp",
       "slug": "indiacos-gst-registrations-llp",
       "title": "IndiaCos GST Registrations: LLP",
@@ -34985,5 +35011,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:35:51.254Z"
+  "lastUpdated": "2026-10-26T01:35:54.980Z"
 }
