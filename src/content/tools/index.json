@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-rera-projects-rajasthan",
+      "slug": "ipr-rera-projects-rajasthan",
+      "title": "IPR RERA Projects Rajasthan",
+      "description": "5,403 RERA registered projects in Rajasthan with promoter, location an",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "real-estate",
+        "property",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:46:44.403Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/rera/rajasthan"
+    },
+    {
       "id": "ipr-rera-projects-punjab",
       "slug": "ipr-rera-projects-punjab",
       "title": "IPR RERA Projects Punjab",
@@ -33133,5 +33159,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:46:42.146Z"
+  "lastUpdated": "2026-10-26T00:46:45.908Z"
 }
