@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-shared-business-addresses-in-punjab",
+      "slug": "indiacos-shared-business-addresses-in-punjab",
+      "title": "IndiaCos Shared Business Addresses in Punjab",
+      "description": "3,427 addresses in Punjab used by two or more companies, LLPs or GST r",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "companies",
+        "addresses",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:34:45.300Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/offices/punjab"
+    },
+    {
       "id": "indiacos-business-addresses-himachal-pradesh",
       "slug": "indiacos-business-addresses-himachal-pradesh",
       "title": "IndiaCos Business Addresses: Himachal Pradesh",
@@ -34517,5 +34543,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:34:43.075Z"
+  "lastUpdated": "2026-10-26T01:34:46.777Z"
 }
