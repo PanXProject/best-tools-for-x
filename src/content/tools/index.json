@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-gst-registrations-individual",
+      "slug": "indiacos-gst-registrations-individual",
+      "title": "IndiaCos GST Registrations: Individual",
+      "description": "List of 233 individual registrations in India under GST, with GSTIN, s",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "gst",
+        "businesses",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:36:33.609Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/constitution/individual"
+    },
+    {
       "id": "indiacos-gst-registrations-joint-venture",
       "slug": "indiacos-gst-registrations-joint-venture",
       "title": "IndiaCos GST Registrations: Joint Venture",
@@ -35271,5 +35297,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:36:31.417Z"
+  "lastUpdated": "2026-10-26T01:36:34.954Z"
 }
