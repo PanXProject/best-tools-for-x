@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-west-bengal-land-and-property-records",
+      "slug": "ipr-west-bengal-land-and-property-records",
+      "title": "IPR West Bengal Land and Property Records",
+      "description": "West Bengal: 23 districts and 38,693 villages. How to check land recor",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "land-records",
+        "property",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:36:20.108Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/state/west-bengal"
+    },
+    {
       "id": "ipr-himachal-pradesh-land-and-property-records",
       "slug": "ipr-himachal-pradesh-land-and-property-records",
       "title": "IPR Himachal Pradesh Land and Property Records",
@@ -30871,5 +30897,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:36:18.093Z"
+  "lastUpdated": "2026-10-26T00:36:21.493Z"
 }
