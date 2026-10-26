@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-fcra-associations-in-arunachal-pradesh",
+      "slug": "indiacos-fcra-associations-in-arunachal-pradesh",
+      "title": "IndiaCos FCRA Associations in Arunachal Pradesh",
+      "description": "21 associations in Arunachal Pradesh with an active FCRA registration,",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "ngo",
+        "fcra",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:37:06.263Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/fcra/arunachal-pradesh"
+    },
+    {
       "id": "indiacos-fcra-associations-in-andhra-pradesh",
       "slug": "indiacos-fcra-associations-in-andhra-pradesh",
       "title": "IndiaCos FCRA Associations in Andhra Pradesh",
@@ -35505,5 +35531,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:37:04.153Z"
+  "lastUpdated": "2026-10-26T01:37:07.675Z"
 }
