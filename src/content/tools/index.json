@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-pans-held-by-companies",
+      "slug": "indiacos-pans-held-by-companies",
+      "title": "IndiaCos PANs held by companies",
+      "description": "5,19,444 PANs whose 4th character is \"C\" (Company), each with its GST ",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "gst",
+        "pan",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:35:03.682Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/pan-type/company"
+    },
+    {
       "id": "indiacos-shared-business-addresses-in-rajasthan",
       "slug": "indiacos-shared-business-addresses-in-rajasthan",
       "title": "IndiaCos Shared Business Addresses in Rajasthan",
@@ -34647,5 +34673,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:35:01.461Z"
+  "lastUpdated": "2026-10-26T01:35:05.383Z"
 }
