@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiarestros-continental-restaurants-in-india",
+      "slug": "indiarestros-continental-restaurants-in-india",
+      "title": "IndiaRestros Continental Restaurants in India",
+      "description": "21,939 Continental restaurants across India with phones, timings, menu",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "restaurants",
+        "india",
+        "directory"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:50:20.764Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/cuisine/continental"
+    },
+    {
       "id": "indiarestros-italian-restaurants-in-india",
       "slug": "indiarestros-italian-restaurants-in-india",
       "title": "IndiaRestros Italian Restaurants in India",
@@ -33627,5 +33653,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:50:18.673Z"
+  "lastUpdated": "2026-10-26T00:50:22.195Z"
 }
