@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-tamil-nadu-land-and-property-records",
+      "slug": "ipr-tamil-nadu-land-and-property-records",
+      "title": "IPR Tamil Nadu Land and Property Records",
+      "description": "Tamil Nadu: 38 districts and 16,466 villages. How to check land record",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "land-records",
+        "property",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:37:32.264Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/state/tamil-nadu"
+    },
+    {
       "id": "ipr-haryana-land-and-property-records",
       "slug": "ipr-haryana-land-and-property-records",
       "title": "IPR Haryana Land and Property Records",
@@ -31417,5 +31443,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:37:30.149Z"
+  "lastUpdated": "2026-10-26T00:37:33.602Z"
 }
