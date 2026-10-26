@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-gst-registrations-trust",
+      "slug": "indiacos-gst-registrations-trust",
+      "title": "IndiaCos GST Registrations: Trust",
+      "description": "List of 29,942 trust registrations in India under GST, with GSTIN, sta",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "gst",
+        "businesses",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:35:57.192Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/constitution/trust"
+    },
+    {
       "id": "indiacos-gst-registrations-government-department",
       "slug": "indiacos-gst-registrations-government-department",
       "title": "IndiaCos GST Registrations: Government Department",
@@ -35011,5 +35037,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:35:54.980Z"
+  "lastUpdated": "2026-10-26T01:35:58.658Z"
 }
