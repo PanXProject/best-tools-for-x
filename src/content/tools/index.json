@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiarestros-restaurants-in-surat",
+      "slug": "indiarestros-restaurants-in-surat",
+      "title": "IndiaRestros Restaurants in Surat",
+      "description": "13,758 Surat restaurants with phone numbers, timings, menus and cuisin",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "restaurants",
+        "india",
+        "directory"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:38:22.882Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/in/surat"
+    },
+    {
       "id": "indiarestros-restaurants-in-vadodara",
       "slug": "indiarestros-restaurants-in-vadodara",
       "title": "IndiaRestros Restaurants in Vadodara",
@@ -31807,5 +31833,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:38:20.953Z"
+  "lastUpdated": "2026-10-26T00:38:24.290Z"
 }
