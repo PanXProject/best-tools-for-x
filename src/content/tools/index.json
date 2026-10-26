@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-gst-registrations-one-person-company",
+      "slug": "indiacos-gst-registrations-one-person-company",
+      "title": "IndiaCos GST Registrations: One Person Company",
+      "description": "List of 12,643 one person company registrations in India under GST, wi",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "gst",
+        "businesses",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:36:12.113Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/constitution/one-person-company"
+    },
+    {
       "id": "indiacos-gst-registrations-public-limited-company",
       "slug": "indiacos-gst-registrations-public-limited-company",
       "title": "IndiaCos GST Registrations: Public Limited Company",
@@ -35115,5 +35141,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:36:09.946Z"
+  "lastUpdated": "2026-10-26T01:36:13.530Z"
 }
