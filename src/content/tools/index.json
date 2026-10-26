@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiarestros-restaurants-in-udaipur",
+      "slug": "indiarestros-restaurants-in-udaipur",
+      "title": "IndiaRestros Restaurants in Udaipur",
+      "description": "5,347 Udaipur restaurants with phone numbers, timings, menus and cuisi",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "restaurants",
+        "india",
+        "directory"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:39:11.982Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/in/udaipur"
+    },
+    {
       "id": "indiarestros-restaurants-in-amritsar",
       "slug": "indiarestros-restaurants-in-amritsar",
       "title": "IndiaRestros Restaurants in Amritsar",
@@ -32145,5 +32171,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:39:09.048Z"
+  "lastUpdated": "2026-10-26T00:39:13.633Z"
 }
