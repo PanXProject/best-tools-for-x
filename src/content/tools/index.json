@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-land-records-tamil-nadu",
+      "slug": "ipr-land-records-tamil-nadu",
+      "title": "IPR Land Records Tamil Nadu",
+      "description": "Tamil Nadu land records explained: Patta, Chitta, A-Register",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "land-records",
+        "property",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:35:12.791Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/land-records/tamil-nadu"
+    },
+    {
       "id": "ipr-land-records-sikkim",
       "slug": "ipr-land-records-sikkim",
       "title": "IPR Land Records Sikkim",
@@ -30377,5 +30403,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:35:10.835Z"
+  "lastUpdated": "2026-10-26T00:35:14.334Z"
 }
