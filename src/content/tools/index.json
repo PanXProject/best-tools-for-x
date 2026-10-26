@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-ibbi-invitation-for-resolution-plans",
+      "slug": "indiacos-ibbi-invitation-for-resolution-plans",
+      "title": "IndiaCos IBBI Invitation for resolution plans",
+      "description": "3,885 invitation for resolution plans published by the Insolvency and ",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "insolvency",
+        "ibbi",
+        "companies"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:36:55.685Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/insolvency/resolution-plans"
+    },
+    {
       "id": "indiacos-ibbi-liquidation",
       "slug": "indiacos-ibbi-liquidation",
       "title": "IndiaCos IBBI Liquidation",
@@ -35427,5 +35453,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:36:53.536Z"
+  "lastUpdated": "2026-10-26T01:36:57.170Z"
 }
