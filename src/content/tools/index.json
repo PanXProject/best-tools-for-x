@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-fcra-associations-in-maharashtra",
+      "slug": "indiacos-fcra-associations-in-maharashtra",
+      "title": "IndiaCos FCRA Associations in Maharashtra",
+      "description": "1,572 associations in Maharashtra with an active FCRA registration, wi",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "ngo",
+        "fcra",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:38:04.157Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/fcra/maharashtra"
+    },
+    {
       "id": "indiacos-fcra-associations-in-madhya-pradesh",
       "slug": "indiacos-fcra-associations-in-madhya-pradesh",
       "title": "IndiaCos FCRA Associations in Madhya Pradesh",
@@ -35921,5 +35947,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:38:01.716Z"
+  "lastUpdated": "2026-10-26T01:38:05.610Z"
 }
