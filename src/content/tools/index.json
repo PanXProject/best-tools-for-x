@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-shared-business-addresses-in-chhattisgarh",
+      "slug": "indiacos-shared-business-addresses-in-chhattisgarh",
+      "title": "IndiaCos Shared Business Addresses in Chhattisgarh",
+      "description": "1,704 addresses in Chhattisgarh used by two or more companies, LLPs or",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "companies",
+        "addresses",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:34:03.307Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/offices/chhattisgarh"
+    },
+    {
       "id": "indiacos-shared-business-addresses-in-odisha",
       "slug": "indiacos-shared-business-addresses-in-odisha",
       "title": "IndiaCos Shared Business Addresses in Odisha",
@@ -34231,5 +34257,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:34:00.485Z"
+  "lastUpdated": "2026-10-26T01:34:04.845Z"
 }
