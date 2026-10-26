@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-land-records-haryana",
+      "slug": "ipr-land-records-haryana",
+      "title": "IPR Land Records Haryana",
+      "description": "Haryana land records explained: Jamabandi, Mutation (Intkal), Fard Bad",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "land-records",
+        "property",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:33:59.173Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/land-records/haryana"
+    },
+    {
       "id": "ipr-land-records-gujarat",
       "slug": "ipr-land-records-gujarat",
       "title": "IPR Land Records Gujarat",
@@ -29883,5 +29909,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:33:56.909Z"
+  "lastUpdated": "2026-10-26T00:34:00.653Z"
 }
