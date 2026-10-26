@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-bihar-land-and-property-records",
+      "slug": "ipr-bihar-land-and-property-records",
+      "title": "IPR Bihar Land and Property Records",
+      "description": "Bihar: 38 districts and 41,633 villages. How to check land records, ma",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "land-records",
+        "property",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:37:21.967Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/state/bihar"
+    },
+    {
       "id": "ipr-chhattisgarh-land-and-property-records",
       "slug": "ipr-chhattisgarh-land-and-property-records",
       "title": "IPR Chhattisgarh Land and Property Records",
@@ -31339,5 +31365,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:37:19.809Z"
+  "lastUpdated": "2026-10-26T00:37:23.234Z"
 }
