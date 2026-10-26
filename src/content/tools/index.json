@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiarestros-momo-places-in-india",
+      "slug": "indiarestros-momo-places-in-india",
+      "title": "IndiaRestros Momo Places in India",
+      "description": "38,718 momo places across India with phones, timings, menus and photos",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "restaurants",
+        "india",
+        "directory"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:50:01.630Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/cuisine/momos"
+    },
+    {
       "id": "indiarestros-rajasthani-restaurants-in-india",
       "slug": "indiarestros-rajasthani-restaurants-in-india",
       "title": "IndiaRestros Rajasthani Restaurants in India",
@@ -33497,5 +33523,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:49:59.371Z"
+  "lastUpdated": "2026-10-26T00:50:03.213Z"
 }
