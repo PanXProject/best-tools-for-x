@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-gst-registrations-public-sector",
+      "slug": "indiacos-gst-registrations-public-sector",
+      "title": "IndiaCos GST Registrations: Public Sector",
+      "description": "List of 950 public sector undertaking registrations in India under GST",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "gst",
+        "businesses",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:36:15.763Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/constitution/public-sector-undertaking"
+    },
+    {
       "id": "indiacos-gst-registrations-one-person-company",
       "slug": "indiacos-gst-registrations-one-person-company",
       "title": "IndiaCos GST Registrations: One Person Company",
@@ -35141,5 +35167,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:36:13.530Z"
+  "lastUpdated": "2026-10-26T01:36:17.066Z"
 }
