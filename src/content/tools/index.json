@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-fcra-associations-in-delhi",
+      "slug": "indiacos-fcra-associations-in-delhi",
+      "title": "IndiaCos FCRA Associations in Delhi",
+      "description": "1,214 associations in Delhi with an active FCRA registration, with reg",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "ngo",
+        "fcra",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:37:24.200Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/fcra/delhi"
+    },
+    {
       "id": "indiacos-fcra-associations-in-chhattisgarh",
       "slug": "indiacos-fcra-associations-in-chhattisgarh",
       "title": "IndiaCos FCRA Associations in Chhattisgarh",
@@ -35635,5 +35661,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:37:22.121Z"
+  "lastUpdated": "2026-10-26T01:37:26.037Z"
 }
