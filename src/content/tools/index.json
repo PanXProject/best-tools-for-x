@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-gst-registrations-society-club-aop",
+      "slug": "indiacos-gst-registrations-society-club-aop",
+      "title": "IndiaCos GST Registrations: Society / Club / AOP",
+      "description": "List of 525 society / club / aop registrations in India under GST, wit",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "gst",
+        "businesses",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:36:19.155Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/constitution/society-club-aop"
+    },
+    {
       "id": "indiacos-gst-registrations-public-sector",
       "slug": "indiacos-gst-registrations-public-sector",
       "title": "IndiaCos GST Registrations: Public Sector",
@@ -35167,5 +35193,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:36:17.066Z"
+  "lastUpdated": "2026-10-26T01:36:20.611Z"
 }
