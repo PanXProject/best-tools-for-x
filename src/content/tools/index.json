@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-gst-registrations-artificial-juridical",
+      "slug": "indiacos-gst-registrations-artificial-juridical",
+      "title": "IndiaCos GST Registrations: Artificial Juridical",
+      "description": "List of 95 artificial juridical person registrations in India under GS",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "gst",
+        "businesses",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:36:37.233Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/constitution/artificial-juridical-person"
+    },
+    {
       "id": "indiacos-gst-registrations-individual",
       "slug": "indiacos-gst-registrations-individual",
       "title": "IndiaCos GST Registrations: Individual",
@@ -35297,5 +35323,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:36:34.954Z"
+  "lastUpdated": "2026-10-26T01:36:38.736Z"
 }
