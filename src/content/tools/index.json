@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiarestros-kerala-restaurants-in-india",
+      "slug": "indiarestros-kerala-restaurants-in-india",
+      "title": "IndiaRestros Kerala Restaurants in India",
+      "description": "9,480 Kerala restaurants across India with phones, timings, menus and ",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "restaurants",
+        "india",
+        "directory"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:49:42.380Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/cuisine/kerala"
+    },
+    {
       "id": "indiarestros-hyderabadi-restaurants-in-india",
       "slug": "indiarestros-hyderabadi-restaurants-in-india",
       "title": "IndiaRestros Hyderabadi Restaurants in India",
@@ -33367,5 +33393,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:49:40.048Z"
+  "lastUpdated": "2026-10-26T00:49:43.828Z"
 }
