@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-goa-land-and-property-records",
+      "slug": "ipr-goa-land-and-property-records",
+      "title": "IPR Goa Land and Property Records",
+      "description": "Goa: 2 districts and 361 villages. How to check land records, maps, re",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "land-records",
+        "property",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:36:47.706Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/state/goa"
+    },
+    {
       "id": "ipr-madhya-pradesh-land-and-property-records",
       "slug": "ipr-madhya-pradesh-land-and-property-records",
       "title": "IPR Madhya Pradesh Land and Property Records",
@@ -31079,5 +31105,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:36:45.653Z"
+  "lastUpdated": "2026-10-26T00:36:49.050Z"
 }
