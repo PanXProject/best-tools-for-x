@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-gst-registrations-private-limited",
+      "slug": "indiacos-gst-registrations-private-limited",
+      "title": "IndiaCos GST Registrations: Private Limited",
+      "description": "List of 2,97,258 private limited company registrations in India under ",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "gst",
+        "businesses",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:35:46.162Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/constitution/private-limited-company"
+    },
+    {
       "id": "indiacos-gst-registrations-partnership",
       "slug": "indiacos-gst-registrations-partnership",
       "title": "IndiaCos GST Registrations: Partnership",
@@ -34933,5 +34959,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:35:43.899Z"
+  "lastUpdated": "2026-10-26T01:35:47.579Z"
 }
