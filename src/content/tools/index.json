@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-pans-held-by-hufs",
+      "slug": "indiacos-pans-held-by-hufs",
+      "title": "IndiaCos PANs held by HUFs",
+      "description": "29,680 PANs whose 4th character is \"H\" (HUF), each with its GST regist",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "gst",
+        "pan",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:35:11.576Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/pan-type/huf"
+    },
+    {
       "id": "indiacos-pans-held-by-firms-and-llps",
       "slug": "indiacos-pans-held-by-firms-and-llps",
       "title": "IndiaCos PANs held by firms and LLPs",
@@ -34699,5 +34725,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:35:09.235Z"
+  "lastUpdated": "2026-10-26T01:35:13.220Z"
 }
