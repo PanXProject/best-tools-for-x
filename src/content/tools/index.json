@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiarestros-restaurants-in-gwalior",
+      "slug": "indiarestros-restaurants-in-gwalior",
+      "title": "IndiaRestros Restaurants in Gwalior",
+      "description": "3,728 Gwalior restaurants with phone numbers, timings, menus and cuisi",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "restaurants",
+        "india",
+        "directory"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:38:29.845Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/in/gwalior"
+    },
+    {
       "id": "indiarestros-restaurants-in-rajkot",
       "slug": "indiarestros-restaurants-in-rajkot",
       "title": "IndiaRestros Restaurants in Rajkot",
@@ -31859,5 +31885,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:38:27.738Z"
+  "lastUpdated": "2026-10-26T00:38:31.231Z"
 }
