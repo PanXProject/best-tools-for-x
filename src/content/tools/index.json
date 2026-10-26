@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiarestros-hyderabadi-restaurants-in-india",
+      "slug": "indiarestros-hyderabadi-restaurants-in-india",
+      "title": "IndiaRestros Hyderabadi Restaurants in India",
+      "description": "3,654 Hyderabadi restaurants across India with phones, timings, menus ",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "restaurants",
+        "india",
+        "directory"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:49:38.495Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/cuisine/hyderabadi"
+    },
+    {
       "id": "indiarestros-gujarati-restaurants-in-india",
       "slug": "indiarestros-gujarati-restaurants-in-india",
       "title": "IndiaRestros Gujarati Restaurants in India",
@@ -33341,5 +33367,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:49:36.150Z"
+  "lastUpdated": "2026-10-26T00:49:40.048Z"
 }
