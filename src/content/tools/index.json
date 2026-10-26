@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-gst-registrations-section-8-company",
+      "slug": "indiacos-gst-registrations-section-8-company",
+      "title": "IndiaCos GST Registrations: Section 8 Company",
+      "description": "List of 272 section 8 company registrations in India under GST, with G",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "gst",
+        "businesses",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:36:26.416Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/constitution/section-8-company"
+    },
+    {
       "id": "indiacos-gst-registrations-foreign-company",
       "slug": "indiacos-gst-registrations-foreign-company",
       "title": "IndiaCos GST Registrations: Foreign Company",
@@ -35219,5 +35245,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:36:24.239Z"
+  "lastUpdated": "2026-10-26T01:36:27.776Z"
 }
