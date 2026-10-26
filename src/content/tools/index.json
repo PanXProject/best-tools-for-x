@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-bank-auctions-puducherry",
+      "slug": "ipr-bank-auctions-puducherry",
+      "title": "IPR Bank Auctions Puducherry",
+      "description": "220 bank auction property listings in Puducherry with reserve price, b",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "real-estate",
+        "property",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:45:39.339Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/auctions/puducherry"
+    },
+    {
       "id": "ipr-bank-auctions-odisha",
       "slug": "ipr-bank-auctions-odisha",
       "title": "IPR Bank Auctions Odisha",
@@ -32691,5 +32717,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:45:37.087Z"
+  "lastUpdated": "2026-10-26T00:45:40.874Z"
 }
