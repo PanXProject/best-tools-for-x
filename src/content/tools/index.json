@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-bank-auctions-dadra-nagar-haveli-daman-diu",
+      "slug": "ipr-bank-auctions-dadra-nagar-haveli-daman-diu",
+      "title": "IPR Bank Auctions Dadra, Nagar Haveli, Daman & Diu",
+      "description": "108 bank auction property listings in Dadra, Nagar Haveli, Daman & Diu",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "real-estate",
+        "property",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:44:48.301Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/auctions/dadra-nagar-haveli-daman-diu"
+    },
+    {
       "id": "ipr-bank-auctions-chhattisgarh",
       "slug": "ipr-bank-auctions-chhattisgarh",
       "title": "IPR Bank Auctions Chhattisgarh",
@@ -32353,5 +32379,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:44:46.069Z"
+  "lastUpdated": "2026-10-26T00:44:49.650Z"
 }
