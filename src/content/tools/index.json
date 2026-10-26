@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiarestros-restaurants-in-indore",
+      "slug": "indiarestros-restaurants-in-indore",
+      "title": "IndiaRestros Restaurants in Indore",
+      "description": "14,640 Indore restaurants with phone numbers, timings, menus and cuisi",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "restaurants",
+        "india",
+        "directory"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:37:45.989Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/in/indore"
+    },
+    {
       "id": "indiarestros-restaurants-in-noida",
       "slug": "indiarestros-restaurants-in-noida",
       "title": "IndiaRestros Restaurants in Noida",
@@ -31521,5 +31547,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:37:43.992Z"
+  "lastUpdated": "2026-10-26T00:37:47.318Z"
 }
