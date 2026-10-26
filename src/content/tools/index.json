@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-fcra-associations-in-jammu-kashmir",
+      "slug": "indiacos-fcra-associations-in-jammu-kashmir",
+      "title": "IndiaCos FCRA Associations in Jammu & Kashmir",
+      "description": "31 associations in Jammu & Kashmir with an active FCRA registration, w",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "ngo",
+        "fcra",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:37:42.676Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/fcra/jammu-and-kashmir"
+    },
+    {
       "id": "indiacos-fcra-associations-in-himachal-pradesh",
       "slug": "indiacos-fcra-associations-in-himachal-pradesh",
       "title": "IndiaCos FCRA Associations in Himachal Pradesh",
@@ -35765,5 +35791,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:37:40.641Z"
+  "lastUpdated": "2026-10-26T01:37:43.955Z"
 }
