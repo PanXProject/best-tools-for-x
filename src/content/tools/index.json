@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-kerala-land-and-property-records",
+      "slug": "ipr-kerala-land-and-property-records",
+      "title": "IPR Kerala Land and Property Records",
+      "description": "Kerala: 14 districts and 1,524 villages. How to check land records, ma",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "land-records",
+        "property",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:35:55.257Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/state/kerala"
+    },
+    {
       "id": "ipr-jharkhand-land-and-property-records",
       "slug": "ipr-jharkhand-land-and-property-records",
       "title": "IPR Jharkhand Land and Property Records",
@@ -30689,5 +30715,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:35:52.636Z"
+  "lastUpdated": "2026-10-26T00:35:56.689Z"
 }
