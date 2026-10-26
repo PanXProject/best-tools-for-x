@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-rera-projects-uttarakhand",
+      "slug": "ipr-rera-projects-uttarakhand",
+      "title": "IPR RERA Projects Uttarakhand",
+      "description": "698 RERA registered projects in Uttarakhand with promoter, location an",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "real-estate",
+        "property",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:46:52.681Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/rera/uttarakhand"
+    },
+    {
       "id": "ipr-rera-projects-telangana",
       "slug": "ipr-rera-projects-telangana",
       "title": "IPR RERA Projects Telangana",
@@ -33185,5 +33211,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:46:50.289Z"
+  "lastUpdated": "2026-10-26T00:46:54.207Z"
 }
