@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-shared-business-addresses-in-puducherry",
+      "slug": "indiacos-shared-business-addresses-in-puducherry",
+      "title": "IndiaCos Shared Business Addresses in Puducherry",
+      "description": "259 addresses in Puducherry used by two or more companies, LLPs or GST",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "companies",
+        "addresses",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:34:22.148Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/offices/puducherry"
+    },
+    {
       "id": "indiacos-shared-business-addresses-in-kerala",
       "slug": "indiacos-shared-business-addresses-in-kerala",
       "title": "IndiaCos Shared Business Addresses in Kerala",
@@ -34361,5 +34387,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:34:20.019Z"
+  "lastUpdated": "2026-10-26T01:34:23.669Z"
 }
