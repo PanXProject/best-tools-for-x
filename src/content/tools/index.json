@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-pans-held-by-associations-of-persons",
+      "slug": "indiacos-pans-held-by-associations-of-persons",
+      "title": "IndiaCos PANs held by associations of persons",
+      "description": "33,947 PANs whose 4th character is \"A\" (Association of Persons), each ",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "gst",
+        "pan",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:35:19.686Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/pan-type/association-of-persons"
+    },
+    {
       "id": "indiacos-pans-held-by-trusts",
       "slug": "indiacos-pans-held-by-trusts",
       "title": "IndiaCos PANs held by trusts",
@@ -34751,5 +34777,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:35:17.355Z"
+  "lastUpdated": "2026-10-26T01:35:21.143Z"
 }
