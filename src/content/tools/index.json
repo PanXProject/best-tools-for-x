@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-fcra-associations-in-himachal-pradesh",
+      "slug": "indiacos-fcra-associations-in-himachal-pradesh",
+      "title": "IndiaCos FCRA Associations in Himachal Pradesh",
+      "description": "90 associations in Himachal Pradesh with an active FCRA registration, ",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "ngo",
+        "fcra",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:37:39.248Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/fcra/himachal-pradesh"
+    },
+    {
       "id": "indiacos-fcra-associations-in-haryana",
       "slug": "indiacos-fcra-associations-in-haryana",
       "title": "IndiaCos FCRA Associations in Haryana",
@@ -35739,5 +35765,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:37:36.996Z"
+  "lastUpdated": "2026-10-26T01:37:40.641Z"
 }
