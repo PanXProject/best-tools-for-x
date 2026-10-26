@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiarestros-thai-restaurants-in-india",
+      "slug": "indiarestros-thai-restaurants-in-india",
+      "title": "IndiaRestros Thai Restaurants in India",
+      "description": "4,157 Thai restaurants across India with phones, timings, menus and ph",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "restaurants",
+        "india",
+        "directory"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:50:35.899Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/cuisine/thai"
+    },
+    {
       "id": "indiarestros-japanese-restaurants-in-india",
       "slug": "indiarestros-japanese-restaurants-in-india",
       "title": "IndiaRestros Japanese Restaurants in India",
@@ -33731,5 +33757,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:50:33.717Z"
+  "lastUpdated": "2026-10-26T00:50:37.358Z"
 }
