@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-land-records-goa",
+      "slug": "ipr-land-records-goa",
+      "title": "IPR Land Records Goa",
+      "description": "Goa land records explained: Form I & XIV, Form D",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "land-records",
+        "property",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:33:51.483Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/land-records/goa"
+    },
+    {
       "id": "ipr-land-records-delhi",
       "slug": "ipr-land-records-delhi",
       "title": "IPR Land Records Delhi",
@@ -29831,5 +29857,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:33:49.413Z"
+  "lastUpdated": "2026-10-26T00:33:53.103Z"
 }
