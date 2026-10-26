@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-business-addresses-dnh-and-daman-diu",
+      "slug": "indiacos-business-addresses-dnh-and-daman-diu",
+      "title": "IndiaCos Business Addresses: DNH and Daman & Diu",
+      "description": "124 addresses in Dadra and Nagar Haveli and Daman and Diu used by two ",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "companies",
+        "addresses",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:34:10.742Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/offices/dadra-and-nagar-haveli-and-daman-and-diu"
+    },
+    {
       "id": "indiacos-business-addresses-madhya-pradesh",
       "slug": "indiacos-business-addresses-madhya-pradesh",
       "title": "IndiaCos Business Addresses: Madhya Pradesh",
@@ -34283,5 +34309,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:34:08.586Z"
+  "lastUpdated": "2026-10-26T01:34:12.300Z"
 }
