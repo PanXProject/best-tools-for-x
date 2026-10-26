@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiarestros-sweet-shops-in-india",
+      "slug": "indiarestros-sweet-shops-in-india",
+      "title": "IndiaRestros Sweet Shops in India",
+      "description": "90,567 sweet shops across India with phones, timings, menus and photos",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "restaurants",
+        "india",
+        "directory"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:50:51.061Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/kind/sweets"
+    },
+    {
       "id": "indiarestros-food-courts-in-india",
       "slug": "indiarestros-food-courts-in-india",
       "title": "IndiaRestros Food Courts in India",
@@ -33835,5 +33861,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:50:48.591Z"
+  "lastUpdated": "2026-10-26T00:50:52.390Z"
 }
