@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-fcra-associations-in-madhya-pradesh",
+      "slug": "indiacos-fcra-associations-in-madhya-pradesh",
+      "title": "IndiaCos FCRA Associations in Madhya Pradesh",
+      "description": "295 associations in Madhya Pradesh with an active FCRA registration, w",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "ngo",
+        "fcra",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:38:00.342Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/fcra/madhya-pradesh"
+    },
+    {
       "id": "indiacos-fcra-associations-in-ladhakh",
       "slug": "indiacos-fcra-associations-in-ladhakh",
       "title": "IndiaCos FCRA Associations in Ladhakh",
@@ -35895,5 +35921,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:37:58.092Z"
+  "lastUpdated": "2026-10-26T01:38:01.716Z"
 }
