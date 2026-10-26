@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-bank-auctions-himachal-pradesh",
+      "slug": "ipr-bank-auctions-himachal-pradesh",
+      "title": "IPR Bank Auctions Himachal Pradesh",
+      "description": "726 bank auction property listings in Himachal Pradesh with reserve pr",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "real-estate",
+        "property",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:44:59.553Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/auctions/himachal-pradesh"
+    },
+    {
       "id": "ipr-bank-auctions-gujarat",
       "slug": "ipr-bank-auctions-gujarat",
       "title": "IPR Bank Auctions Gujarat",
@@ -32431,5 +32457,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:44:57.411Z"
+  "lastUpdated": "2026-10-26T00:45:00.992Z"
 }
