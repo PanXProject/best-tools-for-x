@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-puducherry-land-and-property-records",
+      "slug": "ipr-puducherry-land-and-property-records",
+      "title": "IPR Puducherry Land and Property Records",
+      "description": "Puducherry: 4 districts and 103 villages. How to check land records, m",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "land-records",
+        "property",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:37:08.150Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/state/puducherry"
+    },
+    {
       "id": "ipr-andaman-nicobar-land-and-property-records",
       "slug": "ipr-andaman-nicobar-land-and-property-records",
       "title": "IPR Andaman & Nicobar Land and Property Records",
@@ -31235,5 +31261,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:37:06.069Z"
+  "lastUpdated": "2026-10-26T00:37:09.547Z"
 }
