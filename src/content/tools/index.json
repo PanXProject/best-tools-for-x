@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-land-records-delhi",
+      "slug": "ipr-land-records-delhi",
+      "title": "IPR Land Records Delhi",
+      "description": "Delhi land records explained: Jamabandi and Khatouni, Registered deed ",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "land-records",
+        "property",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:33:47.799Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/land-records/delhi"
+    },
+    {
       "id": "ipr-land-records-dadra-nagar-haveli-daman-diu",
       "slug": "ipr-land-records-dadra-nagar-haveli-daman-diu",
       "title": "IPR Land Records Dadra, Nagar Haveli, Daman & Diu",
@@ -29805,5 +29831,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:33:45.490Z"
+  "lastUpdated": "2026-10-26T00:33:49.413Z"
 }
