@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiarestros-maharashtrian-restaurants-in-india",
+      "slug": "indiarestros-maharashtrian-restaurants-in-india",
+      "title": "IndiaRestros Maharashtrian Restaurants in India",
+      "description": "21,500 Maharashtrian restaurants across India with phones, timings, me",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "restaurants",
+        "india",
+        "directory"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:49:46.460Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/cuisine/maharashtrian"
+    },
+    {
       "id": "indiarestros-kerala-restaurants-in-india",
       "slug": "indiarestros-kerala-restaurants-in-india",
       "title": "IndiaRestros Kerala Restaurants in India",
@@ -33393,5 +33419,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:49:43.828Z"
+  "lastUpdated": "2026-10-26T00:49:48.072Z"
 }
