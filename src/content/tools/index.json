@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-lakshadweep-land-and-property-records",
+      "slug": "ipr-lakshadweep-land-and-property-records",
+      "title": "IPR Lakshadweep Land and Property Records",
+      "description": "Lakshadweep: 1 district and 27 villages. How to check land records, ma",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "land-records",
+        "property",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:35:44.151Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/state/lakshadweep"
+    },
+    {
       "id": "ipr-arunachal-pradesh-land-and-property-records",
       "slug": "ipr-arunachal-pradesh-land-and-property-records",
       "title": "IPR Arunachal Pradesh Land and Property Records",
@@ -30611,5 +30637,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:35:42.044Z"
+  "lastUpdated": "2026-10-26T00:35:45.463Z"
 }
