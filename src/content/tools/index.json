@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-bank-auctions-mizoram",
+      "slug": "ipr-bank-auctions-mizoram",
+      "title": "IPR Bank Auctions Mizoram",
+      "description": "52 bank auction property listings in Mizoram with reserve price, bank ",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "real-estate",
+        "property",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:45:27.090Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/auctions/mizoram"
+    },
+    {
       "id": "ipr-bank-auctions-meghalaya",
       "slug": "ipr-bank-auctions-meghalaya",
       "title": "IPR Bank Auctions Meghalaya",
@@ -32613,5 +32639,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:45:24.888Z"
+  "lastUpdated": "2026-10-26T00:45:28.555Z"
 }
