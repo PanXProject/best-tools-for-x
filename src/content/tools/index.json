@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiarestros-restaurants-in-visakhapatnam",
+      "slug": "indiarestros-restaurants-in-visakhapatnam",
+      "title": "IndiaRestros Restaurants in Visakhapatnam",
+      "description": "6,344 Visakhapatnam restaurants with phone numbers, timings, menus and",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "restaurants",
+        "india",
+        "directory"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:38:16.073Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/in/visakhapatnam"
+    },
+    {
       "id": "indiarestros-restaurants-in-thiruvananthapuram",
       "slug": "indiarestros-restaurants-in-thiruvananthapuram",
       "title": "IndiaRestros Restaurants in Thiruvananthapuram",
@@ -31755,5 +31781,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:38:14.075Z"
+  "lastUpdated": "2026-10-26T00:38:17.508Z"
 }
