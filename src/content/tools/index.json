@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-fcra-associations-in-kerala",
+      "slug": "indiacos-fcra-associations-in-kerala",
+      "title": "IndiaCos FCRA Associations in Kerala",
+      "description": "1,011 associations in Kerala with an active FCRA registration, with re",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "ngo",
+        "fcra",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:37:53.215Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/fcra/kerala"
+    },
+    {
       "id": "indiacos-fcra-associations-in-karnataka",
       "slug": "indiacos-fcra-associations-in-karnataka",
       "title": "IndiaCos FCRA Associations in Karnataka",
@@ -35843,5 +35869,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:37:50.979Z"
+  "lastUpdated": "2026-10-26T01:37:54.655Z"
 }
