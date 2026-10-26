@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiarestros-seafood-restaurants-in-india",
+      "slug": "indiarestros-seafood-restaurants-in-india",
+      "title": "IndiaRestros Seafood Restaurants in India",
+      "description": "22,247 Seafood restaurants across India with phones, timings, menus an",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "restaurants",
+        "india",
+        "directory"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:50:09.381Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/cuisine/seafood"
+    },
+    {
       "id": "indiarestros-thali-restaurants-in-india",
       "slug": "indiarestros-thali-restaurants-in-india",
       "title": "IndiaRestros Thali Restaurants in India",
@@ -33549,5 +33575,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:50:07.228Z"
+  "lastUpdated": "2026-10-26T00:50:11.095Z"
 }
