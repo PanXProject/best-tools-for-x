@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-land-records-guides-by-state",
+      "slug": "ipr-land-records-guides-by-state",
+      "title": "IPR Land Records Guides by State",
+      "description": "What each Indian state calls its land records (khatauni, 7/12, RTC, pa",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "land-records",
+        "property",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:33:11.347Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/land-records"
+    },
+    {
       "id": "indiacos-sebi-alternative-investment-funds",
       "slug": "indiacos-sebi-alternative-investment-funds",
       "title": "IndiaCos SEBI Alternative Investment Funds",
@@ -29571,5 +29597,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-25T23:45:21.745Z"
+  "lastUpdated": "2026-10-26T00:33:13.082Z"
 }
