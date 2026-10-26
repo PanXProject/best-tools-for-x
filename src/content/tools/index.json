@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-pans-held-by-local-authorities",
+      "slug": "indiacos-pans-held-by-local-authorities",
+      "title": "IndiaCos PANs held by local authorities",
+      "description": "2,417 PANs whose 4th character is \"L\" (Local Authority), each with its",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "gst",
+        "pan",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:35:27.380Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/pan-type/local-authority"
+    },
+    {
       "id": "indiacos-pans-held-by-bodies-of-individuals",
       "slug": "indiacos-pans-held-by-bodies-of-individuals",
       "title": "IndiaCos PANs held by bodies of individuals",
@@ -34803,5 +34829,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:35:25.039Z"
+  "lastUpdated": "2026-10-26T01:35:28.878Z"
 }
