@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-rera-projects-west-bengal",
+      "slug": "ipr-rera-projects-west-bengal",
+      "title": "IPR RERA Projects West Bengal",
+      "description": "6,178 RERA registered projects in West Bengal with promoter, location ",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "real-estate",
+        "property",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:46:56.528Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/rera/west-bengal"
+    },
+    {
       "id": "ipr-rera-projects-uttarakhand",
       "slug": "ipr-rera-projects-uttarakhand",
       "title": "IPR RERA Projects Uttarakhand",
@@ -33211,5 +33237,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:46:54.207Z"
+  "lastUpdated": "2026-10-26T00:46:58.106Z"
 }
