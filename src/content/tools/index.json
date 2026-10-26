@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-fcra-associations-in-pondicherry",
+      "slug": "indiacos-fcra-associations-in-pondicherry",
+      "title": "IndiaCos FCRA Associations in Pondicherry",
+      "description": "57 associations in Pondicherry with an active FCRA registration, with ",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "ngo",
+        "fcra",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:38:22.396Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/fcra/pondicherry"
+    },
+    {
       "id": "indiacos-fcra-associations-in-orissa",
       "slug": "indiacos-fcra-associations-in-orissa",
       "title": "IndiaCos FCRA Associations in Orissa",
@@ -36051,5 +36077,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:38:20.318Z"
+  "lastUpdated": "2026-10-26T01:38:23.717Z"
 }
