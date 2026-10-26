@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-rera-projects-himachal-pradesh",
+      "slug": "ipr-rera-projects-himachal-pradesh",
+      "title": "IPR RERA Projects Himachal Pradesh",
+      "description": "284 RERA registered projects in Himachal Pradesh with promoter, locati",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "real-estate",
+        "property",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:46:25.535Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/rera/himachal-pradesh"
+    },
+    {
       "id": "ipr-rera-projects-goa",
       "slug": "ipr-rera-projects-goa",
       "title": "IPR RERA Projects Goa",
@@ -33003,5 +33029,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:46:23.149Z"
+  "lastUpdated": "2026-10-26T00:46:27.074Z"
 }
