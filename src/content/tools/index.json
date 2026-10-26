@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiarestros-chettinad-restaurants-in-india",
+      "slug": "indiarestros-chettinad-restaurants-in-india",
+      "title": "IndiaRestros Chettinad Restaurants in India",
+      "description": "3,271 Chettinad restaurants across India with phones, timings, menus a",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "restaurants",
+        "india",
+        "directory"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:49:26.192Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/cuisine/chettinad"
+    },
+    {
       "id": "indiarestros-bengali-restaurants-in-india",
       "slug": "indiarestros-bengali-restaurants-in-india",
       "title": "IndiaRestros Bengali Restaurants in India",
@@ -33263,5 +33289,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:49:23.670Z"
+  "lastUpdated": "2026-10-26T00:49:27.880Z"
 }
