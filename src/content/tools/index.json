@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-rera-projects-goa",
+      "slug": "ipr-rera-projects-goa",
+      "title": "IPR RERA Projects Goa",
+      "description": "35 RERA registered projects in Goa with promoter, location and complet",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "real-estate",
+        "property",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:46:21.637Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/rera/goa"
+    },
+    {
       "id": "ipr-rera-projects-chhattisgarh",
       "slug": "ipr-rera-projects-chhattisgarh",
       "title": "IPR RERA Projects Chhattisgarh",
@@ -32977,5 +33003,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:46:19.247Z"
+  "lastUpdated": "2026-10-26T00:46:23.149Z"
 }
