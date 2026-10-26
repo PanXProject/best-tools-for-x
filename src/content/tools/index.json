@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiarestros-restaurants-in-madurai",
+      "slug": "indiarestros-restaurants-in-madurai",
+      "title": "IndiaRestros Restaurants in Madurai",
+      "description": "4,860 Madurai restaurants with phone numbers, timings, menus and cuisi",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "restaurants",
+        "india",
+        "directory"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:38:59.024Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/in/madurai"
+    },
+    {
       "id": "indiarestros-restaurants-in-nashik",
       "slug": "indiarestros-restaurants-in-nashik",
       "title": "IndiaRestros Restaurants in Nashik",
@@ -32067,5 +32093,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:38:56.584Z"
+  "lastUpdated": "2026-10-26T00:39:00.681Z"
 }
