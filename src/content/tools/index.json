@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-bank-auctions-madhya-pradesh",
+      "slug": "ipr-bank-auctions-madhya-pradesh",
+      "title": "IPR Bank Auctions Madhya Pradesh",
+      "description": "4,302 bank auction property listings in Madhya Pradesh with reserve pr",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "real-estate",
+        "property",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:45:15.157Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/auctions/madhya-pradesh"
+    },
+    {
       "id": "ipr-bank-auctions-kerala",
       "slug": "ipr-bank-auctions-kerala",
       "title": "IPR Bank Auctions Kerala",
@@ -32535,5 +32561,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:45:12.955Z"
+  "lastUpdated": "2026-10-26T00:45:16.628Z"
 }
