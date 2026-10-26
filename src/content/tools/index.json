@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiarestros-restaurants-in-nashik",
+      "slug": "indiarestros-restaurants-in-nashik",
+      "title": "IndiaRestros Restaurants in Nashik",
+      "description": "6,876 Nashik restaurants with phone numbers, timings, menus and cuisin",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "restaurants",
+        "india",
+        "directory"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:38:54.910Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/in/nashik"
+    },
+    {
       "id": "indiarestros-restaurants-in-kanpur",
       "slug": "indiarestros-restaurants-in-kanpur",
       "title": "IndiaRestros Restaurants in Kanpur",
@@ -32041,5 +32067,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:38:52.648Z"
+  "lastUpdated": "2026-10-26T00:38:56.584Z"
 }
