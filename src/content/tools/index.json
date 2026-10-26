@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiarestros-restaurants-in-nagpur",
+      "slug": "indiarestros-restaurants-in-nagpur",
+      "title": "IndiaRestros Restaurants in Nagpur",
+      "description": "12,073 Nagpur restaurants with phone numbers, timings, menus and cuisi",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "restaurants",
+        "india",
+        "directory"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:37:49.163Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/in/nagpur"
+    },
+    {
       "id": "indiarestros-restaurants-in-indore",
       "slug": "indiarestros-restaurants-in-indore",
       "title": "IndiaRestros Restaurants in Indore",
@@ -31547,5 +31573,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:37:47.318Z"
+  "lastUpdated": "2026-10-26T00:37:50.590Z"
 }
