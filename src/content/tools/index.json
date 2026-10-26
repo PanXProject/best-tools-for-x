@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-bank-auctions-kerala",
+      "slug": "ipr-bank-auctions-kerala",
+      "title": "IPR Bank Auctions Kerala",
+      "description": "8,196 bank auction property listings in Kerala with reserve price, ban",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "real-estate",
+        "property",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:45:11.270Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/auctions/kerala"
+    },
+    {
       "id": "ipr-bank-auctions-jharkhand",
       "slug": "ipr-bank-auctions-jharkhand",
       "title": "IPR Bank Auctions Jharkhand",
@@ -32509,5 +32535,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:45:08.825Z"
+  "lastUpdated": "2026-10-26T00:45:12.955Z"
 }
