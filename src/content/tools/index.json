@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiarestros-pizza-places-in-india",
+      "slug": "indiarestros-pizza-places-in-india",
+      "title": "IndiaRestros Pizza Places in India",
+      "description": "1,05,702 pizza places across India with phones, timings, menus and pho",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "restaurants",
+        "india",
+        "directory"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:50:24.428Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/cuisine/pizza"
+    },
+    {
       "id": "indiarestros-continental-restaurants-in-india",
       "slug": "indiarestros-continental-restaurants-in-india",
       "title": "IndiaRestros Continental Restaurants in India",
@@ -33653,5 +33679,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:50:22.195Z"
+  "lastUpdated": "2026-10-26T00:50:26.218Z"
 }
