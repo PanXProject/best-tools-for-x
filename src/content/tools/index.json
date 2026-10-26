@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-uttarakhand-land-and-property-records",
+      "slug": "ipr-uttarakhand-land-and-property-records",
+      "title": "IPR Uttarakhand Land and Property Records",
+      "description": "Uttarakhand: 13 districts and 14,109 villages. How to check land recor",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "land-records",
+        "property",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:35:37.171Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/state/uttarakhand"
+    },
+    {
       "id": "ipr-tripura-land-and-property-records",
       "slug": "ipr-tripura-land-and-property-records",
       "title": "IPR Tripura Land and Property Records",
@@ -30559,5 +30585,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:35:35.071Z"
+  "lastUpdated": "2026-10-26T00:35:38.492Z"
 }
