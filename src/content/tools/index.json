@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-andaman-nicobar-land-and-property-records",
+      "slug": "ipr-andaman-nicobar-land-and-property-records",
+      "title": "IPR Andaman & Nicobar Land and Property Records",
+      "description": "Andaman & Nicobar: 3 districts and 191 villages. How to check land rec",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "land-records",
+        "property",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:37:04.646Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/state/andaman-nicobar"
+    },
+    {
       "id": "ipr-andhra-pradesh-land-and-property-records",
       "slug": "ipr-andhra-pradesh-land-and-property-records",
       "title": "IPR Andhra Pradesh Land and Property Records",
@@ -31209,5 +31235,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:37:02.614Z"
+  "lastUpdated": "2026-10-26T00:37:06.069Z"
 }
