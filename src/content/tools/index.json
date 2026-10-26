@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-land-records-nagaland",
+      "slug": "ipr-land-records-nagaland",
+      "title": "IPR Land Records Nagaland",
+      "description": "Nagaland land records explained: Record of Rights",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "land-records",
+        "property",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:34:49.276Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/land-records/nagaland"
+    },
+    {
       "id": "ipr-land-records-mizoram",
       "slug": "ipr-land-records-mizoram",
       "title": "IPR Land Records Mizoram",
@@ -30221,5 +30247,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:34:47.098Z"
+  "lastUpdated": "2026-10-26T00:34:51.097Z"
 }
