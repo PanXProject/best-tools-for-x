@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-shared-business-addresses-in-sikkim",
+      "slug": "indiacos-shared-business-addresses-in-sikkim",
+      "title": "IndiaCos Shared Business Addresses in Sikkim",
+      "description": "28 addresses in Sikkim used by two or more companies, LLPs or GST regi",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "companies",
+        "addresses",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:33:22.749Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/offices/sikkim"
+    },
+    {
       "id": "indiacos-shared-business-addresses-in-bihar",
       "slug": "indiacos-shared-business-addresses-in-bihar",
       "title": "IndiaCos Shared Business Addresses in Bihar",
@@ -33971,5 +33997,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:33:13.514Z"
+  "lastUpdated": "2026-10-26T01:33:24.240Z"
 }
