@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiarestros-italian-restaurants-in-india",
+      "slug": "indiarestros-italian-restaurants-in-india",
+      "title": "IndiaRestros Italian Restaurants in India",
+      "description": "43,509 Italian restaurants across India with phones, timings, menus an",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "restaurants",
+        "india",
+        "directory"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:50:17.290Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/cuisine/italian"
+    },
+    {
       "id": "indiarestros-dessert-places-in-india",
       "slug": "indiarestros-dessert-places-in-india",
       "title": "IndiaRestros Dessert Places in India",
@@ -33601,5 +33627,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:50:14.868Z"
+  "lastUpdated": "2026-10-26T00:50:18.673Z"
 }
