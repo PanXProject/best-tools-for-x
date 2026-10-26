@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-land-records-manipur",
+      "slug": "ipr-land-records-manipur",
+      "title": "IPR Land Records Manipur",
+      "description": "Manipur land records explained: Jamabandi / RoR, Land tax record",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "land-records",
+        "property",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:34:38.169Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/land-records/manipur"
+    },
+    {
       "id": "ipr-land-records-maharashtra",
       "slug": "ipr-land-records-maharashtra",
       "title": "IPR Land Records Maharashtra",
@@ -30143,5 +30169,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:34:35.976Z"
+  "lastUpdated": "2026-10-26T00:34:39.568Z"
 }
