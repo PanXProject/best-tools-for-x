@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-shared-business-addresses-in-assam",
+      "slug": "indiacos-shared-business-addresses-in-assam",
+      "title": "IndiaCos Shared Business Addresses in Assam",
+      "description": "1,578 addresses in Assam used by two or more companies, LLPs or GST re",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "companies",
+        "addresses",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:33:51.388Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/offices/assam"
+    },
+    {
       "id": "indiacos-shared-business-addresses-in-meghalaya",
       "slug": "indiacos-shared-business-addresses-in-meghalaya",
       "title": "IndiaCos Shared Business Addresses in Meghalaya",
@@ -34153,5 +34179,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:33:48.740Z"
+  "lastUpdated": "2026-10-26T01:33:53.008Z"
 }
