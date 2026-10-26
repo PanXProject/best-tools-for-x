@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "chessanalysis",
+      "slug": "chessanalysis",
+      "title": "ChessAnalysis",
+      "description": "Review every chess move with Stockfish, free and unlimited.",
+      "author": "Hum to Search Team",
+      "username": "humtosearch",
+      "user_id": "296a967e-b8a5-4c2e-9b71-971dbec72735",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "chess",
+        "stockfish",
+        "game-analysis",
+        "pgn",
+        "chess-improvement"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:10:57.746Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792977035/g5t1onjvydemd6ysbas1.png",
+      "toolUrl": "https://chessanalysis.dev/"
+    },
+    {
       "id": "binary-translator",
       "slug": "binary-translator",
       "title": "Binary Translator",
@@ -33917,5 +33945,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:09:20.427Z"
+  "lastUpdated": "2026-10-26T01:10:59.527Z"
 }
