@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-land-records-himachal-pradesh",
+      "slug": "ipr-land-records-himachal-pradesh",
+      "title": "IPR Land Records Himachal Pradesh",
+      "description": "Himachal Pradesh land records explained: Jamabandi, Shajra Nasb, Shajr",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "land-records",
+        "property",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:34:03.435Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/land-records/himachal-pradesh"
+    },
+    {
       "id": "ipr-land-records-haryana",
       "slug": "ipr-land-records-haryana",
       "title": "IPR Land Records Haryana",
@@ -29909,5 +29935,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:34:00.653Z"
+  "lastUpdated": "2026-10-26T00:34:05.177Z"
 }
