@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-pans-held-by-bodies-of-individuals",
+      "slug": "indiacos-pans-held-by-bodies-of-individuals",
+      "title": "IndiaCos PANs held by bodies of individuals",
+      "description": "966 PANs whose 4th character is \"B\" (Body of Individuals), each with i",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "gst",
+        "pan",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:35:23.526Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/pan-type/body-of-individuals"
+    },
+    {
       "id": "indiacos-pans-held-by-associations-of-persons",
       "slug": "indiacos-pans-held-by-associations-of-persons",
       "title": "IndiaCos PANs held by associations of persons",
@@ -34777,5 +34803,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:35:21.143Z"
+  "lastUpdated": "2026-10-26T01:35:25.039Z"
 }
