@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-land-records-jammu-kashmir",
+      "slug": "ipr-land-records-jammu-kashmir",
+      "title": "IPR Land Records Jammu & Kashmir",
+      "description": "Jammu & Kashmir land records explained: Jamabandi, Girdawari, Mutation",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "land-records",
+        "property",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:34:07.399Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/land-records/jammu-kashmir"
+    },
+    {
       "id": "ipr-land-records-himachal-pradesh",
       "slug": "ipr-land-records-himachal-pradesh",
       "title": "IPR Land Records Himachal Pradesh",
@@ -29935,5 +29961,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:34:05.177Z"
+  "lastUpdated": "2026-10-26T00:34:08.878Z"
 }
