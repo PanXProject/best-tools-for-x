@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-business-addresses-andaman-and-nicobar",
+      "slug": "indiacos-business-addresses-andaman-and-nicobar",
+      "title": "IndiaCos Business Addresses: Andaman and Nicobar",
+      "description": "49 addresses in Andaman and Nicobar Islands used by two or more compan",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "companies",
+        "addresses",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:34:25.882Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/offices/andaman-and-nicobar-islands"
+    },
+    {
       "id": "indiacos-shared-business-addresses-in-puducherry",
       "slug": "indiacos-shared-business-addresses-in-puducherry",
       "title": "IndiaCos Shared Business Addresses in Puducherry",
@@ -34387,5 +34413,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:34:23.669Z"
+  "lastUpdated": "2026-10-26T01:34:27.282Z"
 }
