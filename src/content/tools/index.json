@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-business-addresses-madhya-pradesh",
+      "slug": "indiacos-business-addresses-madhya-pradesh",
+      "title": "IndiaCos Business Addresses: Madhya Pradesh",
+      "description": "5,402 addresses in Madhya Pradesh used by two or more companies, LLPs ",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "companies",
+        "addresses",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:34:07.026Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/offices/madhya-pradesh"
+    },
+    {
       "id": "indiacos-shared-business-addresses-in-chhattisgarh",
       "slug": "indiacos-shared-business-addresses-in-chhattisgarh",
       "title": "IndiaCos Shared Business Addresses in Chhattisgarh",
@@ -34257,5 +34283,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:34:04.845Z"
+  "lastUpdated": "2026-10-26T01:34:08.586Z"
 }
