@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-bank-auctions-bihar",
+      "slug": "ipr-bank-auctions-bihar",
+      "title": "IPR Bank Auctions Bihar",
+      "description": "2,352 bank auction property listings in Bihar with reserve price, bank",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "real-estate",
+        "property",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:44:37.115Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/auctions/bihar"
+    },
+    {
       "id": "ipr-bank-auctions-assam",
       "slug": "ipr-bank-auctions-assam",
       "title": "IPR Bank Auctions Assam",
@@ -32275,5 +32301,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:44:34.889Z"
+  "lastUpdated": "2026-10-26T00:44:38.728Z"
 }
