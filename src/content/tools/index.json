@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-fcra-associations-in-orissa",
+      "slug": "indiacos-fcra-associations-in-orissa",
+      "title": "IndiaCos FCRA Associations in Orissa",
+      "description": "469 associations in Orissa with an active FCRA registration, with regi",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "ngo",
+        "fcra",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:38:18.898Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/fcra/orissa"
+    },
+    {
       "id": "indiacos-fcra-associations-in-nagaland",
       "slug": "indiacos-fcra-associations-in-nagaland",
       "title": "IndiaCos FCRA Associations in Nagaland",
@@ -36025,5 +36051,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:38:16.870Z"
+  "lastUpdated": "2026-10-26T01:38:20.318Z"
 }
