@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-shared-business-addresses-in-bihar",
+      "slug": "indiacos-shared-business-addresses-in-bihar",
+      "title": "IndiaCos Shared Business Addresses in Bihar",
+      "description": "3,662 addresses in Bihar used by two or more companies, LLPs or GST re",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "companies",
+        "addresses",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:33:11.430Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/offices/bihar"
+    },
+    {
       "id": "chessanalysis",
       "slug": "chessanalysis",
       "title": "ChessAnalysis",
@@ -33945,5 +33971,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:10:59.527Z"
+  "lastUpdated": "2026-10-26T01:33:13.514Z"
 }
