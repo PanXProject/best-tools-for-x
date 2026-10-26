@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiarestros-punjabi-restaurants-in-india",
+      "slug": "indiarestros-punjabi-restaurants-in-india",
+      "title": "IndiaRestros Punjabi Restaurants in India",
+      "description": "8,068 Punjabi restaurants across India with phones, timings, menus and",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "restaurants",
+        "india",
+        "directory"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:49:53.902Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/cuisine/punjabi"
+    },
+    {
       "id": "indiarestros-mughlai-restaurants-in-india",
       "slug": "indiarestros-mughlai-restaurants-in-india",
       "title": "IndiaRestros Mughlai Restaurants in India",
@@ -33445,5 +33471,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:49:51.796Z"
+  "lastUpdated": "2026-10-26T00:49:55.378Z"
 }
