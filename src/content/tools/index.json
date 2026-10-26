@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-gst-registrations-proprietorship",
+      "slug": "indiacos-gst-registrations-proprietorship",
+      "title": "IndiaCos GST Registrations: Proprietorship",
+      "description": "List of 28,69,784 proprietorship registrations in India under GST, wit",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "gst",
+        "businesses",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:35:38.469Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/constitution/proprietorship"
+    },
+    {
       "id": "indiacos-pans-held-by-artificial-juridical-persons",
       "slug": "indiacos-pans-held-by-artificial-juridical-persons",
       "title": "IndiaCos PANs held by artificial juridical persons",
@@ -34881,5 +34907,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:35:36.354Z"
+  "lastUpdated": "2026-10-26T01:35:40.225Z"
 }
