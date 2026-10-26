@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiarestros-restaurants-in-dehradun",
+      "slug": "indiarestros-restaurants-in-dehradun",
+      "title": "IndiaRestros Restaurants in Dehradun",
+      "description": "11,264 Dehradun restaurants with phone numbers, timings, menus and cui",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "restaurants",
+        "india",
+        "directory"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:38:06.230Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/in/dehradun"
+    },
+    {
       "id": "indiarestros-restaurants-in-ranchi",
       "slug": "indiarestros-restaurants-in-ranchi",
       "title": "IndiaRestros Restaurants in Ranchi",
@@ -31677,5 +31703,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:38:04.199Z"
+  "lastUpdated": "2026-10-26T00:38:07.548Z"
 }
