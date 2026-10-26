@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-gst-registrations-foreign-company",
+      "slug": "indiacos-gst-registrations-foreign-company",
+      "title": "IndiaCos GST Registrations: Foreign Company",
+      "description": "List of 325 foreign company registrations in India under GST, with GST",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "gst",
+        "businesses",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:36:22.767Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/constitution/foreign-company"
+    },
+    {
       "id": "indiacos-gst-registrations-society-club-aop",
       "slug": "indiacos-gst-registrations-society-club-aop",
       "title": "IndiaCos GST Registrations: Society / Club / AOP",
@@ -35193,5 +35219,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:36:20.611Z"
+  "lastUpdated": "2026-10-26T01:36:24.239Z"
 }
