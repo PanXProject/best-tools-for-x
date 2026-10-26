@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-chhattisgarh-land-and-property-records",
+      "slug": "ipr-chhattisgarh-land-and-property-records",
+      "title": "IPR Chhattisgarh Land and Property Records",
+      "description": "Chhattisgarh: 33 districts and 17,980 villages. How to check land reco",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "land-records",
+        "property",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:37:18.445Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/state/chhattisgarh"
+    },
+    {
       "id": "ipr-punjab-land-and-property-records",
       "slug": "ipr-punjab-land-and-property-records",
       "title": "IPR Punjab Land and Property Records",
@@ -31313,5 +31339,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:37:16.453Z"
+  "lastUpdated": "2026-10-26T00:37:19.809Z"
 }
