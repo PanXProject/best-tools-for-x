@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-fcra-associations-in-andhra-pradesh",
+      "slug": "indiacos-fcra-associations-in-andhra-pradesh",
+      "title": "IndiaCos FCRA Associations in Andhra Pradesh",
+      "description": "1,021 associations in Andhra Pradesh with an active FCRA registration,",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "ngo",
+        "fcra",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:37:02.712Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/fcra/andhra-pradesh"
+    },
+    {
       "id": "indiacos-ibbi-voluntary-liquidation",
       "slug": "indiacos-ibbi-voluntary-liquidation",
       "title": "IndiaCos IBBI Voluntary liquidation",
@@ -35479,5 +35505,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:37:00.510Z"
+  "lastUpdated": "2026-10-26T01:37:04.153Z"
 }
