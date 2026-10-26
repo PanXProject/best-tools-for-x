@@ -1,6 +1,34 @@
 {
   "tools": [
     {
+      "id": "attractivenesstest",
+      "slug": "attractivenesstest",
+      "title": "AttractivenessTest",
+      "description": "Free face rating test: PSL score and eye type, all in your browser.",
+      "author": "Hum to Search Team",
+      "username": "humtosearch",
+      "user_id": "296a967e-b8a5-4c2e-9b71-971dbec72735",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "beauty",
+        "face-rating",
+        "psl-score",
+        "self-assessment",
+        "looksmaxxing"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:07:31.676Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1792976817/h0wa7jgjzwrodidxeigy.png",
+      "toolUrl": "https://attractivenesstest.dev/"
+    },
+    {
       "id": "indiarestros-sweet-shops-in-india",
       "slug": "indiarestros-sweet-shops-in-india",
       "title": "IndiaRestros Sweet Shops in India",
@@ -33861,5 +33889,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:50:52.390Z"
+  "lastUpdated": "2026-10-26T01:07:33.305Z"
 }
