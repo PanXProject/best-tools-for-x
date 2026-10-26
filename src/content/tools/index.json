@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-bank-auctions-goa",
+      "slug": "ipr-bank-auctions-goa",
+      "title": "IPR Bank Auctions Goa",
+      "description": "223 bank auction property listings in Goa with reserve price, bank and",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "real-estate",
+        "property",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:44:51.900Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/auctions/goa"
+    },
+    {
       "id": "ipr-bank-auctions-dadra-nagar-haveli-daman-diu",
       "slug": "ipr-bank-auctions-dadra-nagar-haveli-daman-diu",
       "title": "IPR Bank Auctions Dadra, Nagar Haveli, Daman & Diu",
@@ -32379,5 +32405,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:44:49.650Z"
+  "lastUpdated": "2026-10-26T00:44:53.451Z"
 }
