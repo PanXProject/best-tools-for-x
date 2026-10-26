@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-fcra-associations-in-assam",
+      "slug": "indiacos-fcra-associations-in-assam",
+      "title": "IndiaCos FCRA Associations in Assam",
+      "description": "168 associations in Assam with an active FCRA registration, with regis",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "ngo",
+        "fcra",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:37:09.905Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/fcra/assam"
+    },
+    {
       "id": "indiacos-fcra-associations-in-arunachal-pradesh",
       "slug": "indiacos-fcra-associations-in-arunachal-pradesh",
       "title": "IndiaCos FCRA Associations in Arunachal Pradesh",
@@ -35531,5 +35557,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:37:07.675Z"
+  "lastUpdated": "2026-10-26T01:37:11.358Z"
 }
