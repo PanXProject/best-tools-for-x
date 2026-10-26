@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-land-records-lakshadweep",
+      "slug": "ipr-land-records-lakshadweep",
+      "title": "IPR Land Records Lakshadweep",
+      "description": "Lakshadweep land records explained: record of rights",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "land-records",
+        "property",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:34:27.073Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/land-records/lakshadweep"
+    },
+    {
       "id": "ipr-land-records-ladakh",
       "slug": "ipr-land-records-ladakh",
       "title": "IPR Land Records Ladakh",
@@ -30065,5 +30091,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:34:24.876Z"
+  "lastUpdated": "2026-10-26T00:34:28.649Z"
 }
