@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-shared-business-addresses-in-rajasthan",
+      "slug": "indiacos-shared-business-addresses-in-rajasthan",
+      "title": "IndiaCos Shared Business Addresses in Rajasthan",
+      "description": "9,930 addresses in Rajasthan used by two or more companies, LLPs or GS",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "companies",
+        "addresses",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:35:00.066Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/offices/rajasthan"
+    },
+    {
       "id": "indiacos-shared-business-addresses-in-haryana",
       "slug": "indiacos-shared-business-addresses-in-haryana",
       "title": "IndiaCos Shared Business Addresses in Haryana",
@@ -34621,5 +34647,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:34:57.974Z"
+  "lastUpdated": "2026-10-26T01:35:01.461Z"
 }
