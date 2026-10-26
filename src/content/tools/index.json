@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-gst-registrations-huf",
+      "slug": "indiacos-gst-registrations-huf",
+      "title": "IndiaCos GST Registrations: HUF",
+      "description": "List of 14,729 HUF registrations in India under GST, with GSTIN, statu",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "gst",
+        "businesses",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:36:04.507Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/constitution/huf"
+    },
+    {
       "id": "indiacos-gst-registrations-local-authority",
       "slug": "indiacos-gst-registrations-local-authority",
       "title": "IndiaCos GST Registrations: Local Authority",
@@ -35063,5 +35089,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:36:02.268Z"
+  "lastUpdated": "2026-10-26T01:36:06.284Z"
 }
