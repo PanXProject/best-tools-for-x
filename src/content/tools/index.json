@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiarestros-restaurants-in-guwahati",
+      "slug": "indiarestros-restaurants-in-guwahati",
+      "title": "IndiaRestros Restaurants in Guwahati",
+      "description": "8,258 Guwahati restaurants with phone numbers, timings, menus and cuis",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "restaurants",
+        "india",
+        "directory"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:38:36.801Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/in/guwahati"
+    },
+    {
       "id": "indiarestros-restaurants-in-prayagraj",
       "slug": "indiarestros-restaurants-in-prayagraj",
       "title": "IndiaRestros Restaurants in Prayagraj",
@@ -31911,5 +31937,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:38:34.691Z"
+  "lastUpdated": "2026-10-26T00:38:38.114Z"
 }
