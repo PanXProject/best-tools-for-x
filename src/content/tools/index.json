@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-fcra-associations-in-manipur",
+      "slug": "indiacos-fcra-associations-in-manipur",
+      "title": "IndiaCos FCRA Associations in Manipur",
+      "description": "113 associations in Manipur with an active FCRA registration, with reg",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "ngo",
+        "fcra",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:38:08.000Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/fcra/manipur"
+    },
+    {
       "id": "indiacos-fcra-associations-in-maharashtra",
       "slug": "indiacos-fcra-associations-in-maharashtra",
       "title": "IndiaCos FCRA Associations in Maharashtra",
@@ -35947,5 +35973,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:38:05.610Z"
+  "lastUpdated": "2026-10-26T01:38:09.399Z"
 }
