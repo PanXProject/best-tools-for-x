@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-gst-registrations-partnership",
+      "slug": "indiacos-gst-registrations-partnership",
+      "title": "IndiaCos GST Registrations: Partnership",
+      "description": "List of 3,00,471 partnership registrations in India under GST, with GS",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "gst",
+        "businesses",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:35:42.410Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/constitution/partnership"
+    },
+    {
       "id": "indiacos-gst-registrations-proprietorship",
       "slug": "indiacos-gst-registrations-proprietorship",
       "title": "IndiaCos GST Registrations: Proprietorship",
@@ -34907,5 +34933,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:35:40.225Z"
+  "lastUpdated": "2026-10-26T01:35:43.899Z"
 }
