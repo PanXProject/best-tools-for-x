@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-gst-registrations-public-limited-company",
+      "slug": "indiacos-gst-registrations-public-limited-company",
+      "title": "IndiaCos GST Registrations: Public Limited Company",
+      "description": "List of 12,764 public limited company registrations in India under GST",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "gst",
+        "businesses",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:36:08.439Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/constitution/public-limited-company"
+    },
+    {
       "id": "indiacos-gst-registrations-huf",
       "slug": "indiacos-gst-registrations-huf",
       "title": "IndiaCos GST Registrations: HUF",
@@ -35089,5 +35115,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:36:06.284Z"
+  "lastUpdated": "2026-10-26T01:36:09.946Z"
 }
