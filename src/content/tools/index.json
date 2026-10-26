@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiarestros-restaurants-in-amritsar",
+      "slug": "indiarestros-restaurants-in-amritsar",
+      "title": "IndiaRestros Restaurants in Amritsar",
+      "description": "5,673 Amritsar restaurants with phone numbers, timings, menus and cuis",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "restaurants",
+        "india",
+        "directory"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:39:07.292Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/in/amritsar"
+    },
+    {
       "id": "indiarestros-restaurants-in-mangaluru",
       "slug": "indiarestros-restaurants-in-mangaluru",
       "title": "IndiaRestros Restaurants in Mangaluru",
@@ -32119,5 +32145,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:39:05.049Z"
+  "lastUpdated": "2026-10-26T00:39:09.048Z"
 }
