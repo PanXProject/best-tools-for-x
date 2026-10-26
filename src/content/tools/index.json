@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiarestros-mughlai-restaurants-in-india",
+      "slug": "indiarestros-mughlai-restaurants-in-india",
+      "title": "IndiaRestros Mughlai Restaurants in India",
+      "description": "67,488 Mughlai restaurants across India with phones, timings, menus an",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "restaurants",
+        "india",
+        "directory"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:49:50.437Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/cuisine/mughlai"
+    },
+    {
       "id": "indiarestros-maharashtrian-restaurants-in-india",
       "slug": "indiarestros-maharashtrian-restaurants-in-india",
       "title": "IndiaRestros Maharashtrian Restaurants in India",
@@ -33419,5 +33445,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:49:48.072Z"
+  "lastUpdated": "2026-10-26T00:49:51.796Z"
 }
