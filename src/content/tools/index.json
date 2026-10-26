@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-land-records-andhra-pradesh",
+      "slug": "ipr-land-records-andhra-pradesh",
+      "title": "IPR Land Records Andhra Pradesh",
+      "description": "Andhra Pradesh land records explained: 1B, Adangal / Pahani, FMB / LP ",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "land-records",
+        "property",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:33:19.887Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/land-records/andhra-pradesh"
+    },
+    {
       "id": "ipr-land-records-andaman-nicobar",
       "slug": "ipr-land-records-andaman-nicobar",
       "title": "IPR Land Records Andaman & Nicobar",
@@ -29623,5 +29649,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:33:17.251Z"
+  "lastUpdated": "2026-10-26T00:33:21.592Z"
 }
