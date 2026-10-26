@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-pans-held-by-government-bodies",
+      "slug": "indiacos-pans-held-by-government-bodies",
+      "title": "IndiaCos PANs held by government bodies",
+      "description": "2,335 PANs whose 4th character is \"G\" (Government), each with its GST ",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "gst",
+        "pan",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:35:31.056Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/pan-type/government"
+    },
+    {
       "id": "indiacos-pans-held-by-local-authorities",
       "slug": "indiacos-pans-held-by-local-authorities",
       "title": "IndiaCos PANs held by local authorities",
@@ -34829,5 +34855,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:35:28.878Z"
+  "lastUpdated": "2026-10-26T01:35:32.463Z"
 }
