@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-business-addresses-jammu-and-kashmir",
+      "slug": "indiacos-business-addresses-jammu-and-kashmir",
+      "title": "IndiaCos Business Addresses: Jammu and Kashmir",
+      "description": "799 addresses in Jammu and Kashmir used by two or more companies, LLPs",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "companies",
+        "addresses",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:34:37.610Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/offices/jammu-and-kashmir"
+    },
+    {
       "id": "indiacos-shared-business-addresses-in-ladakh",
       "slug": "indiacos-shared-business-addresses-in-ladakh",
       "title": "IndiaCos Shared Business Addresses in Ladakh",
@@ -34465,5 +34491,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:34:35.137Z"
+  "lastUpdated": "2026-10-26T01:34:39.060Z"
 }
