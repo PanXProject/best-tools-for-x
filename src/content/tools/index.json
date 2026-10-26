@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-fcra-associations-in-chandigarh",
+      "slug": "indiacos-fcra-associations-in-chandigarh",
+      "title": "IndiaCos FCRA Associations in Chandigarh",
+      "description": "32 associations in Chandigarh with an active FCRA registration, with r",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "ngo",
+        "fcra",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:37:17.093Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/fcra/chandigarh"
+    },
+    {
       "id": "indiacos-fcra-associations-in-bihar",
       "slug": "indiacos-fcra-associations-in-bihar",
       "title": "IndiaCos FCRA Associations in Bihar",
@@ -35583,5 +35609,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:37:14.899Z"
+  "lastUpdated": "2026-10-26T01:37:18.653Z"
 }
