@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-land-records-karnataka",
+      "slug": "ipr-land-records-karnataka",
+      "title": "IPR Land Records Karnataka",
+      "description": "Karnataka land records explained: RTC / Pahani, Mutation Register (MR)",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "land-records",
+        "property",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:34:15.059Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/land-records/karnataka"
+    },
+    {
       "id": "ipr-land-records-jharkhand",
       "slug": "ipr-land-records-jharkhand",
       "title": "IPR Land Records Jharkhand",
@@ -29987,5 +30013,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:34:12.787Z"
+  "lastUpdated": "2026-10-26T00:34:16.614Z"
 }
