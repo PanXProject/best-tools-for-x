@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-fcra-associations-in-goa",
+      "slug": "indiacos-fcra-associations-in-goa",
+      "title": "IndiaCos FCRA Associations in Goa",
+      "description": "78 associations in Goa with an active FCRA registration, with registra",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "ngo",
+        "fcra",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:37:28.155Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/fcra/goa"
+    },
+    {
       "id": "indiacos-fcra-associations-in-delhi",
       "slug": "indiacos-fcra-associations-in-delhi",
       "title": "IndiaCos FCRA Associations in Delhi",
@@ -35661,5 +35687,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:37:26.037Z"
+  "lastUpdated": "2026-10-26T01:37:29.677Z"
 }
