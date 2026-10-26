@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-bank-auctions-meghalaya",
+      "slug": "ipr-bank-auctions-meghalaya",
+      "title": "IPR Bank Auctions Meghalaya",
+      "description": "31 bank auction property listings in Meghalaya with reserve price, ban",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "real-estate",
+        "property",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:45:23.569Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/auctions/meghalaya"
+    },
+    {
       "id": "ipr-bank-auctions-manipur",
       "slug": "ipr-bank-auctions-manipur",
       "title": "IPR Bank Auctions Manipur",
@@ -32587,5 +32613,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:45:21.189Z"
+  "lastUpdated": "2026-10-26T00:45:24.888Z"
 }
