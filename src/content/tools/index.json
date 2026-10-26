@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiarestros-restaurants-in-ranchi",
+      "slug": "indiarestros-restaurants-in-ranchi",
+      "title": "IndiaRestros Restaurants in Ranchi",
+      "description": "5,434 Ranchi restaurants with phone numbers, timings, menus and cuisin",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "restaurants",
+        "india",
+        "directory"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:38:02.780Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/in/ranchi"
+    },
+    {
       "id": "indiarestros-restaurants-in-bhubaneswar",
       "slug": "indiarestros-restaurants-in-bhubaneswar",
       "title": "IndiaRestros Restaurants in Bhubaneswar",
@@ -31651,5 +31677,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:38:00.631Z"
+  "lastUpdated": "2026-10-26T00:38:04.199Z"
 }
