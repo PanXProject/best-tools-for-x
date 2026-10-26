@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-gst-registrations-llp",
+      "slug": "indiacos-gst-registrations-llp",
+      "title": "IndiaCos GST Registrations: LLP",
+      "description": "List of 84,867 LLP registrations in India under GST, with GSTIN, statu",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "gst",
+        "businesses",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:35:49.782Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/constitution/llp"
+    },
+    {
       "id": "indiacos-gst-registrations-private-limited",
       "slug": "indiacos-gst-registrations-private-limited",
       "title": "IndiaCos GST Registrations: Private Limited",
@@ -34959,5 +34985,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:35:47.579Z"
+  "lastUpdated": "2026-10-26T01:35:51.254Z"
 }
