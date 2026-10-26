@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiarestros-restaurants-in-bhopal",
+      "slug": "indiarestros-restaurants-in-bhopal",
+      "title": "IndiaRestros Restaurants in Bhopal",
+      "description": "10,087 Bhopal restaurants with phone numbers, timings, menus and cuisi",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "restaurants",
+        "india",
+        "directory"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:38:44.376Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/in/bhopal"
+    },
+    {
       "id": "indiarestros-restaurants-in-patna",
       "slug": "indiarestros-restaurants-in-patna",
       "title": "IndiaRestros Restaurants in Patna",
@@ -31963,5 +31989,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:38:42.051Z"
+  "lastUpdated": "2026-10-26T00:38:45.717Z"
 }
