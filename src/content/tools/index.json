@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-bank-auctions-jammu-kashmir",
+      "slug": "ipr-bank-auctions-jammu-kashmir",
+      "title": "IPR Bank Auctions Jammu & Kashmir",
+      "description": "435 bank auction property listings in Jammu & Kashmir with reserve pri",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "real-estate",
+        "property",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:45:03.246Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/auctions/jammu-kashmir"
+    },
+    {
       "id": "ipr-bank-auctions-himachal-pradesh",
       "slug": "ipr-bank-auctions-himachal-pradesh",
       "title": "IPR Bank Auctions Himachal Pradesh",
@@ -32457,5 +32483,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:45:00.992Z"
+  "lastUpdated": "2026-10-26T00:45:05.069Z"
 }
