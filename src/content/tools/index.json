@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-bank-auctions-andhra-pradesh",
+      "slug": "ipr-bank-auctions-andhra-pradesh",
+      "title": "IPR Bank Auctions Andhra Pradesh",
+      "description": "6,143 bank auction property listings in Andhra Pradesh with reserve pr",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "real-estate",
+        "property",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:44:25.958Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/auctions/andhra-pradesh"
+    },
+    {
       "id": "ipr-bank-auctions-andaman-nicobar",
       "slug": "ipr-bank-auctions-andaman-nicobar",
       "title": "IPR Bank Auctions Andaman & Nicobar",
@@ -32197,5 +32223,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:44:23.534Z"
+  "lastUpdated": "2026-10-26T00:44:27.467Z"
 }
