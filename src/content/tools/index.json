@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-gst-registrations-producer-company",
+      "slug": "indiacos-gst-registrations-producer-company",
+      "title": "IndiaCos GST Registrations: Producer Company",
+      "description": "List of 51 producer company limited registrations in India under GST, ",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "gst",
+        "businesses",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:36:44.432Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/constitution/producer-company-limited"
+    },
+    {
       "id": "indiacos-gst-registrations-statutory-body",
       "slug": "indiacos-gst-registrations-statutory-body",
       "title": "IndiaCos GST Registrations: Statutory Body",
@@ -35349,5 +35375,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:36:42.114Z"
+  "lastUpdated": "2026-10-26T01:36:45.832Z"
 }
