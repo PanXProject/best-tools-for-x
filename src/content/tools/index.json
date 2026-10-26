@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-sikkim-land-and-property-records",
+      "slug": "ipr-sikkim-land-and-property-records",
+      "title": "IPR Sikkim Land and Property Records",
+      "description": "Sikkim: 6 districts and 452 villages. How to check land records, maps,",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "land-records",
+        "property",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:36:13.304Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/state/sikkim"
+    },
+    {
       "id": "ipr-delhi-land-and-property-records",
       "slug": "ipr-delhi-land-and-property-records",
       "title": "IPR Delhi Land and Property Records",
@@ -30819,5 +30845,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:36:11.188Z"
+  "lastUpdated": "2026-10-26T00:36:14.730Z"
 }
