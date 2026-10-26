@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-ibbi-liquidation",
+      "slug": "indiacos-ibbi-liquidation",
+      "title": "IndiaCos IBBI Liquidation",
+      "description": "3,009 liquidation published by the Insolvency and Bankruptcy Board of ",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "insolvency",
+        "ibbi",
+        "companies"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:36:51.678Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/insolvency/liquidation"
+    },
+    {
       "id": "indiacos-ibbi-claims-register",
       "slug": "indiacos-ibbi-claims-register",
       "title": "IndiaCos IBBI Claims Register",
@@ -35401,5 +35427,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:36:49.411Z"
+  "lastUpdated": "2026-10-26T01:36:53.536Z"
 }
