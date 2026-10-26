@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-land-records-maharashtra",
+      "slug": "ipr-land-records-maharashtra",
+      "title": "IPR Land Records Maharashtra",
+      "description": "Maharashtra land records explained: 7/12 (Satbara), 8A, Property Card",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "land-records",
+        "property",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:34:34.648Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/land-records/maharashtra"
+    },
+    {
       "id": "ipr-land-records-madhya-pradesh",
       "slug": "ipr-land-records-madhya-pradesh",
       "title": "IPR Land Records Madhya Pradesh",
@@ -30117,5 +30143,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:34:32.393Z"
+  "lastUpdated": "2026-10-26T00:34:35.976Z"
 }
