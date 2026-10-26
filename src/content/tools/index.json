@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-pans-held-by-firms-and-llps",
+      "slug": "indiacos-pans-held-by-firms-and-llps",
+      "title": "IndiaCos PANs held by firms and LLPs",
+      "description": "7,21,577 PANs whose 4th character is \"F\" (Firm / LLP), each with its G",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "gst",
+        "pan",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:35:07.522Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/pan-type/firm-llp"
+    },
+    {
       "id": "indiacos-pans-held-by-companies",
       "slug": "indiacos-pans-held-by-companies",
       "title": "IndiaCos PANs held by companies",
@@ -34673,5 +34699,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:35:05.383Z"
+  "lastUpdated": "2026-10-26T01:35:09.235Z"
 }
