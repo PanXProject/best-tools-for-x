@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-telangana-land-and-property-records",
+      "slug": "ipr-telangana-land-and-property-records",
+      "title": "IPR Telangana Land and Property Records",
+      "description": "Telangana: 33 districts and 10,674 villages. How to check land records",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "land-records",
+        "property",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:36:57.871Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/state/telangana"
+    },
+    {
       "id": "ipr-ladakh-land-and-property-records",
       "slug": "ipr-ladakh-land-and-property-records",
       "title": "IPR Ladakh Land and Property Records",
@@ -31157,5 +31183,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:36:55.812Z"
+  "lastUpdated": "2026-10-26T00:36:59.157Z"
 }
