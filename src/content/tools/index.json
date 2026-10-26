@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-rera-projects-assam",
+      "slug": "ipr-rera-projects-assam",
+      "title": "IPR RERA Projects Assam",
+      "description": "1,317 RERA registered projects in Assam with promoter, location and co",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "real-estate",
+        "property",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:46:09.848Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/rera/assam"
+    },
+    {
       "id": "ipr-rera-projects-andhra-pradesh",
       "slug": "ipr-rera-projects-andhra-pradesh",
       "title": "IPR RERA Projects Andhra Pradesh",
@@ -32899,5 +32925,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:46:07.467Z"
+  "lastUpdated": "2026-10-26T00:46:11.348Z"
 }
