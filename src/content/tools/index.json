@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-bank-auctions-chandigarh",
+      "slug": "ipr-bank-auctions-chandigarh",
+      "title": "IPR Bank Auctions Chandigarh",
+      "description": "53 bank auction property listings in Chandigarh with reserve price, ba",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "real-estate",
+        "property",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:44:40.969Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/auctions/chandigarh"
+    },
+    {
       "id": "ipr-bank-auctions-bihar",
       "slug": "ipr-bank-auctions-bihar",
       "title": "IPR Bank Auctions Bihar",
@@ -32301,5 +32327,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:44:38.728Z"
+  "lastUpdated": "2026-10-26T00:44:42.425Z"
 }
