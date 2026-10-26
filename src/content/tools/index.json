@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-rera-projects-punjab",
+      "slug": "ipr-rera-projects-punjab",
+      "title": "IPR RERA Projects Punjab",
+      "description": "2,107 RERA registered projects in Punjab with promoter, location and c",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "real-estate",
+        "property",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:46:40.653Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/rera/punjab"
+    },
+    {
       "id": "ipr-rera-projects-odisha",
       "slug": "ipr-rera-projects-odisha",
       "title": "IPR RERA Projects Odisha",
@@ -33107,5 +33133,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:46:38.293Z"
+  "lastUpdated": "2026-10-26T00:46:42.146Z"
 }
