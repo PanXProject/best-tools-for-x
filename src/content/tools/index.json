@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-bank-auctions-arunachal-pradesh",
+      "slug": "ipr-bank-auctions-arunachal-pradesh",
+      "title": "IPR Bank Auctions Arunachal Pradesh",
+      "description": "37 bank auction property listings in Arunachal Pradesh with reserve pr",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "real-estate",
+        "property",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:44:29.694Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/auctions/arunachal-pradesh"
+    },
+    {
       "id": "ipr-bank-auctions-andhra-pradesh",
       "slug": "ipr-bank-auctions-andhra-pradesh",
       "title": "IPR Bank Auctions Andhra Pradesh",
@@ -32223,5 +32249,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:44:27.467Z"
+  "lastUpdated": "2026-10-26T00:44:31.246Z"
 }
