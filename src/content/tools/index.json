@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-shared-business-addresses-in-manipur",
+      "slug": "indiacos-shared-business-addresses-in-manipur",
+      "title": "IndiaCos Shared Business Addresses in Manipur",
+      "description": "252 addresses in Manipur used by two or more companies, LLPs or GST re",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "companies",
+        "addresses",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:33:35.101Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/offices/manipur"
+    },
+    {
       "id": "indiacos-shared-business-addresses-in-nagaland",
       "slug": "indiacos-shared-business-addresses-in-nagaland",
       "title": "IndiaCos Shared Business Addresses in Nagaland",
@@ -34049,5 +34075,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:33:32.778Z"
+  "lastUpdated": "2026-10-26T01:33:36.859Z"
 }
