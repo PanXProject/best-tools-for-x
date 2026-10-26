@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiacos-fcra-associations-in-nagaland",
+      "slug": "indiacos-fcra-associations-in-nagaland",
+      "title": "IndiaCos FCRA Associations in Nagaland",
+      "description": "44 associations in Nagaland with an active FCRA registration, with reg",
+      "author": "Sunny Mittal (IndiaCos)",
+      "username": "indiacos",
+      "user_id": "475b6fe4-8792-4867-8c80-86fc4e6542aa",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "ngo",
+        "fcra",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T01:38:15.413Z",
+      "heroImage": "",
+      "toolUrl": "https://indiacos.com/fcra/nagaland"
+    },
+    {
       "id": "indiacos-fcra-associations-in-meghalaya",
       "slug": "indiacos-fcra-associations-in-meghalaya",
       "title": "IndiaCos FCRA Associations in Meghalaya",
@@ -35999,5 +36025,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T01:38:13.089Z"
+  "lastUpdated": "2026-10-26T01:38:16.870Z"
 }
