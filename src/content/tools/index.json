@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiarestros-restaurants-in-kanpur",
+      "slug": "indiarestros-restaurants-in-kanpur",
+      "title": "IndiaRestros Restaurants in Kanpur",
+      "description": "9,752 Kanpur restaurants with phone numbers, timings, menus and cuisin",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "restaurants",
+        "india",
+        "directory"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:38:51.295Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/in/kanpur"
+    },
+    {
       "id": "indiarestros-restaurants-in-varanasi",
       "slug": "indiarestros-restaurants-in-varanasi",
       "title": "IndiaRestros Restaurants in Varanasi",
@@ -32015,5 +32041,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:38:49.270Z"
+  "lastUpdated": "2026-10-26T00:38:52.648Z"
 }
