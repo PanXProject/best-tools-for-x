@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-arunachal-pradesh-land-and-property-records",
+      "slug": "ipr-arunachal-pradesh-land-and-property-records",
+      "title": "IPR Arunachal Pradesh Land and Property Records",
+      "description": "Arunachal Pradesh: 26 districts and 5,582 villages. How to check land ",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "land-records",
+        "property",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:35:40.663Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/state/arunachal-pradesh"
+    },
+    {
       "id": "ipr-uttarakhand-land-and-property-records",
       "slug": "ipr-uttarakhand-land-and-property-records",
       "title": "IPR Uttarakhand Land and Property Records",
@@ -30585,5 +30611,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:35:38.492Z"
+  "lastUpdated": "2026-10-26T00:35:42.044Z"
 }
