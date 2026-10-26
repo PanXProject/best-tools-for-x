@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiarestros-restaurants-in-patna",
+      "slug": "indiarestros-restaurants-in-patna",
+      "title": "IndiaRestros Restaurants in Patna",
+      "description": "9,751 Patna restaurants with phone numbers, timings, menus and cuisine",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "restaurants",
+        "india",
+        "directory"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:38:40.113Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/in/patna"
+    },
+    {
       "id": "indiarestros-restaurants-in-guwahati",
       "slug": "indiarestros-restaurants-in-guwahati",
       "title": "IndiaRestros Restaurants in Guwahati",
@@ -31937,5 +31963,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:38:38.114Z"
+  "lastUpdated": "2026-10-26T00:38:42.051Z"
 }
