@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-uttar-pradesh-land-and-property-records",
+      "slug": "ipr-uttar-pradesh-land-and-property-records",
+      "title": "IPR Uttar Pradesh Land and Property Records",
+      "description": "Uttar Pradesh: 75 districts and 96,061 villages. How to check land rec",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "land-records",
+        "property",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:36:30.735Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/state/uttar-pradesh"
+    },
+    {
       "id": "ipr-rajasthan-land-and-property-records",
       "slug": "ipr-rajasthan-land-and-property-records",
       "title": "IPR Rajasthan Land and Property Records",
@@ -30949,5 +30975,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:36:28.495Z"
+  "lastUpdated": "2026-10-26T00:36:32.069Z"
 }
