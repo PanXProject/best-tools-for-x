@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-rera-projects-jharkhand",
+      "slug": "ipr-rera-projects-jharkhand",
+      "title": "IPR RERA Projects Jharkhand",
+      "description": "1,180 RERA registered projects in Jharkhand with promoter, location an",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "real-estate",
+        "property",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:46:29.270Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/rera/jharkhand"
+    },
+    {
       "id": "ipr-rera-projects-himachal-pradesh",
       "slug": "ipr-rera-projects-himachal-pradesh",
       "title": "IPR RERA Projects Himachal Pradesh",
@@ -33029,5 +33055,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:46:27.074Z"
+  "lastUpdated": "2026-10-26T00:46:30.726Z"
 }
