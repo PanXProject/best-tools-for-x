@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiarestros-bengali-restaurants-in-india",
+      "slug": "indiarestros-bengali-restaurants-in-india",
+      "title": "IndiaRestros Bengali Restaurants in India",
+      "description": "8,813 Bengali restaurants across India with phones, timings, menus and",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "restaurants",
+        "india",
+        "directory"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:49:22.028Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/cuisine/bengali"
+    },
+    {
       "id": "ipr-rera-projects-west-bengal",
       "slug": "ipr-rera-projects-west-bengal",
       "title": "IPR RERA Projects West Bengal",
@@ -33237,5 +33263,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:46:58.106Z"
+  "lastUpdated": "2026-10-26T00:49:23.670Z"
 }
