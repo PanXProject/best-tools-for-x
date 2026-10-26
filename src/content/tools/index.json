@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-meghalaya-land-and-property-records",
+      "slug": "ipr-meghalaya-land-and-property-records",
+      "title": "IPR Meghalaya Land and Property Records",
+      "description": "Meghalaya: 12 districts and 6,821 villages. How to check land records,",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "land-records",
+        "property",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:36:37.562Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/state/meghalaya"
+    },
+    {
       "id": "ipr-mizoram-land-and-property-records",
       "slug": "ipr-mizoram-land-and-property-records",
       "title": "IPR Mizoram Land and Property Records",
@@ -31001,5 +31027,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:36:35.498Z"
+  "lastUpdated": "2026-10-26T00:36:38.813Z"
 }
