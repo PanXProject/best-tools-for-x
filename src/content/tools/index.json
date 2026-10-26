@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiarestros-quick-bites-in-india",
+      "slug": "indiarestros-quick-bites-in-india",
+      "title": "IndiaRestros Quick Bites in India",
+      "description": "2,06,769 quick bites across India with phones, timings, menus and phot",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "restaurants",
+        "india",
+        "directory"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:50:43.470Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/kind/fast-food"
+    },
+    {
       "id": "indiarestros-bars-pubs-in-india",
       "slug": "indiarestros-bars-pubs-in-india",
       "title": "IndiaRestros Bars & Pubs in India",
@@ -33783,5 +33809,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:50:41.310Z"
+  "lastUpdated": "2026-10-26T00:50:45.117Z"
 }
