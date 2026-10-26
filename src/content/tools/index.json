@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "ipr-jammu-kashmir-land-and-property-records",
+      "slug": "ipr-jammu-kashmir-land-and-property-records",
+      "title": "IPR Jammu & Kashmir Land and Property Records",
+      "description": "Jammu & Kashmir: 20 districts and 6,419 villages. How to check land re",
+      "author": "Sunny Mittal (India Property Register)",
+      "username": "indiapropertyregister",
+      "user_id": "0d81330d-5a18-4194-bc00-285ef34200c8",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "land-records",
+        "property",
+        "india"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:36:02.407Z",
+      "heroImage": "",
+      "toolUrl": "https://indiapropertyregister.com/state/jammu-kashmir"
+    },
+    {
       "id": "ipr-assam-land-and-property-records",
       "slug": "ipr-assam-land-and-property-records",
       "title": "IPR Assam Land and Property Records",
@@ -30741,5 +30767,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:36:00.276Z"
+  "lastUpdated": "2026-10-26T00:36:03.908Z"
 }
