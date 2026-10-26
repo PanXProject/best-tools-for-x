@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiarestros-japanese-restaurants-in-india",
+      "slug": "indiarestros-japanese-restaurants-in-india",
+      "title": "IndiaRestros Japanese Restaurants in India",
+      "description": "3,407 Japanese restaurants across India with phones, timings, menus an",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "restaurants",
+        "india",
+        "directory"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:50:32.291Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/cuisine/japanese"
+    },
+    {
       "id": "indiarestros-korean-restaurants-in-india",
       "slug": "indiarestros-korean-restaurants-in-india",
       "title": "IndiaRestros Korean Restaurants in India",
@@ -33705,5 +33731,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:50:29.908Z"
+  "lastUpdated": "2026-10-26T00:50:33.717Z"
 }
