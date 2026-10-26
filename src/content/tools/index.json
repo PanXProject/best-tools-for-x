@@ -1,6 +1,32 @@
 {
   "tools": [
     {
+      "id": "indiarestros-restaurants-in-mysuru",
+      "slug": "indiarestros-restaurants-in-mysuru",
+      "title": "IndiaRestros Restaurants in Mysuru",
+      "description": "5,450 Mysuru restaurants with phone numbers, timings, menus and cuisin",
+      "author": "Sunny Mittal (IndiaRestros)",
+      "username": "indiarestros",
+      "user_id": "9e17afe2-01db-4bc5-8f13-b88e28745d12",
+      "categories": [
+        "Understand & Improve"
+      ],
+      "tags": [
+        "restaurants",
+        "india",
+        "directory"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-10-26T00:37:55.853Z",
+      "heroImage": "",
+      "toolUrl": "https://indiarestros.com/in/mysuru"
+    },
+    {
       "id": "indiarestros-restaurants-in-coimbatore",
       "slug": "indiarestros-restaurants-in-coimbatore",
       "title": "IndiaRestros Restaurants in Coimbatore",
@@ -31599,5 +31625,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-26T00:37:53.898Z"
+  "lastUpdated": "2026-10-26T00:37:57.328Z"
 }
