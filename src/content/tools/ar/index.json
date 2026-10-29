@@ -1,6 +1,37 @@
 {
   "tools": [
     {
+      "id": "egytag-web-api-client",
+      "slug": "egytag-web-api-client",
+      "title": "Egytag Web API Client",
+      "title_en": "Egytag Web API Client",
+      "description": "اختبر واجهات API وأرسل طلبات HTTP وحلل الاستجابات بسهولة",
+      "author": "Amr Barakat",
+      "username": "absunstar",
+      "user_id": "fc5fbfbc-6aec-4a32-826e-4b85bde1484f",
+      "categories": [
+        "إنشاء و تطوير",
+        "الفهم والتحسين",
+        "الأمان والنشر"
+      ],
+      "tags": [
+        "api-testing",
+        "http-client",
+        "rest-api",
+        "developer-tools",
+        "json"
+      ],
+      "pricing": {
+        "model": "مجاني"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2026-10-29T23:10:38.592Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1793315426/d5q0zieuw9vasdtsvn8b.png",
+      "toolUrl": "https://api-client.egytag.com/ar"
+    },
+    {
       "id": "popnow",
       "slug": "popnow",
       "title": "PopNow",
@@ -5881,5 +5912,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-29T11:25:11.831Z"
+  "lastUpdated": "2026-10-29T23:10:40.077Z"
 }
