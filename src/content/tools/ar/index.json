@@ -1,6 +1,35 @@
 {
   "tools": [
     {
+      "id": "popnow",
+      "slug": "popnow",
+      "title": "PopNow",
+      "title_en": "PopNow",
+      "description": "إنشاء الفيديو والصور والموسيقى والتعليق الصوتي عبر المتصفح",
+      "author": "PopNow Team",
+      "username": "popnow",
+      "user_id": "1c328e75-56cd-4fb9-90c1-8091e393c6c9",
+      "categories": [
+        "إنشاء و تطوير"
+      ],
+      "tags": [
+        "ذكاء-اصطناعي",
+        "فيديو",
+        "صور",
+        "موسيقى",
+        "ويب"
+      ],
+      "pricing": {
+        "model": "الدفع حسب الاستخدام"
+      },
+      "softwareTypes": [
+        "تطبيق ويب"
+      ],
+      "publishDate": "2026-10-29T11:25:09.835Z",
+      "heroImage": "",
+      "toolUrl": "https://popnow.ai/"
+    },
+    {
       "id": "bun-x-ray",
       "slug": "bun-x-ray",
       "title": "ثاقِب",
@@ -5852,5 +5881,5 @@
       "toolUrl": "https://moodle.org"
     }
   ],
-  "lastUpdated": "2026-10-17T14:08:34.345Z"
+  "lastUpdated": "2026-10-29T11:25:11.831Z"
 }
