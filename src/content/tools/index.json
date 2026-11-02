@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-11-02T17:20:39.381Z",
+  "lastUpdated": "2026-11-02T17:50:28.832Z",
   "tools": [
+    {
+      "id": "paulvibe",
+      "slug": "paulvibe",
+      "title": "PaulVibe",
+      "description": "Free playbooks and tools to sell what you built",
+      "author": "Paul",
+      "username": "paulvibe",
+      "user_id": "4e1f4ca7-6e7e-4e04-bbb1-9ddf3b99c6fd",
+      "categories": [
+        "Get & Keep Customers"
+      ],
+      "tags": [
+        "marketing",
+        "email-marketing",
+        "growth",
+        "social-media"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-11-02T17:50:26.307Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1793641812/knrcl6i03tmr7ktim22s.png",
+      "toolUrl": "https://paulvibe.com/"
+    },
     {
       "id": "kreat3d",
       "slug": "kreat3d",
