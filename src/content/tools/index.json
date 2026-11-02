@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-11-02T18:45:45.116Z",
+  "lastUpdated": "2026-11-02T18:56:47.008Z",
   "tools": [
+    {
+      "id": "ramalamaai",
+      "slug": "ramalamaai",
+      "title": "RamalamaAi",
+      "description": "Turn one photo into a cinematic Halloween costume walk.",
+      "author": "edmund",
+      "username": "edmundrfg",
+      "user_id": "e6b4e3fd-4f18-442d-939c-94fa18079e25",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai-video-generator",
+        "halloween",
+        "image-to-video",
+        "pet-video"
+      ],
+      "pricing": {
+        "model": "pay-per-use"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-11-02T18:56:45.419Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1793645791/vbln9lmfivmo4bj9lar4.png",
+      "toolUrl": "https://ramalamaai.app/"
+    },
     {
       "id": "8-8ma-sharing",
       "slug": "8-8ma-sharing",
