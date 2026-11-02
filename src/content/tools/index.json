@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-11-02T17:50:28.832Z",
+  "lastUpdated": "2026-11-02T18:45:45.116Z",
   "tools": [
+    {
+      "id": "8-8ma-sharing",
+      "slug": "8-8ma-sharing",
+      "title": "8码分享 (8ma Sharing)",
+      "description": "Purchase links for sharing digital resources in Chinese",
+      "author": "高维实验室",
+      "username": "gaowei-lab-8ma",
+      "user_id": "bac35b1f-8327-4236-83d5-05eee1e1e273",
+      "categories": [
+        "Create & Build",
+        "Run Business"
+      ],
+      "tags": [
+        "digital-products",
+        "creator-tools"
+      ],
+      "pricing": {
+        "model": "custom-pricing"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-11-02T18:45:42.912Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1793645141/lrcx74r2n7yrsvzwf8lk.png",
+      "toolUrl": "https://8ma.co/"
+    },
     {
       "id": "paulvibe",
       "slug": "paulvibe",
