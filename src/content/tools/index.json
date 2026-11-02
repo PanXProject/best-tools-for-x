@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-11-02T16:10:25.419Z",
+  "lastUpdated": "2026-11-02T16:43:33.114Z",
   "tools": [
+    {
+      "id": "shiplog",
+      "slug": "shiplog",
+      "title": "ShipLog",
+      "description": "Changelogs and release notes for your product",
+      "author": "Allan MacGregor",
+      "username": "shiplog",
+      "user_id": "f8bcd4ee-a47d-424d-9777-d627777bde26",
+      "categories": [
+        "Create & Build",
+        "Run Business"
+      ],
+      "tags": [
+        "changelog",
+        "release-notes",
+        "saas"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-11-02T16:43:31.396Z",
+      "heroImage": "",
+      "toolUrl": "https://shiplog.ca/"
+    },
     {
       "id": "seed-audio-1-5",
       "slug": "seed-audio-1-5",
