@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-11-02T16:59:29.725Z",
+  "lastUpdated": "2026-11-02T17:20:03.624Z",
   "tools": [
+    {
+      "id": "purehumanize-ai",
+      "slug": "purehumanize-ai",
+      "title": "PureHumanize.ai",
+      "description": "ChatGPT Text Rewriter: consistent brand voice across content",
+      "author": "PureHumanize AI",
+      "username": "purehumanize",
+      "user_id": "1e63520a-f7ec-4aa0-98d5-5cf22c5aa414",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai-humanizer",
+        "copywriting",
+        "content-editing",
+        "ai-writing"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-11-02T17:20:01.871Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1793639988/l1wgta6s3qie4c10cfha.jpg",
+      "toolUrl": "https://purehumanize.ai/"
+    },
     {
       "id": "easy-bracket-maker",
       "slug": "easy-bracket-maker",
