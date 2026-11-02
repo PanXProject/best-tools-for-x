@@ -1,6 +1,31 @@
 {
-  "lastUpdated": "2026-11-02T17:20:03.624Z",
+  "lastUpdated": "2026-11-02T17:20:39.381Z",
   "tools": [
+    {
+      "id": "kreat3d",
+      "slug": "kreat3d",
+      "title": "Kreat3D",
+      "description": "Image to 3D Model Generator: From Picture to Printable Asset",
+      "author": "skills",
+      "username": "agent",
+      "user_id": "c5a08a49-4928-491e-8f8a-f3f8767d90d8",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "image-to-3d",
+        "ai-3d-model-generator"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-11-02T17:20:36.858Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1793638150/c8a8jvyxgklwv0actbjc.webp",
+      "toolUrl": "https://kreat3d.io/image-to-3d"
+    },
     {
       "id": "purehumanize-ai",
       "slug": "purehumanize-ai",
