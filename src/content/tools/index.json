@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-11-02T16:04:02.454Z",
+  "lastUpdated": "2026-11-02T16:10:25.419Z",
   "tools": [
+    {
+      "id": "seed-audio-1-5",
+      "slug": "seed-audio-1-5",
+      "title": "Seed Audio 1.5",
+      "description": "Seed Audio 1.5 Builds Complete Scenes in One Generation, Ready to Edit",
+      "author": "skills",
+      "username": "agent",
+      "user_id": "c5a08a49-4928-491e-8f8a-f3f8767d90d8",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "ai-audio-generator"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-11-02T16:10:23.846Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1793634335/u1demxzad2uk1htxmukp.jpg",
+      "toolUrl": "https://topmaker.ai/models/seed-audio-1-5"
+    },
     {
       "id": "chainjobs",
       "slug": "chainjobs",
