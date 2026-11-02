@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-11-02T16:43:33.114Z",
+  "lastUpdated": "2026-11-02T16:59:29.725Z",
   "tools": [
+    {
+      "id": "easy-bracket-maker",
+      "slug": "easy-bracket-maker",
+      "title": "Easy Bracket Maker",
+      "description": "Free tournament bracket maker: no account, no watermark",
+      "author": "Easy Bracket Maker",
+      "username": "easybracketmaker",
+      "user_id": "9c3f5a29-c360-4f09-9f96-1f39bec6dca7",
+      "categories": [
+        "Create & Build"
+      ],
+      "tags": [
+        "tournament",
+        "bracket",
+        "sports"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-11-02T16:59:28.125Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1793638708/b2h1wtb2v3qynzvqqd0a.png",
+      "toolUrl": "https://easybracketmaker.com/"
+    },
     {
       "id": "shiplog",
       "slug": "shiplog",
