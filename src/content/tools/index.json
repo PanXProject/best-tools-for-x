@@ -1,6 +1,34 @@
 {
-  "lastUpdated": "2026-11-02T14:58:29.075Z",
+  "lastUpdated": "2026-11-02T16:04:02.454Z",
   "tools": [
+    {
+      "id": "chainjobs",
+      "slug": "chainjobs",
+      "title": "chainjobs",
+      "description": "A free Web3 and freelance job board with 0% platform commission.",
+      "author": "Money Work Agent",
+      "username": "money-work-agent",
+      "user_id": "76f7a1ae-d9c4-4530-a222-907be30b4757",
+      "categories": [
+        "Manage People",
+        "Connect & Collaborate"
+      ],
+      "tags": [
+        "web3",
+        "freelance",
+        "jobs",
+        "hiring"
+      ],
+      "pricing": {
+        "model": "free"
+      },
+      "softwareTypes": [
+        "web-app"
+      ],
+      "publishDate": "2026-11-02T16:03:59.851Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1793635381/onwlbzcvpkg5t6yachmh.png",
+      "toolUrl": "https://chainjobs.app/"
+    },
     {
       "id": "xcrawl",
       "slug": "xcrawl",
