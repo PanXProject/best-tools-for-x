@@ -1,6 +1,35 @@
 {
-  "lastUpdated": "2026-11-02T14:39:44.764Z",
+  "lastUpdated": "2026-11-02T14:58:29.075Z",
   "tools": [
+    {
+      "id": "xcrawl",
+      "slug": "xcrawl",
+      "title": "XCrawl",
+      "description": "Turn any web page into LLM-ready JSON or Markdown",
+      "author": "XCrawl",
+      "username": "xcrawl",
+      "user_id": "2a2be697-2cab-4439-a068-c3d4c9a239eb",
+      "categories": [
+        "Create & Build",
+        "Understand & Improve"
+      ],
+      "tags": [
+        "web-scraping",
+        "api",
+        "ai-agents",
+        "rag"
+      ],
+      "pricing": {
+        "model": "freemium"
+      },
+      "softwareTypes": [
+        "web-app",
+        "cli"
+      ],
+      "publishDate": "2026-11-02T14:58:27.188Z",
+      "heroImage": "https://res.cloudinary.com/dvbudttgw/image/upload/v1793631502/r4uy2hahfyjmt760vrdz.png",
+      "toolUrl": "https://www.xcrawl.ai/"
+    },
     {
       "id": "vendabo",
       "slug": "vendabo",
