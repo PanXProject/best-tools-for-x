@@ -94,13 +94,12 @@ jobs:
           console.log('Starting script with award type:', AWARD_TYPE);
           console.log('Environment check at start of script:');
           console.log('SUPABASE_URL:', process.env.SUPABASE_URL ? 'exists' : 'not set');
-          console.log('SUPABASE_ANON_KEY:', process.env.SUPABASE_ANON_KEY ? 'exists' : 'not set');
+          console.log('SUPABASE_SERVICE_ROLE_KEY:', process.env.SUPABASE_SERVICE_ROLE_KEY ? 'exists' : 'not set');
 
           const supabase = createClient(
             process.env.SUPABASE_URL,
-            process.env.SUPABASE_ANON_KEY, // Note: For profile lookups, ANON_KEY is usually sufficient.
-                                            // If you run into RLS issues for `profiles` table, consider
-                                            // using a service_role_key here, but be very cautious with its exposure.
+            process.env.SUPABASE_SERVICE_ROLE_KEY, // Private key, kept in this repo's "Supabase" environment secrets.
+                                                    // The awards table accepts writes from this key only (row security).
             {
               auth: {
                 persistSession: false,
@@ -469,13 +468,13 @@ jobs:
       - name: Run awards script
         run: |
           export SUPABASE_URL="${SUPABASE_URL}"
-          export SUPABASE_ANON_KEY="${SUPABASE_ANON_KEY}"
+          export SUPABASE_SERVICE_ROLE_KEY="${SUPABASE_SERVICE_ROLE_KEY}"
           export AWARD_TYPE="${{ steps.award.outputs.type }}"
-          # Run with Node.js in debug mode
-          NODE_DEBUG=* node --trace-warnings .github/scripts/updateAwards.mjs 2>&1 | tee awards.log
+          # No NODE_DEBUG here: it prints request details, and the job now uses a private key.
+          node --trace-warnings .github/scripts/updateAwards.mjs 2>&1 | tee awards.log
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
-          SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
 
       - name: Show script output
         if: always()
